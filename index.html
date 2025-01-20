@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fast Timetable</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-brand">FAST Timetable</div>
+    </nav>
+
+    <div class="container">
+        <h1 style="font-size: 1.6em;font-weight: bold;">Class Schedule</h1>
+
+        <div class="form-grid">
+            <div class="form-group">
+                <label for="department">Department</label>
+                <select id="department">
+                    <option>Select Department</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="batchYear">Batch Year</label>
+                <select id="batchYear">
+                    <option>Select Batch Year</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="day">Day</label>
+                <select id="day">
+                    <option>Select Day</option>
+                    <option value="Monday">Monday</option>
+                    <option value="Tuesday">Tuesday</option>
+                    <option value="Wednesday">Wednesday</option>
+                    <option value="Thursday">Thursday</option>
+                    <option value="Friday">Friday</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="section">Section</label>
+                <select id="section">
+                    <option>Select Section</option>
+                </select>
+            </div>
+        </div>
+
+        <button id="getTimetableBtn">Get Timetable</button>
+
+        <div id="timetableDisplay"></div>
+    </div>
+    <footer class="footer">
+        <p>Made by Abdul Moiz (CY-B)</p>
+        <p>i242006@isb.nu.edu.pk</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
