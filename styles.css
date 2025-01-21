@@ -50,7 +50,6 @@ body {
     font-weight: 500;
 }
 
-
 h1 {
     color: #000;
     margin-bottom: 2rem;
@@ -146,22 +145,6 @@ button:hover {
     background-color: #f8f8f8;
 }
 
-
-/* .footer {
-    background-color: #000;
-    padding: 1rem 0;
-    text-align: center;
-    color: #ffffff;
-    width: 100%;
-    position: relative;
-    bottom: 0;
-    margin-top: auto;
-}
-
- */
-
-
-
 @media (max-width: 768px) {
     .container {
         padding: 0 1rem;
@@ -187,19 +170,19 @@ button:hover {
         padding: 0.75rem;
     }
 
-    /* Enable horizontal scrolling for the table container */
+    
     #timetableDisplay {
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
     }
 
-    /* Make sure the table takes full width */
+    
     .timetable-table {
         margin: 0;
         width: 100%;
     }
 
-    /* Ensure consistent column widths */
+    
     .timetable-table th:nth-child(1),
     .timetable-table td:nth-child(1) {
         width: 40%;
