@@ -14,8 +14,8 @@
 ## Contact Me
 Feel free to reach out if you have any questions or suggestions:
 
-📧 **Email**: [i242006@isb.nu.edu.pk](mailto:i242006@isb.nu.edu.pk)
-🌐 **Discord**: @speedness
+📧 **Email**: [i242006@isb.nu.edu.pk](mailto:i242006@isb.nu.edu.pk)  
+💬 **Discord**: @speedness
 
 ## Created By
 **Abdul Moiz** (Cyber 24 Batch)
