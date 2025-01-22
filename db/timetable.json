@@ -83,9 +83,19 @@
             "2021": {
                 "A": [
                     {
+                        "name": "App ML",
+                        "location": "C-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Web Prog",
                         "location": "C-408",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "SPM",
+                        "location": "B-229",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Cloud Comp",
@@ -115,11 +125,6 @@
                     {
                         "name": "Fund of Data Visual",
                         "location": "A-314",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "SPM",
-                        "location": "C-110",
                         "time": "11:30-12:50"
                     },
                     {
@@ -234,11 +239,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "SMD",
-                        "location": "B-229",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "DevOps",
                         "location": "B-230",
                         "time": "10:00-11:20"
@@ -246,6 +246,11 @@
                     {
                         "name": "HPC with GPU",
                         "location": "A-108",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "C-110",
                         "time": "11:30-12:50"
                     },
                     {
@@ -1037,7 +1042,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Fund of S/w Engg",
+                        "name": "COAL",
                         "location": "C-408",
                         "time": "10:00-11:20"
                     },
@@ -1085,6 +1090,40 @@
         "BS CY": {
             "2021": {},
             "2022": {
+                "D": [
+                    {
+                        "name": "AI",
+                        "location": "C-308",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "C-308",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "VA&RE",
+                        "location": "A-302",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Info Sec",
+                        "location": "C-308",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "VA&RE",
+                        "location": "A-305",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "A-315",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Digital Mktg",
@@ -1100,40 +1139,6 @@
                         "name": "AI Lab",
                         "location": "C-Margala 3",
                         "time": "02:25-05:10"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "VA&RE",
-                        "location": "A-302",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "A-310",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "A-310",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "VA&RE",
-                        "location": "A-305",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "A-310",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "A-315",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "A": [
@@ -1258,11 +1263,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "App ML",
-                        "location": "C-408",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "Fund of Comp Vision",
                         "location": "A-315",
                         "time": "08:30-09:50"
@@ -1281,6 +1281,11 @@
                         "name": "Gen AI",
                         "location": "C-110",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Game Design",
+                        "location": "A-Mehran 1",
+                        "time": "11:25-02:10"
                     }
                 ],
                 "C": [
@@ -1592,38 +1597,16 @@
                 ]
             },
             "2024": {
-                "A": [
-                    {
-                        "name": "Ideology of Pak",
-                        "location": "C-301",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "C-301",
-                        "time": "10:20-11:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab",
-                        "location": "A-Mehran 2",
-                        "time": "11:25-02:10"
-                    },
-                    {
-                        "name": "Exp Writing Lab",
-                        "location": "A-CALL-1",
-                        "time": "11:25-02:10"
-                    }
-                ],
                 "D": [
-                    {
-                        "name": "Seerah",
-                        "location": "C-301",
-                        "time": "01:00-01:55"
-                    },
                     {
                         "name": "Psychology",
                         "location": "C-301",
                         "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "C-309",
+                        "time": "01:00-01:55"
                     },
                     {
                         "name": "DLD Lab",
@@ -1697,6 +1680,28 @@
                         "name": "MV Cal",
                         "location": "C-304",
                         "time": "01:00-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-309",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "C-309",
+                        "time": "10:20-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab",
+                        "location": "A-Mehran 2",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab",
+                        "location": "A-CALL-1",
+                        "time": "11:25-02:10"
                     }
                 ],
                 "C": [
@@ -1918,7 +1923,7 @@
                 "C": [
                     {
                         "name": "UHQ",
-                        "location": "C-301",
+                        "location": "C-309",
                         "time": "11:30-12:25"
                     },
                     {
@@ -2025,11 +2030,6 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "App Evol Comp",
-                        "location": "A-301",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "DIP",
                         "location": "A-302",
                         "time": "11:30-12:50"
@@ -2081,17 +2081,17 @@
                 "B": [
                     {
                         "name": "COAL",
-                        "location": "C-309",
+                        "location": "C-301",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "DB",
-                        "location": "C-309",
+                        "location": "C-301",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "AI",
-                        "location": "C-309",
+                        "location": "C-301",
                         "time": "11:30-12:50"
                     }
                 ],
@@ -2198,7 +2198,7 @@
                 "A": [
                     {
                         "name": "AI",
-                        "location": "C-309",
+                        "location": "C-301",
                         "time": "01:00-02:20"
                     },
                     {
@@ -2286,7 +2286,7 @@
                 ],
                 "C": [
                     {
-                        "name": "COAL",
+                        "name": "Fund of S/w Engg",
                         "location": "A-302",
                         "time": "08:30-09:50"
                     },
@@ -2298,23 +2298,6 @@
                 ]
             },
             "2024": {
-                "A": [
-                    {
-                        "name": "OOP",
-                        "location": "C-308",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MV Cal",
-                        "location": "C-308",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "C-308",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "B": [
                     {
                         "name": "DLD",
@@ -2328,8 +2311,25 @@
                     },
                     {
                         "name": "OOP",
-                        "location": "C-410",
+                        "location": "A-310",
                         "time": "08:30-09:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "OOP",
+                        "location": "A-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "A-310",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "A-310",
+                        "time": "01:00-02:20"
                     }
                 ]
             }
@@ -2518,6 +2518,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "App ML",
+                        "location": "A-311",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Fund of Data Visual",
                         "location": "A-311",
                         "time": "11:30-12:50"
@@ -2551,7 +2556,7 @@
                     },
                     {
                         "name": "Digital Mktg",
-                        "location": "A-315",
+                        "location": "A-316",
                         "time": "11:30-12:50"
                     },
                     {
@@ -2574,6 +2579,38 @@
                 ]
             },
             "2022": {
+                "A": [
+                    {
+                        "name": "PDC",
+                        "location": "C-309",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DevOps",
+                        "location": "C-409",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "HPC with GPU",
+                        "location": "C-410",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "B-230",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "C-110",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Web Prog",
+                        "location": "C-Rawal 1",
+                        "time": "N/A"
+                    }
+                ],
                 "F": [
                     {
                         "name": "Compiler Const",
@@ -2623,38 +2660,6 @@
                         "name": "Web Prog",
                         "location": "C-Rawal 1",
                         "time": "11:25-02:10"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "SMD",
-                        "location": "C-408",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DevOps",
-                        "location": "C-409",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "HPC with GPU",
-                        "location": "C-410",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "B-230",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "S/w Engg",
-                        "location": "B-230",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Web Prog",
-                        "location": "C-Rawal 1",
-                        "time": "N/A"
                     }
                 ],
                 "H": [
@@ -3128,6 +3133,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "App Evol Comp",
+                        "location": "A-315",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Comp Net Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "02:25-05:10"
@@ -3147,23 +3157,6 @@
                 ]
             },
             "2023": {
-                "A": [
-                    {
-                        "name": "COAL",
-                        "location": "C-402",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Civics",
-                        "location": "A-211",
-                        "time": "12:00-01:45"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:15"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Fund of S/w Engg",
@@ -3179,6 +3172,23 @@
                         "name": "AI Lab",
                         "location": "C-Rawal 1",
                         "time": "02:25-05:10"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Civics",
+                        "location": "A-211",
+                        "time": "12:00-01:45"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "A-303",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
                     }
                 ]
             },
@@ -3331,7 +3341,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Fund of S/w Engg",
+                        "name": "COAL",
                         "location": "C-310",
                         "time": "10:00-11:20"
                     },
@@ -3348,11 +3358,6 @@
                 ],
                 "A": [
                     {
-                        "name": "Fund of S/w Engg",
-                        "location": "C-311",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "COAL",
                         "location": "C-403",
                         "time": "08:30-09:50"
@@ -3361,6 +3366,11 @@
                         "name": "DB",
                         "location": "C-403",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Fund of S/w Engg",
+                        "location": "C-404",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -3424,7 +3434,7 @@
                     },
                     {
                         "name": "Ethical Hacking",
-                        "location": "C-309",
+                        "location": "A-302",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3474,9 +3484,9 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Digital Mktg",
-                        "location": "A-310",
-                        "time": "03:55-05:15"
+                        "name": "AI",
+                        "location": "A-314",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "AI Lab",
@@ -3575,11 +3585,6 @@
                         "name": "MLOPs",
                         "location": "C-402",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "App ML",
-                        "location": "A-314",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Fund of Comp Vision",
@@ -3974,22 +3979,10 @@
                         "time": "01:00-02:20"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "A-302",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "C-Margala 1",
-                        "time": "11:25-02:10"
-                    }
-                ],
                 "C": [
                     {
                         "name": "Exp Writing",
-                        "location": "A-302",
+                        "location": "C-309",
                         "time": "11:30-01:15"
                     },
                     {
@@ -4001,6 +3994,18 @@
                         "name": "Exp Writing Lab",
                         "location": "A-CALL-1",
                         "time": "02:25-05:10"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "A-302",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "11:25-02:10"
                     }
                 ],
                 "A": [
@@ -4256,7 +4261,7 @@
                     },
                     {
                         "name": "UHQ",
-                        "location": "A-302",
+                        "location": "C-309",
                         "time": "01:20-02:15"
                     },
                     {
@@ -4321,11 +4326,6 @@
             "2022": {
                 "A": [
                     {
-                        "name": "App Evol Comp",
-                        "location": "C-309",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "PDC",
                         "location": "B-227",
                         "time": "02:30-03:50"
@@ -4338,6 +4338,11 @@
                     {
                         "name": "DIP",
                         "location": "A-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "App Evol Comp",
+                        "location": "A-302",
                         "time": "11:30-12:50"
                     }
                 ],
@@ -4664,7 +4669,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI",
+                        "name": "Digital Mktg",
                         "location": "C-407",
                         "time": "11:30-12:50"
                     }
@@ -4984,34 +4989,34 @@
                 "F": [
                     {
                         "name": "Applied AI",
-                        "location": "A-301",
+                        "location": "C-308",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Formal Meth in SE",
-                        "location": "A-301",
+                        "location": "C-308",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "S/w Const",
-                        "location": "A-301",
+                        "location": "C-308",
                         "time": "11:30-12:50"
                     }
                 ],
                 "G": [
                     {
                         "name": "S/w Const",
-                        "location": "A-302",
+                        "location": "C-309",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Applied AI",
-                        "location": "A-302",
+                        "location": "C-309",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "Formal Meth in SE",
-                        "location": "A-302",
+                        "location": "C-309",
                         "time": "11:30-12:50"
                     }
                 ]
@@ -5096,6 +5101,11 @@
                 ],
                 "A": [
                     {
+                        "name": "COAL",
+                        "location": "C-410",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "DB Lab",
                         "location": "C-Margala 4",
                         "time": "08:30-11:15"
@@ -5167,37 +5177,37 @@
             "2023": {
                 "C": [
                     {
-                        "name": "COAL",
-                        "location": "C-409",
-                        "time": "08:30-09:50"
+                        "name": "Fund of S/w Engg",
+                        "location": "B-227",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "DB Lab",
                         "location": "C-Rawal 4",
-                        "time": "N/A"
+                        "time": "08:30-11:15"
                     }
                 ],
                 "A": [
                     {
                         "name": "Civics",
-                        "location": "A-303",
+                        "location": "A-301",
                         "time": "08:30-10:15"
                     },
                     {
                         "name": "Psychology",
-                        "location": "A-303",
+                        "location": "A-301",
                         "time": "10:30-12:15"
                     }
                 ],
                 "B": [
                     {
                         "name": "Psychology",
-                        "location": "A-305",
+                        "location": "A-302",
                         "time": "08:30-10:15"
                     },
                     {
                         "name": "Civics",
-                        "location": "A-305",
+                        "location": "A-302",
                         "time": "10:30-12:15"
                     }
                 ]
@@ -5206,34 +5216,34 @@
                 "A": [
                     {
                         "name": "OOP",
-                        "location": "C-308",
+                        "location": "A-303",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "MV Cal",
-                        "location": "C-308",
+                        "location": "A-303",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "DLD",
-                        "location": "C-308",
+                        "location": "A-303",
                         "time": "11:30-12:50"
                     }
                 ],
                 "B": [
                     {
                         "name": "DLD",
-                        "location": "C-309",
+                        "location": "A-305",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "OOP",
-                        "location": "C-309",
+                        "location": "A-305",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "MV Cal",
-                        "location": "C-309",
+                        "location": "A-305",
                         "time": "11:30-12:50"
                     }
                 ]
