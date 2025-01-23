@@ -3484,6 +3484,11 @@
                         "time": "02:30-03:50"
                     },
                     {
+                        "name": "Digital Mktg",
+                        "location": "A-310",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "AI",
                         "location": "A-314",
                         "time": "10:00-11:20"
@@ -5027,6 +5032,23 @@
         "BS AI": {
             "2021": {},
             "2022": {
+                "D": [
+                    {
+                        "name": "PDC",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Art. Neural Net",
+                        "location": "B-230",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "A-Karakoram 1",
+                        "time": "N/A"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Fund of NLP",
@@ -5067,23 +5089,6 @@
                         "location": "B-229",
                         "time": "10:00-11:20"
                     }
-                ],
-                "D": [
-                    {
-                        "name": "Art. Neural Net",
-                        "location": "B-230",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "B-230",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Net Lab",
-                        "location": "A-Karakoram 1",
-                        "time": "N/A"
-                    }
                 ]
             },
             "2023": {
@@ -5102,7 +5107,7 @@
                 "A": [
                     {
                         "name": "COAL",
-                        "location": "C-410",
+                        "location": "A-310",
                         "time": "11:30-12:50"
                     },
                     {
