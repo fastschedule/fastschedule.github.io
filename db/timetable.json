@@ -394,14 +394,14 @@
                 ],
                 "E": [
                     {
-                        "name": "Prob & Stats",
-                        "location": "C-403",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "FOM",
                         "location": "C-403",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-410",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "DB Lab",
@@ -1126,14 +1126,14 @@
                 ],
                 "B": [
                     {
-                        "name": "Digital Mktg",
-                        "location": "C-407",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "Ethical Hacking",
                         "location": "C-407",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-303",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "AI Lab",
@@ -1160,6 +1160,23 @@
                 ]
             },
             "2023": {
+                "A": [
+                    {
+                        "name": "Comp Net",
+                        "location": "C-407",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-407",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-408",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Prob & Stats",
@@ -1175,23 +1192,6 @@
                         "name": "Comp Net",
                         "location": "C-408",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "TBW",
-                        "location": "C-408",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "A-303",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "A-303",
-                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -1258,14 +1258,14 @@
                 ],
                 "A": [
                     {
+                        "name": "Fund of Comp Vision",
+                        "location": "C-311",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "MLOPs",
                         "location": "C-402",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fund of Comp Vision",
-                        "location": "A-315",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Dist Data Engg",
@@ -1727,21 +1727,21 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "PPIT",
-                        "location": "C-403",
+                        "name": "Digital Mktg",
+                        "location": "C-402",
                         "time": "03:55-05:15"
                     }
                 ],
                 "Q": [
                     {
                         "name": "Digital Mktg",
-                        "location": "C-402",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Digital Mktg",
                         "location": "C-403",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "C-403",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
@@ -3434,7 +3434,7 @@
                     },
                     {
                         "name": "Ethical Hacking",
-                        "location": "A-302",
+                        "location": "C-310",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3582,14 +3582,14 @@
             "2021": {
                 "A": [
                     {
+                        "name": "Fund of Comp Vision [Cancelled]",
+                        "location": "C-309",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "MLOPs",
                         "location": "C-402",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fund of Comp Vision",
-                        "location": "A-315",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Dist Data Engg",
@@ -4048,21 +4048,21 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "PPIT",
-                        "location": "C-402",
+                        "name": "Digital Mktg",
+                        "location": "C-401",
                         "time": "03:55-05:15"
                     }
                 ],
                 "Q": [
                     {
                         "name": "Digital Mktg",
-                        "location": "C-401",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Digital Mktg",
                         "location": "C-402",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "C-402",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
@@ -4283,7 +4283,7 @@
                     },
                     {
                         "name": "Discrete",
-                        "location": "C-310",
+                        "location": "A-302",
                         "time": "01:00-02:20"
                     }
                 ]
@@ -4870,14 +4870,14 @@
                 ],
                 "G": [
                     {
+                        "name": "Prob & Stats",
+                        "location": "C-405",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "FOM",
                         "location": "C-405",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-405",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "DB Lab",
@@ -5090,7 +5090,7 @@
                 "B": [
                     {
                         "name": "Fund of S/w Engg",
-                        "location": "C-405",
+                        "location": "C-408",
                         "time": "08:30-09:50"
                     },
                     {
