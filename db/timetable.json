@@ -729,7 +729,59 @@
                     }
                 ]
             },
-            "2024": {}
+            "2024": {
+                "A": [
+                    {
+                        "name": "OOP",
+                        "location": "C-308",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-308",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-308",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "OOP",
+                        "location": "C-309",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-309",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-309",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Islamic",
+                        "location": "C-309",
+                        "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "C-309",
+                        "time": "03:00-04:45"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:15"
+                    }
+                ]
+            }
         },
         "BS AI": {
             "2021": {
@@ -2958,7 +3010,59 @@
                     }
                 ]
             },
-            "2024": {}
+            "2024": {
+                "B": [
+                    {
+                        "name": "OOP",
+                        "location": "C-311",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "OOP",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-401",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "B-229",
+                        "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab C1",
+                        "location": "A-Mehran 2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab C2",
+                        "location": "A-CALL-1",
+                        "time": "08:30-11:15"
+                    }
+                ]
+            }
         },
         "BS AI": {
             "2021": {
