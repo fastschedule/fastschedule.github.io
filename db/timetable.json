@@ -181,11 +181,6 @@
                 ],
                 "G": [
                     {
-                        "name": "AI",
-                        "location": "C-401",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Compiler Const",
                         "location": "C-401",
                         "time": "03:55-05:15"
