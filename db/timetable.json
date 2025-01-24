@@ -181,6 +181,11 @@
                 ],
                 "G": [
                     {
+                        "name": "AI",
+                        "location": "C-401",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Compiler Const",
                         "location": "C-401",
                         "time": "03:55-05:15"
@@ -1276,11 +1281,6 @@
                         "name": "Gen AI",
                         "location": "C-110",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Game Design",
-                        "location": "A-Mehran 1",
-                        "time": "11:25-02:10"
                     }
                 ],
                 "C": [
