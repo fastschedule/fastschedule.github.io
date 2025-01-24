@@ -877,18 +877,6 @@
                 ]
             },
             "2024": {
-                "B": [
-                    {
-                        "name": "Civics",
-                        "location": "C-307",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "C-Margala 1",
-                        "time": "11:25-02:10"
-                    }
-                ],
                 "A": [
                     {
                         "name": "Exp Writing",
@@ -915,6 +903,13 @@
                     {
                         "name": "DLD Lab",
                         "location": "B-Digital",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
                         "time": "11:25-02:10"
                     }
                 ]
@@ -3549,7 +3544,7 @@
                         "time": "08:30-11:15"
                     },
                     {
-                        "name": "Exp Writing Lab B1 [Cancelled]",
+                        "name": "Exp Writing Lab B1",
                         "location": "A-CALL-2",
                         "time": "11:25-02:10"
                     },
@@ -3587,7 +3582,7 @@
             "2021": {
                 "A": [
                     {
-                        "name": "Fund of Comp Vision [Cancelled]",
+                        "name": "Fund of Comp Vision",
                         "location": "C-309",
                         "time": "03:55-05:15"
                     },
@@ -4689,7 +4684,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete",
                         "location": "C-310",
                         "time": "10:00-11:20"
                     },
@@ -4711,7 +4706,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete",
                         "location": "C-311",
                         "time": "11:30-12:50"
                     }
