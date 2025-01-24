@@ -1195,42 +1195,7 @@
                     }
                 ]
             },
-            "2024": {
-                "A": [
-                    {
-                        "name": "Islamic",
-                        "location": "C-311",
-                        "time": "12:30-02:15"
-                    },
-                    {
-                        "name": "Civics",
-                        "location": "A-311",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "UHQ",
-                        "location": "A-311",
-                        "time": "10:20-11:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "A-314",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "Islamic",
-                        "location": "A-314",
-                        "time": "10:20-12:05"
-                    },
-                    {
-                        "name": "UHQ",
-                        "location": "A-314",
-                        "time": "12:10-1:05"
-                    }
-                ]
-            }
+            "2024": {}
         },
         "BS CS": {
             "2021": {
@@ -2447,42 +2412,7 @@
                     }
                 ]
             },
-            "2024": {
-                "A": [
-                    {
-                        "name": "OOP",
-                        "location": "C-308",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "C-308",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "MV Cal",
-                        "location": "C-308",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Discrete",
-                        "location": "C-309",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MV Cal",
-                        "location": "C-309",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "OOP",
-                        "location": "C-309",
-                        "time": "01:00-02:20"
-                    }
-                ]
-            }
+            "2024": {}
         },
         "BS CS": {
             "2021": {
