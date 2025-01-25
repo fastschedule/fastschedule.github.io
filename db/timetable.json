@@ -2340,6 +2340,11 @@
                         "time": "02:30-03:50"
                     },
                     {
+                        "name": "Cyber Analytics",
+                        "location": "C-305",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "Entre",
                         "location": "A-118 (MEDC)",
                         "time": "10:00-11:20"
