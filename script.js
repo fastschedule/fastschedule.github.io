@@ -141,7 +141,7 @@ function saveSelection() {
 }
 
 function setDefaultDay() {
-    const currentDayIndex = new Date().getDay();
+    currentDayIndex = new Date().getDay();
     const dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
     if (currentDayIndex === 0 || currentDayIndex === 6) {
         currentDayIndex = 1;
