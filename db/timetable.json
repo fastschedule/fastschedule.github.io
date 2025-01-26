@@ -3188,18 +3188,6 @@
                 ]
             },
             "2024": {
-                "A": [
-                    {
-                        "name": "Civics",
-                        "location": "C-307",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "C-Margala 3",
-                        "time": "11:25-02:10"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Exp Writing",
@@ -3227,6 +3215,13 @@
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 3",
+                        "time": "11:25-02:10"
                     }
                 ]
             }
