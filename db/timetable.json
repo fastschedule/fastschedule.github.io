@@ -494,11 +494,6 @@
                         "name": "OOP",
                         "location": "C-302",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "C-305",
-                        "time": "2:30-03:25"
                     }
                 ],
                 "D": [
@@ -525,11 +520,6 @@
                         "time": "08:30-10:15"
                     },
                     {
-                        "name": "Seerah",
-                        "location": "C-304",
-                        "time": "10:20-11:15"
-                    },
-                    {
                         "name": "Exp Writing Lab E1",
                         "location": "A-CALL-2",
                         "time": "11:25-02:10"
@@ -541,11 +531,6 @@
                     }
                 ],
                 "G": [
-                    {
-                        "name": "Seerah",
-                        "location": "C-304",
-                        "time": "11:30-12:25"
-                    },
                     {
                         "name": "Ideology of Pak",
                         "location": "C-304",
@@ -563,11 +548,6 @@
                     }
                 ],
                 "F": [
-                    {
-                        "name": "Seerah",
-                        "location": "C-305",
-                        "time": "08:30-09:25"
-                    },
                     {
                         "name": "Ideology of Pak",
                         "location": "C-305",
@@ -1599,22 +1579,12 @@
                         "time": "02:30-04:15"
                     },
                     {
-                        "name": "Seerah",
-                        "location": "C-309",
-                        "time": "01:00-01:55"
-                    },
-                    {
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:30-11:15"
                     }
                 ],
                 "B": [
-                    {
-                        "name": "Seerah",
-                        "location": "C-302",
-                        "time": "08:30-09:25"
-                    },
                     {
                         "name": "Psychology",
                         "location": "C-302",
@@ -1682,11 +1652,6 @@
                         "name": "Ideology of Pak",
                         "location": "C-309",
                         "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "C-309",
-                        "time": "10:20-11:15"
                     },
                     {
                         "name": "Exp Writing Lab A1",
