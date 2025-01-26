@@ -4444,11 +4444,6 @@
                 ],
                 "B": [
                     {
-                        "name": "MV Cal",
-                        "location": "C-305",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "OOP",
                         "location": "C-305",
                         "time": "10:00-11:20"
