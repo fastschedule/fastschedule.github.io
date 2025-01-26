@@ -22,7 +22,7 @@ function loadBatchYear() {
     if (savedBatchYear) {
         batchYearSelect.value = savedBatchYear;
         loadSections();
-    }
+    }   
 }
 
 function timeToNumber(timeStr, isStart = true) {
@@ -96,8 +96,26 @@ function loadTimetable() {
 
     const dayData = timetableData[day]?.[department]?.[batchYear]?.[section];
     if (dayData && dayData.length > 0) {
-        const sortedData = [...dayData].sort((a, b) => timeToNumber(a.time) - timeToNumber(b.time));
+        // Separate entries with valid times and invalid times
+        const validEntries = [];
+        const invalidEntries = [];
 
+        dayData.forEach(course => {
+            try {
+                const timeStart = timeToNumber(course.time, true); // Check if time is valid
+                validEntries.push(course);
+            } catch {
+                invalidEntries.push(course); // Catch invalid time formats
+            }
+        });
+
+        // Sort valid entries by time
+        const sortedValidEntries = validEntries.sort((a, b) => timeToNumber(a.time) - timeToNumber(b.time));
+
+        // Combine sorted valid entries with invalid entries
+        const finalEntries = [...sortedValidEntries, ...invalidEntries];
+
+        // Create and populate the timetable table
         const table = document.createElement("table");
         table.classList.add("timetable-table");
 
@@ -113,7 +131,7 @@ function loadTimetable() {
         table.appendChild(thead);
 
         const tbody = document.createElement("tbody");
-        sortedData.forEach(course => {
+        finalEntries.forEach(course => {
             const row = document.createElement("tr");
             const tdName = document.createElement("td");
             tdName.textContent = course.name;
@@ -127,12 +145,14 @@ function loadTimetable() {
             tbody.appendChild(row);
         });
         table.appendChild(tbody);
+
         timetableDisplay.innerHTML = "";
         timetableDisplay.appendChild(table);
     } else {
         timetableDisplay.innerHTML = `<p style="padding: 1rem">No classes today</p>`;
     }
 }
+
 
 function saveSelection() {
     localStorage.setItem("selectedDepartment", departmentSelect.value);
@@ -169,5 +189,5 @@ daySelect.addEventListener("change", () => {
     loadTimetable();
 });
 
-loadTimetableData();
+loadTimetableData();    
 setDefaultDay();
