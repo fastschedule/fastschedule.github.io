@@ -819,7 +819,37 @@
                     }
                 ]
             },
-            "2022": {},
+            "2022": {
+                "C": [
+                    {
+                        "name": "PDC",
+                        "location": "A-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Art. Neural Net",
+                        "location": "A-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "PDC",
+                        "location": "A-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Art. Neural Net",
+                        "location": "A-302",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
             "2023": {
                 "A": [
                     {
@@ -3778,6 +3808,11 @@
             },
             "2023": {
                 "F": [
+                    {
+                        "name": "DB",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
                     {
                         "name": "TBW",
                         "location": "C-307",
