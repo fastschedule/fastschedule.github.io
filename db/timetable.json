@@ -5087,6 +5087,18 @@
                 ]
             },
             "2023": {
+                "A": [
+                    {
+                        "name": "COAL",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Fund of S/w Engg",
@@ -5097,18 +5109,6 @@
                         "name": "DB Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "N/A"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "COAL",
-                        "location": "A-310",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:15"
                     }
                 ]
             },
@@ -5243,7 +5243,7 @@
                     },
                     {
                         "name": "MV Cal",
-                        "location": "A-305",
+                        "location": "A-310",
                         "time": "11:30-12:50"
                     }
                 ]
