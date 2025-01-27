@@ -1184,14 +1184,14 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "TBW",
-                        "location": "C-408",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "Comp Net",
                         "location": "C-408",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-410",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -1269,7 +1269,7 @@
                     },
                     {
                         "name": "Dist Data Engg",
-                        "location": "A-316",
+                        "location": "C-408",
                         "time": "10:00-11:20"
                     },
                     {
@@ -1319,23 +1319,6 @@
                 ]
             },
             "2022": {
-                "C": [
-                    {
-                        "name": "DevOps",
-                        "location": "C-410",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "B-230",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "S/w Engg",
-                        "location": "B-230",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "F": [
                     {
                         "name": "PDC",
@@ -1414,6 +1397,23 @@
                         "name": "AI Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "11:25-02:10"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "PDC",
+                        "location": "B-230",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "B-230",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DevOps",
+                        "location": "A-316",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "J": [
