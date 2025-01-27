@@ -1195,7 +1195,42 @@
                     }
                 ]
             },
-            "2024": {}
+            "2024": {
+                "A": [
+                    {
+                        "name": "Islamic",
+                        "location": "C-311",
+                        "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "A-311",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "UHQ",
+                        "location": "A-311",
+                        "time": "10:20-11:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "A-314",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Islamic",
+                        "location": "A-314",
+                        "time": "10:20-12:05"
+                    },
+                    {
+                        "name": "UHQ",
+                        "location": "A-314",
+                        "time": "12:10-1:05"
+                    }
+                ]
+            }
         },
         "BS CS": {
             "2021": {
@@ -2407,7 +2442,42 @@
                     }
                 ]
             },
-            "2024": {}
+            "2024": {
+                "A": [
+                    {
+                        "name": "OOP",
+                        "location": "C-308",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-308",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-308",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Discrete",
+                        "location": "C-309",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-309",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-309",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            }
         },
         "BS CS": {
             "2021": {
@@ -3461,7 +3531,52 @@
                     }
                 ]
             },
-            "2024": {}
+            "2024": {
+                "B": [
+                    {
+                        "name": "Civics",
+                        "location": "C-404",
+                        "time": "03:15-05:00"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab B1",
+                        "location": "A-CALL-2",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2",
+                        "location": "A-CALL-3",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-409",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 4",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab A1",
+                        "location": "A-CALL-2",
+                        "time": "02:25-05:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab A2",
+                        "location": "A-CALL-3",
+                        "time": "02:25-05:10"
+                    }
+                ]
+            }
         },
         "BS CS": {
             "2021": {
@@ -4561,7 +4676,42 @@
                 ]
             },
             "2023": {},
-            "2024": {}
+            "2024": {
+                "A": [
+                    {
+                        "name": "OOP",
+                        "location": "C-310",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-310",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-311",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            }
         },
         "BS CS": {
             "2021": {
