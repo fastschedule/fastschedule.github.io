@@ -1914,7 +1914,69 @@
                     }
                 ]
             },
-            "2024": {}
+            "2024": {
+                "C": [
+                    {
+                        "name": "UHQ",
+                        "location": "C-309",
+                        "time": "11:30-12:25"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-310",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-406",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Islamic",
+                        "location": "C-311",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-311",
+                        "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "02:25-05:10"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Islamic",
+                        "location": "A-314",
+                        "time": "01:10-02:55"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "A-314",
+                        "time": "03:00-04:45"
+                    },
+                    {
+                        "name": "Exp Writing Lab A1",
+                        "location": "A-Mehran 2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab A2",
+                        "location": "A-CALL-1",
+                        "time": "08:30-11:15"
+                    }
+                ]
+            }
         },
         "BS AI": {
             "2021": {
