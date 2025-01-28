@@ -1378,7 +1378,7 @@
                     },
                     {
                         "name": "AI Lab",
-                        "location": "Rawal 3 (B-232)",
+                        "location": "C-Rawal 1",
                         "time": "08:30-11:15"
                     }
                 ],
@@ -2257,19 +2257,19 @@
             "2023": {
                 "B": [
                     {
-                        "name": "Adv Stats",
+                        "name": "Adv Stats [Cancelled]",
                         "location": "C-310",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "COAL Lab",
-                        "location": "C-Rawal 1",
+                        "location": "Rawal 3 (B-232)",
                         "time": "08:30-11:15"
                     }
                 ],
                 "A": [
                     {
-                        "name": "Adv Stats",
+                        "name": "Adv Stats [Cancelled]",
                         "location": "C-310",
                         "time": "01:00-02:20"
                     },
@@ -5138,7 +5138,7 @@
                     },
                     {
                         "name": "Civics",
-                        "location": "A-310",
+                        "location": "A-305",
                         "time": "08:30-10:15"
                     },
                     {
