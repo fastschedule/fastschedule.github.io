@@ -2494,7 +2494,7 @@
                     },
                     {
                         "name": "NLP",
-                        "location": "C-407",
+                        "location": "C-408",
                         "time": "11:30-12:50"
                     },
                     {
@@ -2618,27 +2618,15 @@
                         "time": "03:55-05:15"
                     }
                 ],
-                "G": [
-                    {
-                        "name": "AI",
-                        "location": "C-407",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Compiler Const",
-                        "location": "C-407",
-                        "time": "03:55-05:15"
-                    }
-                ],
                 "B": [
                     {
                         "name": "S/w Engg",
-                        "location": "C-408",
+                        "location": "C-407",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "PDC",
-                        "location": "C-408",
+                        "location": "C-407",
                         "time": "10:00-11:20"
                     },
                     {
@@ -2655,6 +2643,18 @@
                         "name": "Web Prog",
                         "location": "C-Rawal 1",
                         "time": "11:25-02:10"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "AI",
+                        "location": "C-407",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Compiler Const",
+                        "location": "C-407",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "H": [
@@ -3109,12 +3109,12 @@
                 "A": [
                     {
                         "name": "Comp Net",
-                        "location": "C-407",
+                        "location": "C-408",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Fund of NLP",
-                        "location": "C-407",
+                        "location": "C-408",
                         "time": "10:00-11:20"
                     },
                     {
@@ -4723,7 +4723,7 @@
                     },
                     {
                         "name": "Cloud Comp",
-                        "location": "C-408",
+                        "location": "C-409",
                         "time": "10:00-11:20"
                     }
                 ],
@@ -4735,7 +4735,7 @@
                     },
                     {
                         "name": "NLP",
-                        "location": "C-409",
+                        "location": "C-408",
                         "time": "11:30-12:50"
                     },
                     {
@@ -4759,7 +4759,7 @@
                 "D": [
                     {
                         "name": "Cloud Comp",
-                        "location": "C-408",
+                        "location": "C-409",
                         "time": "11:30-12:50"
                     }
                 ]
@@ -5029,7 +5029,7 @@
             "2022": {
                 "D": [
                     {
-                        "name": "PDC",
+                        "name": "PDC [Cancelled]",
                         "location": "C-405",
                         "time": "11:30-12:50"
                     },
@@ -5052,7 +5052,7 @@
                 "A": [
                     {
                         "name": "Fund of NLP",
-                        "location": "C-409",
+                        "location": "C-408",
                         "time": "10:00-11:20"
                     },
                     {
@@ -5226,7 +5226,7 @@
                     },
                     {
                         "name": "OOP",
-                        "location": "C-307",
+                        "location": "A-310",
                         "time": "10:00-11:20"
                     },
                     {
@@ -5237,11 +5237,6 @@
                 ],
                 "A": [
                     {
-                        "name": "OOP",
-                        "location": "A-303",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "MV Cal",
                         "location": "A-303",
                         "time": "10:00-11:20"
@@ -5250,6 +5245,11 @@
                         "name": "DLD",
                         "location": "A-303",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "A-310",
+                        "time": "08:30-09:50"
                     }
                 ]
             }
