@@ -5039,6 +5039,11 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "PDC",
+                        "location": "B-230",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Comp Net Lab",
                         "location": "A-Karakoram 1",
                         "time": "N/A"
