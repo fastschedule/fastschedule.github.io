@@ -5138,7 +5138,7 @@
                     },
                     {
                         "name": "Civics",
-                        "location": "C-307",
+                        "location": "A-310",
                         "time": "08:30-10:15"
                     },
                     {
@@ -5213,6 +5213,23 @@
                 ]
             },
             "2024": {
+                "B": [
+                    {
+                        "name": "DLD",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "A-310",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "A": [
                     {
                         "name": "OOP",
@@ -5227,23 +5244,6 @@
                     {
                         "name": "DLD",
                         "location": "A-303",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "DLD",
-                        "location": "A-305",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OOP",
-                        "location": "A-305",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MV Cal",
-                        "location": "A-310",
                         "time": "11:30-12:50"
                     }
                 ]
