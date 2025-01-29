@@ -2493,6 +2493,11 @@
                         "time": "02:30-03:50"
                     },
                     {
+                        "name": "Blockchain & Crypto",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "NLP",
                         "location": "C-408",
                         "time": "11:30-12:50"
@@ -2531,11 +2536,6 @@
                         "name": "Freelancing [Cancelled]",
                         "location": "A-316",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Blockchain & Crypto",
-                        "location": "A-118 (MEDC)",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -2543,6 +2543,11 @@
                         "name": "Cloud Comp",
                         "location": "C-311",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Blockchain & Crypto",
+                        "location": "C-407",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "SPM",
@@ -2558,11 +2563,6 @@
                         "name": "Freelancing [Cancelled]",
                         "location": "C-110",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Blockchain & Crypto",
-                        "location": "A-118 (MEDC)",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "C": [
