@@ -633,6 +633,21 @@
                 ],
                 "B": [
                     {
+                        "name": "Prob & Stats",
+                        "location": "C-409",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "C-409",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Algo",
                         "location": "C-409",
                         "time": "02:30-03:50"
@@ -650,6 +665,21 @@
                 ],
                 "A": [
                     {
+                        "name": "SDA",
+                        "location": "C-409",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-410",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-410",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Comp Net",
                         "location": "A-305",
                         "time": "08:30-09:50"
@@ -663,6 +693,16 @@
                         "name": "Formal Meth in SE",
                         "location": "A-310",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Exp Writing Lab A1",
+                        "location": "A-Mehran 2",
+                        "time": "02:25-05:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab A2",
+                        "location": "A-CALL-1",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "C": [
@@ -683,52 +723,7 @@
                     }
                 ]
             },
-            "2023": {
-                "B": [
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-409",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "SDA",
-                        "location": "C-409",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "C-409",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "SDA",
-                        "location": "C-409",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "C-410",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-410",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Exp Writing Lab A1",
-                        "location": "A-Mehran 2",
-                        "time": "02:25-05:10"
-                    },
-                    {
-                        "name": "Exp Writing Lab A2",
-                        "location": "A-CALL-1",
-                        "time": "02:25-05:10"
-                    }
-                ]
-            },
+            "2023": {},
             "2024": {
                 "A": [
                     {
@@ -1765,6 +1760,21 @@
                         "time": "03:55-05:15"
                     },
                     {
+                        "name": "DB",
+                        "location": "C-410",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-410",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
+                    },
+                    {
                         "name": "S/w Const Lab",
                         "location": "C-Rawal 4",
                         "time": "11:25-02:10"
@@ -1782,9 +1792,29 @@
                         "time": "03:55-05:15"
                     },
                     {
+                        "name": "DB",
+                        "location": "C-410",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Comp Net Lab",
                         "location": "C-Rawal 4",
                         "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "A-Karakoram 2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab B1",
+                        "location": "A-Mehran 2",
+                        "time": "02:25-05:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2",
+                        "location": "A-CALL-1",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "F": [
@@ -1874,11 +1904,58 @@
                 ]
             },
             "2023": {
+                "A": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-302",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "C-302",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-410",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-410",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "S/w Const Lab",
+                        "location": "C-Rawal 4",
+                        "time": "11:25-02:10"
+                    }
+                ],
                 "B": [
+                    {
+                        "name": "Applied AI",
+                        "location": "C-303",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-303",
+                        "time": "03:55-05:15"
+                    },
                     {
                         "name": "DB",
                         "location": "C-410",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Rawal 4",
+                        "time": "08:30-11:15"
                     },
                     {
                         "name": "OS Lab",
@@ -1896,21 +1973,89 @@
                         "time": "02:25-05:10"
                     }
                 ],
-                "A": [
+                "F": [
                     {
-                        "name": "DB",
-                        "location": "C-410",
+                        "name": "Comp Net",
+                        "location": "C-304",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-304",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "A-Karakoram 2",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Algo",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-305",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "S/w Const Lab",
+                        "location": "A-Karakoram 1",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Algo",
+                        "location": "C-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-401",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Comp Net",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-401",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "A-315",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "A-315",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Exp Writing",
-                        "location": "C-410",
-                        "time": "02:30-04:15"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:15"
+                        "name": "Comp Net Lab",
+                        "location": "A-Karakoram 2",
+                        "time": "02:25-05:10"
                     }
                 ]
             },
@@ -2354,7 +2499,7 @@
             "2022": {
                 "B": [
                     {
-                        "name": "VA&RE",
+                        "name": "VA&RE [Cancelled]",
                         "location": "C-402",
                         "time": "08:30-09:50"
                     },
@@ -2381,7 +2526,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "VA&RE",
+                        "name": "VA&RE [Cancelled]",
                         "location": "A-301",
                         "time": "10:00-11:20"
                     }
@@ -2528,7 +2673,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Freelancing",
+                        "name": "Freelancing [Cancelled]",
                         "location": "A-316",
                         "time": "10:00-11:20"
                     },
@@ -2555,7 +2700,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Freelancing",
+                        "name": "Freelancing [Cancelled]",
                         "location": "C-110",
                         "time": "08:30-09:50"
                     },
@@ -2888,24 +3033,22 @@
                         "time": "11:25-02:10"
                     }
                 ],
-                "C": [
+                "B": [
                     {
-                        "name": "Algo",
-                        "location": "A-302",
+                        "name": "Prob & Stats",
+                        "location": "C-405",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Comp Net",
-                        "location": "A-303",
-                        "time": "11:30-12:50"
+                        "name": "SDA",
+                        "location": "C-405",
+                        "time": "10:00-11:20"
                     },
                     {
-                        "name": "Formal Meth in SE",
-                        "location": "A-303",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
+                        "name": "OS",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    },
                     {
                         "name": "Comp Net",
                         "location": "A-302",
@@ -2924,6 +3067,21 @@
                 ],
                 "A": [
                     {
+                        "name": "SDA",
+                        "location": "C-405",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Formal Meth in SE",
                         "location": "A-302",
                         "time": "01:00-02:20"
@@ -2937,6 +3095,23 @@
                         "name": "Algo",
                         "location": "A-303",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Algo",
+                        "location": "A-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "A-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-303",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "F": [
@@ -2975,6 +3150,40 @@
                 ]
             },
             "2023": {
+                "D": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-309",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "C-309",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "S/w Const Lab",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Applied AI",
+                        "location": "C-310",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-310",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Rawal 4",
+                        "time": "11:25-02:10"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Prob & Stats",
@@ -2990,6 +3199,21 @@
                         "name": "OS",
                         "location": "C-405",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "A-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "A-302",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "A": [
@@ -3007,6 +3231,72 @@
                         "name": "Prob & Stats",
                         "location": "C-406",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "A-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "A-303",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Algo",
+                        "location": "A-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "A-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-303",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Applied AI",
+                        "location": "A-305",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-305",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "A-305",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "S/w Const",
+                        "location": "A-310",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "A-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-310",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -4091,6 +4381,16 @@
                         "time": "03:55-05:15"
                     },
                     {
+                        "name": "DB",
+                        "location": "C-409",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 3",
+                        "time": "02:25-05:10"
+                    },
+                    {
                         "name": "Comp Net Lab",
                         "location": "C-Rawal 1",
                         "time": "08:30-11:15"
@@ -4106,6 +4406,21 @@
                         "name": "S/w Const",
                         "location": "C-305",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-409",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 3",
+                        "time": "08:30-11:15"
                     },
                     {
                         "name": "S/w Const Lab",
@@ -4200,7 +4515,44 @@
                 ]
             },
             "2023": {
+                "A": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-304",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "C-304",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-409",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 3",
+                        "time": "02:25-05:10"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:15"
+                    }
+                ],
                 "B": [
+                    {
+                        "name": "Applied AI",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-305",
+                        "time": "03:55-05:15"
+                    },
                     {
                         "name": "DB",
                         "location": "C-409",
@@ -4215,18 +4567,96 @@
                         "name": "DB Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "S/w Const Lab",
+                        "location": "C-Rawal 4",
+                        "time": "11:25-02:10"
                     }
                 ],
-                "A": [
+                "F": [
                     {
-                        "name": "DB",
-                        "location": "C-409",
+                        "name": "Comp Net",
+                        "location": "C-307",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-307",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "S/w Const Lab",
+                        "location": "A-Karakoram 3",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Algo",
+                        "location": "C-308",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-308",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "A-Karakoram 3",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Algo",
+                        "location": "C-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-401",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Comp Net",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-403",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "S/w Const",
+                        "location": "A-314",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "A-314",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "OS Lab",
-                        "location": "C-Margala 3",
-                        "time": "02:25-05:10"
+                        "name": "S/w Const Lab",
+                        "location": "A-Karakoram 2",
+                        "time": "08:30-11:15"
                     }
                 ]
             },
@@ -5021,7 +5451,42 @@
                     }
                 ]
             },
-            "2023": {},
+            "2023": {
+                "F": [
+                    {
+                        "name": "Applied AI",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-308",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-308",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-309",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "C-309",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-309",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2024": {}
         },
         "BS AI": {
