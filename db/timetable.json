@@ -5080,14 +5080,14 @@
                 ],
                 "C": [
                     {
-                        "name": "PDC",
-                        "location": "B-229",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Art. Neural Net",
                         "location": "B-229",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "A-211",
+                        "time": "08:30-09:50"
                     }
                 ]
             },
