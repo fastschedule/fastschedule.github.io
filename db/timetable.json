@@ -4694,6 +4694,11 @@
                         "name": "OOP",
                         "location": "C-311",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
