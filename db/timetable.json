@@ -1132,7 +1132,7 @@
                     },
                     {
                         "name": "AI Lab",
-                        "location": "C-Margala 3",
+                        "location": "C-Rawal 1",
                         "time": "02:25-05:10"
                     }
                 ],
@@ -1295,7 +1295,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Freelancing [Cancelled]",
+                        "name": "Freelancing",
                         "location": "A-118 (MEDC)",
                         "time": "08:30-09:50"
                     }
@@ -1307,7 +1307,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Freelancing [Cancelled]",
+                        "name": "Freelancing",
                         "location": "A-118 (MEDC)",
                         "time": "10:00-11:20"
                     }
@@ -2247,7 +2247,7 @@
             "2023": {
                 "B": [
                     {
-                        "name": "Adv Stats [Cancelled]",
+                        "name": "Adv Stats",
                         "location": "C-310",
                         "time": "11:30-12:50"
                     },
@@ -2259,13 +2259,13 @@
                 ],
                 "A": [
                     {
-                        "name": "Adv Stats [Cancelled]",
+                        "name": "Adv Stats",
                         "location": "C-310",
                         "time": "01:00-02:20"
                     },
                     {
                         "name": "DB Lab",
-                        "location": "C-Rawal 1",
+                        "location": "C-Margala 4",
                         "time": "02:25-05:10"
                     }
                 ],
@@ -2344,7 +2344,7 @@
             "2022": {
                 "B": [
                     {
-                        "name": "VA&RE [Cancelled]",
+                        "name": "VA&RE",
                         "location": "C-402",
                         "time": "08:30-09:50"
                     },
@@ -2371,7 +2371,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "VA&RE [Cancelled]",
+                        "name": "VA&RE",
                         "location": "A-301",
                         "time": "10:00-11:20"
                     }
@@ -2498,7 +2498,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Technopreneurship [Cancelled]",
+                        "name": "Technopreneurship",
                         "location": "A-305",
                         "time": "01:00-02:20"
                     },
@@ -2523,7 +2523,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Freelancing [Cancelled]",
+                        "name": "Freelancing",
                         "location": "A-316",
                         "time": "10:00-11:20"
                     }
@@ -2550,7 +2550,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Freelancing [Cancelled]",
+                        "name": "Freelancing",
                         "location": "C-110",
                         "time": "08:30-09:50"
                     }
@@ -3336,7 +3336,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Adv Stats [Cancelled]",
+                        "name": "Adv Stats",
                         "location": "C-310",
                         "time": "01:00-02:20"
                     }
