@@ -169,14 +169,14 @@
             "2022": {
                 "F": [
                     {
+                        "name": "AI",
+                        "location": "C-305",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "Compiler Const",
                         "location": "C-311",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "C-311",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "G": [
