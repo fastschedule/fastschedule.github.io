@@ -3469,11 +3469,6 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Digital Mktg",
-                        "location": "A-310",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "AI",
                         "location": "A-314",
                         "time": "10:00-11:20"
@@ -4826,14 +4821,14 @@
                 ],
                 "C": [
                     {
+                        "name": "TBW",
+                        "location": "C-403",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "OS",
                         "location": "C-403",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-403",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "E": [
