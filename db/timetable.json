@@ -1138,14 +1138,14 @@
                 ],
                 "A": [
                     {
+                        "name": "Digital Mktg",
+                        "location": "A-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Ethical Hacking",
                         "location": "A-311",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Digital Mktg",
-                        "location": "A-311",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "VA&RE Lab",
