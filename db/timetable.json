@@ -1061,6 +1061,11 @@
                         "time": "10:30-12:15"
                     },
                     {
+                        "name": "Islamic",
+                        "location": "A-314",
+                        "time": "08:30-10:15"
+                    },
+                    {
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "02:25-05:10"
@@ -1071,6 +1076,11 @@
                         "name": "Exp Writing",
                         "location": "C-307",
                         "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "Islamic",
+                        "location": "A-302",
+                        "time": "02:30-04:15"
                     },
                     {
                         "name": "DLD Lab",
@@ -3362,9 +3372,9 @@
             "2024": {
                 "A": [
                     {
-                        "name": "Islamic",
+                        "name": "Islamic [Cancelled]",
                         "location": "C-305",
-                        "time": "10:20-12:05"
+                        "time": "10:20-12:"
                     },
                     {
                         "name": "UHQ",
@@ -3384,9 +3394,9 @@
                 ],
                 "B": [
                     {
-                        "name": "Islamic",
+                        "name": "Islamic [Cancelled]",
                         "location": "B-229",
-                        "time": "08:30-10:15"
+                        "time": "08:30-10:"
                     },
                     {
                         "name": "UHQ",
