@@ -4951,7 +4951,12 @@
                     {
                         "name": "Exp Writing",
                         "location": "C-303",
-                        "time": "02:00-03:45"
+                        "time": "02:00-03:"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-310",
+                        "time": "11:30-01:15"
                     },
                     {
                         "name": "DLD Lab",
