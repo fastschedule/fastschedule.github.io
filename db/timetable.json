@@ -1323,7 +1323,158 @@
                     }
                 ]
             },
-            "2022": {},
+            "2022": {
+                "F": [
+                    {
+                        "name": "PDC",
+                        "location": "B-227",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "B-227",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Margala 4",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "AI",
+                        "location": "B-227",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Compiler Const",
+                        "location": "B-227",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Rawal 4",
+                        "time": "02:25-05:10"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "S/w Engg",
+                        "location": "B-229",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "B-229",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Compiler Const",
+                        "location": "B-229",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "B-229",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "AI",
+                        "location": "B-230",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Compiler Const",
+                        "location": "B-230",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "A-Mehran 1",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "PDC",
+                        "location": "B-230",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "B-230",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DevOps",
+                        "location": "A-316",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "J": [
+                    {
+                        "name": "Compiler Const",
+                        "location": "A-108",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "A-108",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "S/w Engg",
+                        "location": "A-108",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "A-108",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "K": [
+                    {
+                        "name": "PDC",
+                        "location": "A-211",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "A-211",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Compiler Const",
+                        "location": "A-211",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "A-211",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:25-05:10"
+                    }
+                ]
+            },
             "2023": {
                 "F": [
                     {
