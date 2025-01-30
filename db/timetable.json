@@ -1723,20 +1723,20 @@
                     },
                     {
                         "name": "Digital Mktg",
-                        "location": "C-402",
+                        "location": "C-403",
                         "time": "03:55-05:15"
                     }
                 ],
                 "Q": [
                     {
+                        "name": "PPIT",
+                        "location": "C-402",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "Digital Mktg",
                         "location": "C-403",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "C-403",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
@@ -5082,18 +5082,6 @@
                 ]
             },
             "2023": {
-                "A": [
-                    {
-                        "name": "COAL",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:15"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Fund of S/w Engg",
@@ -5104,6 +5092,18 @@
                         "name": "DB Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "N/A"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "COAL",
+                        "location": "A-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
                     }
                 ]
             },
