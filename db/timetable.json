@@ -98,7 +98,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Cloud Comp",
+                        "name": "Ethical Hacking",
                         "location": "A-301",
                         "time": "02:30-03:50"
                     },
@@ -111,6 +111,11 @@
                         "name": "Deep Learn for Perc",
                         "location": "A-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "A-303",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "Digital Mktg",
@@ -140,14 +145,14 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Cloud Comp",
-                        "location": "A-301",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "Freelancing",
                         "location": "A-303",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "A-303",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Digital Mktg",
@@ -4717,7 +4722,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Cloud Comp",
+                        "name": "Cloud Comp [Cancelled]",
                         "location": "C-409",
                         "time": "10:00-11:20"
                     }
@@ -4753,7 +4758,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Cloud Comp",
+                        "name": "Cloud Comp [Cancelled]",
                         "location": "C-409",
                         "time": "11:30-12:50"
                     }
