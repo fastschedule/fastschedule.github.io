@@ -4894,23 +4894,6 @@
                         "time": "10:30-12:15"
                     }
                 ],
-                "F": [
-                    {
-                        "name": "Psychology",
-                        "location": "C-301",
-                        "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "Exp Writing Lab F1",
-                        "location": "A-CALL-2",
-                        "time": "08:30-11:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab F2",
-                        "location": "A-CALL-3",
-                        "time": "08:30-11:15"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Ideology of Pak",
@@ -4921,23 +4904,6 @@
                         "name": "Exp Writing",
                         "location": "C-302",
                         "time": "10:30-12:15"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Ideology of Pak",
-                        "location": "C-302",
-                        "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "Exp Writing Lab D1",
-                        "location": "A-Mehran 2",
-                        "time": "08:30-11:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab D2",
-                        "location": "A-CALL-1",
-                        "time": "08:30-11:15"
                     }
                 ],
                 "C": [
@@ -4955,13 +4921,13 @@
                 "G": [
                     {
                         "name": "Exp Writing",
-                        "location": "C-303",
-                        "time": "02:00-03:"
+                        "location": "C-310",
+                        "time": "11:30-01:15"
                     },
                     {
                         "name": "Exp Writing",
-                        "location": "C-310",
-                        "time": "11:30-01:15"
+                        "location": "A-303",
+                        "time": "02:00-03:"
                     },
                     {
                         "name": "DLD Lab",
@@ -4969,10 +4935,44 @@
                         "time": "08:30-11:15"
                     }
                 ],
+                "F": [
+                    {
+                        "name": "Psychology",
+                        "location": "A-301",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "Exp Writing Lab F1",
+                        "location": "A-CALL-2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab F2",
+                        "location": "A-CALL-3",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "A-302",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "Exp Writing Lab D1",
+                        "location": "A-Mehran 2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab D2",
+                        "location": "A-CALL-1",
+                        "time": "08:30-11:15"
+                    }
+                ],
                 "E": [
                     {
                         "name": "Ideology of Pak",
-                        "location": "C-304",
+                        "location": "A-305",
                         "time": "02:00-03:45"
                     },
                     {
