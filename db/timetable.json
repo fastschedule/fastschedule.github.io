@@ -4699,6 +4699,11 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "Discrete",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "MV Cal",
                         "location": "C-310",
                         "time": "02:30-03:50"
