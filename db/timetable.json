@@ -2139,6 +2139,11 @@
                         "name": "MV Cal",
                         "location": "C-307",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-307",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "C": [
