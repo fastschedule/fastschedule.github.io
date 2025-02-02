@@ -4933,23 +4933,6 @@
                         "time": "10:30-12:15"
                     }
                 ],
-                "G": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-310",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Exp Writing",
-                        "location": "A-303",
-                        "time": "02:00-03:"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "08:30-11:15"
-                    }
-                ],
                 "F": [
                     {
                         "name": "Psychology",
@@ -4981,6 +4964,18 @@
                     {
                         "name": "Exp Writing Lab D2",
                         "location": "A-CALL-1",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "A-303",
+                        "time": "02:00-03:"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
                         "time": "08:30-11:15"
                     }
                 ],
