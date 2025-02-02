@@ -54,14 +54,14 @@
             "2023": {
                 "A": [
                     {
-                        "name": "Civics",
-                        "location": "C-310",
-                        "time": "10:30-12:15"
-                    },
-                    {
                         "name": "S/w Engg",
                         "location": "C-406",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "B-227",
+                        "time": "10:30-12:15"
                     }
                 ],
                 "B": [
@@ -88,14 +88,14 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "SPM",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Web Prog",
                         "location": "C-408",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "SPM",
-                        "location": "B-229",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Ethical Hacking",
@@ -184,6 +184,65 @@
                         "time": "02:30-03:50"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "S/w Engg",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DevOps",
+                        "location": "B-230",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "HPC with GPU",
+                        "location": "A-108",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Web Prog",
+                        "location": "C-Margala 3",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "PDC",
+                        "location": "C-310",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DevOps",
+                        "location": "B-230",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "HPC with GPU",
+                        "location": "A-108",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "C-110",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Web Prog",
+                        "location": "C-Margala 3",
+                        "time": "N/A"
+                    }
+                ],
                 "G": [
                     {
                         "name": "AI",
@@ -254,65 +313,6 @@
                         "name": "Compiler Const",
                         "location": "B-230",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "PDC",
-                        "location": "B-227",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "S/w Engg",
-                        "location": "B-227",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DevOps",
-                        "location": "B-230",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "HPC with GPU",
-                        "location": "A-108",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "SMD",
-                        "location": "C-110",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Web Prog",
-                        "location": "C-Margala 3",
-                        "time": "N/A"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "S/w Engg",
-                        "location": "B-229",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "B-229",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DevOps",
-                        "location": "B-230",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "HPC with GPU",
-                        "location": "A-108",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Web Prog",
-                        "location": "C-Margala 3",
-                        "time": "11:25-02:10"
                     }
                 ],
                 "E": [
@@ -404,7 +404,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [Cancelled]",
                         "location": "C-Margala 4",
                         "time": "08:30-11:15"
                     }
@@ -463,7 +463,7 @@
                     },
                     {
                         "name": "DLD",
-                        "location": "B-227",
+                        "location": "C-310",
                         "time": "11:30-12:50"
                     }
                 ],
@@ -580,7 +580,7 @@
                     },
                     {
                         "name": "Exp Writing",
-                        "location": "C-310",
+                        "location": "B-227",
                         "time": "12:30-02:15"
                     },
                     {
@@ -892,22 +892,22 @@
                 ]
             },
             "2024": {
-                "B": [
+                "C": [
                     {
-                        "name": "Civics",
-                        "location": "C-307",
-                        "time": "08:30-10:15"
+                        "name": "Islamic",
+                        "location": "C-310",
+                        "time": "02:30-04:15"
                     },
                     {
-                        "name": "OOP Lab",
-                        "location": "C-Rawal 4",
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
                         "time": "11:25-02:10"
                     }
                 ],
                 "A": [
                     {
                         "name": "Exp Writing",
-                        "location": "C-310",
+                        "location": "B-227",
                         "time": "08:30-10:15"
                     },
                     {
@@ -921,15 +921,15 @@
                         "time": "11:25-02:10"
                     }
                 ],
-                "C": [
+                "B": [
                     {
-                        "name": "Islamic",
-                        "location": "C-310",
-                        "time": "02:30-04:15"
+                        "name": "Civics",
+                        "location": "B-229",
+                        "time": "08:30-10:15"
                     },
                     {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
+                        "name": "OOP Lab",
+                        "location": "C-Rawal 4",
                         "time": "11:25-02:10"
                     }
                 ]
@@ -1023,6 +1023,11 @@
             "2023": {
                 "A": [
                     {
+                        "name": "Fund of S/w Engg",
+                        "location": "C-307",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "COAL",
                         "location": "C-407",
                         "time": "08:30-09:50"
@@ -1031,11 +1036,6 @@
                         "name": "DB",
                         "location": "C-407",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fund of S/w Engg",
-                        "location": "B-229",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "B": [
@@ -1077,7 +1077,7 @@
                 "B": [
                     {
                         "name": "Exp Writing",
-                        "location": "C-307",
+                        "location": "B-229",
                         "time": "10:30-12:15"
                     },
                     {
@@ -1094,7 +1094,7 @@
                 "A": [
                     {
                         "name": "Exp Writing",
-                        "location": "C-307",
+                        "location": "B-229",
                         "time": "12:30-02:15"
                     },
                     {
@@ -2153,7 +2153,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DLD",
+                        "name": "DLD [Cancelled]",
                         "location": "C-305",
                         "time": "01:00-02:20"
                     },
@@ -2315,7 +2315,7 @@
             "2024": {
                 "B": [
                     {
-                        "name": "DLD",
+                        "name": "DLD [Cancelled]",
                         "location": "C-409",
                         "time": "11:30-12:50"
                     },
