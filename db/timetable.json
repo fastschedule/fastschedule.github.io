@@ -4694,11 +4694,6 @@
             "2024": {
                 "A": [
                     {
-                        "name": "OOP",
-                        "location": "C-310",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Discrete",
                         "location": "C-310",
                         "time": "10:00-11:20"
