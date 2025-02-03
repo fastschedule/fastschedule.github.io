@@ -4368,71 +4368,7 @@
                     }
                 ]
             },
-            "2022": {
-                "A": [
-                    {
-                        "name": "PDC",
-                        "location": "B-227",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Art. Neural Net",
-                        "location": "B-227",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "DIP",
-                        "location": "A-301",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "App Evol Comp",
-                        "location": "A-302",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Fund of NLP",
-                        "location": "B-229",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "B-229",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Art. Neural Net",
-                        "location": "B-230",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "B-230",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "DIP",
-                        "location": "A-301",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Comp Net",
-                        "location": "A-108",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Fund of NLP",
-                        "location": "A-108",
-                        "time": "03:55-05:15"
-                    }
-                ]
-            },
+            "2022": {},
             "2023": {
                 "B": [
                     {
