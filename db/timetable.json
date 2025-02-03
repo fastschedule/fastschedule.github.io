@@ -1584,6 +1584,11 @@
                         "name": "FOM",
                         "location": "C-405",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-Margala 3",
+                        "time": "N/A"
                     }
                 ],
                 "G": [
@@ -3794,6 +3799,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "S/w Engg",
+                        "location": "A-311",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "AI Lab",
                         "location": "A-Karakoram 1",
                         "time": "11:25-02:10"
@@ -4822,7 +4832,20 @@
                     }
                 ]
             },
-            "2022": {},
+            "2022": {
+                "J": [
+                    {
+                        "name": "S/w Engg",
+                        "location": "A-108",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "A-108",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2023": {
                 "D": [
                     {
