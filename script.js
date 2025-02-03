@@ -101,6 +101,10 @@ function loadTimetable() {
         const invalidEntries = [];
 
         dayData.forEach(course => {
+            if (department === "BS CY" && batchYear === "2024" && day === "Tuesday" && section === "B" && course.name === "MV Cal" && course.time === "N/A")
+            {
+                course.time = "2:30-3:50";
+            }
             try {
                 const timeStart = timeToNumber(course.time, true); // Check if time is valid
                 validEntries.push(course);
