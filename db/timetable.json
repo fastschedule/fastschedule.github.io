@@ -108,7 +108,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Freelancing",
+                        "name": "Freelancing [Cancelled]",
                         "location": "A-303",
                         "time": "10:00-11:20"
                     },
@@ -145,7 +145,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Freelancing",
+                        "name": "Freelancing [Cancelled]",
                         "location": "A-303",
                         "time": "08:30-09:50"
                     },
@@ -2131,7 +2131,7 @@
             "2024": {
                 "A": [
                     {
-                        "name": "DLD",
+                        "name": "DLD [Cancelled]",
                         "location": "C-305",
                         "time": "08:30-09:50"
                     },
@@ -2165,7 +2165,7 @@
                 ],
                 "B": [
                     {
-                        "name": "DLD",
+                        "name": "DLD [Cancelled]",
                         "location": "C-305",
                         "time": "11:30-12:50"
                     },
@@ -2342,7 +2342,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "DLD",
+                        "name": "DLD [Cancelled]",
                         "location": "A-310",
                         "time": "01:00-02:20"
                     }
@@ -4907,6 +4907,11 @@
                         "name": "Psychology",
                         "location": "C-301",
                         "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-311",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "F": [
@@ -4936,6 +4941,11 @@
                         "name": "Exp Writing",
                         "location": "C-302",
                         "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-311",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "D": [
