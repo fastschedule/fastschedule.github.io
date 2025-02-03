@@ -1088,11 +1088,6 @@
                         "time": "12:30-02:15"
                     },
                     {
-                        "name": "Islamic",
-                        "location": "A-302",
-                        "time": "02:30-04:15"
-                    },
-                    {
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:30-11:15"
@@ -5021,6 +5016,11 @@
                         "name": "S/w Const",
                         "location": "C-308",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-402",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "G": [
@@ -5038,6 +5038,11 @@
                         "name": "Formal Meth in SE",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-402",
+                        "time": "03:55-05:15"
                     }
                 ]
             },
