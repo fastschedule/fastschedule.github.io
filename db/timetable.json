@@ -46,7 +46,7 @@
                     },
                     {
                         "name": "AI Lab",
-                        "location": "C-Rawal 1",
+                        "location": "C-Margala 3",
                         "time": "02:25-05:10"
                     }
                 ]
@@ -1253,6 +1253,11 @@
                         "name": "UHQ",
                         "location": "A-314",
                         "time": "12:10-1:05"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "A-Mehran 1",
+                        "time": "N/A"
                     }
                 ]
             }
