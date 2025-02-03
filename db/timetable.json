@@ -4248,6 +4248,11 @@
                         "time": "03:00-04:45"
                     },
                     {
+                        "name": "MV Cal",
+                        "location": "C-309",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "UHQ",
                         "location": "C-409",
                         "time": "10:20-11:15"
@@ -4648,7 +4653,20 @@
     },
     "Friday": {
         "BS CY": {
-            "2021": {},
+            "2021": {
+                "T": [
+                    {
+                        "name": "Cyber Analytics",
+                        "location": "C-403",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Cyber Analytics",
+                        "location": "C-403",
+                        "time": "03:55-05:15"
+                    }
+                ]
+            },
             "2022": {
                 "B": [
                     {
