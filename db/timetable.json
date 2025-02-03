@@ -93,6 +93,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Fund of Data Visual",
+                        "location": "C-406",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Web Prog",
                         "location": "C-408",
                         "time": "02:30-03:50"
@@ -126,11 +131,6 @@
                         "name": "Technopreneurship",
                         "location": "A-311",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Fund of Data Visual",
-                        "location": "A-314",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Blockchain & Crypto",
@@ -2356,17 +2356,17 @@
                 "T": [
                     {
                         "name": "PPIT",
-                        "location": "C-305",
+                        "location": "C-302",
                         "time": "02:30-03:50"
                     },
                     {
                         "name": "Cyber Analytics",
-                        "location": "C-305",
+                        "location": "C-302",
                         "time": "03:55-05:15"
                     },
                     {
                         "name": "Entre",
-                        "location": "A-118 (MEDC)",
+                        "location": "A-316",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -2503,6 +2503,16 @@
             "2021": {
                 "A": [
                     {
+                        "name": "App ML",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Fund of Data Visual",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Cloud Comp",
                         "location": "C-311",
                         "time": "02:30-03:50"
@@ -2538,27 +2548,22 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "App ML",
-                        "location": "A-311",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Fund of Data Visual",
-                        "location": "A-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Digital Mktg",
                         "location": "A-315",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "Freelancing",
-                        "location": "A-316",
+                        "location": "A-118 (MEDC)",
                         "time": "10:00-11:20"
                     }
                 ],
                 "B": [
+                    {
+                        "name": "SPM",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
                     {
                         "name": "Cloud Comp",
                         "location": "C-311",
@@ -2570,18 +2575,13 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "SPM",
-                        "location": "A-311",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "Digital Mktg",
                         "location": "A-316",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Freelancing",
-                        "location": "C-110",
+                        "location": "A-118 (MEDC)",
                         "time": "08:30-09:50"
                     }
                 ],
@@ -2786,16 +2786,21 @@
                         "time": "08:30-09:50"
                     }
                 ],
-                "E": [
+                "D": [
                     {
-                        "name": "Psychology",
+                        "name": "MV Cal",
                         "location": "C-302",
-                        "time": "01:00-02:45"
+                        "time": "01:00-02:20"
                     },
                     {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "08:30-11:15"
+                        "name": "DLD",
+                        "location": "C-304",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-304",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -2815,23 +2820,6 @@
                         "time": "01:00-02:20"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "DLD",
-                        "location": "C-304",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "OOP",
-                        "location": "C-304",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "MV Cal",
-                        "location": "C-305",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "G": [
                     {
                         "name": "Psychology",
@@ -2842,6 +2830,18 @@
                         "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "11:25-02:10"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-305",
+                        "time": "01:15-03:00"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:30-11:15"
                     }
                 ],
                 "F": [
@@ -3211,7 +3211,7 @@
                 "A": [
                     {
                         "name": "Civics",
-                        "location": "C-307",
+                        "location": "A-311",
                         "time": "08:30-10:15"
                     },
                     {
@@ -3223,7 +3223,7 @@
                 "B": [
                     {
                         "name": "Exp Writing",
-                        "location": "C-307",
+                        "location": "A-311",
                         "time": "10:30-12:15"
                     },
                     {
@@ -3235,7 +3235,7 @@
                 "C": [
                     {
                         "name": "Exp Writing",
-                        "location": "C-307",
+                        "location": "A-311",
                         "time": "12:30-02:15"
                     },
                     {
@@ -4737,7 +4737,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Cloud Comp [Cancelled]",
+                        "name": "Cloud Comp",
                         "location": "C-409",
                         "time": "10:00-11:20"
                     }
@@ -4773,7 +4773,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Cloud Comp [Cancelled]",
+                        "name": "Cloud Comp",
                         "location": "C-409",
                         "time": "11:30-12:50"
                     }
@@ -4851,7 +4851,7 @@
                 ],
                 "C": [
                     {
-                        "name": "TBW [Cancelled]",
+                        "name": "TBW",
                         "location": "C-403",
                         "time": "08:30-09:50"
                     },
@@ -4909,6 +4909,23 @@
                         "time": "10:30-12:15"
                     }
                 ],
+                "F": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-301",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "Exp Writing Lab F1",
+                        "location": "A-CALL-2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab F2",
+                        "location": "A-CALL-3",
+                        "time": "08:30-11:15"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Ideology of Pak",
@@ -4919,6 +4936,23 @@
                         "name": "Exp Writing",
                         "location": "C-302",
                         "time": "10:30-12:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-302",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "Exp Writing Lab D1",
+                        "location": "A-Mehran 2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab D2",
+                        "location": "A-CALL-1",
+                        "time": "08:30-11:15"
                     }
                 ],
                 "C": [
@@ -4936,13 +4970,8 @@
                 "G": [
                     {
                         "name": "Exp Writing",
-                        "location": "C-310",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Exp Writing",
-                        "location": "A-303",
-                        "time": "02:00-03:"
+                        "location": "C-303",
+                        "time": "02:00-03:45"
                     },
                     {
                         "name": "DLD Lab",
@@ -4950,44 +4979,10 @@
                         "time": "08:30-11:15"
                     }
                 ],
-                "F": [
-                    {
-                        "name": "Psychology",
-                        "location": "A-301",
-                        "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "Exp Writing Lab F1",
-                        "location": "A-CALL-2",
-                        "time": "08:30-11:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab F2",
-                        "location": "A-CALL-3",
-                        "time": "08:30-11:15"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Ideology of Pak",
-                        "location": "A-302",
-                        "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "Exp Writing Lab D1",
-                        "location": "A-Mehran 2",
-                        "time": "08:30-11:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab D2",
-                        "location": "A-CALL-1",
-                        "time": "08:30-11:15"
-                    }
-                ],
                 "E": [
                     {
                         "name": "Ideology of Pak",
-                        "location": "A-305",
+                        "location": "C-304",
                         "time": "02:00-03:45"
                     },
                     {
@@ -5037,27 +5032,14 @@
                 ]
             },
             "2023": {},
-            "2024": {
-                "C": [
-                    {
-                        "name": "OOP",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "OOP",
-                        "location": "C-409",
-                        "time": "08:30-09:50"
-                    }
-                ]
-            }
+            "2024": {}
         },
         "BS AI": {
             "2021": {},
             "2022": {
                 "D": [
                     {
-                        "name": "PDC [Cancelled]",
+                        "name": "PDC",
                         "location": "C-405",
                         "time": "11:30-12:50"
                     },
@@ -5065,11 +5047,6 @@
                         "name": "Art. Neural Net",
                         "location": "B-230",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "B-230",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Comp Net Lab",
