@@ -1439,6 +1439,11 @@
                         "name": "DevOps",
                         "location": "A-316",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:15"
                     }
                 ],
                 "J": [
@@ -1463,6 +1468,11 @@
                         "name": "PDC",
                         "location": "A-108",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "A-Mehran 1",
+                        "time": "N/A"
                     }
                 ],
                 "K": [
