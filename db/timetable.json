@@ -93,6 +93,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Blockchain & Crypto",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Fund of Data Visual",
                         "location": "C-406",
                         "time": "11:30-12:50"
@@ -131,14 +136,14 @@
                         "name": "Technopreneurship",
                         "location": "A-311",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Blockchain & Crypto",
-                        "location": "A-118 (MEDC)",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
+                    {
+                        "name": "Blockchain & Crypto",
+                        "location": "C-310",
+                        "time": "01:00-02:20"
+                    },
                     {
                         "name": "Web Prog",
                         "location": "C-408",
@@ -163,11 +168,6 @@
                         "name": "SPM",
                         "location": "C-110",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Blockchain & Crypto",
-                        "location": "A-118 (MEDC)",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -460,11 +460,6 @@
                         "name": "MV Cal",
                         "location": "C-303",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "A": [
@@ -582,11 +577,6 @@
                         "name": "Exp Writing",
                         "location": "B-227",
                         "time": "12:30-02:15"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "A-305",
-                        "time": "02:30-03:50"
                     }
                 ]
             }
@@ -1627,6 +1617,11 @@
                         "name": "Seerah",
                         "location": "C-309",
                         "time": "01:00-01:55"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "A-301",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "DLD Lab",
@@ -3932,8 +3927,8 @@
                 "B": [
                     {
                         "name": "FOM",
-                        "location": "C-407",
-                        "time": "11:30-12:50"
+                        "location": "C-406",
+                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Prob & Stats",
