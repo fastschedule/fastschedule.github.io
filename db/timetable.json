@@ -113,7 +113,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Freelancing [Cancelled]",
+                        "name": "Freelancing",
                         "location": "A-303",
                         "time": "10:00-11:20"
                     },
@@ -150,7 +150,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Freelancing [Cancelled]",
+                        "name": "Freelancing",
                         "location": "A-303",
                         "time": "08:30-09:50"
                     },
@@ -404,7 +404,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "OS Lab [Cancelled]",
+                        "name": "OS Lab",
                         "location": "C-Margala 4",
                         "time": "08:30-11:15"
                     }
@@ -663,11 +663,6 @@
                         "name": "Formal Meth in SE",
                         "location": "A-310",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "S/w Const Lab",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "02:25-05:10"
                     }
                 ],
                 "C": [
@@ -1069,11 +1064,6 @@
                         "name": "Exp Writing",
                         "location": "B-229",
                         "time": "10:30-12:15"
-                    },
-                    {
-                        "name": "Islamic",
-                        "location": "A-314",
-                        "time": "08:30-10:15"
                     },
                     {
                         "name": "DLD Lab",
