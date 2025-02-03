@@ -1168,6 +1168,11 @@
                         "time": "02:30-03:50"
                     },
                     {
+                        "name": "VA&RE",
+                        "location": "A-311",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "VA&RE Lab",
                         "location": "A-Karakoram 1",
                         "time": "11:25-02:10"
@@ -3453,6 +3458,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "VA&RE",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "VA&RE Lab",
                         "location": "C-Rawal 1",
                         "time": "02:25-05:10"
@@ -3497,6 +3507,11 @@
                         "name": "Ethical Hacking",
                         "location": "A-310",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "VA&RE",
+                        "location": "A-314",
+                        "time": "08:30-09:50"
                     },
                     {
                         "name": "AI",
