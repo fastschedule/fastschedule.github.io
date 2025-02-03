@@ -1107,6 +1107,23 @@
                         "time": "02:30-03:50"
                     }
                 ],
+                "C": [
+                    {
+                        "name": "Info Sec",
+                        "location": "C-308",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "VA&RE",
+                        "location": "A-305",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "A-315",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Ethical Hacking",
@@ -1149,18 +1166,6 @@
                         "name": "VA&RE Lab",
                         "location": "A-Karakoram 1",
                         "time": "11:25-02:10"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "VA&RE",
-                        "location": "A-305",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "A-315",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
