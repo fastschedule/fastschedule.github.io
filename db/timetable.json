@@ -57,11 +57,6 @@
                         "name": "S/w Engg",
                         "location": "C-406",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Civics",
-                        "location": "B-227",
-                        "time": "10:30-12:15"
                     }
                 ],
                 "B": [
@@ -1211,11 +1206,6 @@
                         "name": "Islamic",
                         "location": "C-311",
                         "time": "12:30-02:15"
-                    },
-                    {
-                        "name": "Civics",
-                        "location": "A-311",
-                        "time": "08:30-10:15"
                     },
                     {
                         "name": "UHQ",
@@ -2452,11 +2442,6 @@
                         "name": "S/w Engg",
                         "location": "C-302",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Civics",
-                        "location": "B-227",
-                        "time": "12:30-02:15"
                     }
                 ],
                 "A": [
@@ -3552,28 +3537,6 @@
                 ]
             },
             "2024": {
-                "B": [
-                    {
-                        "name": "Civics",
-                        "location": "C-404",
-                        "time": "03:15-05:00"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab B1",
-                        "location": "A-CALL-2",
-                        "time": "11:25-02:10"
-                    },
-                    {
-                        "name": "Exp Writing Lab B2",
-                        "location": "A-CALL-3",
-                        "time": "11:25-02:10"
-                    }
-                ],
                 "A": [
                     {
                         "name": "Exp Writing",
@@ -3594,6 +3557,23 @@
                         "name": "Exp Writing Lab A2",
                         "location": "A-CALL-3",
                         "time": "02:25-05:10"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab B1",
+                        "location": "A-CALL-2",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2",
+                        "location": "A-CALL-3",
+                        "time": "11:25-02:10"
                     }
                 ]
             }
