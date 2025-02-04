@@ -4586,6 +4586,11 @@
                         "name": "Multiagent",
                         "location": "A-301",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "C-110",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -4603,6 +4608,11 @@
                         "name": "Data Mining",
                         "location": "A-303",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "C-110",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "C": [
@@ -5320,7 +5330,22 @@
         },
         "BS DS": {
             "2021": {},
-            "2022": {},
+            "2022": {
+                "A": [
+                    {
+                        "name": "Digital Mktg",
+                        "location": "C-406",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Digital Mktg",
+                        "location": "C-406",
+                        "time": "03:55-05:15"
+                    }
+                ]
+            },
             "2023": {
                 "C": [
                     {
