@@ -913,11 +913,6 @@
                 ],
                 "B": [
                     {
-                        "name": "Civics",
-                        "location": "B-229",
-                        "time": "08:30-10:15"
-                    },
-                    {
                         "name": "OOP Lab",
                         "location": "C-Rawal 4",
                         "time": "11:25-02:10"
@@ -3194,22 +3189,12 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Civics",
-                        "location": "A-211",
-                        "time": "10:00-11:45"
-                    },
-                    {
                         "name": "AI Lab",
                         "location": "C-Rawal 1",
                         "time": "02:25-05:10"
                     }
                 ],
                 "A": [
-                    {
-                        "name": "Civics",
-                        "location": "A-211",
-                        "time": "12:00-01:45"
-                    },
                     {
                         "name": "COAL",
                         "location": "A-303",
@@ -3223,18 +3208,6 @@
                 ]
             },
             "2024": {
-                "A": [
-                    {
-                        "name": "Civics",
-                        "location": "A-311",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "C-Margala 3",
-                        "time": "11:25-02:10"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Exp Writing",
@@ -3262,6 +3235,13 @@
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 3",
+                        "time": "11:25-02:10"
                     }
                 ]
             }
@@ -4670,37 +4650,22 @@
                         "name": "Psychology",
                         "location": "A-311",
                         "time": "N/A"
-                    },
-                    {
-                        "name": "Civics",
-                        "location": "A-311",
-                        "time": "12:00-01:45"
                     }
                 ]
             },
             "2024": {
-                "B": [
-                    {
-                        "name": "Civics",
-                        "location": "C-308",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "C-Margala 3",
-                        "time": "11:25-02:10"
-                    }
-                ],
                 "A": [
-                    {
-                        "name": "Civics",
-                        "location": "C-308",
-                        "time": "12:30-02:15"
-                    },
                     {
                         "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 3",
+                        "time": "11:25-02:10"
                     }
                 ]
             }
@@ -5294,11 +5259,6 @@
                         "time": "11:30-12:25"
                     },
                     {
-                        "name": "Civics",
-                        "location": "A-305",
-                        "time": "08:30-10:15"
-                    },
-                    {
                         "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "02:15-05:00"
@@ -5361,11 +5321,6 @@
                 ],
                 "A": [
                     {
-                        "name": "Civics",
-                        "location": "A-301",
-                        "time": "08:30-10:15"
-                    },
-                    {
                         "name": "Psychology",
                         "location": "A-301",
                         "time": "10:30-12:15"
@@ -5376,11 +5331,6 @@
                         "name": "Psychology",
                         "location": "A-302",
                         "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "Civics",
-                        "location": "A-302",
-                        "time": "10:30-12:15"
                     }
                 ]
             },
