@@ -4585,7 +4585,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "A-301",
                         "time": "08:30-09:50"
                     },
@@ -4597,7 +4597,7 @@
                 ],
                 "C": [
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "A-211",
                         "time": "03:55-05:15"
                     },
@@ -4609,7 +4609,7 @@
                 ],
                 "D": [
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "A-301",
                         "time": "02:30-03:50"
                     },
