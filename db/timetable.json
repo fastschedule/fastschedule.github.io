@@ -4,6 +4,11 @@
             "2021": {
                 "T": [
                     {
+                        "name": "PPIT",
+                        "location": "C-304",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Cyber Analytics",
                         "location": "C-304",
                         "time": "03:55-05:15"
