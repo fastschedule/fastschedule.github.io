@@ -609,6 +609,11 @@
                         "time": "03:55-05:15"
                     },
                     {
+                        "name": "S/w Const",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Comp Net Lab",
                         "location": "A-Karakoram 2",
                         "time": "11:25-02:10"
@@ -4454,6 +4459,11 @@
                         "name": "AI",
                         "location": "C-301",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "A-305",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "A": [
