@@ -4980,6 +4980,11 @@
                         "name": "MV Cal",
                         "location": "C-311",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-404",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "F": [
@@ -5043,6 +5048,11 @@
                         "name": "Ideology of Pak",
                         "location": "C-303",
                         "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-404",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "G": [
