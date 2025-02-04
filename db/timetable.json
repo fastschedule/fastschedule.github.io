@@ -203,7 +203,7 @@
                     {
                         "name": "Web Prog",
                         "location": "C-Margala 3",
-                        "time": "11:25-02:10"
+                        "time": "01:00-02:20"
                     }
                 ],
                 "A": [
@@ -235,7 +235,7 @@
                     {
                         "name": "Web Prog",
                         "location": "C-Margala 3",
-                        "time": "N/A"
+                        "time": "11:30-12:50"
                     }
                 ],
                 "G": [
@@ -604,7 +604,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "S/w Const",
+                        "name": "S/w Const [Rescheduled]",
                         "location": "C-308",
                         "time": "08:30-09:50"
                     },
@@ -1126,7 +1126,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "VA&RE",
+                        "name": "VA&RE [Rescheduled]",
                         "location": "C-410",
                         "time": "08:30-09:50"
                     },
@@ -1153,7 +1153,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "VA&RE",
+                        "name": "VA&RE [Rescheduled]",
                         "location": "A-311",
                         "time": "03:55-05:15"
                     },
@@ -1230,9 +1230,9 @@
                         "time": "12:10-1:05"
                     },
                     {
-                        "name": "MV Cal",
+                        "name": "MV Cal [Rescheduled]",
                         "location": "A-Mehran 1",
-                        "time": "N/A"
+                        "time": "02:30-03:50"
                     }
                 ]
             }
@@ -1421,9 +1421,9 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI",
+                        "name": "AI [Rescheduled]",
                         "location": "A-Mehran 1",
-                        "time": "08:30-11:15"
+                        "time": "10:00-11:20"
                     }
                 ],
                 "J": [
@@ -1450,9 +1450,9 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "AI",
+                        "name": "AI [Rescheduled]",
                         "location": "A-Mehran 1",
-                        "time": "N/A"
+                        "time": "08:30-09:50"
                     }
                 ],
                 "K": [
@@ -1566,9 +1566,9 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "TBW",
+                        "name": "TBW [Rescheduled]",
                         "location": "C-Margala 3",
-                        "time": "N/A"
+                        "time": "02:30-03:50"
                     }
                 ],
                 "G": [
@@ -1619,7 +1619,7 @@
                         "time": "01:00-01:55"
                     },
                     {
-                        "name": "OOP",
+                        "name": "OOP [Rescheduled]",
                         "location": "A-301",
                         "time": "11:30-12:50"
                     },
@@ -2625,7 +2625,7 @@
                     {
                         "name": "Web Prog",
                         "location": "C-Rawal 1",
-                        "time": "N/A"
+                        "time": "11:30-12:50"
                     }
                 ],
                 "F": [
@@ -2664,7 +2664,7 @@
                     {
                         "name": "Web Prog",
                         "location": "C-Rawal 1",
-                        "time": "11:25-02:10"
+                        "time": "01:00-02:20"
                     }
                 ],
                 "G": [
@@ -3319,7 +3319,7 @@
                     {
                         "name": "Digital Mktg",
                         "location": "A-Karakoram 2",
-                        "time": "08:30-11:15"
+                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -3440,7 +3440,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "VA&RE",
+                        "name": "VA&RE [Rescheduled]",
                         "location": "C-407",
                         "time": "11:30-12:50"
                     },
@@ -3491,7 +3491,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "VA&RE",
+                        "name": "VA&RE [Rescheduled]",
                         "location": "A-314",
                         "time": "08:30-09:50"
                     },
@@ -3761,7 +3761,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "S/w Engg",
+                        "name": "S/w Engg [Rescheduled]",
                         "location": "A-311",
                         "time": "02:30-03:50"
                     },
@@ -4110,7 +4110,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Formal Meth in SE",
+                        "name": "Formal Meth in SE [Rescheduled]",
                         "location": "C-310",
                         "time": "11:30-12:50"
                     },
@@ -4262,7 +4262,7 @@
                         "time": "03:00-04:45"
                     },
                     {
-                        "name": "MV Cal",
+                        "name": "MV Cal [Rescheduled]",
                         "location": "C-309",
                         "time": "08:30-09:50"
                     },
@@ -4557,7 +4557,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Digital Mktg",
+                        "name": "Digital Mktg [Rescheduled]",
                         "location": "C-110",
                         "time": "02:30-03:50"
                     }
@@ -4579,7 +4579,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Digital Mktg",
+                        "name": "Digital Mktg [Rescheduled]",
                         "location": "C-110",
                         "time": "03:55-05:15"
                     }
@@ -4596,7 +4596,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Digital Mktg",
+                        "name": "Digital Mktg [Rescheduled]",
                         "location": "A-118 (MEDC)",
                         "time": "03:55-05:15"
                     }
@@ -4613,7 +4613,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Digital Mktg",
+                        "name": "Digital Mktg [Rescheduled]",
                         "location": "A-118 (MEDC)",
                         "time": "02:30-03:50"
                     }
@@ -4646,14 +4646,14 @@
                 ],
                 "C": [
                     {
-                        "name": "Adv Stats",
+                        "name": "Adv Stats [Rescheduled]",
                         "location": "A-302",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Psychology",
                         "location": "A-311",
-                        "time": "N/A"
+                        "time": "10:00:11:45"
                     }
                 ]
             },
@@ -4680,12 +4680,12 @@
             "2021": {
                 "T": [
                     {
-                        "name": "Cyber Analytics",
+                        "name": "Cyber Analytics [Rescheduled]",
                         "location": "C-403",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Cyber Analytics",
+                        "name": "Cyber Analytics [Rescheduled]",
                         "location": "C-403",
                         "time": "03:55-05:15"
                     }
@@ -4728,7 +4728,7 @@
                 ],
                 "C": [
                     {
-                        "name": "AI Lab",
+                        "name": "AI Lab [Rescheduled]",
                         "location": "A-Mehran 1",
                         "time": "08:30-11:15"
                     }
@@ -4737,7 +4737,7 @@
             "2023": {
                 "B": [
                     {
-                        "name": "Civics",
+                        "name": "Civics [Rescheduled]",
                         "location": "C-405",
                         "time": "02:00-03:45"
                     }
@@ -4813,7 +4813,7 @@
                     {
                         "name": "Game Design",
                         "location": "C-GPU Lab",
-                        "time": "N/A"
+                        "time": "02:15-05:00"
                     }
                 ],
                 "B": [
@@ -4834,33 +4834,33 @@
             "2022": {
                 "H": [
                     {
-                        "name": "PDC",
+                        "name": "PDC [Rescheduled]",
                         "location": "C-310",
                         "time": "11:30-12:50"
                     }
                 ],
                 "A": [
                     {
-                        "name": "Web Prog",
+                        "name": "Web Prog [Rescheduled]",
                         "location": "B-230",
                         "time": "10:00-11:20"
                     }
                 ],
                 "J": [
                     {
-                        "name": "S/w Engg",
+                        "name": "S/w Engg [Rescheduled]",
                         "location": "A-108",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "S/w Engg",
+                        "name": "S/w Engg [Rescheduled]",
                         "location": "A-108",
                         "time": "10:00-11:20"
                     }
                 ],
                 "B": [
                     {
-                        "name": "Web Prog",
+                        "name": "Web Prog [Rescheduled]",
                         "location": "C-110",
                         "time": "08:30-09:50"
                     }
@@ -4961,7 +4961,7 @@
                     {
                         "name": "OS Lab",
                         "location": "C-Margala 3",
-                        "time": "N/A"
+                        "time": "02:15-05:00"
                     }
                 ],
                 "G": [
@@ -4978,7 +4978,7 @@
                     {
                         "name": "DB Lab",
                         "location": "C-Margala 4",
-                        "time": "N/A"
+                        "time": "02:15-05:00"
                     }
                 ]
             },
@@ -4995,12 +4995,12 @@
                         "time": "10:30-12:15"
                     },
                     {
-                        "name": "MV Cal",
+                        "name": "MV Cal [Rescheduled]",
                         "location": "C-311",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "DLD",
+                        "name": "DLD [Rescheduled]",
                         "location": "C-404",
                         "time": "03:55-05:15"
                     }
@@ -5034,7 +5034,7 @@
                         "time": "10:30-12:15"
                     },
                     {
-                        "name": "MV Cal",
+                        "name": "MV Cal [Rescheduled]",
                         "location": "C-311",
                         "time": "03:55-05:15"
                     }
@@ -5068,7 +5068,7 @@
                         "time": "10:30-12:15"
                     },
                     {
-                        "name": "DLD",
+                        "name": "DLD [Rescheduled]",
                         "location": "C-404",
                         "time": "02:30-03:50"
                     }
@@ -5119,7 +5119,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Formal Meth in SE",
+                        "name": "Formal Meth in SE [Rescheduled]",
                         "location": "C-402",
                         "time": "02:30-03:50"
                     }
@@ -5141,7 +5141,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Formal Meth in SE",
+                        "name": "Formal Meth in SE [Rescheduled]",
                         "location": "C-402",
                         "time": "03:55-05:15"
                     }
@@ -5167,7 +5167,7 @@
                     {
                         "name": "Comp Net Lab",
                         "location": "A-Karakoram 1",
-                        "time": "N/A"
+                        "time": "02:15-05:00"
                     }
                 ],
                 "A": [
@@ -5196,7 +5196,7 @@
                     {
                         "name": "Comp Net Lab",
                         "location": "A-Karakoram 2",
-                        "time": "N/A"
+                        "time": "02:15-05:00"
                     }
                 ],
                 "C": [
@@ -5253,7 +5253,7 @@
                     {
                         "name": "DLD",
                         "location": "B-Digital",
-                        "time": "N/A"
+                        "time": "02:15-05:00"
                     }
                 ],
                 "C": [
@@ -5282,12 +5282,12 @@
                     {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
-                        "time": "N/A"
+                        "time": "02:15-05:00"
                     },
                     {
                         "name": "Exp Writing Lab B2",
                         "location": "A-CALL-1",
-                        "time": "N/A"
+                        "time": "02:15-05:00"
                     }
                 ]
             }
@@ -5297,28 +5297,28 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Digital Mktg",
+                        "name": "Digital Mktg [Rescheduled]",
                         "location": "C-406",
                         "time": "02:30-03:50"
                     }
                 ],
                 "B": [
                     {
-                        "name": "Digital Mktg",
+                        "name": "Digital Mktg [Rescheduled]",
                         "location": "C-406",
                         "time": "03:55-05:15"
                     }
                 ],
                 "D": [
                     {
-                        "name": "Digital Mktg",
+                        "name": "Digital Mktg [Rescheduled]",
                         "location": "A-118 (MEDC)",
                         "time": "08:30-09:50"
                     }
                 ],
                 "C": [
                     {
-                        "name": "Digital Mktg",
+                        "name": "Digital Mktg [Rescheduled]",
                         "location": "A-118 (MEDC)",
                         "time": "10:00-11:20"
                     }
