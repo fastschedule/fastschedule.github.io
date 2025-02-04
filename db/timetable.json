@@ -4580,6 +4580,11 @@
                         "name": "PDC",
                         "location": "A-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-118 (MEDC)",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "D": [
@@ -4592,6 +4597,11 @@
                         "name": "PDC",
                         "location": "A-301",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-118 (MEDC)",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -4621,6 +4631,11 @@
                     }
                 ],
                 "C": [
+                    {
+                        "name": "Adv Stats",
+                        "location": "A-302",
+                        "time": "08:30-09:50"
+                    },
                     {
                         "name": "Psychology",
                         "location": "A-311",
@@ -5278,6 +5293,20 @@
                         "name": "Digital Mktg",
                         "location": "C-406",
                         "time": "03:55-05:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-118 (MEDC)",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-118 (MEDC)",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
