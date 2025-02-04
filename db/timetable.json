@@ -1759,6 +1759,13 @@
                         "time": "02:30-03:50"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "User Exp",
+                        "location": "A-305",
+                        "time": "08:30-09:50"
+                    }
+                ],
                 "A": [
                     {
                         "name": "User Exp",
@@ -4068,6 +4075,13 @@
                         "name": "PPIT",
                         "location": "C-402",
                         "time": "03:55-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "User Exp",
+                        "location": "A-305",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "A": [
