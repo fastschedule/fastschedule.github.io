@@ -4018,6 +4018,11 @@
                         "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "DLD [Rescheduled]",
+                        "location": "C-GPU Lab",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
@@ -4033,6 +4038,11 @@
                     }
                 ],
                 "B": [
+                    {
+                        "name": "DLD [Rescheduled]",
+                        "location": "C-GPU Lab",
+                        "time": "02:30-03:50"
+                    },
                     {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
