@@ -94,32 +94,29 @@ function loadTimetable() {
         return;
     }
 
-    const dayData = timetableData[day]?.[department]?.[batchYear]?.[section];
-    if (dayData && dayData.length > 0) {
-        // Separate entries with valid times and invalid times
+    let dayData = timetableData[day]?.[department]?.[batchYear]?.[section] || [];
+
+    // Check the specific condition and add "Civics"
+    if (department === "BS CY" && batchYear === "2024" && day === "Thursday" && section === "B") {
+        dayData.push({ name: "Civics", location: "C-404", time: "3:15-5:00" });
+    }
+
+    if (dayData.length > 0) {
         const validEntries = [];
         const invalidEntries = [];
 
         dayData.forEach(course => {
-            if (department === "BS CY" && batchYear === "2024" && day === "Tuesday" && section === "B" && course.name === "MV Cal" && course.time === "N/A")
-            {
-                course.time = "2:30-3:50";
-            }
             try {
-                const timeStart = timeToNumber(course.time, true); // Check if time is valid
+                const timeStart = timeToNumber(course.time, true);
                 validEntries.push(course);
             } catch {
-                invalidEntries.push(course); // Catch invalid time formats
+                invalidEntries.push(course);
             }
         });
 
-        // Sort valid entries by time
         const sortedValidEntries = validEntries.sort((a, b) => timeToNumber(a.time) - timeToNumber(b.time));
-
-        // Combine sorted valid entries with invalid entries
         const finalEntries = [...sortedValidEntries, ...invalidEntries];
 
-        // Create and populate the timetable table
         const table = document.createElement("table");
         table.classList.add("timetable-table");
 
@@ -156,6 +153,7 @@ function loadTimetable() {
         timetableDisplay.innerHTML = `<p style="padding: 1rem">No classes today</p>`;
     }
 }
+
 
 
 function saveSelection() {
