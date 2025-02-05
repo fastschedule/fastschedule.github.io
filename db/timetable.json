@@ -75,7 +75,97 @@
             "2024": {}
         },
         "BS CS": {
-            "2021": {},
+            "2021": {
+                "A": [
+                    {
+                        "name": "App ML",
+                        "location": "C-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "SPM",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Blockchain & Crypto",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Fund of Data Visual",
+                        "location": "C-406",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Web Prog",
+                        "location": "C-408",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Ethical Hacking",
+                        "location": "A-301",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Freelancing",
+                        "location": "A-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Deep Learn for Perc",
+                        "location": "A-303",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "A-303",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-311",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Technopreneurship",
+                        "location": "A-311",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Blockchain & Crypto",
+                        "location": "C-310",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Web Prog",
+                        "location": "C-408",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Freelancing",
+                        "location": "A-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "A-303",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SPM",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2022": {
                 "F": [
                     {
@@ -512,6 +602,11 @@
                         "name": "Applied AI",
                         "location": "C-307",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "S/w Const [Rescheduled]",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Comp Net Lab",
@@ -1143,7 +1238,91 @@
             }
         },
         "BS CS": {
-            "2021": {},
+            "2021": {
+                "B": [
+                    {
+                        "name": "User Exp",
+                        "location": "C-311",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "MLOPs",
+                        "location": "C-402",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Technopreneurship",
+                        "location": "C-408",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Fund of Comp Vision",
+                        "location": "C-311",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "MLOPs",
+                        "location": "C-402",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Dist Data Engg",
+                        "location": "C-408",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "User Exp",
+                        "location": "A-316",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "C-110",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Blockchain & Crypto",
+                        "location": "C-404",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "C-405",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "SPM",
+                        "location": "C-110",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Freelancing [Cancelled]",
+                        "location": "A-118 (MEDC)",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Cloud Comp",
+                        "location": "C-405",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Freelancing [Cancelled]",
+                        "location": "A-118 (MEDC)",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2022": {
                 "F": [
                     {
@@ -2323,7 +2502,99 @@
             }
         },
         "BS CS": {
-            "2021": {},
+            "2021": {
+                "A": [
+                    {
+                        "name": "App ML",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Fund of Data Visual",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "C-311",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Ethical Hacking",
+                        "location": "C-401",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Blockchain & Crypto",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "C-408",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SPM",
+                        "location": "A-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Technopreneurship",
+                        "location": "A-305",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Deep Learn for Perc",
+                        "location": "A-310",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-315",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Freelancing",
+                        "location": "A-118 (MEDC)",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "SPM",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "C-311",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Blockchain & Crypto",
+                        "location": "C-407",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-316",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Freelancing",
+                        "location": "A-118 (MEDC)",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "User Exp",
+                        "location": "C-110",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            },
             "2022": {
                 "A": [
                     {
@@ -3315,7 +3586,81 @@
             }
         },
         "BS CS": {
-            "2021": {},
+            "2021": {
+                "A": [
+                    {
+                        "name": "Fund of Comp Vision",
+                        "location": "C-309",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "MLOPs",
+                        "location": "C-402",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Dist Data Engg",
+                        "location": "A-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "User Exp",
+                        "location": "A-315",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "C-110",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "MLOPs",
+                        "location": "C-402",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Technopreneurship",
+                        "location": "A-314",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "User Exp",
+                        "location": "A-315",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Blockchain & Crypto",
+                        "location": "A-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "SPM",
+                        "location": "C-110",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Freelancing [Cancelled]",
+                        "location": "A-118 (MEDC)",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Freelancing [Cancelled]",
+                        "location": "A-118 (MEDC)",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2022": {
                 "F": [
                     {
@@ -3773,6 +4118,11 @@
                         "name": "Applied AI",
                         "location": "C-304",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Formal Meth in SE [Rescheduled]",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Comp Net Lab",
@@ -4441,7 +4791,56 @@
             }
         },
         "BS CS": {
-            "2021": {},
+            "2021": {
+                "C": [
+                    {
+                        "name": "User Exp",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "C-409",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Web Prog",
+                        "location": "C-308",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "C-408",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Ethical Hacking",
+                        "location": "C-410",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Game Design",
+                        "location": "C-GPU Lab",
+                        "time": "02:15-05:00"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Web Prog",
+                        "location": "C-308",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Cloud Comp",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2022": {
                 "H": [
                     {
@@ -4728,6 +5127,11 @@
                         "name": "S/w Const",
                         "location": "C-308",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE [Rescheduled]",
+                        "location": "C-402",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "G": [
@@ -4745,6 +5149,11 @@
                         "name": "Formal Meth in SE",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE [Rescheduled]",
+                        "location": "C-402",
+                        "time": "03:55-05:15"
                     }
                 ]
             },
