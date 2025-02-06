@@ -4069,20 +4069,20 @@
                     },
                     {
                         "name": "Digital Mktg",
-                        "location": "C-401",
+                        "location": "C-402",
                         "time": "03:55-05:15"
                     }
                 ],
                 "Q": [
                     {
+                        "name": "PPIT",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "Digital Mktg",
                         "location": "C-402",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "C-402",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
