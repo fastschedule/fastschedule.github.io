@@ -1416,11 +1416,6 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "DevOps",
-                        "location": "A-316",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "AI [Rescheduled]",
                         "location": "A-Mehran 1",
                         "time": "10:00-11:20"
@@ -3737,11 +3732,6 @@
                         "name": "S/w Engg",
                         "location": "B-229",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DevOps",
-                        "location": "A-310",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "AI Lab",
