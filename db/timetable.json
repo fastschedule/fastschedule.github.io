@@ -569,6 +569,11 @@
                         "time": "09:30-11:15"
                     },
                     {
+                        "name": "DLD [Rescheduled]",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Exp Writing",
                         "location": "B-227",
                         "time": "12:30-02:15"
@@ -4068,6 +4073,13 @@
                         "name": "PPIT",
                         "location": "C-402",
                         "time": "03:55-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "User Exp",
+                        "location": "A-303",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "A": [
