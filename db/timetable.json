@@ -1953,6 +1953,11 @@
                 ],
                 "A": [
                     {
+                        "name": "MV Cal",
+                        "location": "A-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Islamic",
                         "location": "A-314",
                         "time": "01:10-02:55"
@@ -4575,11 +4580,6 @@
                         "name": "PDC",
                         "location": "A-303",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Digital Mktg [Rescheduled]",
-                        "location": "A-118 (MEDC)",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "D": [
@@ -4592,11 +4592,6 @@
                         "name": "PDC",
                         "location": "A-301",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Digital Mktg [Rescheduled]",
-                        "location": "A-118 (MEDC)",
-                        "time": "02:30-03:50"
                     }
                 ]
             },
