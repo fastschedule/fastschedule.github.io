@@ -2155,11 +2155,6 @@
                         "name": "MV Cal",
                         "location": "C-307",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OOP",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
                     }
                 ]
             }
@@ -5276,6 +5271,11 @@
                         "time": "10:30-12:15"
                     },
                     {
+                        "name": "DLD [Rescheduled]",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
                         "time": "02:15-05:00"
@@ -5284,6 +5284,11 @@
                         "name": "Exp Writing Lab B2",
                         "location": "A-CALL-1",
                         "time": "02:15-05:00"
+                    },
+                    {
+                        "name": "DLD [Rescheduled]",
+                        "location": "B-Digital",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
