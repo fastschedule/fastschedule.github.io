@@ -4837,6 +4837,11 @@
                         "name": "S/w Engg [Rescheduled]",
                         "location": "A-108",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "PDC [Rescheduled]",
+                        "location": "A-108",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
