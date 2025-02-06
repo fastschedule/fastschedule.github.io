@@ -3245,6 +3245,11 @@
                         "name": "PPIT",
                         "location": "C-303",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "C-304",
+                        "time": "08:30-09:50"
                     }
                 ]
             },
