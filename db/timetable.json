@@ -1406,7 +1406,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "S/w Engg",
+                        "name": "S/w Engg [Cancelled]",
                         "location": "B-230",
                         "time": "01:00-02:20"
                     }
@@ -5316,7 +5316,12 @@
                     {
                         "name": "Digital Mktg [Rescheduled]",
                         "location": "A-118 (MEDC)",
-                        "time": "10:00-11:20"
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data Mining Lab [Rescheduled]",
+                        "location": "C-GPU Lab",
+                        "time": "08:30-11:15"
                     }
                 ]
             },
