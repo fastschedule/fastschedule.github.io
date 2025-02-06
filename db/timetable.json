@@ -2155,6 +2155,11 @@
                         "name": "MV Cal",
                         "location": "C-307",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
@@ -4810,6 +4815,13 @@
                         "time": "11:30-12:50"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "Web Prog [Rescheduled]",
+                        "location": "C-403",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Web Prog [Rescheduled]",
@@ -4832,13 +4844,6 @@
                         "name": "PDC [Rescheduled]",
                         "location": "A-108",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Web Prog [Rescheduled]",
-                        "location": "C-110",
-                        "time": "08:30-09:50"
                     }
                 ]
             },
