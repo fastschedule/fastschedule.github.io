@@ -1153,11 +1153,6 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "VA&RE [Rescheduled]",
-                        "location": "A-311",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "VA&RE Lab",
                         "location": "A-Karakoram 1",
                         "time": "11:25-02:10"
@@ -1228,11 +1223,6 @@
                         "name": "UHQ",
                         "location": "A-314",
                         "time": "12:10-1:05"
-                    },
-                    {
-                        "name": "MV Cal [Rescheduled]",
-                        "location": "A-Mehran 1",
-                        "time": "02:30-03:50"
                     }
                 ]
             }
@@ -1305,7 +1295,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Freelancing [Cancelled]",
+                        "name": "Freelancing",
                         "location": "A-118 (MEDC)",
                         "time": "08:30-09:50"
                     }
@@ -1317,7 +1307,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Freelancing [Cancelled]",
+                        "name": "Freelancing",
                         "location": "A-118 (MEDC)",
                         "time": "10:00-11:20"
                     }
@@ -1414,11 +1404,6 @@
                         "name": "S/w Engg",
                         "location": "B-230",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI [Rescheduled]",
-                        "location": "A-Mehran 1",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "J": [
@@ -1443,11 +1428,6 @@
                         "name": "PDC",
                         "location": "A-108",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI [Rescheduled]",
-                        "location": "A-Mehran 1",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "K": [
@@ -1559,11 +1539,6 @@
                         "name": "FOM",
                         "location": "C-405",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "TBW [Rescheduled]",
-                        "location": "C-Margala 3",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "G": [
@@ -1612,11 +1587,6 @@
                         "name": "Seerah",
                         "location": "C-309",
                         "time": "01:00-01:55"
-                    },
-                    {
-                        "name": "OOP [Rescheduled]",
-                        "location": "A-301",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "DLD Lab",
@@ -2133,7 +2103,7 @@
             "2024": {
                 "A": [
                     {
-                        "name": "DLD [Cancelled]",
+                        "name": "DLD",
                         "location": "C-305",
                         "time": "08:30-09:50"
                     },
@@ -2155,7 +2125,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DLD [Cancelled]",
+                        "name": "DLD",
                         "location": "C-305",
                         "time": "01:00-02:20"
                     },
@@ -2167,7 +2137,7 @@
                 ],
                 "B": [
                     {
-                        "name": "DLD [Cancelled]",
+                        "name": "DLD",
                         "location": "C-305",
                         "time": "11:30-12:50"
                     },
@@ -2317,7 +2287,7 @@
             "2024": {
                 "B": [
                     {
-                        "name": "DLD [Cancelled]",
+                        "name": "DLD",
                         "location": "C-409",
                         "time": "11:30-12:50"
                     },
@@ -2344,7 +2314,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "DLD [Cancelled]",
+                        "name": "DLD",
                         "location": "A-310",
                         "time": "01:00-02:20"
                     }
@@ -2747,7 +2717,15 @@
                     }
                 ]
             },
-            "2023": {},
+            "2023": {
+                "F": [
+                    {
+                        "name": "OS Lab [Rescheduled]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "08:30-11:15"
+                    }
+                ]
+            },
             "2024": {
                 "B": [
                     {
@@ -2971,6 +2949,11 @@
                         "name": "S/w Const",
                         "location": "A-305",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "S/w Const Lab [Rescheduled]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "G": [
@@ -3374,9 +3357,9 @@
             "2024": {
                 "A": [
                     {
-                        "name": "Islamic [Cancelled]",
+                        "name": "Islamic",
                         "location": "C-305",
-                        "time": "10:20-12:"
+                        "time": "10:20-12:05"
                     },
                     {
                         "name": "UHQ",
@@ -3396,9 +3379,9 @@
                 ],
                 "B": [
                     {
-                        "name": "Islamic [Cancelled]",
+                        "name": "Islamic",
                         "location": "B-229",
-                        "time": "08:30-10:"
+                        "time": "08:30-10:15"
                     },
                     {
                         "name": "UHQ",
@@ -5140,7 +5123,22 @@
                     }
                 ]
             },
-            "2023": {},
+            "2023": {
+                "A": [
+                    {
+                        "name": "SDA [Rescheduled]",
+                        "location": "A-211",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "SDA [Rescheduled]",
+                        "location": "A-211",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2024": {}
         },
         "BS AI": {
