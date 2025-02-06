@@ -3440,7 +3440,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "VA&RE [Rescheduled]",
+                        "name": "VA&RE [Cancelled] [Rescheduled]",
                         "location": "C-407",
                         "time": "11:30-12:50"
                     },
@@ -3491,7 +3491,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "VA&RE [Rescheduled]",
+                        "name": "VA&RE [Cancelled] [Rescheduled]",
                         "location": "A-314",
                         "time": "08:30-09:50"
                     },
@@ -3604,7 +3604,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "User Exp",
+                        "name": "User Exp [Cancelled]",
                         "location": "A-315",
                         "time": "01:00-02:20"
                     },
@@ -3626,7 +3626,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "User Exp",
+                        "name": "User Exp [Cancelled]",
                         "location": "A-315",
                         "time": "02:30-03:50"
                     },
@@ -3831,7 +3831,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "C-403",
                         "time": "01:00-02:20"
                     }
@@ -3855,7 +3855,7 @@
                 ],
                 "E": [
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "C-311",
                         "time": "08:30-09:50"
                     },
