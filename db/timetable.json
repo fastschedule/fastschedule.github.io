@@ -994,6 +994,11 @@
                         "time": "03:55-05:15"
                     },
                     {
+                        "name": "AI Lab [Rescheduled]",
+                        "location": "A-Karakoram 3",
+                        "time": "08:30-11:15"
+                    },
+                    {
                         "name": "Data Mining Lab",
                         "location": "A-Karakoram 3",
                         "time": "11:25-02:10"
@@ -3983,6 +3988,11 @@
                 ],
                 "D": [
                     {
+                        "name": "DLD [Rescheduled]",
+                        "location": "C-403",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "Exp Writing",
                         "location": "A-315",
                         "time": "08:30-10:15"
@@ -3991,11 +4001,6 @@
                         "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "11:25-02:10"
-                    },
-                    {
-                        "name": "DLD [Rescheduled]",
-                        "location": "C-GPU Lab",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
@@ -4012,11 +4017,6 @@
                 ],
                 "B": [
                     {
-                        "name": "DLD [Rescheduled]",
-                        "location": "C-GPU Lab",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:15"
@@ -4030,6 +4030,11 @@
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "DLD [Rescheduled]",
+                        "location": "B-Digital",
+                        "time": "02:30-03:50"
                     }
                 ]
             }
