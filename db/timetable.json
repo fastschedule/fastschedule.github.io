@@ -1136,11 +1136,6 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "VA&RE [Rescheduled]",
-                        "location": "C-410",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Digital Mktg",
                         "location": "A-303",
                         "time": "10:00-11:20"
@@ -3430,86 +3425,7 @@
     "Thursday": {
         "BS CY": {
             "2021": {},
-            "2022": {
-                "B": [
-                    {
-                        "name": "Digital Mktg",
-                        "location": "C-309",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Ethical Hacking",
-                        "location": "C-310",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "VA&RE [Cancelled] [Rescheduled]",
-                        "location": "C-407",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "VA&RE Lab",
-                        "location": "C-Rawal 1",
-                        "time": "02:25-05:10"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "VA&RE",
-                        "location": "A-211",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "AI [Cancelled]",
-                        "location": "A-305",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "A-305",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "VA&RE",
-                        "location": "A-303",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI [Cancelled]",
-                        "location": "A-310",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "A-310",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Ethical Hacking",
-                        "location": "A-310",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "VA&RE [Cancelled] [Rescheduled]",
-                        "location": "A-314",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "A-314",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "A-Mehran 1",
-                        "time": "11:25-02:10"
-                    }
-                ]
-            },
+            "2022": {},
             "2023": {
                 "A": [
                     {
@@ -4722,13 +4638,6 @@
                         "name": "Digital Mktg",
                         "location": "C-407",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "AI Lab [Rescheduled]",
-                        "location": "A-Mehran 1",
-                        "time": "08:30-11:15"
                     }
                 ]
             },
