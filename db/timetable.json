@@ -1670,6 +1670,11 @@
                         "name": "MV Cal",
                         "location": "C-304",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OOP Lab [Rescheduled]",
+                        "location": "A-Karakoram 3",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "A": [
@@ -1838,6 +1843,11 @@
                         "name": "Formal Meth in SE",
                         "location": "C-401",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "S/w Const Lab [Rescheduled]",
+                        "location": "C-Margala 3",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "E": [
@@ -5327,23 +5337,23 @@
                         "time": "03:55-05:15"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "Digital Mktg [Rescheduled]",
-                        "location": "A-118 (MEDC)",
-                        "time": "08:30-09:50"
-                    }
-                ],
                 "C": [
                     {
                         "name": "Digital Mktg [Rescheduled]",
                         "location": "A-118 (MEDC)",
-                        "time": "11:30-12:50"
+                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Data Mining Lab [Rescheduled]",
                         "location": "C-GPU Lab",
-                        "time": "08:30-11:15"
+                        "time": "N/A"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Digital Mktg [Rescheduled]",
+                        "location": "A-118 (MEDC)",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
