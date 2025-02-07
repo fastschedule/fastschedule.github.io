@@ -4690,20 +4690,7 @@
     },
     "Friday": {
         "BS CY": {
-            "2021": {
-                "T": [
-                    {
-                        "name": "Cyber Analytics [Rescheduled]",
-                        "location": "C-403",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Cyber Analytics [Rescheduled]",
-                        "location": "C-403",
-                        "time": "03:55-05:15"
-                    }
-                ]
-            },
+            "2021": {},
             "2022": {
                 "B": [
                     {
@@ -4738,24 +4725,9 @@
                         "location": "C-407",
                         "time": "11:30-12:50"
                     }
-                ],
-                "C": [
-                    {
-                        "name": "AI Lab [Rescheduled]",
-                        "location": "A-Mehran 1",
-                        "time": "08:30-11:15"
-                    }
                 ]
             },
-            "2023": {
-                "B": [
-                    {
-                        "name": "Civics [Rescheduled]",
-                        "location": "C-405",
-                        "time": "02:00-03:45"
-                    }
-                ]
-            },
+            "2023": {},
             "2024": {
                 "A": [
                     {
@@ -4849,7 +4821,20 @@
                     }
                 ]
             },
-            "2022": {},
+            "2022": {
+                "H": [
+                    {
+                        "name": "S/w Engg [Rescheduled]",
+                        "location": "B-230",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "S/w Engg [Rescheduled]",
+                        "location": "A-108",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2023": {
                 "D": [
                     {
@@ -4977,16 +4962,6 @@
                         "name": "Psychology",
                         "location": "C-301",
                         "time": "10:30-12:15"
-                    },
-                    {
-                        "name": "MV Cal [Rescheduled]",
-                        "location": "C-311",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "DLD [Rescheduled]",
-                        "location": "C-404",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "F": [
@@ -5016,11 +4991,6 @@
                         "name": "Exp Writing",
                         "location": "C-302",
                         "time": "10:30-12:15"
-                    },
-                    {
-                        "name": "MV Cal [Rescheduled]",
-                        "location": "C-311",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "D": [
@@ -5050,11 +5020,6 @@
                         "name": "Ideology of Pak",
                         "location": "C-303",
                         "time": "10:30-12:15"
-                    },
-                    {
-                        "name": "DLD [Rescheduled]",
-                        "location": "C-404",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "G": [
@@ -5101,11 +5066,6 @@
                         "name": "S/w Const",
                         "location": "C-308",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Formal Meth in SE [Rescheduled]",
-                        "location": "C-402",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "G": [
@@ -5123,11 +5083,6 @@
                         "name": "Formal Meth in SE",
                         "location": "C-309",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Formal Meth in SE [Rescheduled]",
-                        "location": "C-402",
-                        "time": "03:55-05:15"
                     }
                 ]
             },
@@ -5278,27 +5233,7 @@
         },
         "BS DS": {
             "2021": {},
-            "2022": {
-                "C": [
-                    {
-                        "name": "Digital Mktg [Rescheduled]",
-                        "location": "C-408",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Data Mining Lab [Rescheduled]",
-                        "location": "C-GPU Lab",
-                        "time": "N/A"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Digital Mktg [Rescheduled]",
-                        "location": "A-118 (MEDC)",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
+            "2022": {},
             "2023": {
                 "C": [
                     {
