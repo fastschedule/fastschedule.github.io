@@ -433,6 +433,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "TBW [Rescheduled]",
+                        "location": "A-302",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "OS Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "11:25-02:10"
@@ -2747,15 +2752,7 @@
                     }
                 ]
             },
-            "2023": {
-                "F": [
-                    {
-                        "name": "OS Lab [Rescheduled]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "08:30-11:15"
-                    }
-                ]
-            },
+            "2023": {},
             "2024": {
                 "B": [
                     {
@@ -4767,11 +4764,6 @@
                         "name": "NLP",
                         "location": "C-408",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Ethical Hacking",
-                        "location": "C-410",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Game Design",
