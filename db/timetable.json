@@ -2857,6 +2857,11 @@
                         "time": "08:30-10:15"
                     },
                     {
+                        "name": "Psychology [Rescheduled]",
+                        "location": "C-402",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "11:25-02:10"
