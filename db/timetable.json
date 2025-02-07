@@ -3561,7 +3561,47 @@
                     }
                 ]
             },
-            "2024": {}
+            "2024": {
+                "A": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-409",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 4",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab A1",
+                        "location": "A-CALL-2",
+                        "time": "02:25-05:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab A2",
+                        "location": "A-CALL-3",
+                        "time": "02:25-05:10"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab B1",
+                        "location": "A-CALL-2",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2",
+                        "location": "A-CALL-3",
+                        "time": "11:25-02:10"
+                    }
+                ]
+            }
         },
         "BS CS": {
             "2021": {
