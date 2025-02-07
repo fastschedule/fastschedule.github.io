@@ -1450,6 +1450,11 @@
                         "name": "S/w Engg",
                         "location": "A-211",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI Lab [Rescheduled]",
+                        "location": "A-Karakoram 3",
+                        "time": "11:25-02:10"
                     }
                 ],
                 "E": [
@@ -3955,6 +3960,11 @@
                         "name": "OOP",
                         "location": "C-302",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OOP Lab [Rescheduled]",
+                        "location": "A-Karakoram 3",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "F": [
@@ -4346,6 +4356,11 @@
                         "name": "App Evol Comp",
                         "location": "A-302",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Net Lab [Rescheduled]",
+                        "location": "C-GPU Lab",
+                        "time": "08:30-11:15"
                     }
                 ],
                 "C": [
