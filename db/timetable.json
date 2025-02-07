@@ -3443,11 +3443,6 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "VA&RE [Cancelled] [Rescheduled]",
-                        "location": "C-407",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "VA&RE Lab",
                         "location": "C-Rawal 1",
                         "time": "02:25-05:10"
@@ -3460,7 +3455,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "A-305",
                         "time": "10:00-11:20"
                     },
@@ -3477,7 +3472,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "A-310",
                         "time": "11:30-12:50"
                     },
@@ -3492,11 +3487,6 @@
                         "name": "Ethical Hacking",
                         "location": "A-310",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "VA&RE [Cancelled] [Rescheduled]",
-                        "location": "A-314",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "AI",
@@ -3607,7 +3597,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "User Exp [Cancelled]",
+                        "name": "User Exp",
                         "location": "A-315",
                         "time": "01:00-02:20"
                     },
@@ -3629,7 +3619,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "User Exp [Cancelled]",
+                        "name": "User Exp",
                         "location": "A-315",
                         "time": "02:30-03:50"
                     },
@@ -3651,14 +3641,14 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Freelancing [Cancelled]",
+                        "name": "Freelancing",
                         "location": "A-118 (MEDC)",
                         "time": "08:30-09:50"
                     }
                 ],
                 "D": [
                     {
-                        "name": "Freelancing [Cancelled]",
+                        "name": "Freelancing",
                         "location": "A-118 (MEDC)",
                         "time": "10:00-11:20"
                     }
@@ -3759,11 +3749,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "S/w Engg [Cancelled] [Rescheduled]",
-                        "location": "A-311",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "AI Lab",
                         "location": "A-Karakoram 1",
                         "time": "11:25-02:10"
@@ -3829,7 +3814,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "OS [Cancelled]",
+                        "name": "OS",
                         "location": "C-403",
                         "time": "01:00-02:20"
                     }
@@ -3853,7 +3838,7 @@
                 ],
                 "E": [
                     {
-                        "name": "OS [Cancelled]",
+                        "name": "OS",
                         "location": "C-311",
                         "time": "08:30-09:50"
                     },
@@ -4008,11 +3993,6 @@
                 ],
                 "D": [
                     {
-                        "name": "DLD [Rescheduled]",
-                        "location": "C-403",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "Exp Writing",
                         "location": "A-315",
                         "time": "08:30-10:15"
@@ -4050,11 +4030,6 @@
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "11:25-02:10"
-                    },
-                    {
-                        "name": "DLD [Rescheduled]",
-                        "location": "B-Digital",
-                        "time": "02:30-03:50"
                     }
                 ]
             }
@@ -4116,11 +4091,6 @@
                         "name": "Applied AI",
                         "location": "C-304",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Formal Meth in SE [Rescheduled]",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Comp Net Lab",
@@ -4268,11 +4238,6 @@
                         "name": "Civics",
                         "location": "C-301",
                         "time": "03:00-04:45"
-                    },
-                    {
-                        "name": "MV Cal [Rescheduled]",
-                        "location": "C-309",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "UHQ",
@@ -4563,11 +4528,6 @@
                         "name": "Multiagent",
                         "location": "A-301",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Digital Mktg [Rescheduled]",
-                        "location": "C-110",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -4577,7 +4537,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "A-301",
                         "time": "08:30-09:50"
                     },
@@ -4585,16 +4545,11 @@
                         "name": "Data Mining",
                         "location": "A-303",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Digital Mktg [Rescheduled]",
-                        "location": "C-110",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "C": [
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "A-211",
                         "time": "03:55-05:15"
                     },
@@ -4606,7 +4561,7 @@
                 ],
                 "D": [
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "A-301",
                         "time": "02:30-03:50"
                     },
@@ -4643,11 +4598,6 @@
                     }
                 ],
                 "C": [
-                    {
-                        "name": "Adv Stats [Rescheduled]",
-                        "location": "A-302",
-                        "time": "08:30-09:50"
-                    },
                     {
                         "name": "Psychology",
                         "location": "A-311",
@@ -5298,11 +5248,6 @@
                         "time": "10:30-12:15"
                     },
                     {
-                        "name": "DLD Lab [Rescheduled]",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
                         "time": "02:15-05:00"
@@ -5311,11 +5256,6 @@
                         "name": "Exp Writing Lab B2",
                         "location": "A-CALL-1",
                         "time": "02:15-05:00"
-                    },
-                    {
-                        "name": "DLD Lab [Rescheduled]",
-                        "location": "B-Digital",
-                        "time": "11:30-12:50"
                     }
                 ]
             }
