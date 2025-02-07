@@ -9,7 +9,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Cyber Analytics",
+                        "name": "App ML for CY",
                         "location": "C-304",
                         "time": "03:55-05:15"
                     },
@@ -528,6 +528,11 @@
                         "name": "Seerah",
                         "location": "C-304",
                         "time": "10:20-11:15"
+                    },
+                    {
+                        "name": "Psychology",
+                        "location": "C-311",
+                        "time": "01:15-03:00"
                     },
                     {
                         "name": "Exp Writing Lab E1",
@@ -2367,7 +2372,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Cyber Analytics",
+                        "name": "App ML for CY",
                         "location": "C-302",
                         "time": "03:55-05:15"
                     },
