@@ -2853,6 +2853,11 @@
                         "name": "OOP",
                         "location": "C-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "A-314",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "G": [
@@ -4026,6 +4031,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "A-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Exp Writing Lab C1",
                         "location": "A-Mehran 2",
                         "time": "02:25-05:10"
@@ -4809,6 +4819,16 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "App ML [Rescheduled]",
+                        "location": "A-108",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "App ML [Rescheduled]",
+                        "location": "A-108",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Game Design",
                         "location": "C-GPU Lab",
                         "time": "02:15-05:00"
@@ -4829,46 +4849,7 @@
                     }
                 ]
             },
-            "2022": {
-                "H": [
-                    {
-                        "name": "PDC [Rescheduled]",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Web Prog [Rescheduled]",
-                        "location": "C-403",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Web Prog [Rescheduled]",
-                        "location": "B-230",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "J": [
-                    {
-                        "name": "S/w Engg [Rescheduled]",
-                        "location": "A-108",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "S/w Engg [Rescheduled]",
-                        "location": "A-108",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "PDC [Rescheduled]",
-                        "location": "A-108",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
+            "2022": {},
             "2023": {
                 "D": [
                     {
@@ -5150,22 +5131,7 @@
                     }
                 ]
             },
-            "2023": {
-                "A": [
-                    {
-                        "name": "SDA [Rescheduled]",
-                        "location": "A-211",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "SDA [Rescheduled]",
-                        "location": "A-211",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
+            "2023": {},
             "2024": {}
         },
         "BS AI": {
