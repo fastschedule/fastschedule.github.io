@@ -2252,6 +2252,11 @@
                         "name": "Multiagent",
                         "location": "A-302",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data Mining Lab [Rescheduled]",
+                        "location": "C-GPU Lab",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "C": [
