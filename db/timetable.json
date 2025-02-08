@@ -181,6 +181,11 @@
                 ],
                 "B": [
                     {
+                        "name": "S/w Engg",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "PDC",
                         "location": "C-307",
                         "time": "10:00-11:20"
