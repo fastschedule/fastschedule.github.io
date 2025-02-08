@@ -606,7 +606,98 @@
                     }
                 ]
             },
-            "2022": {},
+            "2022": {
+                "D": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-307",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "C-307",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "S/w Const [Rescheduled]",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "A-Karakoram 2",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Applied AI",
+                        "location": "C-308",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-308",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "S/w Const Lab",
+                        "location": "A-Karakoram 2",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Algo",
+                        "location": "C-409",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "A-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-310",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Comp Net",
+                        "location": "A-305",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "A-305",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-310",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Comp Net",
+                        "location": "A-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-305",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "A-310",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
             "2023": {
                 "B": [
                     {
@@ -1693,7 +1784,132 @@
                     }
                 ]
             },
-            "2022": {},
+            "2022": {
+                "A": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-302",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "C-302",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "S/w Const Lab",
+                        "location": "C-Rawal 4",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Applied AI",
+                        "location": "C-303",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-303",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Rawal 4",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Comp Net",
+                        "location": "C-304",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-304",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "A-Karakoram 2",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Algo",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-305",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "S/w Const Lab",
+                        "location": "A-Karakoram 2",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Algo",
+                        "location": "C-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "S/w Const Lab [Rescheduled]",
+                        "location": "C-Margala 3",
+                        "time": "02:25-05:10"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Comp Net",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-401",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "A-315",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "A-315",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "A-Karakoram 2",
+                        "time": "02:25-05:10"
+                    }
+                ]
+            },
             "2023": {
                 "B": [
                     {
@@ -2702,7 +2918,132 @@
                     }
                 ]
             },
-            "2022": {},
+            "2022": {
+                "D": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-309",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "C-309",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "S/w Const Lab",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Applied AI",
+                        "location": "C-310",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-310",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Rawal 4",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Algo",
+                        "location": "A-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "A-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-303",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Net",
+                        "location": "A-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "A-302",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "A-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "A-303",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Applied AI",
+                        "location": "A-305",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-305",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "A-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "S/w Const Lab [Rescheduled]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:25-05:10"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "S/w Const",
+                        "location": "A-310",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "A-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-310",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2023": {
                 "B": [
                     {
@@ -3794,7 +4135,127 @@
                     }
                 ]
             },
-            "2022": {},
+            "2022": {
+                "A": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-304",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "C-304",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Applied AI",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-305",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "S/w Const Lab",
+                        "location": "C-Rawal 4",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Comp Net",
+                        "location": "C-307",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-307",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "S/w Const Lab",
+                        "location": "A-Karakoram 3",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Algo",
+                        "location": "C-308",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-308",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "A-Karakoram 2",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Algo",
+                        "location": "C-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-401",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Comp Net",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-403",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "S/w Const",
+                        "location": "A-314",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "A-314",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "S/w Const Lab",
+                        "location": "A-Karakoram 2",
+                        "time": "08:30-11:15"
+                    }
+                ]
+            },
             "2023": {
                 "B": [
                     {
@@ -4589,7 +5050,42 @@
         },
         "BS SE": {
             "2021": {},
-            "2022": {},
+            "2022": {
+                "F": [
+                    {
+                        "name": "Applied AI",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-308",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-308",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-309",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "C-309",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-309",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2023": {},
             "2024": {}
         },
