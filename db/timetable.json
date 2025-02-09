@@ -2528,12 +2528,34 @@
         },
         "BS CS": {
             "2021": {
-                "A": [
+                "B": [
                     {
-                        "name": "App ML",
+                        "name": "SPM",
                         "location": "C-307",
-                        "time": "08:30-09:50"
+                        "time": "10:00-11:20"
                     },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "C-311",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Blockchain & Crypto",
+                        "location": "C-407",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-316",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Freelancing",
+                        "location": "A-118 (MEDC)",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "A": [
                     {
                         "name": "Fund of Data Visual",
                         "location": "C-307",
@@ -2583,33 +2605,6 @@
                         "name": "Freelancing",
                         "location": "A-118 (MEDC)",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "SPM",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "C-311",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Blockchain & Crypto",
-                        "location": "C-407",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Digital Mktg",
-                        "location": "A-316",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Freelancing",
-                        "location": "A-118 (MEDC)",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "C": [
