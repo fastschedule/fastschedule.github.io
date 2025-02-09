@@ -619,6 +619,11 @@
                         "time": "03:55-05:15"
                     },
                     {
+                        "name": "S/w Const [Rescheduled]",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Comp Net Lab",
                         "location": "A-Karakoram 2",
                         "time": "11:25-02:10"
@@ -1863,6 +1868,11 @@
                         "name": "Formal Meth in SE",
                         "location": "C-401",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "S/w Const Lab [Rescheduled]",
+                        "location": "C-Margala 3",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "E": [
@@ -3009,6 +3019,11 @@
                         "name": "S/w Const",
                         "location": "A-305",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "S/w Const Lab [Rescheduled]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "G": [
