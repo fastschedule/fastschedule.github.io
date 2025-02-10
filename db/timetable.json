@@ -1572,7 +1572,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "FOM",
+                        "name": "FOM [Cancelled]",
                         "location": "C-404",
                         "time": "10:00-11:20"
                     },
@@ -5111,6 +5111,13 @@
                         "name": "Formal Meth in SE",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Comp Net Lab [Cancelled]",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:15"
                     }
                 ]
             },
