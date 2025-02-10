@@ -4720,23 +4720,6 @@
         "BS CY": {
             "2021": {},
             "2022": {
-                "B": [
-                    {
-                        "name": "VA&RE",
-                        "location": "C-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "C-406",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "C-406",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "A": [
                     {
                         "name": "Info Sec",
@@ -4751,6 +4734,23 @@
                     {
                         "name": "Digital Mktg",
                         "location": "C-407",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "VA&RE",
+                        "location": "C-110",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "C-110",
                         "time": "11:30-12:50"
                     }
                 ]
@@ -4940,12 +4940,12 @@
                     },
                     {
                         "name": "OS",
-                        "location": "C-110",
+                        "location": "C-410",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "TBW",
-                        "location": "C-110",
+                        "location": "C-410",
                         "time": "11:30-12:50"
                     }
                 ],
