@@ -14,7 +14,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Entre",
+                        "name": "Entre [Cancelled]",
                         "location": "C-405",
                         "time": "01:00-02:20"
                     }
@@ -326,7 +326,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "C-311",
                         "time": "10:00-11:20"
                     },
