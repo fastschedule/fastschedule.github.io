@@ -271,7 +271,7 @@
                     },
                     {
                         "name": "Compiler Const [Rescheduled]",
-                        "location": "A-314",
+                        "location": "A-315",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -531,55 +531,6 @@
                         "time": "01:00-02:20"
                     }
                 ],
-                "E": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-304",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "C-304",
-                        "time": "10:20-11:15"
-                    },
-                    {
-                        "name": "Psychology [Rescheduled]",
-                        "location": "C-311",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab E1 [Cancelled]",
-                        "location": "A-CALL-2",
-                        "time": "11:25-02:10"
-                    },
-                    {
-                        "name": "Exp Writing Lab E2",
-                        "location": "A-CALL-3",
-                        "time": "11:25-02:10"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "Seerah",
-                        "location": "C-304",
-                        "time": "11:30-12:25"
-                    },
-                    {
-                        "name": "Ideology of Pak",
-                        "location": "C-304",
-                        "time": "12:30-02:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab G1",
-                        "location": "A-CALL-2",
-                        "time": "08:30-11:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab G2",
-                        "location": "A-CALL-3",
-                        "time": "08:30-11:15"
-                    }
-                ],
                 "F": [
                     {
                         "name": "Seerah",
@@ -600,6 +551,55 @@
                         "name": "Exp Writing",
                         "location": "B-227",
                         "time": "12:30-02:15"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Psychology [Rescheduled]",
+                        "location": "C-311",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "A-314",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "A-314",
+                        "time": "10:20-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab E1 [Cancelled]",
+                        "location": "A-CALL-2",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab E2",
+                        "location": "A-CALL-3",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Seerah",
+                        "location": "A-314",
+                        "time": "11:30-12:25"
+                    },
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "A-314",
+                        "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab G1",
+                        "location": "A-CALL-2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab G2",
+                        "location": "A-CALL-3",
+                        "time": "08:30-11:15"
                     }
                 ]
             }
@@ -887,7 +887,7 @@
                 "A": [
                     {
                         "name": "Psychology",
-                        "location": "A-315",
+                        "location": "C-304",
                         "time": "10:00-11:45"
                     },
                     {
@@ -899,7 +899,7 @@
                 "B": [
                     {
                         "name": "Psychology",
-                        "location": "A-315",
+                        "location": "C-304",
                         "time": "12:00-01:45"
                     },
                     {
@@ -918,7 +918,7 @@
                     },
                     {
                         "name": "OOP [Rescheduled]",
-                        "location": "A-314",
+                        "location": "A-315",
                         "time": "10:00-11:20"
                     },
                     {
@@ -1638,7 +1638,7 @@
                     },
                     {
                         "name": "Seerah",
-                        "location": "C-309",
+                        "location": "A-303",
                         "time": "01:00-01:55"
                     },
                     {
@@ -1679,6 +1679,11 @@
                         "name": "OOP",
                         "location": "C-303",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DLD Lab [Rescheduled]",
+                        "location": "B-Digital",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "G": [
@@ -2152,6 +2157,11 @@
                 ],
                 "A": [
                     {
+                        "name": "Fund of S/w Engg",
+                        "location": "C-309",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "DB",
                         "location": "C-409",
                         "time": "08:30-09:50"
@@ -2160,11 +2170,6 @@
                         "name": "AI",
                         "location": "C-409",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fund of S/w Engg",
-                        "location": "A-303",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -2896,7 +2901,7 @@
                     },
                     {
                         "name": "Psychology [Rescheduled]",
-                        "location": "C-402",
+                        "location": "A-211",
                         "time": "02:30-03:50"
                     },
                     {
@@ -3250,6 +3255,18 @@
                 ]
             },
             "2023": {
+                "A": [
+                    {
+                        "name": "COAL",
+                        "location": "C-402",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Fund of S/w Engg",
@@ -3260,18 +3277,6 @@
                         "name": "AI Lab",
                         "location": "C-Rawal 1",
                         "time": "02:25-05:10"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "COAL",
-                        "location": "A-303",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:15"
                     }
                 ]
             },
@@ -3432,6 +3437,11 @@
                         "name": "Adv Stats",
                         "location": "C-310",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Adv Stats [Rescheduled]",
+                        "location": "A-303",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "A": [
@@ -4831,14 +4841,14 @@
                 ],
                 "C": [
                     {
-                        "name": "User Exp",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Cloud Comp",
                         "location": "C-409",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "User Exp",
+                        "location": "A-305",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "D": [
@@ -5187,6 +5197,18 @@
                 ]
             },
             "2023": {
+                "A": [
+                    {
+                        "name": "COAL",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Fund of S/w Engg",
@@ -5197,18 +5219,6 @@
                         "name": "DB Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "N/A"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "COAL",
-                        "location": "A-305",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:15"
                     }
                 ]
             },
