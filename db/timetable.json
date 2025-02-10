@@ -12,11 +12,6 @@
                         "name": "App ML for CY",
                         "location": "C-304",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Entre [Cancelled]",
-                        "location": "C-405",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -334,7 +329,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "OS [Cancelled]",
+                        "name": "OS",
                         "location": "C-311",
                         "time": "10:00-11:20"
                     },
@@ -555,7 +550,7 @@
                         "time": "10:20-11:15"
                     },
                     {
-                        "name": "Exp Writing Lab E1 [Cancelled]",
+                        "name": "Exp Writing Lab E1",
                         "location": "A-CALL-2",
                         "time": "11:25-02:10"
                     },
