@@ -2573,6 +2573,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Web Prog [Rescheduled]",
+                        "location": "A-108",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "SPM",
                         "location": "A-301",
                         "time": "11:30-12:50"
@@ -2613,6 +2618,11 @@
                         "name": "Blockchain & Crypto",
                         "location": "C-407",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Web Prog [Rescheduled]",
+                        "location": "A-108",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Digital Mktg",
