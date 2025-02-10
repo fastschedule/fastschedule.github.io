@@ -72,7 +72,15 @@
                     }
                 ]
             },
-            "2024": {}
+            "2024": {
+                "A": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-110",
+                        "time": "02:45-04:05"
+                    }
+                ]
+            }
         },
         "BS CS": {
             "2021": {
@@ -255,6 +263,11 @@
                         "name": "Compiler Const",
                         "location": "C-402",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Compiler Const [Rescheduled]",
@@ -760,6 +773,11 @@
                         "name": "Discrete",
                         "location": "C-308",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "C-407",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
@@ -955,11 +973,6 @@
                     {
                         "name": "Data Mining",
                         "location": "C-405",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Data Mining",
-                        "location": "C-406",
                         "time": "10:00-11:20"
                     },
                     {
