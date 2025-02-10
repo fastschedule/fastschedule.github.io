@@ -23,14 +23,14 @@
             "2022": {
                 "C": [
                     {
-                        "name": "Digital Mktg",
-                        "location": "C-407",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Ethical Hacking",
                         "location": "A-301",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-305",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "VA&RE Lab",
