@@ -268,11 +268,6 @@
                         "name": "AI",
                         "location": "C-406",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Compiler Const [Rescheduled]",
-                        "location": "A-315",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "H": [
@@ -446,11 +441,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "TBW [Rescheduled]",
-                        "location": "A-302",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "OS Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "11:25-02:10"
@@ -543,11 +533,6 @@
                         "time": "09:30-11:15"
                     },
                     {
-                        "name": "DLD [Rescheduled]",
-                        "location": "C-305",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Exp Writing",
                         "location": "B-227",
                         "time": "12:30-02:15"
@@ -630,11 +615,6 @@
                         "name": "Applied AI",
                         "location": "C-307",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "S/w Const [Rescheduled]",
-                        "location": "C-308",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Comp Net Lab",
@@ -891,7 +871,7 @@
                         "time": "10:00-11:45"
                     },
                     {
-                        "name": "AI Lab [Cancelled]",
+                        "name": "AI Lab",
                         "location": "C-Margala 4",
                         "time": "02:25-05:10"
                     }
@@ -915,11 +895,6 @@
                         "name": "Islamic",
                         "location": "C-310",
                         "time": "02:30-04:15"
-                    },
-                    {
-                        "name": "OOP [Rescheduled]",
-                        "location": "A-315",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "DLD Lab",
@@ -998,7 +973,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "AI Lab [Cancelled]",
+                        "name": "AI Lab",
                         "location": "A-Mehran 1",
                         "time": "08:30-11:15"
                     }
@@ -1030,11 +1005,6 @@
                         "name": "PDC",
                         "location": "C-406",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "AI Lab [Rescheduled]",
-                        "location": "A-Karakoram 3",
-                        "time": "08:30-11:15"
                     },
                     {
                         "name": "Data Mining Lab",
