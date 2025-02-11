@@ -323,6 +323,11 @@
                         "name": "S/w Engg",
                         "location": "A-211",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI Lab [Rescheduled]",
+                        "location": "C-GPU Lab",
+                        "time": "11:25-02:10"
                     }
                 ]
             },
@@ -535,11 +540,6 @@
                 ],
                 "E": [
                     {
-                        "name": "Psychology [Rescheduled]",
-                        "location": "C-311",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "Exp Writing",
                         "location": "A-314",
                         "time": "08:30-10:15"
@@ -748,11 +748,6 @@
                         "name": "Discrete",
                         "location": "C-308",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "MV Cal [Rescheduled]",
-                        "location": "C-407",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
@@ -890,6 +885,11 @@
                         "name": "Islamic",
                         "location": "C-310",
                         "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab C2 [Rescheduled]",
+                        "location": "A-CALL-1",
+                        "time": "08:30-11:15"
                     },
                     {
                         "name": "DLD Lab",
@@ -1156,11 +1156,6 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "VA&RE [Rescheduled]",
-                        "location": "C-410",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "AI Lab",
                         "location": "C-Rawal 1",
                         "time": "02:25-05:10"
@@ -1175,7 +1170,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Prob & Stats",
+                        "name": "Prob & Stats [Cancelled]",
                         "location": "C-407",
                         "time": "10:00-11:20"
                     },
@@ -1187,7 +1182,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Prob & Stats",
+                        "name": "Prob & Stats [Cancelled]",
                         "location": "C-408",
                         "time": "08:30-09:50"
                     },
@@ -3301,6 +3296,11 @@
             },
             "2022": {
                 "A": [
+                    {
+                        "name": "PDC [Rescheduled]",
+                        "location": "C-307",
+                        "time": "01:00-02:20"
+                    },
                     {
                         "name": "PDC",
                         "location": "C-307",
