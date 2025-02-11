@@ -332,6 +332,23 @@
                 ]
             },
             "2023": {
+                "C": [
+                    {
+                        "name": "FOM [Rescheduled]",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-402",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "OS",
@@ -364,18 +381,6 @@
                         "name": "DB",
                         "location": "C-401",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "TBW",
-                        "location": "C-401",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "C-402",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "F": [
