@@ -2776,18 +2776,6 @@
                 ]
             },
             "2023": {
-                "F": [
-                    {
-                        "name": "OS [Rescheduled]",
-                        "location": "C-311",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OS Lab [Rescheduled]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "08:30-11:15"
-                    }
-                ],
                 "B": [
                     {
                         "name": "FOM [Rescheduled]",
@@ -2797,6 +2785,18 @@
                     {
                         "name": "FOM [Rescheduled]",
                         "location": "A-Karakoram 1",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "OS Lab [Rescheduled]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "OS [Rescheduled]",
+                        "location": "A-Mehran 2",
                         "time": "11:30-12:50"
                     }
                 ]
