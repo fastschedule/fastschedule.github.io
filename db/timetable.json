@@ -534,7 +534,7 @@
                     },
                     {
                         "name": "Exp Writing",
-                        "location": "B-227",
+                        "location": "A-315",
                         "time": "12:30-02:15"
                     }
                 ],
@@ -4608,6 +4608,11 @@
                         "name": "Data Mining",
                         "location": "A-303",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PDC [Rescheduled]",
+                        "location": "A-311",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
@@ -4898,7 +4903,7 @@
                     },
                     {
                         "name": "Prob & Stats",
-                        "location": "A-303",
+                        "location": "A-108",
                         "time": "08:30-09:50"
                     },
                     {
@@ -5047,6 +5052,11 @@
                         "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Psychology [Rescheduled]",
+                        "location": "C-Rawal 1",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
