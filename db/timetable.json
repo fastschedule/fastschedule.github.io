@@ -1723,6 +1723,18 @@
         },
         "BS SE": {
             "2021": {
+                "A": [
+                    {
+                        "name": "User Exp",
+                        "location": "C-309",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "MLOPs",
+                        "location": "A-118 (MEDC)",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "P": [
                     {
                         "name": "PPIT",
@@ -1752,18 +1764,6 @@
                         "name": "User Exp",
                         "location": "A-305",
                         "time": "08:30-09:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "User Exp",
-                        "location": "A-316",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "MLOPs",
-                        "location": "A-118 (MEDC)",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -1937,11 +1937,6 @@
             "2024": {
                 "C": [
                     {
-                        "name": "UHQ",
-                        "location": "C-309",
-                        "time": "11:30-12:25"
-                    },
-                    {
                         "name": "OOP",
                         "location": "C-310",
                         "time": "08:30-09:50"
@@ -1955,6 +1950,11 @@
                         "name": "Discrete",
                         "location": "C-406",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "UHQ",
+                        "location": "A-316",
+                        "time": "11:30-12:25"
                     }
                 ],
                 "B": [
@@ -2773,9 +2773,21 @@
             "2023": {
                 "F": [
                     {
+                        "name": "OS [Rescheduled]",
+                        "location": "C-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "OS Lab [Rescheduled]",
                         "location": "Rawal 3 (B-232)",
                         "time": "08:30-11:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "TBW [Rescheduled]",
+                        "location": "A-315",
+                        "time": "08:30-09:50"
                     }
                 ]
             },
@@ -4838,8 +4850,8 @@
                     },
                     {
                         "name": "S/w Engg [Rescheduled]",
-                        "location": "A-118 (MEDC)",
-                        "time": "11:30-12:50"
+                        "location": "Rawal 3 (B-232)",
+                        "time": "N/A"
                     }
                 ]
             },
@@ -4951,6 +4963,11 @@
                         "name": "Prob & Stats",
                         "location": "A-108",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OS [Rescheduled]",
+                        "location": "A-118 (MEDC)",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "OS Lab",
