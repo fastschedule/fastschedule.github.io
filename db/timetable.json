@@ -2656,11 +2656,6 @@
                         "name": "AI",
                         "location": "C-406",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "AI Lab [Rescheduled]",
-                        "location": "C-GPU Lab",
-                        "time": "08:30-11:15"
                     }
                 ],
                 "B": [
@@ -2789,11 +2784,6 @@
                     }
                 ],
                 "F": [
-                    {
-                        "name": "OS Lab [Rescheduled]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "08:30-11:15"
-                    },
                     {
                         "name": "OS [Rescheduled]",
                         "location": "A-Mehran 2",
@@ -4917,6 +4907,11 @@
                         "time": "02:30-03:50"
                     },
                     {
+                        "name": "OS Lab [Rescheduled]",
+                        "location": "C-311",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Prob & Stats",
                         "location": "A-108",
                         "time": "11:30-12:50"
@@ -4925,6 +4920,11 @@
                         "name": "DB Lab",
                         "location": "C-Rawal 1",
                         "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "OS Lab [Rescheduled]",
+                        "location": "C-Rawal 4",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "G": [
@@ -4975,14 +4975,14 @@
                 ],
                 "E": [
                     {
-                        "name": "FOM",
-                        "location": "B-229",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Prob & Stats",
                         "location": "A-108",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "A-303",
+                        "time": "08:30-09:50"
                     },
                     {
                         "name": "OS [Rescheduled]",
