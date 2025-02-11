@@ -1127,32 +1127,10 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "B": [
-                    {
-                        "name": "Ethical Hacking",
-                        "location": "C-407",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "VA&RE [Rescheduled]",
-                        "location": "C-410",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Digital Mktg",
-                        "location": "A-303",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "C-Rawal 1",
-                        "time": "02:25-05:10"
-                    }
-                ],
                 "A": [
                     {
                         "name": "Digital Mktg",
-                        "location": "A-303",
+                        "location": "C-309",
                         "time": "08:30-09:50"
                     },
                     {
@@ -1164,6 +1142,28 @@
                         "name": "VA&RE Lab",
                         "location": "A-Karakoram 1",
                         "time": "11:25-02:10"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Digital Mktg",
+                        "location": "C-309",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Ethical Hacking",
+                        "location": "C-407",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "VA&RE [Rescheduled]",
+                        "location": "C-410",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Rawal 1",
+                        "time": "02:25-05:10"
                     }
                 ]
             },
@@ -1693,12 +1693,12 @@
                 "A": [
                     {
                         "name": "Ideology of Pak",
-                        "location": "C-309",
+                        "location": "A-303",
                         "time": "08:30-10:15"
                     },
                     {
                         "name": "Seerah",
-                        "location": "C-309",
+                        "location": "A-303",
                         "time": "10:20-11:15"
                     },
                     {
