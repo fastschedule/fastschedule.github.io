@@ -572,24 +572,28 @@
                         "time": "12:30-02:15"
                     }
                 ],
-                "1": [
+                "G1": [
                     {
                         "name": "Exp Writing Lab G1",
                         "location": "A-CALL-2",
                         "time": "08:30-11:15"
-                    },
+                    }
+                ],
+                "E1": [
                     {
                         "name": "Exp Writing Lab E1",
                         "location": "A-CALL-2",
                         "time": "11:25-02:10"
                     }
                 ],
-                "2": [
+                "G2": [
                     {
                         "name": "Exp Writing Lab G2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:15"
-                    },
+                    }
+                ],
+                "E2": [
                     {
                         "name": "Exp Writing Lab E2",
                         "location": "A-CALL-3",
@@ -735,14 +739,14 @@
                         "time": "10:00-11:20"
                     }
                 ],
-                "1": [
+                "A1": [
                     {
                         "name": "Exp Writing Lab A1",
                         "location": "A-Mehran 2",
                         "time": "02:25-05:10"
                     }
                 ],
-                "2": [
+                "A2": [
                     {
                         "name": "Exp Writing Lab A2",
                         "location": "A-CALL-1",
@@ -929,19 +933,21 @@
                         "time": "11:25-02:10"
                     }
                 ],
-                "1": [
+                "A1": [
                     {
                         "name": "Exp Writing Lab A1",
                         "location": "A-Mehran 2",
                         "time": "11:25-02:10"
                     }
                 ],
-                "2": [
+                "C2": [
                     {
                         "name": "Exp Writing Lab C2 [Rescheduled]",
                         "location": "A-CALL-1",
                         "time": "08:30-11:15"
-                    },
+                    }
+                ],
+                "A2": [
                     {
                         "name": "Exp Writing Lab A2",
                         "location": "A-CALL-1",
@@ -1721,14 +1727,14 @@
                         "time": "11:25-02:10"
                     }
                 ],
-                "1": [
+                "A1": [
                     {
                         "name": "Exp Writing Lab A1",
                         "location": "A-Mehran 2",
                         "time": "11:25-02:10"
                     }
                 ],
-                "2": [
+                "A2": [
                     {
                         "name": "Exp Writing Lab A2",
                         "location": "A-CALL-1",
@@ -1934,14 +1940,14 @@
                         "time": "08:30-11:15"
                     }
                 ],
-                "1": [
+                "B1": [
                     {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
                         "time": "02:25-05:10"
                     }
                 ],
-                "2": [
+                "B2": [
                     {
                         "name": "Exp Writing Lab B2",
                         "location": "A-CALL-1",
@@ -2006,14 +2012,14 @@
                         "time": "03:00-04:45"
                     }
                 ],
-                "1": [
+                "A1": [
                     {
                         "name": "Exp Writing Lab A1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:15"
                     }
                 ],
-                "2": [
+                "A2": [
                     {
                         "name": "Exp Writing Lab A2",
                         "location": "A-CALL-1",
@@ -3141,14 +3147,14 @@
                         "time": "12:30-02:15"
                     }
                 ],
-                "1": [
+                "C1": [
                     {
                         "name": "Exp Writing Lab C1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:15"
                     }
                 ],
-                "2": [
+                "C2": [
                     {
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-1",
@@ -3312,14 +3318,14 @@
                         "time": "12:30-02:15"
                     }
                 ],
-                "1": [
+                "C1": [
                     {
                         "name": "Exp Writing Lab C1",
                         "location": "A-CALL-2",
                         "time": "08:30-11:15"
                     }
                 ],
-                "2": [
+                "C2": [
                     {
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
@@ -3501,24 +3507,28 @@
                         "time": "10:20-11:15"
                     }
                 ],
-                "1": [
+                "A1": [
                     {
                         "name": "Exp Writing Lab A1",
                         "location": "A-Mehran 2",
                         "time": "02:25-05:10"
-                    },
+                    }
+                ],
+                "A2": [
+                    {
+                        "name": "Exp Writing Lab A2",
+                        "location": "A-CALL-1",
+                        "time": "02:25-05:10"
+                    }
+                ],
+                "B1": [
                     {
                         "name": "Exp Writing Lab B1",
                         "location": "A-CALL-2",
                         "time": "11:25-02:10"
                     }
                 ],
-                "2": [
-                    {
-                        "name": "Exp Writing Lab A2",
-                        "location": "A-CALL-1",
-                        "time": "02:25-05:10"
-                    },
+                "B2": [
                     {
                         "name": "Exp Writing Lab B2",
                         "location": "A-CALL-3",
@@ -3662,24 +3672,28 @@
                         "time": "11:25-02:10"
                     }
                 ],
-                "1": [
+                "B1": [
                     {
                         "name": "Exp Writing Lab B1",
                         "location": "A-CALL-2",
                         "time": "11:25-02:10"
-                    },
+                    }
+                ],
+                "A1": [
                     {
                         "name": "Exp Writing Lab A1",
                         "location": "A-CALL-2",
                         "time": "02:25-05:10"
                     }
                 ],
-                "2": [
+                "B2": [
                     {
                         "name": "Exp Writing Lab B2",
                         "location": "A-CALL-3",
                         "time": "11:25-02:10"
-                    },
+                    }
+                ],
+                "A2": [
                     {
                         "name": "Exp Writing Lab A2",
                         "location": "A-CALL-3",
@@ -4140,24 +4154,28 @@
                         "time": "08:30-11:15"
                     }
                 ],
-                "1": [
+                "B1": [
                     {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:15"
-                    },
+                    }
+                ],
+                "C1": [
                     {
                         "name": "Exp Writing Lab C1",
                         "location": "A-Mehran 2",
                         "time": "02:25-05:10"
                     }
                 ],
-                "2": [
+                "B2": [
                     {
                         "name": "Exp Writing Lab B2",
                         "location": "A-CALL-1",
                         "time": "08:30-11:15"
-                    },
+                    }
+                ],
+                "C2": [
                     {
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-1",
@@ -4418,14 +4436,14 @@
                         "time": "01:00-02:20"
                     }
                 ],
-                "1": [
+                "B1": [
                     {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
                         "time": "11:25-02:10"
                     }
                 ],
-                "2": [
+                "B2": [
                     {
                         "name": "Exp Writing Lab B2",
                         "location": "A-CALL-1",
@@ -5154,24 +5172,28 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "1": [
+                "D1": [
                     {
                         "name": "Exp Writing Lab D1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:15"
-                    },
+                    }
+                ],
+                "D2": [
+                    {
+                        "name": "Exp Writing Lab D2",
+                        "location": "A-CALL-1",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "F1": [
                     {
                         "name": "Exp Writing Lab F1",
                         "location": "A-CALL-2",
                         "time": "08:30-11:15"
                     }
                 ],
-                "2": [
-                    {
-                        "name": "Exp Writing Lab D2",
-                        "location": "A-CALL-1",
-                        "time": "08:30-11:15"
-                    },
+                "F2": [
                     {
                         "name": "Exp Writing Lab F2",
                         "location": "A-CALL-3",
@@ -5363,14 +5385,14 @@
                         "time": "10:30-12:15"
                     }
                 ],
-                "1": [
+                "B1": [
                     {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
                         "time": "02:15-05:00"
                     }
                 ],
-                "2": [
+                "B2": [
                     {
                         "name": "Exp Writing Lab B2",
                         "location": "A-CALL-1",
@@ -5452,7 +5474,7 @@
                     {
                         "name": "Islamic [Rescheduled]",
                         "location": "A-303",
-                        "time": "N/A"
+                        "time": "02:15 04:00"
                     },
                     {
                         "name": "OOP",
