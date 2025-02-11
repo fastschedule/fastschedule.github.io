@@ -2783,6 +2783,13 @@
                         "time": "11:30-12:50"
                     }
                 ],
+                "D": [
+                    {
+                        "name": "FOM [Rescheduled]",
+                        "location": "A-Karakoram 1",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "F": [
                     {
                         "name": "OS [Rescheduled]",
