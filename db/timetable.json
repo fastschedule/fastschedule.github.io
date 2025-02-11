@@ -5349,6 +5349,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Islamic [Rescheduled]",
+                        "location": "A-303",
+                        "time": "N/A"
+                    },
+                    {
                         "name": "OOP",
                         "location": "A-310",
                         "time": "08:30-09:50"
