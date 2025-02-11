@@ -2771,6 +2771,13 @@
                 ]
             },
             "2023": {
+                "D": [
+                    {
+                        "name": "FOM [Rescheduled]",
+                        "location": "B-227",
+                        "time": "03:55-05:15"
+                    }
+                ],
                 "B": [
                     {
                         "name": "FOM [Rescheduled]",
@@ -2783,11 +2790,11 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "D": [
+                "C": [
                     {
                         "name": "FOM [Rescheduled]",
-                        "location": "A-Karakoram 1",
-                        "time": "01:00-02:20"
+                        "location": "Rawal 3 (B-232)",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "F": [
