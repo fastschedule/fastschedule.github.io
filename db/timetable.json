@@ -4017,6 +4017,11 @@
                         "name": "MV Cal",
                         "location": "C-304",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
