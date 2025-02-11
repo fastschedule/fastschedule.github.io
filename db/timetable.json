@@ -2564,7 +2564,7 @@
                     },
                     {
                         "name": "Digital Mktg",
-                        "location": "A-315",
+                        "location": "C-110",
                         "time": "10:00-11:20"
                     },
                     {
@@ -2595,14 +2595,14 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Digital Mktg",
-                        "location": "A-316",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Freelancing",
                         "location": "A-118 (MEDC)",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-118 (MEDC)",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -2786,6 +2786,18 @@
                         "name": "OS Lab [Rescheduled]",
                         "location": "Rawal 3 (B-232)",
                         "time": "08:30-11:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "FOM [Rescheduled]",
+                        "location": "A-315",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "FOM [Rescheduled]",
+                        "location": "A-Karakoram 1",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -3166,7 +3178,7 @@
                     },
                     {
                         "name": "Multiagent",
-                        "location": "C-110",
+                        "location": "A-315",
                         "time": "10:00-11:20"
                     }
                 ],
