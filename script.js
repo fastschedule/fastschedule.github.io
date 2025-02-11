@@ -97,9 +97,9 @@ function loadTimetable() {
     let dayData = timetableData[day]?.[department]?.[batchYear]?.[section] || [];
 
     // Check the specific condition and add "Civics"
-    if (department === "BS CY" && batchYear === "2024" && day === "Thursday" && section === "B") {
-        dayData.push({ name: "Civics", location: "C-404", time: "3:15-5:00" });
-    }
+    //if (department === "BS CY" && batchYear === "2024" && day === "Thursday" && section === "B") {
+    //    dayData.push({ name: "Civics", location: "C-404", time: "3:15-5:00" });
+    //}
 
     if (dayData.length > 0) {
         const validEntries = [];
