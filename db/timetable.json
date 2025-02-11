@@ -863,7 +863,32 @@
                     }
                 ]
             },
-            "2023": {},
+            "2023": {
+                "A": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-304",
+                        "time": "10:00-11:45"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Margala 4",
+                        "time": "02:25-05:10"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-304",
+                        "time": "12:00-01:45"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:15"
+                    }
+                ]
+            },
             "2024": {
                 "C": [
                     {
@@ -2067,7 +2092,42 @@
                     }
                 ]
             },
-            "2023": {},
+            "2023": {
+                "B": [
+                    {
+                        "name": "COAL",
+                        "location": "C-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-301",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Fund of S/w Engg",
+                        "location": "C-309",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-409",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-409",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
@@ -4430,7 +4490,42 @@
                     }
                 ]
             },
-            "2023": {},
+            "2023": {
+                "B": [
+                    {
+                        "name": "COAL",
+                        "location": "C-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-301",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "DB",
+                        "location": "C-404",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Fund of S/w Engg",
+                        "location": "C-406",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            },
             "2024": {
                 "C": [
                     {
