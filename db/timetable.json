@@ -3735,6 +3735,28 @@
                 ]
             },
             "2022": {
+                "J": [
+                    {
+                        "name": "S/w Engg [Rescheduled]",
+                        "location": "C-406",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Compiler Const",
+                        "location": "B-230",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "B-230",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "A-Karakoram 1",
+                        "time": "11:25-02:10"
+                    }
+                ],
                 "F": [
                     {
                         "name": "PDC",
@@ -3815,23 +3837,6 @@
                         "name": "AI Lab",
                         "location": "A-Karakoram 1",
                         "time": "08:30-11:15"
-                    }
-                ],
-                "J": [
-                    {
-                        "name": "Compiler Const",
-                        "location": "B-230",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "B-230",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "A-Karakoram 1",
-                        "time": "11:25-02:10"
                     }
                 ],
                 "D": [
