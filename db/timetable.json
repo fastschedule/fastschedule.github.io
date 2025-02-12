@@ -1945,11 +1945,6 @@
                         "name": "Discrete",
                         "location": "C-406",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "UHQ",
-                        "location": "A-316",
-                        "time": "11:30-12:25"
                     }
                 ],
                 "B": [
@@ -4300,11 +4295,6 @@
                         "time": "03:00-04:45"
                     },
                     {
-                        "name": "UHQ",
-                        "location": "C-409",
-                        "time": "10:20-11:15"
-                    },
-                    {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
                         "time": "11:25-02:10"
@@ -4320,11 +4310,6 @@
                         "name": "Exp Writing",
                         "location": "C-308",
                         "time": "10:30-12:15"
-                    },
-                    {
-                        "name": "UHQ",
-                        "location": "C-309",
-                        "time": "01:20-02:15"
                     },
                     {
                         "name": "OOP Lab",
