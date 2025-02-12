@@ -2439,7 +2439,7 @@
             "2023": {
                 "B": [
                     {
-                        "name": "S/w Engg [Cancelled]",
+                        "name": "S/w Engg",
                         "location": "C-302",
                         "time": "10:00-11:20"
                     },
@@ -2451,7 +2451,7 @@
                 ],
                 "A": [
                     {
-                        "name": "S/w Engg [Cancelled]",
+                        "name": "S/w Engg",
                         "location": "C-302",
                         "time": "11:30-12:50"
                     },
@@ -2533,11 +2533,6 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Web Prog [Rescheduled]",
-                        "location": "A-108",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "SPM",
                         "location": "A-301",
                         "time": "11:30-12:50"
@@ -2578,11 +2573,6 @@
                         "name": "Blockchain & Crypto",
                         "location": "C-407",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Web Prog [Rescheduled]",
-                        "location": "A-108",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Freelancing",
@@ -2760,27 +2750,7 @@
                     }
                 ]
             },
-            "2023": {
-                "B": [
-                    {
-                        "name": "FOM [Rescheduled]",
-                        "location": "A-315",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "FOM [Rescheduled]",
-                        "location": "A-Karakoram 1",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "OS [Rescheduled]",
-                        "location": "A-Mehran 2",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
+            "2023": {},
             "2024": {
                 "B": [
                     {
@@ -2848,11 +2818,6 @@
                         "name": "OOP",
                         "location": "C-303",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "MV Cal [Rescheduled]",
-                        "location": "A-314",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "G": [
@@ -2860,11 +2825,6 @@
                         "name": "Psychology",
                         "location": "C-305",
                         "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "Psychology [Rescheduled]",
-                        "location": "A-211",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "OOP Lab",
@@ -3014,11 +2974,6 @@
                         "name": "S/w Const",
                         "location": "A-305",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "S/w Const Lab [Rescheduled]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "02:25-05:10"
                     }
                 ],
                 "G": [
@@ -3091,11 +3046,6 @@
                         "name": "Discrete",
                         "location": "C-311",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "OOP [Rescheduled]",
-                        "location": "C-311",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "A": [
@@ -3113,11 +3063,6 @@
                         "name": "Discrete",
                         "location": "C-401",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OOP [Rescheduled]",
-                        "location": "A-305",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
@@ -3324,11 +3269,6 @@
             "2022": {
                 "A": [
                     {
-                        "name": "PDC [Rescheduled]",
-                        "location": "C-307",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "PDC",
                         "location": "C-307",
                         "time": "02:30-03:50"
@@ -3429,11 +3369,6 @@
                         "name": "Adv Stats",
                         "location": "C-310",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Adv Stats [Rescheduled]",
-                        "location": "A-303",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "A": [
