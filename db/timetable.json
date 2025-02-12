@@ -3868,6 +3868,11 @@
                         "name": "AI",
                         "location": "A-108",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "PDC [Rescheduled]",
+                        "location": "A-315",
+                        "time": "N/A"
                     }
                 ]
             },
