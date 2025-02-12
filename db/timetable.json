@@ -2436,7 +2436,32 @@
                     }
                 ]
             },
-            "2023": {},
+            "2023": {
+                "B": [
+                    {
+                        "name": "S/w Engg [Cancelled]",
+                        "location": "C-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "A-211",
+                        "time": "12:30-02:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "S/w Engg [Cancelled]",
+                        "location": "C-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Margala 3",
+                        "time": "08:30-11:15"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
