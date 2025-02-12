@@ -4878,14 +4878,14 @@
                 ],
                 "C": [
                     {
+                        "name": "User Exp",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Cloud Comp",
                         "location": "C-409",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "User Exp",
-                        "location": "A-305",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "D": [
@@ -5254,18 +5254,6 @@
                 ]
             },
             "2023": {
-                "A": [
-                    {
-                        "name": "COAL",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:15"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Fund of S/w Engg",
@@ -5276,6 +5264,18 @@
                         "name": "DB Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "N/A"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "COAL",
+                        "location": "A-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
                     }
                 ]
             },
