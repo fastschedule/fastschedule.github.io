@@ -2129,23 +2129,6 @@
                 ]
             },
             "2024": {
-                "A": [
-                    {
-                        "name": "DLD",
-                        "location": "C-305",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "MV Cal",
-                        "location": "C-307",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "OOP",
-                        "location": "C-307",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "C": [
                     {
                         "name": "MV Cal",
@@ -2178,6 +2161,18 @@
                         "name": "OOP",
                         "location": "C-307",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-307",
+                        "time": "01:00-02:20"
                     }
                 ]
             }
