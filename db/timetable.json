@@ -891,6 +891,11 @@
             "2023": {
                 "A": [
                     {
+                        "name": "Civics [Rescheduled]",
+                        "location": "C-304",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Psychology",
                         "location": "C-304",
                         "time": "10:00-11:45"
@@ -1718,6 +1723,11 @@
                         "name": "MV Cal",
                         "location": "C-304",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DLD Lab [Rescheduled]",
+                        "location": "B-Digital",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "A": [
