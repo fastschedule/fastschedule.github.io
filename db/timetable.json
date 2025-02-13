@@ -3010,6 +3010,11 @@
                         "name": "OS",
                         "location": "C-405",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OS Lab [Rescheduled]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "A": [
