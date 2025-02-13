@@ -1368,6 +1368,11 @@
                         "name": "Freelancing",
                         "location": "A-118 (MEDC)",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Blockchain & Crypto",
+                        "location": "C-GPU Lab",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -3731,6 +3736,11 @@
                         "name": "Freelancing",
                         "location": "A-118 (MEDC)",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Blockchain & Crypto",
+                        "location": "C-GPU Lab",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
