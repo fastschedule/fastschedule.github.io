@@ -4493,6 +4493,11 @@
                         "name": "Fund of S/w Engg",
                         "location": "C-406",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Psychology [Rescheduled]",
+                        "location": "C-GPU Lab",
+                        "time": "03:15-05:00"
                     }
                 ]
             },
