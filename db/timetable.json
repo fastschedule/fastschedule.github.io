@@ -28,6 +28,11 @@
                         "time": "02:30-03:50"
                     },
                     {
+                        "name": "AI [Rescheduled]",
+                        "location": "A-305",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "VA&RE Lab",
                         "location": "C-Rawal 4",
                         "time": "08:30-11:15"
@@ -478,6 +483,11 @@
                         "name": "MV Cal",
                         "location": "C-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OOP [Rescheduled]",
+                        "location": "C-407",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
@@ -495,6 +505,11 @@
                         "name": "OOP",
                         "location": "C-302",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP [Rescheduled]",
+                        "location": "C-407",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
@@ -1169,6 +1184,11 @@
                         "name": "Digital Mktg",
                         "location": "C-309",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI [Rescheduled]",
+                        "location": "C-402",
+                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Ethical Hacking",
@@ -4867,6 +4887,18 @@
                 ]
             },
             "2022": {
+                "F": [
+                    {
+                        "name": "AI Lab [Rescheduled]",
+                        "location": "C-311",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "AI Lab [Rescheduled]",
+                        "location": "C-Rawal 4",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "H": [
                     {
                         "name": "S/w Engg [Rescheduled]",
@@ -4922,11 +4954,6 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "OS Lab [Rescheduled]",
-                        "location": "C-311",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Prob & Stats",
                         "location": "A-108",
                         "time": "11:30-12:50"
@@ -4935,11 +4962,6 @@
                         "name": "DB Lab",
                         "location": "C-Rawal 1",
                         "time": "08:30-11:15"
-                    },
-                    {
-                        "name": "OS Lab [Rescheduled]",
-                        "location": "C-Rawal 4",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "G": [
