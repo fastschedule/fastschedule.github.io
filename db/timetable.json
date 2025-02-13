@@ -256,6 +256,11 @@
                         "name": "Compiler Const",
                         "location": "C-401",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Compiler Const [Rescheduled]",
+                        "location": "A-315",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "D": [
@@ -2636,6 +2641,11 @@
                         "name": "AI",
                         "location": "C-406",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Compiler Const [Rescheduled]",
+                        "location": "B-230",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "B": [
