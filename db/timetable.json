@@ -1551,6 +1551,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "FOM [Rescheduled]",
+                        "location": "C-GPU Lab",
+                        "time": "N/A"
+                    },
+                    {
                         "name": "DB Lab [Rescheduled]",
                         "location": "A-Karakoram 3",
                         "time": "02:25-05:10"
@@ -1588,6 +1593,11 @@
                         "name": "DB",
                         "location": "C-403",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "FOM [Rescheduled]",
+                        "location": "A-315",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "A": [
