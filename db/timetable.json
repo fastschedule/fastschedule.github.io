@@ -2939,6 +2939,11 @@
                 ],
                 "F": [
                     {
+                        "name": "Exp Writing [Rescheduled]",
+                        "location": "C-403",
+                        "time": "02:30-05:00"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:15"
