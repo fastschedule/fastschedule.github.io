@@ -1740,6 +1740,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "OOP [Rescheduled]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "DLD Lab [Rescheduled]",
                         "location": "B-Digital",
                         "time": "02:25-05:10"
