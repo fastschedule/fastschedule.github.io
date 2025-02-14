@@ -2927,6 +2927,11 @@
                         "time": "01:15-03:00"
                     },
                     {
+                        "name": "OOP [Rescheduled]",
+                        "location": "C-305",
+                        "time": "N/A"
+                    },
+                    {
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:30-11:15"
