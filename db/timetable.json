@@ -371,11 +371,6 @@
                 ],
                 "A": [
                     {
-                        "name": "Data Visual",
-                        "location": "C-309",
-                        "time": "05:20-06:40"
-                    },
-                    {
                         "name": "OS",
                         "location": "C-311",
                         "time": "10:00-11:20"
@@ -1539,28 +1534,6 @@
                 ]
             },
             "2023": {
-                "B": [
-                    {
-                        "name": "Data Visual",
-                        "location": "C-305",
-                        "time": "05:20-06:40"
-                    },
-                    {
-                        "name": "FOM",
-                        "location": "A-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "A-311",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 3",
-                        "time": "08:30-11:15"
-                    }
-                ],
                 "F": [
                     {
                         "name": "OS",
@@ -1671,6 +1644,23 @@
                         "name": "OS",
                         "location": "C-406",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "FOM",
+                        "location": "A-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "A-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 3",
+                        "time": "08:30-11:15"
                     }
                 ]
             },
@@ -2856,13 +2846,6 @@
                 ]
             },
             "2023": {
-                "A": [
-                    {
-                        "name": "Data Visual",
-                        "location": "C-309",
-                        "time": "05:20-06:40"
-                    }
-                ],
                 "F": [
                     {
                         "name": "TBW [Rescheduled]",
@@ -3964,33 +3947,6 @@
                 ]
             },
             "2023": {
-                "B": [
-                    {
-                        "name": "Data Visual",
-                        "location": "C-305",
-                        "time": "05:20-06:40"
-                    },
-                    {
-                        "name": "FOM [Rescheduled]",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "FOM",
-                        "location": "C-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-407",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "02:25-05:10"
-                    }
-                ],
                 "F": [
                     {
                         "name": "DB",
@@ -4028,6 +3984,28 @@
                         "name": "OS Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "08:30-11:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "FOM [Rescheduled]",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-407",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "E": [
