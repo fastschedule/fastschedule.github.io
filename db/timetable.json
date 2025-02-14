@@ -349,6 +349,11 @@
             "2023": {
                 "C": [
                     {
+                        "name": "TBW [Rescheduled]",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "FOM [Rescheduled]",
                         "location": "C-308",
                         "time": "08:30-09:50"
@@ -2815,7 +2820,15 @@
                     }
                 ]
             },
-            "2023": {},
+            "2023": {
+                "F": [
+                    {
+                        "name": "TBW [Rescheduled]",
+                        "location": "A-315",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
             "2024": {
                 "B": [
                     {
