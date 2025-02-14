@@ -1269,6 +1269,11 @@
                         "name": "Civics",
                         "location": "A-311",
                         "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "UHQ",
+                        "location": "A-311",
+                        "time": "10:20-11:15"
                     }
                 ],
                 "B": [
@@ -1281,6 +1286,11 @@
                         "name": "Islamic",
                         "location": "A-314",
                         "time": "10:20-12:05"
+                    },
+                    {
+                        "name": "UHQ",
+                        "location": "A-314",
+                        "time": "12:10-1:05"
                     }
                 ]
             }
