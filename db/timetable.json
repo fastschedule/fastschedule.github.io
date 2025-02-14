@@ -977,7 +977,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Entre",
+                        "name": "Entre [Cancelled]",
                         "location": "A-311",
                         "time": "08:30-09:50"
                     }
@@ -2598,7 +2598,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Technopreneurship",
+                        "name": "Technopreneurship [Cancelled]",
                         "location": "A-305",
                         "time": "01:00-02:20"
                     },
@@ -3330,7 +3330,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Entre",
+                        "name": "Entre [Cancelled]",
                         "location": "C-304",
                         "time": "08:30-09:50"
                     }
@@ -3745,28 +3745,6 @@
                 ]
             },
             "2022": {
-                "J": [
-                    {
-                        "name": "S/w Engg [Rescheduled]",
-                        "location": "C-406",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Compiler Const",
-                        "location": "B-230",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "B-230",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "A-Karakoram 1",
-                        "time": "11:25-02:10"
-                    }
-                ],
                 "F": [
                     {
                         "name": "PDC",
@@ -3849,9 +3827,26 @@
                         "time": "08:30-11:15"
                     }
                 ],
+                "J": [
+                    {
+                        "name": "Compiler Const",
+                        "location": "B-230",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "B-230",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "A-Karakoram 1",
+                        "time": "11:25-02:10"
+                    }
+                ],
                 "D": [
                     {
-                        "name": "S/w Engg [Cancelled]",
+                        "name": "S/w Engg",
                         "location": "B-230",
                         "time": "11:30-12:50"
                     },
@@ -3893,11 +3888,6 @@
                         "name": "AI",
                         "location": "A-108",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "PDC [Rescheduled]",
-                        "location": "A-315",
-                        "time": "N/A"
                     }
                 ]
             },
@@ -3914,19 +3904,9 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "FOM [Rescheduled]",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "OS",
                         "location": "C-403",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Prob & Stats [Rescheduled]",
-                        "location": "A-118 (MEDC)",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "C": [
@@ -3941,36 +3921,36 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "TBW [Rescheduled]",
+                        "location": "A-311",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "OS Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "08:30-11:15"
                     }
                 ],
-                "D": [
+                "B": [
                     {
                         "name": "FOM [Rescheduled]",
-                        "location": "C-309",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "C-311",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-311",
+                        "location": "C-310",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "DB",
-                        "location": "C-311",
+                        "name": "FOM",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-407",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Prob & Stats [Rescheduled]",
-                        "location": "A-118 (MEDC)",
-                        "time": "02:30-03:50"
+                        "name": "OS Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "E": [
@@ -3987,6 +3967,23 @@
                     {
                         "name": "TBW",
                         "location": "C-405",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "OS",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-311",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -4023,23 +4020,6 @@
                         "location": "Rawal 3 (B-232)",
                         "time": "11:25-02:10"
                     }
-                ],
-                "B": [
-                    {
-                        "name": "FOM",
-                        "location": "C-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-407",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "02:25-05:10"
-                    }
                 ]
             },
             "2024": {
@@ -4075,11 +4055,6 @@
                         "name": "OOP",
                         "location": "C-302",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OOP Lab [Rescheduled]",
-                        "location": "A-Karakoram 3",
-                        "time": "02:25-05:10"
                     }
                 ],
                 "F": [
@@ -4097,11 +4072,6 @@
                         "name": "MV Cal",
                         "location": "C-304",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "MV Cal [Rescheduled]",
-                        "location": "C-407",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -4109,11 +4079,6 @@
                         "name": "Exp Writing",
                         "location": "C-309",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "MV Cal [Rescheduled]",
-                        "location": "A-302",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Exp Writing Lab C1",
@@ -4349,7 +4314,7 @@
                         "time": "02:30-04:15"
                     },
                     {
-                        "name": "DB Lab [Cancelled]",
+                        "name": "DB Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:15"
                     }
@@ -4361,7 +4326,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "OS Lab [Cancelled]",
+                        "name": "OS Lab",
                         "location": "A-Karakoram 1",
                         "time": "02:25-05:10"
                     }
@@ -4486,11 +4451,6 @@
                         "name": "App Evol Comp",
                         "location": "A-302",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Comp Net Lab [Rescheduled]",
-                        "location": "C-GPU Lab",
-                        "time": "08:30-11:15"
                     }
                 ],
                 "C": [
@@ -4568,11 +4528,6 @@
                         "name": "Fund of S/w Engg",
                         "location": "C-406",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Psychology [Rescheduled]",
-                        "location": "C-GPU Lab",
-                        "time": "03:15-05:00"
                     }
                 ]
             },
@@ -4695,11 +4650,6 @@
                         "name": "Data Mining",
                         "location": "A-303",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "PDC [Rescheduled]",
-                        "location": "A-311",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
@@ -4738,11 +4688,6 @@
                         "name": "Fund of S/w Engg[Rescheduled]",
                         "location": "A-303",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DB [Rescheduled]",
-                        "location": "B-127",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "DB Lab",
@@ -4907,11 +4852,6 @@
                         "name": "Game Design",
                         "location": "C-GPU Lab",
                         "time": "02:15-05:00"
-                    },
-                    {
-                        "name": "Technopreneurship [Rescheduled]",
-                        "location": "A-Karakoram 1",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
