@@ -5349,6 +5349,23 @@
                         "time": "02:15-05:00"
                     }
                 ],
+                "C": [
+                    {
+                        "name": "UHQ",
+                        "location": "C-304",
+                        "time": "11:30-12:25"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "A-305",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "02:15-05:00"
+                    }
+                ],
                 "B": [
                     {
                         "name": "UHQ",
@@ -5368,18 +5385,6 @@
                     {
                         "name": "Exp Writing Lab B2",
                         "location": "A-CALL-1",
-                        "time": "02:15-05:00"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Civics",
-                        "location": "A-305",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "C-Margala 1",
                         "time": "02:15-05:00"
                     }
                 ]
