@@ -2104,11 +2104,6 @@
                         "name": "Info Sec",
                         "location": "C-307",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Digital Mktg [Rescheduled]",
-                        "location": "A-Karakoram 3",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -4477,11 +4472,6 @@
                         "name": "Info Sec",
                         "location": "A-303",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Digital Mktg [Rescheduled]",
-                        "location": "A-305",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
