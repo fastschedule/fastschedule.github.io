@@ -3250,52 +3250,7 @@
                     }
                 ]
             },
-            "2022": {
-                "A": [
-                    {
-                        "name": "Comp Net",
-                        "location": "C-408",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Fund of NLP",
-                        "location": "C-408",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI Prod Dev",
-                        "location": "A-108",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI Prod Dev",
-                        "location": "A-108",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "App Evol Comp",
-                        "location": "A-315",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Comp Net Lab",
-                        "location": "A-Karakoram 3",
-                        "time": "02:25-05:10"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Comp Net",
-                        "location": "A-108",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Fund of NLP",
-                        "location": "A-108",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
+            "2022": {},
             "2023": {
                 "A": [
                     {
