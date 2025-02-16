@@ -3391,7 +3391,76 @@
                     }
                 ]
             },
-            "2022": {},
+            "2022": {
+                "A": [
+                    {
+                        "name": "PDC",
+                        "location": "C-307",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "C-307",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Data Mining Lab",
+                        "location": "A-Karakoram 1",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Digital Mktg",
+                        "location": "C-308",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "C-308",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Rawal 4",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Digital Mktg",
+                        "location": "C-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Data Mining",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data Mining Lab",
+                        "location": "C-Rawal 4",
+                        "time": "02:25-05:10"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Data Mining",
+                        "location": "C-404",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "A-Karakoram 1",
+                        "time": "02:25-05:10"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "A-Karakoram 2",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2023": {
                 "B": [
                     {
