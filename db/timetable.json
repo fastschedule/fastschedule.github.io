@@ -339,137 +339,6 @@
                 ]
             },
             "2023": {
-                "C": [
-                    {
-                        "name": "TBW [Rescheduled]",
-                        "location": "C-305",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "FOM [Rescheduled]",
-                        "location": "C-308",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-401",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "C-402",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "OS",
-                        "location": "C-311",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "C-311",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "OS",
-                        "location": "C-401",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-401",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "C-401",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "FOM",
-                        "location": "C-402",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-402",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:15"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-403",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "FOM",
-                        "location": "C-403",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 4",
-                        "time": "11:25-02:10"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-403",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "FOM",
-                        "location": "C-403",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 3",
-                        "time": "08:30-11:15"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "FOM",
-                        "location": "C-404",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-404",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "11:25-02:10"
-                    },
-                    {
-                        "name": "DB Lab [Rescheduled]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "02:25-05:10"
-                    }
-                ]
-            },
-            "2024": {
                 "B": [
                     {
                         "name": "DLD",
@@ -485,6 +354,21 @@
                         "name": "MV Cal",
                         "location": "C-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "OOP [Rescheduled]",
@@ -509,6 +393,21 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "OS",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "OOP [Rescheduled]",
                         "location": "C-407",
                         "time": "02:30-03:50"
@@ -529,6 +428,16 @@
                         "name": "OOP",
                         "location": "C-302",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-402",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Seerah",
@@ -556,6 +465,21 @@
                         "name": "MV Cal",
                         "location": "C-305",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-403",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-403",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 3",
+                        "time": "08:30-11:15"
                     }
                 ],
                 "F": [
@@ -570,12 +494,37 @@
                         "time": "09:30-11:15"
                     },
                     {
+                        "name": "FOM",
+                        "location": "C-402",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-402",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "Exp Writing",
                         "location": "A-315",
                         "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
                     }
                 ],
                 "E": [
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-403",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-403",
+                        "time": "10:00-11:20"
+                    },
                     {
                         "name": "Exp Writing",
                         "location": "A-314",
@@ -585,6 +534,11 @@
                         "name": "Seerah",
                         "location": "A-314",
                         "time": "10:20-11:15"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 4",
+                        "time": "11:25-02:10"
                     },
                     {
                         "name": "Exp Writing Lab E1",
@@ -599,6 +553,16 @@
                 ],
                 "G": [
                     {
+                        "name": "FOM",
+                        "location": "C-404",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Seerah",
                         "location": "A-314",
                         "time": "11:30-12:25"
@@ -607,6 +571,272 @@
                         "name": "Ideology of Pak",
                         "location": "A-314",
                         "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "DB Lab [Rescheduled]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:25-05:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab G1",
+                        "location": "A-CALL-2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab G2",
+                        "location": "A-CALL-3",
+                        "time": "08:30-11:15"
+                    }
+                ]
+            },
+            "2024": {
+                "B": [
+                    {
+                        "name": "DLD",
+                        "location": "C-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-303",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP [Rescheduled]",
+                        "location": "C-407",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-301",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OOP [Rescheduled]",
+                        "location": "C-407",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-402",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "C-410",
+                        "time": "2:30-03:25"
+                    },
+                    {
+                        "name": "OOP [Rescheduled]",
+                        "location": "C-110",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "DLD",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-305",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-403",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-403",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 3",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Seerah",
+                        "location": "C-305",
+                        "time": "08:30-09:25"
+                    },
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-305",
+                        "time": "09:30-11:15"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-402",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-402",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "A-315",
+                        "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-403",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-403",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "A-314",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "A-314",
+                        "time": "10:20-11:15"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 4",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab E1",
+                        "location": "A-CALL-2",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab E2",
+                        "location": "A-CALL-3",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "FOM",
+                        "location": "C-404",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "A-314",
+                        "time": "11:30-12:25"
+                    },
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "A-314",
+                        "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "DB Lab [Rescheduled]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:25-05:10"
                     },
                     {
                         "name": "Exp Writing Lab G1",
@@ -1526,142 +1756,26 @@
                 ]
             },
             "2023": {
-                "F": [
-                    {
-                        "name": "OS",
-                        "location": "C-402",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "C-405",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-405",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "FOM [Rescheduled]",
-                        "location": "C-GPU Lab",
-                        "time": "N/A"
-                    },
-                    {
-                        "name": "DB Lab [Rescheduled]",
-                        "location": "A-Karakoram 3",
-                        "time": "02:25-05:10"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "OS",
-                        "location": "C-403",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "C-404",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-404",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "OS",
-                        "location": "C-403",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-403",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "C-403",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "FOM [Rescheduled]",
-                        "location": "A-315",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-404",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "FOM",
-                        "location": "C-404",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "C-Margala 3",
-                        "time": "11:25-02:10"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-405",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "FOM",
-                        "location": "C-405",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "TBW",
-                        "location": "C-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "C-406",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "C-406",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "FOM",
-                        "location": "A-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "A-311",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 3",
-                        "time": "08:30-11:15"
-                    }
-                ]
-            },
-            "2024": {
                 "D": [
                     {
                         "name": "Psychology",
                         "location": "C-301",
                         "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-403",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-403",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-403",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Seerah",
@@ -1686,9 +1800,24 @@
                         "time": "09:30-11:15"
                     },
                     {
+                        "name": "FOM",
+                        "location": "A-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "A-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 3",
+                        "time": "08:30-11:15"
                     }
                 ],
                 "E": [
@@ -1706,6 +1835,21 @@
                         "name": "OOP",
                         "location": "C-303",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-403",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-404",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-404",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Exp Writing [Rescheduled]",
@@ -1728,6 +1872,21 @@
                         "name": "OOP",
                         "location": "C-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-406",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "F": [
@@ -1747,9 +1906,29 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "OS",
+                        "location": "C-402",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-405",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-405",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "OOP [Rescheduled]",
                         "location": "Rawal 3 (B-232)",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB Lab [Rescheduled]",
+                        "location": "A-Karakoram 3",
+                        "time": "02:25-05:10"
                     },
                     {
                         "name": "DLD Lab [Rescheduled]",
@@ -1759,6 +1938,16 @@
                 ],
                 "A": [
                     {
+                        "name": "Prob & Stats",
+                        "location": "C-404",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Ideology of Pak",
                         "location": "A-303",
                         "time": "08:30-10:15"
@@ -1767,6 +1956,11 @@
                         "name": "Seerah",
                         "location": "A-303",
                         "time": "10:20-11:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 3",
+                        "time": "11:25-02:10"
                     },
                     {
                         "name": "Exp Writing Lab A1",
@@ -1781,6 +1975,16 @@
                 ],
                 "C": [
                     {
+                        "name": "Prob & Stats",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-405",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:15"
@@ -1791,7 +1995,8 @@
                         "time": "11:25-02:10"
                     }
                 ]
-            }
+            },
+            "2024": {}
         },
         "BS SE": {
             "2021": {
@@ -2838,22 +3043,6 @@
                 ]
             },
             "2023": {
-                "F": [
-                    {
-                        "name": "TBW [Rescheduled]",
-                        "location": "A-315",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "FOM [Rescheduled]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
-            "2024": {
                 "B": [
                     {
                         "name": "DLD",
@@ -2968,7 +3157,8 @@
                         "time": "11:25-02:10"
                     }
                 ]
-            }
+            },
+            "2024": {}
         },
         "BS SE": {
             "2021": {
@@ -3939,7 +4129,86 @@
                 ]
             },
             "2023": {
+                "E": [
+                    {
+                        "name": "OOP",
+                        "location": "C-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-303",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-311",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-405",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-403",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-403",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-403",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "F": [
+                    {
+                        "name": "DLD",
+                        "location": "C-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-304",
+                        "time": "01:00-02:20"
+                    },
                     {
                         "name": "DB",
                         "location": "C-307",
@@ -3963,6 +4232,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Exp Writing",
+                        "location": "C-309",
+                        "time": "11:30-01:15"
+                    },
+                    {
                         "name": "FOM",
                         "location": "C-402",
                         "time": "01:00-02:20"
@@ -3976,6 +4250,16 @@
                         "name": "OS Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab C1",
+                        "location": "A-Mehran 2",
+                        "time": "02:25-05:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab C2",
+                        "location": "A-CALL-1",
+                        "time": "02:25-05:10"
                     }
                 ],
                 "B": [
@@ -3998,23 +4282,21 @@
                         "name": "OS Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "02:25-05:10"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "OS",
-                        "location": "C-311",
-                        "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB",
-                        "location": "C-405",
-                        "time": "11:30-12:50"
+                        "name": "Exp Writing Lab B1",
+                        "location": "A-Mehran 2",
+                        "time": "08:30-11:15"
                     },
                     {
-                        "name": "TBW",
-                        "location": "C-405",
-                        "time": "01:00-02:20"
+                        "name": "Exp Writing Lab B2",
+                        "location": "A-CALL-1",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "11:25-02:10"
                     }
                 ],
                 "D": [
@@ -4032,23 +4314,16 @@
                         "name": "DB",
                         "location": "C-311",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "TBW",
-                        "location": "C-403",
-                        "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB",
-                        "location": "C-403",
-                        "time": "10:00-11:20"
+                        "name": "Exp Writing",
+                        "location": "A-315",
+                        "time": "08:30-10:15"
                     },
                     {
-                        "name": "OS",
-                        "location": "C-403",
-                        "time": "11:30-12:50"
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "11:25-02:10"
                     }
                 ],
                 "A": [
@@ -4063,9 +4338,19 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 4",
+                        "time": "02:25-05:10"
+                    },
+                    {
                         "name": "DB Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:30-11:15"
                     }
                 ]
             },
@@ -4085,6 +4370,21 @@
                         "name": "DLD",
                         "location": "C-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-311",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-405",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "G": [
@@ -4102,6 +4402,21 @@
                         "name": "OOP",
                         "location": "C-302",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-403",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-403",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-403",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "F": [
@@ -4119,13 +4434,48 @@
                         "name": "MV Cal",
                         "location": "C-304",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-403",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "C": [
                     {
+                        "name": "Prob & Stats",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Exp Writing",
                         "location": "C-309",
                         "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-402",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "TBW [Rescheduled]",
+                        "location": "A-311",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "08:30-11:15"
                     },
                     {
                         "name": "Exp Writing Lab C1",
@@ -4138,31 +4488,27 @@
                         "time": "02:25-05:10"
                     }
                 ],
-                "D": [
+                "B": [
                     {
-                        "name": "Exp Writing",
-                        "location": "A-315",
-                        "time": "08:30-10:15"
+                        "name": "FOM [Rescheduled]",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
                     },
                     {
-                        "name": "OOP Lab",
-                        "location": "C-Margala 1",
-                        "time": "11:25-02:10"
-                    }
-                ],
-                "A": [
+                        "name": "FOM",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    },
                     {
-                        "name": "OOP Lab",
-                        "location": "C-Margala 4",
+                        "name": "Prob & Stats",
+                        "location": "C-407",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "Rawal 3 (B-232)",
                         "time": "02:25-05:10"
                     },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "08:30-11:15"
-                    }
-                ],
-                "B": [
                     {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
@@ -4177,6 +4523,60 @@
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "11:25-02:10"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "OS",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "A-315",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-405",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-405",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 4",
+                        "time": "02:25-05:10"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:30-11:15"
                     }
                 ]
             }
@@ -4955,75 +5355,17 @@
                 ]
             },
             "2023": {
-                "D": [
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-305",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "FOM",
-                        "location": "C-305",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "C-Margala 3",
-                        "time": "08:30-11:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "TBW",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "C-307",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "C-410",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "FOM",
-                        "location": "C-307",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "A-108",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Rawal 1",
-                        "time": "08:30-11:15"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "FOM",
-                        "location": "C-405",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "A-108",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 4",
-                        "time": "02:15-05:00"
-                    }
-                ],
                 "A": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-301",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Psychology",
+                        "location": "C-301",
+                        "time": "10:30-12:15"
+                    },
                     {
                         "name": "DB",
                         "location": "C-409",
@@ -5040,59 +5382,26 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "TBW",
-                        "location": "B-227",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "A-211",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Prob & Stats",
-                        "location": "A-108",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "FOM",
-                        "location": "A-303",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OS [Rescheduled]",
-                        "location": "A-118 (MEDC)",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "C-Margala 3",
-                        "time": "02:15-05:00"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-301",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "Psychology",
-                        "location": "C-301",
-                        "time": "10:30-12:15"
-                    }
-                ],
                 "F": [
                     {
                         "name": "Psychology",
                         "location": "C-301",
                         "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-307",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "A-108",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:15"
                     },
                     {
                         "name": "Exp Writing Lab F1",
@@ -5115,6 +5424,21 @@
                         "name": "Exp Writing",
                         "location": "C-302",
                         "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-410",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "D": [
@@ -5122,6 +5446,21 @@
                         "name": "Ideology of Pak",
                         "location": "C-302",
                         "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-305",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 3",
+                        "time": "08:30-11:15"
                     },
                     {
                         "name": "Exp Writing Lab D1",
@@ -5144,6 +5483,16 @@
                         "name": "Ideology of Pak",
                         "location": "C-303",
                         "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "B-227",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "A-211",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "G": [
@@ -5151,6 +5500,21 @@
                         "name": "Exp Writing",
                         "location": "C-303",
                         "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-405",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "A-108",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 4",
+                        "time": "02:15-05:00"
                     },
                     {
                         "name": "DLD Lab",
@@ -5165,9 +5529,225 @@
                         "time": "02:00-03:45"
                     },
                     {
+                        "name": "Prob & Stats",
+                        "location": "A-108",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "A-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 3",
+                        "time": "02:15-05:00"
+                    },
+                    {
+                        "name": "Psychology [Rescheduled]",
+                        "location": "C-Rawal 1",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-301",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Psychology",
+                        "location": "C-301",
+                        "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-409",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-410",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-410",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-301",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-307",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "A-108",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab F1",
+                        "location": "A-CALL-2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab F2",
+                        "location": "A-CALL-3",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-302",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-302",
+                        "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-410",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-302",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-305",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 3",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab D1",
+                        "location": "A-Mehran 2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab D2",
+                        "location": "A-CALL-1",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-303",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-303",
+                        "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "B-227",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "A-211",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-303",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "C-405",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "A-108",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 4",
+                        "time": "02:15-05:00"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-304",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "A-108",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "A-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 3",
+                        "time": "02:15-05:00"
                     },
                     {
                         "name": "Psychology [Rescheduled]",
