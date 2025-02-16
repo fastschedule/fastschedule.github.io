@@ -5373,6 +5373,11 @@
                         "time": "09:15-10:10"
                     },
                     {
+                        "name": "Islamic",
+                        "location": "C-305",
+                        "time": "10:30-12:15"
+                    },
+                    {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
                         "time": "02:15-05:00"
