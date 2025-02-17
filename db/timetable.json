@@ -2167,7 +2167,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB",
+                        "name": "DB [Cancelled]",
                         "location": "C-301",
                         "time": "10:00-11:20"
                     },
@@ -2175,6 +2175,11 @@
                         "name": "AI",
                         "location": "C-301",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB [Rescheduled]",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
