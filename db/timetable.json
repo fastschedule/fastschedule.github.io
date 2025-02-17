@@ -2480,6 +2480,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "AI [Rescheduled]",
+                        "location": "A-301",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Digital Mktg",
                         "location": "A-301",
                         "time": "03:55-05:15"
@@ -3572,7 +3577,12 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI",
+                        "name": "AI [Rescheduled]",
+                        "location": "A-305",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI [Cancelled]",
                         "location": "A-310",
                         "time": "11:30-12:50"
                     },
