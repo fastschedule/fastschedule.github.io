@@ -2309,6 +2309,11 @@
                         "name": "PDC",
                         "location": "A-305",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data Mining Lab [Rescheduled]",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:15"
                     }
                 ],
                 "B": [
