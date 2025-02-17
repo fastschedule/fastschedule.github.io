@@ -4679,7 +4679,7 @@
                 ],
                 "B": [
                     {
-                        "name": "DIP",
+                        "name": "DIP [Cancelled]",
                         "location": "A-211",
                         "time": "11:30-12:50"
                     },
@@ -4692,6 +4692,11 @@
                         "name": "Data Mining",
                         "location": "A-303",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DIP [Rescheduled]",
+                        "location": "C-110",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
