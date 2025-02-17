@@ -2539,6 +2539,11 @@
                         "name": "S/w Engg [Rescheduled]",
                         "location": "C-110",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net [Rescheduled]",
+                        "location": "N/A",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "A": [
@@ -2913,6 +2918,11 @@
                         "name": "OOP",
                         "location": "C-304",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "C": [
