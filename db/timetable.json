@@ -25,11 +25,6 @@
                     {
                         "name": "Digital Mktg",
                         "location": "A-305",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "AI [Rescheduled]",
-                        "location": "A-305",
                         "time": "03:55-05:15"
                     },
                     {
@@ -2487,7 +2482,7 @@
                     {
                         "name": "Digital Mktg",
                         "location": "A-301",
-                        "time": "02:30-03:50"
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "AI Lab",
