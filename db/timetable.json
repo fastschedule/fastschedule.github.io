@@ -40,7 +40,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Digital Mktg",
+                        "name": "Digital Mktg [Cancelled]",
                         "location": "A-303",
                         "time": "11:30-12:50"
                     },
@@ -1148,8 +1148,8 @@
                     },
                     {
                         "name": "VA&RE",
-                        "location": "A-302",
-                        "time": "02:30-03:50"
+                        "location": "Rawal 3 (B-232)",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "C": [
@@ -3570,23 +3570,6 @@
                         "time": "02:25-05:10"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "VA&RE",
-                        "location": "A-211",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "A-305",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "A-305",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "C": [
                     {
                         "name": "VA&RE",
@@ -3601,6 +3584,23 @@
                     {
                         "name": "Info Sec",
                         "location": "A-310",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "AI",
+                        "location": "A-305",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "A-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "VA&RE",
+                        "location": "A-305",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -4464,11 +4464,6 @@
                         "name": "Info Sec",
                         "location": "A-303",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Digital Mktg [Rescheduled]",
-                        "location": "A-305",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -4689,7 +4684,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Data Mining",
+                        "name": "Data Mining [Cancelled]",
                         "location": "A-303",
                         "time": "11:30-12:50"
                     },
@@ -4886,16 +4881,6 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "App ML [Rescheduled]",
-                        "location": "C-GPU Lab",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "App ML [Rescheduled]",
-                        "location": "C-GPU Lab",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "Game Design",
                         "location": "C-GPU Lab",
                         "time": "02:15-05:00"
@@ -4928,32 +4913,7 @@
                     }
                 ]
             },
-            "2022": {
-                "F": [
-                    {
-                        "name": "AI Lab [Rescheduled]",
-                        "location": "C-311",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "AI Lab [Rescheduled]",
-                        "location": "C-Rawal 4",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "H": [
-                    {
-                        "name": "S/w Engg [Rescheduled]",
-                        "location": "B-230",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "S/w Engg [Rescheduled]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "N/A"
-                    }
-                ]
-            },
+            "2022": {},
             "2023": {
                 "D": [
                     {
@@ -5018,6 +4978,11 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "TBW [Rescheduled]",
+                        "location": "A-118 (MEDC)",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "DB Lab",
                         "location": "C-Margala 4",
                         "time": "02:15-05:00"
@@ -5062,11 +5027,6 @@
                         "name": "FOM",
                         "location": "A-303",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OS [Rescheduled]",
-                        "location": "A-118 (MEDC)",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "OS Lab",
@@ -5168,11 +5128,6 @@
                         "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:15"
-                    },
-                    {
-                        "name": "Psychology [Rescheduled]",
-                        "location": "C-Rawal 1",
-                        "time": "11:30-12:50"
                     }
                 ]
             }
@@ -5195,11 +5150,6 @@
                         "name": "S/w Const",
                         "location": "C-308",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo [Rescheduled]",
-                        "location": "B-227",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "G": [
@@ -5217,18 +5167,6 @@
                         "name": "Formal Meth in SE",
                         "location": "C-309",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo [Rescheduled]",
-                        "location": "B-227",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Comp Net Lab [Rescheduled]",
-                        "location": "A-Mehran 1",
-                        "time": "08:30-11:15"
                     }
                 ]
             },
@@ -5385,11 +5323,16 @@
         "BS DS": {
             "2021": {},
             "2022": {
-                "A": [
+                "B": [
                     {
-                        "name": "Data Mining Lab [Rescheduled]",
-                        "location": "A-305",
-                        "time": "03:55-05:15"
+                        "name": "Data Mining [Rescheduled]",
+                        "location": "C-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Data Mining [Rescheduled]",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -5459,11 +5402,6 @@
                         "name": "DLD",
                         "location": "A-303",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Islamic [Rescheduled]",
-                        "location": "A-303",
-                        "time": "02:15 04:00"
                     },
                     {
                         "name": "OOP",
