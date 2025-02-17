@@ -12,6 +12,11 @@
                         "name": "App ML for CY",
                         "location": "C-304",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "C-405",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -2524,6 +2529,11 @@
                         "name": "Civics",
                         "location": "A-211",
                         "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "S/w Engg [Rescheduled]",
+                        "location": "C-110",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "A": [
@@ -3638,6 +3648,11 @@
                         "name": "Prob & Stats",
                         "location": "C-407",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "S/w Engg [Rescheduled]",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "TBW",
