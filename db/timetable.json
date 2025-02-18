@@ -1993,11 +1993,6 @@
                 ],
                 "A": [
                     {
-                        "name": "MV Cal",
-                        "location": "A-301",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Islamic",
                         "location": "A-314",
                         "time": "01:10-02:55"
