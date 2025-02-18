@@ -2837,6 +2837,11 @@
                         "name": "MV Cal",
                         "location": "C-304",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DLD [Rescheduled]",
+                        "location": "A-Mehran 1",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "A": [
@@ -2871,6 +2876,11 @@
                         "name": "OOP",
                         "location": "C-304",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DLD [Rescheduled]",
+                        "location": "A-314",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "MV Cal [Rescheduled]",
