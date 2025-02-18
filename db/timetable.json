@@ -2819,6 +2819,13 @@
                         "location": "Rawal 3 (B-232)",
                         "time": "10:00-11:20"
                     }
+                ],
+                "F": [
+                    {
+                        "name": "OS Lab [Rescheduled]",
+                        "location": "A-Karakoram 1",
+                        "time": "11:25-02:10"
+                    }
                 ]
             },
             "2024": {
