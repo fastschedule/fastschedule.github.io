@@ -2651,6 +2651,23 @@
                 ]
             },
             "2022": {
+                "D": [
+                    {
+                        "name": "S/w Engg [Rescheduled]",
+                        "location": "C-307",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Compiler Const",
+                        "location": "C-410",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-410",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "PDC",
@@ -2773,18 +2790,6 @@
                         "name": "S/w Engg",
                         "location": "C-409",
                         "time": "03:55-05:15"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Compiler Const",
-                        "location": "C-410",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "C-410",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "K": [
