@@ -2840,7 +2840,7 @@
                     },
                     {
                         "name": "DLD [Rescheduled]",
-                        "location": "A-Mehran 1",
+                        "location": "A-Mehran 2",
                         "time": "11:30-12:50"
                     }
                 ],
@@ -3496,6 +3496,11 @@
                         "name": "Fund of S/w Engg",
                         "location": "C-404",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Adv Stats [Rescheduled]",
+                        "location": "A-Mehran 1",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
