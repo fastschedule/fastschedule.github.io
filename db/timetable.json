@@ -3452,6 +3452,11 @@
                         "name": "COAL",
                         "location": "C-403",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Adv Stats [Rescheduled]",
+                        "location": "A-108",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
@@ -3717,7 +3722,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Dist Data Engg [Cancelled]",
+                        "name": "Dist Data Engg",
                         "location": "A-302",
                         "time": "10:00-11:20"
                     },
@@ -4238,6 +4243,11 @@
                         "time": "03:55-05:15"
                     },
                     {
+                        "name": "Comp Net [Rescheduled]",
+                        "location": "N/A",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Comp Net Lab",
                         "location": "C-Rawal 1",
                         "time": "08:30-11:15"
@@ -4253,6 +4263,11 @@
                         "name": "S/w Const",
                         "location": "C-305",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Comp Net [Rescheduled]",
+                        "location": "N/A",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "S/w Const Lab",
@@ -4692,7 +4707,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Data Mining [Cancelled]",
+                        "name": "Data Mining",
                         "location": "A-303",
                         "time": "11:30-12:50"
                     },
