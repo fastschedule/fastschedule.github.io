@@ -1660,7 +1660,7 @@
                     {
                         "name": "Exp Writing [Rescheduled]",
                         "location": "C-110",
-                        "time": "02:30-04:30"
+                        "time": "02:30-04:15"
                     }
                 ],
                 "G": [
@@ -4406,6 +4406,11 @@
                         "name": "DB",
                         "location": "C-409",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Prob & Stats [Rescheduled]",
+                        "location": "N/A",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "OS Lab",
