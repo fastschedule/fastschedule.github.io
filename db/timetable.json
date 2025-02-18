@@ -4396,6 +4396,11 @@
                         "time": "02:30-04:15"
                     },
                     {
+                        "name": "Prob & Stats [Rescheduled]",
+                        "location": "N/A",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "DB Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:15"
