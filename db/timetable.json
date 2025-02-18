@@ -3998,6 +3998,11 @@
                         "name": "DB",
                         "location": "C-311",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Prob & Stats [Rescheduled]",
+                        "location": "A-211",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "G": [
@@ -4102,6 +4107,11 @@
                         "name": "MV Cal",
                         "location": "C-304",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DLD [Rescheduled]",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -4294,6 +4304,11 @@
                         "name": "Formal Meth in SE",
                         "location": "C-401",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Algo [Rescheduled]",
+                        "location": "N/A",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "E": [
