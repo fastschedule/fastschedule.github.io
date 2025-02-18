@@ -3966,28 +3966,6 @@
                         "time": "08:30-11:15"
                     }
                 ],
-                "B": [
-                    {
-                        "name": "FOM [Rescheduled]",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "FOM",
-                        "location": "C-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-407",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "02:25-05:10"
-                    }
-                ],
                 "E": [
                     {
                         "name": "OS",
@@ -4054,6 +4032,23 @@
                         "name": "DB Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "11:25-02:10"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "FOM",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-407",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:25-05:10"
                     }
                 ]
             },
@@ -4851,11 +4846,6 @@
                         "name": "OOP",
                         "location": "C-311",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "C-311",
-                        "time": "11:30-12:50"
                     }
                 ]
             }
