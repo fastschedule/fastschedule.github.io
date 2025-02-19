@@ -5162,7 +5162,22 @@
             "2024": {}
         },
         "BS AI": {
-            "2021": {},
+            "2021": {
+                "A": [
+                    {
+                        "name": "MLOPs [Rescheduled]",
+                        "location": "C-311",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "MLOPs [Rescheduled]",
+                        "location": "C-311",
+                        "time": "03:55-05:15"
+                    }
+                ]
+            },
             "2022": {
                 "A": [
                     {
