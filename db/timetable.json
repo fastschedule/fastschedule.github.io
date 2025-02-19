@@ -2999,6 +2999,28 @@
                         "time": "10:00-11:20"
                     }
                 ],
+                "G": [
+                    {
+                        "name": "Applied AI [Rescheduled]",
+                        "location": "A-303",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "A-310",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "A-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-310",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "F": [
                     {
                         "name": "Applied AI",
@@ -3013,23 +3035,6 @@
                     {
                         "name": "S/w Const",
                         "location": "A-305",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "S/w Const",
-                        "location": "A-310",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Applied AI",
-                        "location": "A-310",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Formal Meth in SE",
-                        "location": "A-310",
                         "time": "11:30-12:50"
                     }
                 ]
