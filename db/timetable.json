@@ -3893,6 +3893,11 @@
                         "name": "AI",
                         "location": "A-108",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "S/w Engg [Rescheduled]",
+                        "location": "N/A",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
