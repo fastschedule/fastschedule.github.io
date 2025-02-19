@@ -3049,7 +3049,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "SDA",
+                        "name": "SDA [Cancelled]",
                         "location": "C-405",
                         "time": "10:00-11:20"
                     },
@@ -3066,7 +3066,7 @@
                 ],
                 "A": [
                     {
-                        "name": "SDA",
+                        "name": "SDA [Cancelled]",
                         "location": "C-405",
                         "time": "01:00-02:20"
                     },
@@ -4727,7 +4727,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB Lab",
+                        "name": "DB Lab [Cancelled]",
                         "location": "C-Rawal 4",
                         "time": "02:25-05:10"
                     }
@@ -5224,7 +5224,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Comp Net Lab",
+                        "name": "Comp Net Lab [Cancelled]",
                         "location": "A-Karakoram 1",
                         "time": "02:15-05:00"
                     }
@@ -5238,7 +5238,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB Lab",
+                        "name": "DB Lab [Cancelled]",
                         "location": "Rawal 3 (B-232)",
                         "time": "N/A"
                     }
