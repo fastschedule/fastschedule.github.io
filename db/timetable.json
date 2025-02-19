@@ -1860,7 +1860,7 @@
                 "C": [
                     {
                         "name": "S/w Const",
-                        "location": "C-407",
+                        "location": "A-301",
                         "time": "11:30-12:50"
                     },
                     {
@@ -4473,9 +4473,14 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "App Evol Comp",
+                        "name": "App Evol Comp [Cancelled]",
                         "location": "A-302",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "App Evol Comp [Rescheduled]",
+                        "location": "A-310",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "C": [
@@ -4667,7 +4672,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "A-301",
                         "time": "08:30-09:50"
                     },
@@ -5041,6 +5046,11 @@
                         "name": "Psychology",
                         "location": "C-301",
                         "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "B-230",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Exp Writing Lab F1",
