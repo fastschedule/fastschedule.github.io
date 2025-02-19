@@ -3513,7 +3513,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Ethical Hacking",
+                        "name": "Ethical Hacking [Cancelled]",
                         "location": "C-310",
                         "time": "01:00-02:20"
                     },
@@ -3564,7 +3564,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Ethical Hacking",
+                        "name": "Ethical Hacking [Cancelled]",
                         "location": "A-310",
                         "time": "02:30-03:50"
                     },
@@ -5175,6 +5175,18 @@
                         "name": "Formal Meth in SE",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Net Lab [Rescheduled]",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Comp Net Lab [Rescheduled]",
+                        "location": "C-GPU Lab",
+                        "time": "N/A"
                     }
                 ]
             },
