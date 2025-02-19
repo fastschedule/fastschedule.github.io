@@ -1323,7 +1323,153 @@
                     }
                 ]
             },
-            "2022": {},
+            "2022": {
+                "F": [
+                    {
+                        "name": "PDC",
+                        "location": "B-227",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "B-227",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Margala 4",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "AI",
+                        "location": "B-227",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Compiler Const",
+                        "location": "B-227",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Rawal 4",
+                        "time": "02:25-05:10"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "S/w Engg",
+                        "location": "B-229",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "B-229",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Compiler Const",
+                        "location": "B-229",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "B-229",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "AI",
+                        "location": "B-230",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Compiler Const",
+                        "location": "B-230",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "A-Mehran 1",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "PDC",
+                        "location": "B-230",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "B-230",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "J": [
+                    {
+                        "name": "Compiler Const",
+                        "location": "A-108",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "A-108",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "S/w Engg",
+                        "location": "A-108",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "A-108",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "K": [
+                    {
+                        "name": "PDC",
+                        "location": "A-211",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "A-211",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Compiler Const",
+                        "location": "A-211",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "A-211",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:25-05:10"
+                    }
+                ]
+            },
             "2023": {
                 "F": [
                     {
@@ -2444,7 +2590,173 @@
                     }
                 ]
             },
-            "2022": {},
+            "2022": {
+                "D": [
+                    {
+                        "name": "S/w Engg [Rescheduled]",
+                        "location": "C-307",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Compiler Const",
+                        "location": "C-410",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-410",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "PDC",
+                        "location": "C-309",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DevOps",
+                        "location": "C-409",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "HPC with GPU",
+                        "location": "C-410",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "B-230",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "C-110",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Web Prog",
+                        "location": "C-Rawal 1",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "K": [
+                    {
+                        "name": "AI",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Compiler Const",
+                        "location": "C-410",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Compiler Const",
+                        "location": "C-406",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-406",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Compiler Const [Rescheduled]",
+                        "location": "B-230",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "S/w Engg",
+                        "location": "C-407",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "C-407",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DevOps",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "HPC with GPU",
+                        "location": "C-410",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Web Prog",
+                        "location": "C-Rawal 1",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "AI",
+                        "location": "C-407",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Compiler Const",
+                        "location": "C-407",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "S/w Engg",
+                        "location": "C-408",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "C-408",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "AI",
+                        "location": "C-409",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Compiler Const",
+                        "location": "C-409",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "J": [
+                    {
+                        "name": "PDC",
+                        "location": "C-409",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "C-409",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "PDC",
+                        "location": "B-227",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "S/w Engg",
+                        "location": "B-227",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2023": {
                 "F": [
                     {
@@ -2687,6 +2999,28 @@
                         "time": "10:00-11:20"
                     }
                 ],
+                "G": [
+                    {
+                        "name": "Applied AI [Rescheduled]",
+                        "location": "A-303",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "A-310",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Applied AI",
+                        "location": "A-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "A-310",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "F": [
                     {
                         "name": "Applied AI",
@@ -2701,23 +3035,6 @@
                     {
                         "name": "S/w Const",
                         "location": "A-305",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "S/w Const",
-                        "location": "A-310",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Applied AI",
-                        "location": "A-310",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Formal Meth in SE",
-                        "location": "A-310",
                         "time": "11:30-12:50"
                     }
                 ]
@@ -3967,6 +4284,11 @@
                         "name": "Formal Meth in SE",
                         "location": "C-401",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Algo [Rescheduled]",
+                        "location": "N/A",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "E": [
@@ -4216,7 +4538,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB",
+                        "name": "DB [Cancelled]",
                         "location": "C-301",
                         "time": "10:00-11:20"
                     },
@@ -4224,6 +4546,11 @@
                         "name": "AI",
                         "location": "C-301",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB [Rescheduled]",
+                        "location": "C-410",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
@@ -4372,7 +4699,7 @@
                 ],
                 "C": [
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "A-211",
                         "time": "03:55-05:15"
                     },
@@ -4427,9 +4754,9 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Psychology",
+                        "name": "Psychology [Cancelled]",
                         "location": "A-311",
-                        "time": "10:00:11:45"
+                        "time": "N/A"
                     },
                     {
                         "name": "Civics",
@@ -4848,6 +5175,20 @@
                         "name": "Formal Meth in SE",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Net Lab [Rescheduled]",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Comp Net Lab [Rescheduled]",
+                        "location": "C-GPU Lab",
+                        "time": "N/A"
                     }
                 ]
             },
