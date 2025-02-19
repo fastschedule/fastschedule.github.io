@@ -788,7 +788,7 @@
                 "J": [
                     {
                         "name": "PPIT",
-                        "location": "C-301",
+                        "location": "A-108",
                         "time": "02:30-03:50"
                     }
                 ],
@@ -850,7 +850,32 @@
                     }
                 ]
             },
-            "2023": {},
+            "2023": {
+                "A": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-304",
+                        "time": "10:00-11:45"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Margala 4",
+                        "time": "02:25-05:10"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-304",
+                        "time": "12:00-01:45"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:15"
+                    }
+                ]
+            },
             "2024": {
                 "C": [
                     {
@@ -900,7 +925,7 @@
                 "U": [
                     {
                         "name": "PPIT",
-                        "location": "C-303",
+                        "location": "A-108",
                         "time": "02:30-03:50"
                     },
                     {
@@ -2049,7 +2074,42 @@
                     }
                 ]
             },
-            "2023": {},
+            "2023": {
+                "B": [
+                    {
+                        "name": "COAL",
+                        "location": "C-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-301",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Fund of S/w Engg",
+                        "location": "C-309",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-409",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-409",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
@@ -2382,7 +2442,7 @@
                     },
                     {
                         "name": "Comp Net [Rescheduled]",
-                        "location": "N/A",
+                        "location": "C-304",
                         "time": "08:30-09:50"
                     }
                 ],
@@ -2525,7 +2585,7 @@
                 "C": [
                     {
                         "name": "User Exp",
-                        "location": "C-110",
+                        "location": "A-315",
                         "time": "01:00-02:20"
                     }
                 ]
@@ -2811,7 +2871,7 @@
                     {
                         "name": "OOP [Rescheduled]",
                         "location": "C-305",
-                        "time": "N/A"
+                        "time": "03:30 - 04:50"
                     },
                     {
                         "name": "DLD Lab",
@@ -3166,7 +3226,42 @@
                     }
                 ]
             },
-            "2023": {},
+            "2023": {
+                "A": [
+                    {
+                        "name": "COAL",
+                        "location": "C-402",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "B-227",
+                        "time": "12:00-01:45"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Fund of S/w Engg",
+                        "location": "A-211",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "A-211",
+                        "time": "10:00-11:45"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Rawal 1",
+                        "time": "02:25-05:10"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
@@ -3796,7 +3891,7 @@
                     },
                     {
                         "name": "S/w Engg [Rescheduled]",
-                        "location": "N/A",
+                        "location": "C-301",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -4109,7 +4204,7 @@
                     },
                     {
                         "name": "Comp Net [Rescheduled]",
-                        "location": "N/A",
+                        "location": "A-211",
                         "time": "11:30-12:50"
                     },
                     {
@@ -4131,7 +4226,7 @@
                     },
                     {
                         "name": "Comp Net [Rescheduled]",
-                        "location": "N/A",
+                        "location": "A302",
                         "time": "10:00-11:20"
                     },
                     {
@@ -4192,7 +4287,7 @@
                     },
                     {
                         "name": "Algo [Rescheduled]",
-                        "location": "N/A",
+                        "location": "A-303",
                         "time": "11:30-12:50"
                     }
                 ],
@@ -4245,7 +4340,7 @@
                     },
                     {
                         "name": "Prob & Stats [Rescheduled]",
-                        "location": "N/A",
+                        "location": "B-028",
                         "time": "01:00-02:20"
                     },
                     {
@@ -4262,7 +4357,7 @@
                     },
                     {
                         "name": "Prob & Stats [Rescheduled]",
-                        "location": "N/A",
+                        "location": "A-310",
                         "time": "11:30-12:50"
                     },
                     {
@@ -4435,7 +4530,47 @@
                     }
                 ]
             },
-            "2023": {},
+            "2023": {
+                "B": [
+                    {
+                        "name": "COAL",
+                        "location": "C-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB [Cancelled]",
+                        "location": "C-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB [Rescheduled]",
+                        "location": "C-410",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "DB",
+                        "location": "C-404",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Fund of S/w Engg",
+                        "location": "C-406",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            },
             "2024": {
                 "C": [
                     {
@@ -4621,7 +4756,7 @@
                     {
                         "name": "Psychology [Cancelled]",
                         "location": "A-311",
-                        "time": "N/A"
+                        "time": "10:00:11:45"
                     },
                     {
                         "name": "Civics",
