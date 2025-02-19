@@ -2269,18 +2269,6 @@
                         "time": "08:30-11:15"
                     }
                 ],
-                "A": [
-                    {
-                        "name": "Adv Stats",
-                        "location": "C-310",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 4",
-                        "time": "02:25-05:10"
-                    }
-                ],
                 "C": [
                     {
                         "name": "Fund of S/w Engg",
@@ -2291,6 +2279,13 @@
                         "name": "COAL Lab",
                         "location": "C-Rawal 1",
                         "time": "11:25-02:10"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 4",
+                        "time": "02:25-05:10"
                     }
                 ]
             },
