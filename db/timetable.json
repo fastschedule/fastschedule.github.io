@@ -29,8 +29,8 @@
                     },
                     {
                         "name": "Digital Mktg",
-                        "location": "A-305",
-                        "time": "03:55-05:15"
+                        "location": "A-303",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "VA&RE Lab",
@@ -41,8 +41,8 @@
                 "D": [
                     {
                         "name": "Digital Mktg",
-                        "location": "A-303",
-                        "time": "11:30-12:50"
+                        "location": "A-315",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "AI Lab",
@@ -3310,7 +3310,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Entre [Cancelled]",
+                        "name": "Entre",
                         "location": "C-304",
                         "time": "08:30-09:50"
                     }
