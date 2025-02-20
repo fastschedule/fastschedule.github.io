@@ -3430,7 +3430,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Ethical Hacking [Cancelled]",
+                        "name": "Ethical Hacking",
                         "location": "C-310",
                         "time": "01:00-02:20"
                     },
@@ -3447,12 +3447,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI [Rescheduled]",
-                        "location": "A-305",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "A-310",
                         "time": "11:30-12:50"
                     },
@@ -3481,7 +3476,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Ethical Hacking [Cancelled]",
+                        "name": "Ethical Hacking",
                         "location": "A-310",
                         "time": "02:30-03:50"
                     },
@@ -3805,11 +3800,6 @@
                         "name": "AI",
                         "location": "A-108",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "S/w Engg [Rescheduled]",
-                        "location": "C-301",
-                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -3841,11 +3831,6 @@
                         "name": "FOM",
                         "location": "C-402",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "TBW [Rescheduled]",
-                        "location": "A-311",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "OS Lab",
@@ -3885,11 +3870,6 @@
                         "name": "DB",
                         "location": "C-311",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Prob & Stats [Rescheduled]",
-                        "location": "A-211",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "G": [
@@ -3994,11 +3974,6 @@
                         "name": "MV Cal",
                         "location": "C-304",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DLD [Rescheduled]",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -4044,7 +4019,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Exp Writing Lab B1 [Cancelled]",
+                        "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:15"
                     },
@@ -4120,11 +4095,6 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Comp Net [Rescheduled]",
-                        "location": "A-211",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Comp Net Lab",
                         "location": "C-Rawal 1",
                         "time": "08:30-11:15"
@@ -4140,11 +4110,6 @@
                         "name": "S/w Const",
                         "location": "C-305",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Comp Net [Rescheduled]",
-                        "location": "C-404",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "S/w Const Lab",
@@ -4201,11 +4166,6 @@
                         "name": "Formal Meth in SE",
                         "location": "C-401",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Algo [Rescheduled]",
-                        "location": "A-303",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "E": [
@@ -4256,11 +4216,6 @@
                         "time": "02:30-04:15"
                     },
                     {
-                        "name": "Prob & Stats [Rescheduled]",
-                        "location": "B-028",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "DB Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:15"
@@ -4271,11 +4226,6 @@
                         "name": "DB",
                         "location": "C-409",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Prob & Stats [Rescheduled]",
-                        "location": "A-310",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "OS Lab",
@@ -4395,14 +4345,9 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "App Evol Comp [Cancelled]",
+                        "name": "App Evol Comp",
                         "location": "A-302",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "App Evol Comp [Rescheduled]",
-                        "location": "A-310",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "C": [
@@ -4455,7 +4400,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB [Cancelled]",
+                        "name": "DB",
                         "location": "C-301",
                         "time": "10:00-11:20"
                     },
@@ -4463,11 +4408,6 @@
                         "name": "AI",
                         "location": "C-301",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DB [Rescheduled]",
-                        "location": "C-410",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
@@ -4594,12 +4534,12 @@
                 ],
                 "B": [
                     {
-                        "name": "DIP [Cancelled]",
+                        "name": "DIP",
                         "location": "A-211",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "A-301",
                         "time": "08:30-09:50"
                     },
@@ -4607,16 +4547,11 @@
                         "name": "Data Mining",
                         "location": "A-303",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DIP [Rescheduled]",
-                        "location": "C-110",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "A-211",
                         "time": "03:55-05:15"
                     },
@@ -4628,7 +4563,7 @@
                 ],
                 "D": [
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "A-301",
                         "time": "02:30-03:50"
                     },
@@ -4647,7 +4582,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "DB Lab [Cancelled]",
+                        "name": "DB Lab",
                         "location": "C-Rawal 4",
                         "time": "02:25-05:10"
                     }
@@ -4666,12 +4601,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Adv Stats [Rescheduled]",
-                        "location": "A-302",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Psychology [Cancelled]",
+                        "name": "Psychology",
                         "location": "A-311",
                         "time": "10:00:11:45"
                     },
