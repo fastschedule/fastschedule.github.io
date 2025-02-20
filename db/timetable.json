@@ -2520,7 +2520,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Technopreneurship [Cancelled]",
+                        "name": "Technopreneurship",
                         "location": "A-305",
                         "time": "01:00-02:20"
                     },
@@ -3285,7 +3285,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Digital Mktg [Cancelled]",
+                        "name": "Digital Mktg",
                         "location": "C-401",
                         "time": "08:30-09:50"
                     },
