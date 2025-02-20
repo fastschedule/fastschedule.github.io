@@ -4877,7 +4877,7 @@
                     },
                     {
                         "name": "Prob & Stats",
-                        "location": "A-108",
+                        "location": "C-403",
                         "time": "11:30-12:50"
                     },
                     {
@@ -4888,14 +4888,14 @@
                 ],
                 "G": [
                     {
+                        "name": "Prob & Stats",
+                        "location": "C-403",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "FOM",
                         "location": "C-405",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "A-108",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "TBW [Rescheduled]",
@@ -4905,6 +4905,23 @@
                     {
                         "name": "DB Lab",
                         "location": "C-Margala 4",
+                        "time": "02:15-05:00"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Prob & Stats",
+                        "location": "C-403",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "FOM",
+                        "location": "A-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 3",
                         "time": "02:15-05:00"
                     }
                 ],
@@ -4935,23 +4952,6 @@
                         "name": "OS",
                         "location": "A-211",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Prob & Stats",
-                        "location": "A-108",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "FOM",
-                        "location": "A-303",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "C-Margala 3",
-                        "time": "02:15-05:00"
                     }
                 ]
             },
@@ -5264,11 +5264,6 @@
             "2021": {},
             "2022": {
                 "B": [
-                    {
-                        "name": "Data Mining [Rescheduled]",
-                        "location": "C-401",
-                        "time": "08:30-09:50"
-                    },
                     {
                         "name": "Data Mining [Rescheduled]",
                         "location": "C-401",
