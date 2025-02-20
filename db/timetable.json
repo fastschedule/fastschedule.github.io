@@ -5193,6 +5193,13 @@
         "BS DS": {
             "2021": {},
             "2022": {
+                "B": [
+                    {
+                        "name": "Data Mining [Rescheduled]",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Digital Mktg [Rescheduled]",
