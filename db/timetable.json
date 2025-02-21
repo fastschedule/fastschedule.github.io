@@ -1710,18 +1710,6 @@
         },
         "BS SE": {
             "2021": {
-                "A": [
-                    {
-                        "name": "User Exp",
-                        "location": "C-309",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "MLOPs",
-                        "location": "A-118 (MEDC)",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "P": [
                     {
                         "name": "PPIT",
@@ -1744,6 +1732,13 @@
                         "name": "Digital Mktg",
                         "location": "C-403",
                         "time": "02:30-03:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "MLOPs",
+                        "location": "A-118 (MEDC)",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "B": [
