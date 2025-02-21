@@ -4767,12 +4767,12 @@
             "2023": {
                 "D": [
                     {
-                        "name": "Prob & Stats",
+                        "name": "Prob & Stats [Cancelled]",
                         "location": "C-305",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "FOM",
+                        "name": "FOM [Cancelled]",
                         "location": "C-305",
                         "time": "03:55-05:15"
                     },
@@ -4801,7 +4801,7 @@
                 ],
                 "F": [
                     {
-                        "name": "FOM",
+                        "name": "FOM [Cancelled]",
                         "location": "C-307",
                         "time": "02:30-03:50"
                     },
