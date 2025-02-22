@@ -1143,6 +1143,11 @@
                 ],
                 "B": [
                     {
+                        "name": "Digital Mktg",
+                        "location": "C-309",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Ethical Hacking",
                         "location": "C-407",
                         "time": "01:00-02:20"
