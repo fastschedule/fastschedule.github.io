@@ -4425,6 +4425,11 @@
                         "name": "Fund of S/w Engg",
                         "location": "C-406",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Civics [Rescheduled]",
+                        "location": "A-311",
+                        "time": "03:00-04:45"
                     }
                 ]
             },
@@ -5082,6 +5087,11 @@
             },
             "2023": {
                 "B": [
+                    {
+                        "name": "Civics [Rescheduled]",
+                        "location": "C-311",
+                        "time": "02:00-03:45"
+                    },
                     {
                         "name": "Fund of S/w Engg",
                         "location": "C-408",
