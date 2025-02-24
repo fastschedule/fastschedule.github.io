@@ -3657,6 +3657,23 @@
                 ]
             },
             "2022": {
+                "B": [
+                    {
+                        "name": "PDC [Rescheduled]",
+                        "location": "C-309",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Compiler Const",
+                        "location": "B-227",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "B-227",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "F": [
                     {
                         "name": "PDC",
@@ -3696,18 +3713,6 @@
                         "name": "AI Lab",
                         "location": "A-Karakoram 3",
                         "time": "11:25-02:10"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Compiler Const",
-                        "location": "B-227",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "B-227",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "H": [
@@ -4904,6 +4909,11 @@
                         "name": "Psychology",
                         "location": "C-301",
                         "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "C-401",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "F": [
@@ -4933,6 +4943,11 @@
                         "name": "Exp Writing",
                         "location": "C-302",
                         "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "D": [
