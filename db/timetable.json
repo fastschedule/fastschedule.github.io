@@ -4731,9 +4731,19 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "NLP",
+                        "name": "NLP [Cancelled]",
                         "location": "C-408",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "NLP [Rescheduled]",
+                        "location": "A-108",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "NLP [Rescheduled]",
+                        "location": "A-108",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Game Design",
@@ -5046,7 +5056,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Fund of NLP",
+                        "name": "Fund of NLP [Cancelled]",
                         "location": "C-408",
                         "time": "10:00-11:20"
                     },
@@ -5054,6 +5064,16 @@
                         "name": "Comp Net",
                         "location": "B-229",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Fund of NLP [Rescheduled]",
+                        "location": "A-108",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Fund of NLP [Rescheduled]",
+                        "location": "A-108",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
