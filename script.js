@@ -136,6 +136,9 @@ function loadTimetable() {
             const row = document.createElement("tr");
             const tdName = document.createElement("td");
             tdName.textContent = course.name;
+            if (day === "Wednesday") {
+                tdName.classList.add("strikethrough");
+            }
             const tdLocation = document.createElement("td");
             tdLocation.textContent = course.location;
             const tdTime = document.createElement("td");
