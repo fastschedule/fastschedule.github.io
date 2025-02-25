@@ -145,6 +145,11 @@ button:hover {
     background-color: #f8f8f8;
 }
 
+.strikethrough {
+    text-decoration: line-through;
+    color: #888;
+}
+
 @media (max-width: 768px) {
     .container {
         padding: 0 1rem;
