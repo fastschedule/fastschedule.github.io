@@ -356,11 +356,6 @@
                         "name": "TBW",
                         "location": "C-401",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "C-401",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -4267,11 +4262,6 @@
                         "name": "Exp Writing",
                         "location": "C-308",
                         "time": "10:30-12:15"
-                    },
-                    {
-                        "name": "UHQ",
-                        "location": "C-309",
-                        "time": "01:20-02:15"
                     },
                     {
                         "name": "OOP Lab",
