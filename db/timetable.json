@@ -4000,6 +4000,11 @@
                 ],
                 "D": [
                     {
+                        "name": "DLD [Rescheduled]",
+                        "location": "A-211",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Exp Writing",
                         "location": "A-315",
                         "time": "08:30-10:15"
