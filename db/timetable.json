@@ -444,7 +444,142 @@
                     }
                 ]
             },
-            "2024": {}
+            "2024": {
+                "B": [
+                    {
+                        "name": "DLD",
+                        "location": "C-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-303",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-301",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-302",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "C-410",
+                        "time": "2:30-03:25"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "DLD",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-305",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Seerah",
+                        "location": "C-305",
+                        "time": "08:30-09:25"
+                    },
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-305",
+                        "time": "09:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "A-315",
+                        "time": "12:30-02:15"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "A-314",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "A-314",
+                        "time": "10:20-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab E1",
+                        "location": "A-CALL-2",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab E2",
+                        "location": "A-CALL-3",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Seerah",
+                        "location": "A-314",
+                        "time": "11:30-12:25"
+                    },
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "A-314",
+                        "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab G1",
+                        "location": "A-CALL-2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab G2",
+                        "location": "A-CALL-3",
+                        "time": "08:30-11:15"
+                    }
+                ]
+            }
         },
         "BS SE": {
             "2021": {
@@ -1451,7 +1586,127 @@
                     }
                 ]
             },
-            "2024": {}
+            "2024": {
+                "D": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-301",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "A-303",
+                        "time": "01:00-01:55"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Seerah",
+                        "location": "C-302",
+                        "time": "08:30-09:25"
+                    },
+                    {
+                        "name": "Psychology",
+                        "location": "C-302",
+                        "time": "09:30-11:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-303",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-303",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "DLD",
+                        "location": "C-304",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-304",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-304",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "A-303",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "A-303",
+                        "time": "10:20-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab A1",
+                        "location": "A-Mehran 2",
+                        "time": "11:25-02:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab A2",
+                        "location": "A-CALL-1",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "11:25-02:10"
+                    }
+                ]
+            }
         },
         "BS SE": {
             "2021": {
@@ -2478,7 +2733,112 @@
                 ]
             },
             "2023": {},
-            "2024": {}
+            "2024": {
+                "B": [
+                    {
+                        "name": "DLD",
+                        "location": "C-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-304",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-301",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-303",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-304",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-304",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-303",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-305",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-305",
+                        "time": "01:15-03:00"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "11:25-02:10"
+                    }
+                ]
+            }
         },
         "BS SE": {
             "2021": {
@@ -3017,6 +3377,11 @@
                         "name": "Islamic",
                         "location": "C-305",
                         "time": "10:20-12:05"
+                    },
+                    {
+                        "name": "UHQ",
+                        "location": "C-305",
+                        "time": "12:10-01:05"
                     },
                     {
                         "name": "Exp Writing Lab A1",
@@ -3574,7 +3939,117 @@
                     }
                 ]
             },
-            "2024": {}
+            "2024": {
+                "E": [
+                    {
+                        "name": "OOP [Rescheduled]",
+                        "location": "C-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-303",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "MV Cal",
+                        "location": "C-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-302",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "DLD",
+                        "location": "C-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP [Rescheduled]",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Cal",
+                        "location": "C-304",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-309",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab C1",
+                        "location": "A-Mehran 2",
+                        "time": "02:25-05:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab C2",
+                        "location": "A-CALL-1",
+                        "time": "02:25-05:10"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "A-315",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "11:25-02:10"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 4",
+                        "time": "02:25-05:10"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Exp Writing Lab B1",
+                        "location": "A-Mehran 2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2",
+                        "location": "A-CALL-1",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "11:25-02:10"
+                    }
+                ]
+            }
         },
         "BS SE": {
             "2021": {
@@ -4475,7 +4950,132 @@
                     }
                 ]
             },
-            "2024": {}
+            "2024": {
+                "A": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-301",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Psychology",
+                        "location": "C-301",
+                        "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "C-401",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "DLD [Rescheduled]",
+                        "location": "C-403",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-301",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "C-Rawal 1",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Exp Writing Lab F1",
+                        "location": "A-CALL-2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab F2",
+                        "location": "A-CALL-3",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-302",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-302",
+                        "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-302",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "C-402",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab D1",
+                        "location": "A-Mehran 2",
+                        "time": "08:30-11:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab D2",
+                        "location": "A-CALL-1",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-303",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-303",
+                        "time": "10:30-12:15"
+                    },
+                    {
+                        "name": "MV Cal [Rescheduled]",
+                        "location": "C-402",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-303",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:30-11:15"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-304",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:15"
+                    }
+                ]
+            }
         },
         "BS SE": {
             "2021": {},
