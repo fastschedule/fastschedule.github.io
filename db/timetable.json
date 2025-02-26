@@ -4956,6 +4956,11 @@
                         "name": "MV Cal [Rescheduled]",
                         "location": "C-401",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "DLD [Rescheduled]",
+                        "location": "C-403",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "F": [
