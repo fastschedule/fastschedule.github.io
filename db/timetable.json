@@ -4736,6 +4736,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Technopreneurship [Rescheduled]",
+                        "location": "B-230",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "NLP [Rescheduled]",
                         "location": "A-108",
                         "time": "02:30-03:50"
@@ -5231,7 +5236,15 @@
             }
         },
         "BS DS": {
-            "2021": {},
+            "2021": {
+                "U": [
+                    {
+                        "name": "Entre [Rescheduled]",
+                        "location": "B-229",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
             "2022": {},
             "2023": {
                 "C": [
