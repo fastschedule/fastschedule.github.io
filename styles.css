@@ -38,27 +38,21 @@ body {
 .navbar {
     background-color: #000;
     color: white;
+    height: 60px;
     padding: 1rem 2rem;
     display: flex;
     align-items: center;
-    justify-content: space-between; /* Push elements to the edges */
-    position: relative;
+    justify-content: space-between;
 }
 
 .navbar-brand {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     font-weight: 500;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%); /* Center the text */
     white-space: nowrap;
 }
 
 .view-counter {
     font-size: 1.2rem;
-    display: flex;
-    align-items: center;
-    gap: 5px;
 }
 
 h1 {
@@ -161,7 +155,30 @@ button:hover {
     color: #888;
 }
 
+@media (min-width: 768px) {
+    .navbar {
+        justify-content: center;
+        position: relative;
+        background-color: #000;
+        color: white;
+        padding: 1rem 2rem;
+        height: 60px;
+    }
+
+    .navbar-brand {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .view-counter {
+        position: absolute;
+        right: 2rem;
+    }
+}
+
 @media (max-width: 768px) {
+    
     .container {
         padding: 0 1rem;
     }
