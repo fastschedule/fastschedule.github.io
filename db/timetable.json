@@ -4532,6 +4532,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "PDC [Rescheduled]",
+                        "location": "A-211",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Multiagent",
                         "location": "A-301",
                         "time": "10:00-11:20"
@@ -4552,6 +4557,11 @@
                         "name": "Data Mining",
                         "location": "A-303",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PDC [Rescheduled]",
+                        "location": "A-305",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "C": [
