@@ -18,6 +18,10 @@ body {
     background-color: #f5f5f5;
 }
 
+#loadingAnim{
+    font-family: monospace;
+}
+
 .container {
     flex: 1;
     width: 100%;

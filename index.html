@@ -16,7 +16,7 @@
     <nav class="navbar">
         <div class="navbar-brand">NUCES Timetable</div>
         <div class="view-counter">
-            👁️ <span id="viewCount">Loading...</span>
+            👁️ <span id="viewCount"><span id="loadingAnim">-</span></span>
         </div>
     </nav>
     
@@ -70,6 +70,18 @@
         <p>Made with ❤️ by Abdul Moiz (CY-B)</p>
         <p>i242006@isb.nu.edu.pk</p>
     </footer>
+
+    <script>
+        let loadingFrames = ['\\','|', '/', '-'];
+        let index = 0;
+    
+        function animateLoading() {
+            document.getElementById("loadingAnim").textContent = loadingFrames[index];
+            index = (index + 1) % loadingFrames.length; // Ensures continuous looping
+        }
+    
+        setInterval(animateLoading, 120);
+    </script>
     <script src="script.js"></script>
 </body>
 </html>
