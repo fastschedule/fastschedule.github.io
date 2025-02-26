@@ -3805,6 +3805,16 @@
                         "name": "AI",
                         "location": "A-108",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "PDC [Rescheduled]",
+                        "location": "C-GPU Lab",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI Lab [Rescheduled]",
+                        "location": "A-Karakoram 3",
+                        "time": "02:25-05:10"
                     }
                 ]
             },
