@@ -4134,7 +4134,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "S/w Const Lab",
+                        "name": "S/w Const Lab [Cancelled]",
                         "location": "A-Karakoram 3",
                         "time": "08:30-11:15"
                     }
@@ -4785,6 +4785,13 @@
                         "location": "C-405",
                         "time": "08:30-09:50"
                     }
+                ],
+                "H": [
+                    {
+                        "name": "PDC [Rescheduled]",
+                        "location": "A-108",
+                        "time": "11:30-12:50"
+                    }
                 ]
             },
             "2023": {
@@ -4839,24 +4846,12 @@
                         "time": "08:30-11:15"
                     }
                 ],
-                "G": [
-                    {
-                        "name": "FOM",
-                        "location": "C-405",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "A-118 (MEDC)",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 4",
-                        "time": "02:15-05:00"
-                    }
-                ],
                 "A": [
+                    {
+                        "name": "Prob & Stats [Rescheduled]",
+                        "location": "C-311",
+                        "time": "02:30-03:50"
+                    },
                     {
                         "name": "DB",
                         "location": "C-409",
@@ -4875,6 +4870,11 @@
                 ],
                 "C": [
                     {
+                        "name": "Prob & Stats [Rescheduled]",
+                        "location": "C-311",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "TBW",
                         "location": "B-227",
                         "time": "08:30-09:50"
@@ -4883,6 +4883,23 @@
                         "name": "OS",
                         "location": "A-211",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "FOM",
+                        "location": "C-405",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "A-118 (MEDC)",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Margala 4",
+                        "time": "02:15-05:00"
                     }
                 ],
                 "E": [
@@ -4895,6 +4912,11 @@
                         "name": "Prob & Stats",
                         "location": "A-118 (MEDC)",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Prob & Stats [Rescheduled]",
+                        "location": "C-408",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "OS Lab",
