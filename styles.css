@@ -114,6 +114,10 @@ html, body {
     margin-bottom: 2rem;
 }
 
+thead{
+    text-align:left;
+}
+
 .form-group {
     display: flex;
     flex-direction: column;
