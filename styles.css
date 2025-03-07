@@ -81,6 +81,10 @@ html, body {
     border: 1px solid #FFD700; /* Gold border */
 }
 
+thead{
+    text-align:left;
+}
+
 .timetable-table {
     width: 100%;
     border-collapse: collapse;
@@ -112,10 +116,6 @@ html, body {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 1.5rem;
     margin-bottom: 2rem;
-}
-
-thead{
-    text-align:left;
 }
 
 .form-group {
@@ -162,6 +162,29 @@ button:hover {
     background-color: #ffcc00;
     transform: scale(1.05);
 }
+
+.contact-info {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+}
+
+.contact-info a {
+    color: #FFD700;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease-in-out;
+}
+
+.contact-info a:hover {
+    color: #ffcc00;
+    text-decoration: underline;
+}
+
+.contact-info span {
+    margin: 0 0.5rem;
+    color: #FFD700;
+}
+
 
 /* ⚫ Footer */
 .footer {
