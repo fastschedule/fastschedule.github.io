@@ -2,11 +2,9 @@ let timetableData = {};
 let viewCount = 0;
 async function loadTimetableData() {
     try {
-        let response = await fetch("https://fastscheduledb.abdulmoiz-marz.workers.dev");
+        var response = await fetch("https://fastscheduledb.abdulmoiz-marz.workers.dev");
         response = await response.json();
         timetableData = response["data"];
-        viewCount = response["view_count"];
-        document.getElementById("viewCount").innerHTML=viewCount;
         loadDepartments();
         loadBatchYear();
     } catch (error) {
