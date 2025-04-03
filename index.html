@@ -1,28 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta property="og:title" content="FAST Schedule">
+    <meta property="og:description" content="Timetable App for Islamabad Campus of FAST (NUCES); Get up to date schedule and free rooms">
+    <meta property="og:image" content="assets/favicon.ico">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NUCES Timetable</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
     <meta name="google-site-verification" content="AJ2dBGbiuzmA0_WrYOH2cUBefaCu4US15doUAvbPvuQ" />
-    <meta name="description" content="FAST Islamabad timetable – an easy way to check class schedules.">
-    <meta name="keywords" content="FAST timetable,FAST Islamabad, NUCES Islamabad, FAST university schedule, NUCES timetable, FAST-NUCES, university classes, class timetable">
+    <meta name="description" content="Timetable App for Islamabad Campus of FAST (NUCES); Get up to date schedule and free rooms">
+    <meta name="keywords" content="NUCES,FAST,Timetable,Schedule,Class,Islamabad,University">
     <meta name="robots" content="index, nofollow">
     <meta name="author" content="Abdul Moiz">
 </head>
 <body>
     <nav class="navbar">
         <div class="navbar-brand">NUCES Timetable</div>
-        <div class="view-counter">
-            👁️ <span id="viewCount"><span id="loadingAnim">-</span></span>
-        </div>
+
+        <span style="font-size:30px;cursor:pointer; position: absolute;
+        right: 2rem;" onclick="openNav()">&#9776;</span>
     </nav>
-    <div class="ramadan-banner">
-        🌙✨Ramadan Mubarak🕌✨
+
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="#" onclick="closeNav()">Timetable</a>
+        <a href="rooms.html">Rooms</a>
     </div>
-    
 
     <div class="container">
 
@@ -77,19 +82,16 @@
             <a href="tel:+923001234567">📞 03305855649</a>
         </div>
     </footer>
-    
 
     <script>
-        let loadingFrames = ['\\','|', '/', '-'];
-        let index = 0;
-    
-        function animateLoading() {
-            document.getElementById("loadingAnim").textContent = loadingFrames[index];
-            index = (index + 1) % loadingFrames.length; // Ensures continuous looping
+        function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
         }
-    
-        setInterval(animateLoading, 120);
+
+        function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        }
     </script>
-    <script src="script.js"></script>
+    <script src="timetable.js"></script>
 </body>
 </html>

@@ -5,7 +5,7 @@
 ## Features
 - **Department-Specific Timetables**: Quickly view the schedules for BS CS, CY, SE, AI, and DS departments.
 - **Auto-Updated Data**: The timetable data is fetched from an Excel sheet using a Python script that automatically scrapes and updates the entries.
-- **Web-Based**: Access the timetable anytime via the website: [fastschedule.github.io](https://fastschedule.github.io) *(No money for custom domain yet 😅)*
+- **Web-Based**: Access the timetable anytime via the website: [fastschedule.github.io](https://fastschedule.github.io) *(No money for custom domain yet)*
 
 ## Why I Made This?
 - **Ease of Use**: I wanted a quick way to check the timetable without sifting through complex documents or cluttered interfaces.
@@ -21,7 +21,7 @@ Feel free to reach out if you have any questions or suggestions:
 **Abdul Moiz** (Cyber 24 Batch)
 
 ## License
-This project's frontend is open-source and available under the [MIT License](LICENSE).
+This project's frontend is open-source (click inspect element...) and available under the [MIT License](LICENSE).
 
 ---
 
