@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", async function () {
             displayRooms(select.value);
         } catch (error) {
             console.error("Error fetching room data:", error);
-            roomsDisplay.innerHTML = "<p>Failed to load room data.</p>";
+            roomsDisplay.innerHTML = `<p style="padding: 1rem">Failed to load room data.</p>`;
         } finally {
             hideLoading();
         }

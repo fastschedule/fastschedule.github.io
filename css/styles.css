@@ -60,14 +60,6 @@ body {
     font-size: 1.2rem;
 }
 
-h1 {
-    color: #000;
-    margin-bottom: 2rem;
-    font-size: 2rem;
-
-    font-weight: 600;
-
-}
 
 .form-grid {
     display: grid;
