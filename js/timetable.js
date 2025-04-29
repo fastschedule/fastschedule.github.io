@@ -1,7 +1,7 @@
 let timetableData = {};
 let isLoading = false;
 //saturday label
-const saturdayLabel = "Saturday (Apr.26)";
+const saturdayLabel = "Saturday (May 03, 2025)";
 
 function showLoading() {
     isLoading = true;
