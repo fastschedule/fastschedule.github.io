@@ -1,7 +1,7 @@
 let timetableData = {};
 let isLoading = false;
 //saturday label
-const saturdayLabel = "Saturday (May 03, 2025)";
+let saturdayLabel = "Saturday";
 
 function showLoading() {
     isLoading = true;
@@ -22,6 +22,12 @@ async function loadTimetableData() {
         var response = await fetch("https://fastscheduledb.abdulmoiz-marz.workers.dev");
         response = await response.json();
         timetableData = response["data"];
+        for (let key of Object.keys(timetableData)) {
+            if (key.startsWith("Saturday")) {
+                saturdayLabel = key;
+                break;
+            }
+        }
         loadDepartments();
         loadBatchYear();
     } catch (error) {
