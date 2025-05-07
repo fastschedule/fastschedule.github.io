@@ -34,6 +34,7 @@ async function loadTimetableData() {
         console.error("Error loading timetable data: ", error);
     } finally{
         hideLoading();
+        loadTimetable();
     }
 }
 
