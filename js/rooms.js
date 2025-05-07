@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", async function () {
-    const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
+    let saturdayLabel = "Saturday";
+    const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday","Saturday"];
     const today = new Date().toLocaleDateString('en-US', { weekday: 'long' });
     const defaultDay = days.includes(today) ? today : "Monday";
     let roomData = {};
@@ -38,7 +39,12 @@ document.addEventListener("DOMContentLoaded", async function () {
             const response = await fetch("https://fastschedulerooms.abdulmoiz-marz.workers.dev/");
             const result = await response.json();
             roomData = result.data || {};
-
+            for (let key of Object.keys(roomData)) {
+                if (key.startsWith("Saturday")) {
+                    saturdayLabel = key;
+                    break;
+                }
+            }
             displayRooms(select.value);
         } catch (error) {
             console.error("Error fetching room data:", error);
@@ -62,16 +68,22 @@ document.addEventListener("DOMContentLoaded", async function () {
     }
 
     function displayRooms(day) {
+        if (day === "Saturday") {
+            day = saturdayLabel;
+        }
         let rooms = roomData[day] || [];
 
         if (rooms.length === 0) {
             roomsDisplay.innerHTML = "<p>No available rooms.</p>";
         } else {
 
-            rooms = rooms.map(room => ({
-                location: room.location,
-                time: room.time.replace(/\s*\(.*?\)/g, ""), 
-            })).sort((a, b) => timeToNumber(a.time) - timeToNumber(b.time));
+            rooms = rooms
+            .map(room => ({
+                location: room.location?.trim(),
+                time: room.time?.replace(/\s*\(.*?\)/g, "").trim(),
+            }))
+            .filter(room => room.time && room.time.toUpperCase() !== "N/A")
+            .sort((a, b) => timeToNumber(a.time) - timeToNumber(b.time));
 
             let output = `<table class="rooms-table"><thead><tr><th>Location</th><th>Time</th></tr></thead><tbody>`;
             rooms.forEach(room => {
