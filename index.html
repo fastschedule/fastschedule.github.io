@@ -16,65 +16,7 @@
     <meta name="author" content="Abdul Moiz">
 </head>
 <body>
-    <nav class="navbar">
-        <h1 class="navbar-brand">FAST Timetable</h1>
-
-        <span style="font-size:30px;cursor:pointer; position: absolute;
-        right: 2rem;" onclick="openNav()">&#9776;</span>
-    </nav>
-
-    <div id="mySidenav" class="sidenav">
-        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-        <a href="#" onclick="closeNav()">Timetable</a>
-        <a href="/rooms">Rooms</a>
-    </div>
-
-    <div class="container">
-
-        <div class="form-grid">
-            <div class="form-group">
-                <label for="department">Department</label>
-                <select id="department">
-                    <option>Select Department</option>
-                </select>
-            </div>
-
-            <div class="form-group">
-                <label for="batchYear">Batch Year</label>
-                <select id="batchYear">
-                    <option value="">Select Batch Year</option>
-                    <option value="2021">2021</option>
-                    <option value="2022">2022</option>
-                    <option value="2023">2023</option>
-                    <option value="2024">2024</option>
-                </select>
-            </div>
-
-            <div class="form-group">
-                <label for="day">Day</label>
-                <select id="day">
-                    <option>Select Day</option>
-                    <option value="Monday">Monday</option>
-                    <option value="Tuesday">Tuesday</option>
-                    <option value="Wednesday">Wednesday</option>
-                    <option value="Thursday">Thursday</option>
-                    <option value="Friday">Friday</option>
-                    <option value="Saturday">Saturday</option>
-                </select>
-            </div>
-
-            <div class="form-group">
-                <label for="section">Section</label>
-                <select id="section">
-                    <option>Select Section</option>
-                </select>
-            </div>
-        </div>
-
-        <button id="getTimetableBtn">Get Timetable</button>
-
-        <div id="timetableDisplay"></div>
-    </div>
+    <a href="https://docs.google.com/spreadsheets/d/1dk0Raaf9gtbSdoMAGZal3y4m1kwr7UiuulxFxDKpM8Q/edit?gid=1783333514#gid=1783333514">Timetable link</a>
     <footer class="footer">
         <p>Made with ❤️ by Abdul Moiz (CY-B)</p>
         <div class="contact-info">
@@ -84,15 +26,5 @@
         </div>
     </footer>
 
-    <script>
-        function openNav() {
-        document.getElementById("mySidenav").style.width = "250px";
-        }
-
-        function closeNav() {
-        document.getElementById("mySidenav").style.width = "0";
-        }
-    </script>
-    <script src="js/timetable.js"></script>
 </body>
 </html>
