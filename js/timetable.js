@@ -125,10 +125,10 @@ function loadTimetable() {
         return;
     }
 
-    if (day === "Friday") {
-        timetableDisplay.innerHTML = `<p style="padding: 1rem">friday wale courses fix ho rhe...</p>`;
-        return;
-    }
+    // if (day === "Friday") {
+    //     timetableDisplay.innerHTML = `<p style="padding: 1rem">friday wale courses fix ho rhe...</p>`;
+    //     return;
+    // }
 
     if (day==="Saturday"){
         day = saturdayLabel
@@ -228,4 +228,5 @@ daySelect.addEventListener("change", () => {
 });
 
 loadTimetableData();    
+
 setDefaultDay();
