@@ -57,7 +57,19 @@ body {
 }
 
 .view-counter {
-    font-size: 1.2rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    gap: 0.5rem; /* space between icon and number */
+    font-size: 1.25rem; /* 20px for the number */
+    height: 40px; /* ensures vertical centering */
+}
+
+.view-counter svg {
+    width: 24px;
+    height: 24px;
+    display: block;
 }
 
 
@@ -120,13 +132,7 @@ button:hover {
     width: 100%;
 }
 
-#roomsDisplay{
-    margin-top: 2rem;
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    width: 100%;
-}
+
 
 #timetableDisplay thead {
     background-color: #000;
@@ -171,7 +177,7 @@ button:hover {
 }
 
 .contact-info {
-    margin-top: 0.5rem;
+    margin-top: 1.5rem;
     font-size: 1rem;
 }
 
@@ -208,10 +214,6 @@ button:hover {
         transform: translateX(-50%);
     }
 
-    .view-counter {
-        position: absolute;
-        right: 2rem;
-    }
 }
 
 @media (max-width: 768px) {
@@ -307,40 +309,7 @@ button:hover {
     .sidenav a {font-size: 18px;}
   }
 
-  .rooms-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 1.5rem;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    background-color: white;
-}
 
-.rooms-table thead {
-    background-color: #000;
-    color: #fff;
-    text-align: left;
-    font-size: 1.1rem;
-}
-
-.rooms-table th, .rooms-table td {
-    padding: 1rem;
-    border-bottom: 1px solid #ddd;
-    text-align: left;
-}
-
-.rooms-table tbody tr:hover {
-    background-color: #f8f8f8;
-}
-
-.rooms-table th {
-    font-weight: 600;
-}
-
-.rooms-table td {
-    font-size: 1rem;
-}
 
 .spinner {
     display: inline-block;

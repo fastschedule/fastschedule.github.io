@@ -1,4 +1,5 @@
 let timetableData = {};
+let viewCount = 0;
 let isLoading = false;
 //saturday label
 let saturdayLabel = "Saturday";
@@ -22,6 +23,8 @@ async function loadTimetableData() {
         var response = await fetch("https://fastscheduledb.abdulmoiz-marz.workers.dev");
         response = await response.json();
         timetableData = response["data"];
+        viewCount = response["viewCount"];
+        document.getElementById("viewCount").innerHTML=viewCount;
         for (let key of Object.keys(timetableData)) {
             if (key.startsWith("Saturday")) {
                 saturdayLabel = key;
@@ -155,7 +158,7 @@ function loadTimetable() {
         const table = document.createElement("table");
         table.classList.add("timetable-table");
 
-        const headers = ["Course Name", "Location", "Time"];
+        const headers = ["Course", "Location", "Time"];
         const thead = document.createElement("thead");
         const headerRow = document.createElement("tr");
         headers.forEach(header => {
@@ -228,5 +231,4 @@ daySelect.addEventListener("change", () => {
 });
 
 loadTimetableData();    
-
 setDefaultDay();
