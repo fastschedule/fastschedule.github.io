@@ -1,5 +1,5 @@
 let timetableData = {};
-let viewCount = 0;
+// let viewCount = 0;
 let isLoading = false;
 //saturday label
 let saturdayLabel = "Saturday";
@@ -23,8 +23,8 @@ async function loadTimetableData() {
         var response = await fetch("https://fastscheduledb.abdulmoiz-marz.workers.dev");
         response = await response.json();
         timetableData = response["data"];
-        viewCount = response["viewCount"];
-        document.getElementById("viewCount").innerHTML=viewCount;
+        // viewCount = response["viewCount"];
+        // document.getElementById("viewCount").innerHTML=viewCount;
         for (let key of Object.keys(timetableData)) {
             if (key.startsWith("Saturday")) {
                 saturdayLabel = key;
