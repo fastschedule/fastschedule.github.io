@@ -798,7 +798,7 @@
                     },
                     {
                         "name": "COAL Lab",
-                        "location": "C-Rawal 1",
+                        "location": "C-311",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -985,7 +985,7 @@
                     },
                     {
                         "name": "COAL",
-                        "location": "N/A",
+                        "location": "D-406",
                         "time": "10:00-11:20"
                     }
                 ],
@@ -1172,7 +1172,7 @@
                     },
                     {
                         "name": "Info Assur",
-                        "location": "N/A",
+                        "location": "D-305",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -1189,14 +1189,14 @@
                     },
                     {
                         "name": "Sec S/w Design",
-                        "location": "N/A",
+                        "location": "D-314",
                         "time": "11:30-12:50"
                     }
                 ],
                 "D": [
                     {
                         "name": "Info Assur",
-                        "location": "N/A",
+                        "location": "B-230",
                         "time": "11:30-12:50"
                     },
                     {
@@ -1208,7 +1208,7 @@
                 "C": [
                     {
                         "name": "Info Assur",
-                        "location": "N/A",
+                        "location": "B-230",
                         "time": "01:00-02:20"
                     }
                 ]
