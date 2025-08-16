@@ -20,9 +20,9 @@ function hideLoading() {
 async function loadTimetableData() {
     showLoading();
     try {
-        var response = await fetch("https://fastscheduledb.abdulmoiz-marz.workers.dev");
+        var response = await fetch("db/timetable.json");
         response = await response.json();
-        timetableData = response["data"];
+        timetableData = response;
         // viewCount = response["viewCount"];
         // document.getElementById("viewCount").innerHTML=viewCount;
         for (let key of Object.keys(timetableData)) {

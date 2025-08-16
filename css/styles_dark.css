@@ -258,40 +258,9 @@ button:hover {
     height: 40px;
     margin-bottom: 16px;
     border-width: 4px;
-    border-top-color: #FFD700; 
     border-color: #FFD700;      
-}
+    border-top-color: #000;     
 
-#ddosOverlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background: rgba(0,0,0,0.5);
-    z-index: 99999;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    pointer-events: all;
-}
-
-.ddosOverlayText {
-    color: #FFD700;
-    font-size: 2rem;
-    font-weight: bold;
-    text-align: center;
-    text-shadow: 0 0 10px #000, 0 0 20px #FFD700;
-    background: rgba(0,0,0,0.7);
-    padding: 2rem 3rem;
-    border-radius: 16px;
-    box-shadow: 0 0 30px #FFD700;
-}
-
-body > :not(#ddosOverlay) {
-    pointer-events: none;
-    user-select: none;
-    opacity: 0.3;
 }
 
 .footer {
