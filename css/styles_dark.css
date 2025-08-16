@@ -10,13 +10,12 @@ html, body {
     width: 100%;
     margin: 0;
     padding: 0;
-    background-color: rgb(20, 20, 20); /* Deep dark mode */
+    background-color: rgb(20, 20, 20); 
     color: white;
     display: flex;
     flex-direction: column;
 }
 
-/* 🕌 Ramadan Banner */
 .ramadan-banner {
     text-align: center;
     font-size: 1.5rem;
@@ -40,7 +39,6 @@ html, body {
     font-family: monospace;
 }
 
-/* 🏠 Layout */
 .container {
     flex: 1;
     width: 100%;
@@ -49,7 +47,6 @@ html, body {
     padding: 0 1.5rem;
 }
 
-/* 📌 Navbar */
 .navbar {
     background-color: #000;
     color: white;
@@ -76,15 +73,14 @@ html, body {
     display: block;
 }
 
-/* 📆 Timetable Styling */
 #timetableDisplay {
     margin-top: 2rem;
-    background-color: #222; /* Dark table */
+    background-color: #222; 
     border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(255, 215, 0, 0.2); /* Golden glow */
+    box-shadow: 0 2px 10px rgba(255, 215, 0, 0.2); 
     overflow-x: auto;
     width: 100%;
-    border: 1px solid #FFD700; /* Gold border */
+    border: 1px solid #FFD700; 
 }
 
 thead{
@@ -94,12 +90,12 @@ thead{
 .timetable-table {
     width: 100%;
     border-collapse: collapse;
-    color: white; /* White text */
+    color: white; 
 }
 
 .timetable-table th {
-    background-color: #111; /* Darker shade */
-    color: #FFD700; /* Gold text */
+    background-color: #111; 
+    color: #FFD700; 
     font-weight: 600;
     padding: 1rem;
     border-bottom: 2px solid #FFD700;
@@ -108,15 +104,14 @@ thead{
 .timetable-table td {
     padding: 1rem;
     text-align: left;
-    border-bottom: 1px solid #444; /* Subtle row separator */
+    border-bottom: 1px solid #444; 
     word-wrap: break-word;
 }
 
 .timetable-table tr:hover {
-    background-color: rgba(255, 215, 0, 0.1); /* Soft golden hover */
+    background-color: rgba(255, 215, 0, 0.1); 
 }
 
-/* 🎨 Form Elements */
 .form-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -151,7 +146,6 @@ select:focus {
     box-shadow: 0 0 5px rgba(255, 215, 0, 0.6);
 }
 
-/* 🔘 Button Styling */
 button {
     background-color: #FFD700;
     color: black;
@@ -191,13 +185,11 @@ button:hover {
     color: #FFD700;
 }
 
-/* .strikethrough */
 .strikethrough {
     text-decoration: line-through;
     color: #888;
 }
 
-/* .sidenav */
 .sidenav {
     height: 100%;
     width: 0;
@@ -205,7 +197,7 @@ button:hover {
     z-index: 1;
     top: 0;
     right: 0;
-    background-color: #222; /* darker for dark mode */
+    background-color: #222; 
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -215,7 +207,7 @@ button:hover {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #FFD700; /* gold for dark mode */
+    color: #FFD700; 
     display: block;
 }
 
@@ -236,14 +228,13 @@ button:hover {
     .sidenav a {font-size: 18px;}
 }
 
-/* .spinner and .loading-container */
 .spinner {
     display: inline-block;
     width: 20px;
     height: 20px;
     border: 3px solid rgba(255, 255, 255, 0.3);
     border-radius: 50%;
-    border-top-color: #000; /* black for button spinner on gold */
+    border-top-color: #000; 
     animation: spin 1s ease-in-out infinite;
     margin-right: 8px;
     vertical-align: middle;
@@ -267,11 +258,42 @@ button:hover {
     height: 40px;
     margin-bottom: 16px;
     border-width: 4px;
-    border-color: #FFD700;      /* gold for all borders */
-    border-top-color: #000;     /* black for animated loading arc */
+    border-top-color: #FFD700; 
+    border-color: #FFD700;      
 }
 
-/* ⚫ Footer */
+#ddosOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,0.5);
+    z-index: 99999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: all;
+}
+
+.ddosOverlayText {
+    color: #FFD700;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0 0 10px #000, 0 0 20px #FFD700;
+    background: rgba(0,0,0,0.7);
+    padding: 2rem 3rem;
+    border-radius: 16px;
+    box-shadow: 0 0 30px #FFD700;
+}
+
+body > :not(#ddosOverlay) {
+    pointer-events: none;
+    user-select: none;
+    opacity: 0.3;
+}
+
 .footer {
     background-color: #000;
     padding: 1rem 0;
@@ -281,7 +303,6 @@ button:hover {
     margin-top: auto;
 }
 
-/* 📱 Responsive Design */
 @media (min-width: 768px) {
     .navbar {
         justify-content: center;
