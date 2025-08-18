@@ -2005,7 +2005,7 @@
                     },
                     {
                         "name": "MLOps",
-                        "location": "D-501",
+                        "location": "C-110",
                         "time": "10:00-11:20"
                     }
                 ],
@@ -2016,12 +2016,14 @@
                         "time": "01:00-02:20"
                     }
                 ],
-                "B": [
+                "G": [
                     {
-                        "name": "MLOps",
+                        "name": "S/w Re-Engg",
                         "location": "D-414",
-                        "time": "11:30-12:50"
-                    },
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
                     {
                         "name": "NLP",
                         "location": "D-415",
@@ -2036,13 +2038,11 @@
                         "name": "Gen AI",
                         "location": "D-416",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "G": [
+                    },
                     {
-                        "name": "S/w Re-Engg",
-                        "location": "D-414",
-                        "time": "01:00-02:20"
+                        "name": "MLOps",
+                        "location": "C-110",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -2551,17 +2551,17 @@
                 "A": [
                     {
                         "name": "Net Sec",
-                        "location": "D-502",
+                        "location": "B-230",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Algo",
-                        "location": "D-502",
+                        "location": "B-230",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "OS",
-                        "location": "D-502",
+                        "location": "C-311",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -2587,24 +2587,24 @@
                 "A": [
                     {
                         "name": "Cloud Comp",
-                        "location": "D-504",
+                        "location": "D-405",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "PDC",
-                        "location": "D-505",
+                        "location": "C-410",
                         "time": "11:30-12:50"
                     }
                 ],
                 "B": [
                     {
                         "name": "Cloud Comp",
-                        "location": "D-504",
+                        "location": "C-410",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "PDC",
-                        "location": "D-504",
+                        "location": "C-308",
                         "time": "01:00-02:20"
                     },
                     {
@@ -2616,34 +2616,34 @@
                 "C": [
                     {
                         "name": "PDC",
-                        "location": "D-504",
+                        "location": "C-308",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Sec S/w Design",
-                        "location": "D-505",
+                        "location": "D-316",
                         "time": "08:30-09:50"
                     }
                 ],
                 "D": [
                     {
                         "name": "PDC",
-                        "location": "D-504",
+                        "location": "C-308",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "PDC",
-                        "location": "D-504",
+                        "location": "C-308",
                         "time": "01:00-02:20"
                     },
                     {
                         "name": "Sec S/w Design",
-                        "location": "D-505",
+                        "location": "C-311",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "PDC",
-                        "location": "D-505",
+                        "location": "C-410",
                         "time": "11:30-12:50"
                     }
                 ]
