@@ -236,7 +236,7 @@
                     },
                     {
                         "name": "Data St Lab",
-                        "location": "D-IT Lab 4",
+                        "location": "A-Mehran 1",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -462,7 +462,7 @@
                     },
                     {
                         "name": "Comp Net Lab",
-                        "location": "C-Margala 3",
+                        "location": "C-Rawal 4",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -776,7 +776,7 @@
                     },
                     {
                         "name": "COAL Lab",
-                        "location": "C-Margala 1",
+                        "location": "C-Rawal 4",
                         "time": "02:30-05:15"
                     },
                     {
@@ -841,7 +841,7 @@
                 "C": [
                     {
                         "name": "DW&BI Lab",
-                        "location": "C-Margala 4",
+                        "location": "C-GPU Lab",
                         "time": "11:30-02:20"
                     }
                 ]
@@ -896,7 +896,7 @@
                     },
                     {
                         "name": "Comp Net Lab",
-                        "location": "C-Margala 1",
+                        "location": "Rawal 3 (B-232)",
                         "time": "11:30-02:20"
                     }
                 ]
