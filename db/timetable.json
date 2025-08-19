@@ -3439,7 +3439,7 @@
                     },
                     {
                         "name": "Psychology",
-                        "location": "D-502",
+                        "location": "B-230",
                         "time": "02:30-04:15"
                     }
                 ],
@@ -3482,12 +3482,12 @@
                 "B": [
                     {
                         "name": "Web",
-                        "location": "D-504",
+                        "location": "C-410",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "DB",
-                        "location": "D-504",
+                        "location": "C-410",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3501,34 +3501,34 @@
                 "A": [
                     {
                         "name": "App ML",
-                        "location": "D-504",
+                        "location": "D-411",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Sec S/w Design",
-                        "location": "D-505",
+                        "location": "D-412",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Info Assur",
-                        "location": "D-505",
+                        "location": "C-110",
                         "time": "01:00-02:20"
                     }
                 ],
                 "B": [
                     {
                         "name": "App ML",
-                        "location": "D-504",
+                        "location": "C-307",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "Info Assur",
-                        "location": "D-505",
+                        "location": "D-404",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "Sec S/w Design",
-                        "location": "D-505",
+                        "location": "C-110",
                         "time": "11:30-12:50"
                     }
                 ],
@@ -3542,7 +3542,7 @@
                 "C": [
                     {
                         "name": "Info Assur",
-                        "location": "D-506",
+                        "location": "D-303",
                         "time": "01:00-02:20"
                     },
                     {
