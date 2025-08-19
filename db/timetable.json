@@ -964,7 +964,7 @@
             "2024": {
                 "C": [
                     {
-                        "name": "COAL [Cancelled]",
+                        "name": "COAL",
                         "location": "D-404",
                         "time": "11:30-12:50"
                     },
@@ -974,24 +974,19 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Data St [Cancelled]",
+                        "name": "Data St",
                         "location": "D-405",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Data St [Cancelled]",
-                        "location": "D-406",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "COAL",
+                        "name": "Data St",
                         "location": "D-406",
                         "time": "10:00-11:20"
                     }
                 ],
                 "A": [
                     {
-                        "name": "Data St [Cancelled]",
+                        "name": "Data St",
                         "location": "D-405",
                         "time": "08:30-09:50"
                     },
@@ -1018,7 +1013,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Data St [Cancelled]",
+                        "name": "Data St",
                         "location": "D-406",
                         "time": "10:00-11:20"
                     }
