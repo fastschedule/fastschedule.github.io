@@ -2236,7 +2236,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Financial Mgt",
+                        "name": "Financial Mgt [Cancelled]",
                         "location": "D-402",
                         "time": "02:30-03:50"
                     },
@@ -2253,7 +2253,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Financial Mgt",
+                        "name": "Financial Mgt [Cancelled]",
                         "location": "D-403",
                         "time": "01:00-02:20"
                     }
