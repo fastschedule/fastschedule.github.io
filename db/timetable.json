@@ -3009,7 +3009,7 @@
                     },
                     {
                         "name": "DIP",
-                        "location": "D-311",
+                        "location": "D-312",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3355,12 +3355,12 @@
                 "C": [
                     {
                         "name": "PPIT",
-                        "location": "D-501",
+                        "location": "D-311",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Info Sec",
-                        "location": "D-501",
+                        "location": "D-311",
                         "time": "01:00-02:20"
                     }
                 ]
@@ -3424,17 +3424,17 @@
                 "B": [
                     {
                         "name": "DLD",
-                        "location": "D-502",
+                        "location": "B-230",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "LA",
-                        "location": "D-502",
+                        "location": "B-230",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "Cy Sec",
-                        "location": "D-502",
+                        "location": "B-230",
                         "time": "11:30-12:50"
                     },
                     {
@@ -3446,7 +3446,7 @@
                 "A": [
                     {
                         "name": "Data St",
-                        "location": "D-502",
+                        "location": "B-230",
                         "time": "01:00-02:20"
                     },
                     {
