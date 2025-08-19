@@ -1608,21 +1608,38 @@
                         "time": "02:30-05:15"
                     }
                 ],
-                "D": [
+                "G": [
                     {
-                        "name": "Automata",
+                        "name": "Discrete",
                         "location": "D-302",
                         "time": "01:00-02:20"
                     },
+                    {
+                        "name": "COAL",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-304",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "A": [
                     {
                         "name": "LA",
                         "location": "D-302",
                         "time": "02:30-03:50"
                     },
                     {
+                        "name": "Automata",
+                        "location": "D-305",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "COAL Lab",
-                        "location": "C-Margala 1",
-                        "time": "08:30-11:20"
+                        "location": "C-Rawal 4",
+                        "time": "11:30-02:20"
                     }
                 ],
                 "C": [
@@ -1642,38 +1659,21 @@
                         "time": "11:30-02:20"
                     }
                 ],
-                "G": [
+                "D": [
                     {
-                        "name": "COAL",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-304",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Discrete",
+                        "name": "Automata",
                         "location": "D-304",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "A": [
+                    },
                     {
                         "name": "LA",
                         "location": "D-304",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Automata",
-                        "location": "D-305",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "COAL Lab",
-                        "location": "C-Rawal 4",
-                        "time": "11:30-02:20"
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:20"
                     }
                 ]
             },
@@ -4175,6 +4175,11 @@
                         "time": "05:20-06:40"
                     },
                     {
+                        "name": "Ethical Hack",
+                        "location": "D-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Gen AI",
                         "location": "D-313",
                         "time": "10:00-11:20"
@@ -4193,11 +4198,6 @@
                         "name": "Fund of SPM",
                         "location": "D-316",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Ethical Hack",
-                        "location": "D-316",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Game Design",
@@ -4677,12 +4677,12 @@
                     {
                         "name": "Data St",
                         "location": "D-411",
-                        "time": "08:30-09:50"
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "COAL",
                         "location": "D-411",
-                        "time": "10:00-11:20"
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "LA",
@@ -4804,6 +4804,42 @@
                     }
                 ]
             },
+            "2023": {
+                "A": [
+                    {
+                        "name": "OS",
+                        "location": "D-316",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-402",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "ML",
+                        "location": "D-403",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "OS",
+                        "location": "D-316",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "D-403",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "ML",
+                        "location": "D-403",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2024": {
                 "C": [
                     {
@@ -4830,7 +4866,7 @@
                     },
                     {
                         "name": "LA",
-                        "location": "D-401",
+                        "location": "D-402",
                         "time": "01:00-02:20"
                     },
                     {
@@ -4841,55 +4877,19 @@
                 ],
                 "B": [
                     {
+                        "name": "COAL",
+                        "location": "D-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "LA",
                         "location": "D-402",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "COAL",
-                        "location": "D-402",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "Prog for AI Lab",
                         "location": "C-GPU Lab",
                         "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "Algo",
-                        "location": "D-402",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-403",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "ML",
-                        "location": "D-403",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "TBW",
-                        "location": "D-403",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "ML",
-                        "location": "D-403",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-406",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
