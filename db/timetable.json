@@ -2121,10 +2121,27 @@
                 ]
             },
             "2023": {
+                "A": [
+                    {
+                        "name": "ML",
+                        "location": "D-314",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-403",
+                        "time": "08:30-09:50"
+                    }
+                ],
                 "B": [
                     {
                         "name": "OS",
-                        "location": "D-314",
+                        "location": "D-401",
                         "time": "01:00-02:20"
                     },
                     {
@@ -2136,23 +2153,6 @@
                         "name": "ML",
                         "location": "D-402",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "OS",
-                        "location": "D-401",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "ML",
-                        "location": "D-401",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-403",
-                        "time": "08:30-09:50"
                     }
                 ]
             },
@@ -2212,12 +2212,12 @@
             "2022": {
                 "B": [
                     {
-                        "name": "Reinf Learning",
+                        "name": "Gen AI",
                         "location": "D-402",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Gen AI",
+                        "name": "Reinf Learning",
                         "location": "D-403",
                         "time": "11:30-12:50"
                     },
