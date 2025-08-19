@@ -632,9 +632,9 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Data St",
+                        "name": "Prob & Stats",
                         "location": "C-405",
-                        "time": "11:30-12:50"
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Psychology",
@@ -1900,7 +1900,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Prob & Stats",
+                        "name": "Data St",
                         "location": "C-406",
                         "time": "01:00-02:20"
                     },
@@ -3766,9 +3766,9 @@
             "2024": {
                 "C": [
                     {
-                        "name": "Data St",
+                        "name": "Prob & Stats",
                         "location": "C-311",
-                        "time": "11:30-12:50"
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "DLD",
@@ -5205,7 +5205,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Prob & Stats",
+                        "name": "Data St",
                         "location": "C-404",
                         "time": "01:00-02:20"
                     },
