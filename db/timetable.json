@@ -1423,7 +1423,7 @@
                     {
                         "name": "Adv AI",
                         "location": "C-304",
-                        "time": "05:20-06:40"
+                        "time": "06:45-08:05"
                     },
                     {
                         "name": "Fund of SPM",
@@ -1452,11 +1452,6 @@
                     }
                 ],
                 "B": [
-                    {
-                        "name": "Adv AI",
-                        "location": "C-304",
-                        "time": "06:45-08:05"
-                    },
                     {
                         "name": "Cloud Comp",
                         "location": "D-312",
@@ -4167,7 +4162,7 @@
                     {
                         "name": "Adv AI",
                         "location": "C-304",
-                        "time": "05:20-06:40"
+                        "time": "06:45-08:05"
                     },
                     {
                         "name": "Ethical Hack",
@@ -4210,28 +4205,6 @@
                         "time": "08:30-11:20"
                     }
                 ],
-                "B": [
-                    {
-                        "name": "Adv AI",
-                        "location": "C-304",
-                        "time": "06:45-08:05"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-313",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "MLOPs",
-                        "location": "D-314",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-315",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "F": [
                     {
                         "name": "Info Sec",
@@ -4249,6 +4222,23 @@
                         "name": "Deep Learning",
                         "location": "D-313",
                         "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Gen AI",
+                        "location": "D-313",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "MLOPs",
+                        "location": "D-314",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-315",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "H": [
