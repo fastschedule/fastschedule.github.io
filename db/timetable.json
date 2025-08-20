@@ -4526,12 +4526,12 @@
                 ],
                 "D": [
                     {
-                        "name": "Comp Net",
+                        "name": "SDA",
                         "location": "D-312",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "SDA",
+                        "name": "Comp Net",
                         "location": "D-312",
                         "time": "11:30-12:50"
                     }
