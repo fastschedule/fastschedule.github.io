@@ -305,6 +305,11 @@
                         "time": "03:55-05:15"
                     },
                     {
+                        "name": "DIP",
+                        "location": "D-306",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "User Exp",
                         "location": "D-306",
                         "time": "01:00-02:20"
@@ -338,11 +343,6 @@
                         "name": "Blockchain",
                         "location": "D-313",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DIP",
-                        "location": "D-314",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "C": [
@@ -438,6 +438,11 @@
             },
             "2023": {
                 "G": [
+                    {
+                        "name": "Comp Net",
+                        "location": "D-314",
+                        "time": "08:30-09:50"
+                    },
                     {
                         "name": "Comp Net",
                         "location": "D-314",
@@ -2729,7 +2734,7 @@
                     },
                     {
                         "name": "IICT Lab",
-                        "location": "Rawal 3 (B-232)",
+                        "location": "D-IT Lab 4",
                         "time": "11:30-02:20"
                     },
                     {
@@ -2933,7 +2938,7 @@
                     },
                     {
                         "name": "COAL Lab",
-                        "location": "Rawal 3 (B-232)",
+                        "location": "D-IT Lab 4",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -3175,11 +3180,6 @@
                         "name": "SDA",
                         "location": "D-402",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Comp Net [Cancelled]",
-                        "location": "D-403",
-                        "time": "10:00-11:20"
                     }
                 ]
             }
@@ -4630,7 +4630,7 @@
                     },
                     {
                         "name": "Comp Net Lab",
-                        "location": "C-Rawal 4",
+                        "location": "A-Mehran 1",
                         "time": "11:30-02:20"
                     }
                 ]
@@ -4729,7 +4729,7 @@
                     },
                     {
                         "name": "DAV Lab",
-                        "location": "Rawal 3 (B-232)",
+                        "location": "A-Mehran 1",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -4839,7 +4839,7 @@
                     },
                     {
                         "name": "COAL Lab",
-                        "location": "Rawal 3 (B-232)",
+                        "location": "C-Rawal 4",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -4856,7 +4856,7 @@
                     },
                     {
                         "name": "COAL Lab",
-                        "location": "A-Mehran 1",
+                        "location": "C-Rawal 4",
                         "time": "08:30-11:20"
                     }
                 ],
