@@ -3465,12 +3465,12 @@
                 "A": [
                     {
                         "name": "DB",
-                        "location": "D-503",
+                        "location": "D-303",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Web",
-                        "location": "D-503",
+                        "location": "C-406",
                         "time": "01:00-02:20"
                     },
                     {
