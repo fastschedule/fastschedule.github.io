@@ -2837,7 +2837,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Discrete",
+                        "name": "Discrete [Cancelled]",
                         "location": "D-302",
                         "time": "10:00-11:20"
                     },
@@ -2864,7 +2864,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Discrete",
+                        "name": "Discrete [Cancelled]",
                         "location": "D-303",
                         "time": "11:30-12:50"
                     }
@@ -3451,12 +3451,12 @@
                     },
                     {
                         "name": "LA",
-                        "location": "D-503",
+                        "location": "D-403",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "DLD",
-                        "location": "D-503",
+                        "location": "D-403",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -4359,7 +4359,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Discrete",
+                        "name": "Discrete [Cancelled]",
                         "location": "D-303",
                         "time": "01:00-02:20"
                     }
