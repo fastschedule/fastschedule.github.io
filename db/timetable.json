@@ -1739,6 +1739,11 @@
                         "name": "Comp Net",
                         "location": "D-311",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Game Design",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "F": [
@@ -2388,7 +2393,7 @@
                     },
                     {
                         "name": "Comp Net Lab",
-                        "location": "Rawal 3 (B-232)",
+                        "location": "C-Rawal 4",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -2467,7 +2472,7 @@
                     },
                     {
                         "name": "PF Lab",
-                        "location": "C-Margala 1",
+                        "location": "D-IT Lab 4",
                         "time": "02:30-05:15"
                     }
                 ],
@@ -2604,7 +2609,7 @@
                     },
                     {
                         "name": "Sec S/w Design Lab",
-                        "location": "Rawal 3 (B-232)",
+                        "location": "C-Margala 1",
                         "time": "02:30-05:15"
                     }
                 ],
@@ -4196,16 +4201,6 @@
                     },
                     {
                         "name": "Game Design",
-                        "location": "B-230",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Game Design",
-                        "location": "B-230",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Game Design",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
                     }
@@ -4434,33 +4429,6 @@
                         "time": "10:00-11:20"
                     }
                 ],
-                "A": [
-                    {
-                        "name": "Game Design",
-                        "location": "D-304",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "SDA",
-                        "location": "D-306",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-306",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "HPC",
-                        "location": "D-311",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "SMD",
-                        "location": "D-311",
-                        "time": "02:30-03:50"
-                    }
-                ],
                 "F": [
                     {
                         "name": "Automata",
@@ -4510,6 +4478,33 @@
                         "name": "SDA",
                         "location": "D-311",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "SDA",
+                        "location": "D-306",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-306",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "HPC",
+                        "location": "D-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "D-311",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Game Design",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "G": [
@@ -5002,7 +4997,7 @@
                 "A": [
                     {
                         "name": "Cloud Comp",
-                        "location": "D-501",
+                        "location": "D-314",
                         "time": "08:30-09:50"
                     },
                     {
@@ -5019,7 +5014,7 @@
                 "B": [
                     {
                         "name": "Cloud Comp",
-                        "location": "D-501",
+                        "location": "C-311",
                         "time": "10:00-11:20"
                     },
                     {
@@ -5036,7 +5031,7 @@
                     },
                     {
                         "name": "Sec S/w Design",
-                        "location": "D-502",
+                        "location": "D-315",
                         "time": "08:30-09:50"
                     }
                 ],
@@ -5103,12 +5098,12 @@
                 "A": [
                     {
                         "name": "Net Sec",
-                        "location": "D-504",
+                        "location": "B-230",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Algo",
-                        "location": "D-504",
+                        "location": "B-230",
                         "time": "10:00-11:20"
                     },
                     {
