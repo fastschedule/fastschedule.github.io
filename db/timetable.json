@@ -5002,7 +5002,7 @@
                     },
                     {
                         "name": "PDC",
-                        "location": "D-502",
+                        "location": "D-403",
                         "time": "11:30-12:50"
                     },
                     {
@@ -5019,14 +5019,14 @@
                     },
                     {
                         "name": "PDC",
-                        "location": "D-501",
+                        "location": "D-406",
                         "time": "01:00-02:20"
                     }
                 ],
                 "C": [
                     {
                         "name": "PDC",
-                        "location": "D-501",
+                        "location": "D-406",
                         "time": "11:30-12:50"
                     },
                     {
@@ -5038,22 +5038,22 @@
                 "D": [
                     {
                         "name": "PDC",
-                        "location": "D-501",
+                        "location": "D-406",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "PDC",
-                        "location": "D-501",
+                        "location": "D-406",
                         "time": "01:00-02:20"
                     },
                     {
                         "name": "Sec S/w Design",
-                        "location": "D-502",
+                        "location": "C-410",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "PDC",
-                        "location": "D-502",
+                        "location": "D-403",
                         "time": "11:30-12:50"
                     }
                 ]
@@ -5062,12 +5062,12 @@
                 "A": [
                     {
                         "name": "Cy Sec",
-                        "location": "D-503",
+                        "location": "D-304",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Fund of SE",
-                        "location": "D-503",
+                        "location": "D-314",
                         "time": "01:00-02:20"
                     },
                     {
@@ -5079,12 +5079,12 @@
                 "B": [
                     {
                         "name": "Fund of SE",
-                        "location": "D-504",
+                        "location": "C-311",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Data St",
-                        "location": "D-504",
+                        "location": "C-311",
                         "time": "01:00-02:20"
                     },
                     {
@@ -5108,24 +5108,24 @@
                     },
                     {
                         "name": "OS",
-                        "location": "D-506",
+                        "location": "D-315",
                         "time": "01:00-02:20"
                     }
                 ],
                 "B": [
                     {
                         "name": "OS",
-                        "location": "D-505",
+                        "location": "C-110",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "Net Sec",
-                        "location": "D-505",
+                        "location": "C-110",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Algo",
-                        "location": "D-505",
+                        "location": "C-110",
                         "time": "01:00-02:20"
                     }
                 ]
