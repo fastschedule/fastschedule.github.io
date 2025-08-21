@@ -2267,6 +2267,28 @@
         },
         "BS DS": {
             "2025": {
+                "A": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-309",
+                        "time": "03:00-04:45"
+                    },
+                    {
+                        "name": "IICT Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab A1",
+                        "location": "A-Mehran 2",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab A2",
+                        "location": "A-CALL-1",
+                        "time": "11:30-02:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Islamic",
@@ -2282,23 +2304,6 @@
                         "name": "PF Lab",
                         "location": "D-IT Lab 3",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "IICT Lab",
-                        "location": "D-IT Lab 3",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab A1",
-                        "location": "A-Mehran 2",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab A2",
-                        "location": "A-CALL-1",
-                        "time": "11:30-02:20"
                     }
                 ]
             },
@@ -2663,6 +2668,11 @@
                         "name": "AP",
                         "location": "C-301",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-301",
+                        "time": "02:30-04:15"
                     },
                     {
                         "name": "Calculus",
@@ -3396,6 +3406,11 @@
                     }
                 ],
                 "B": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-307",
+                        "time": "02:30-04:15"
+                    },
                     {
                         "name": "Func Eng",
                         "location": "C-308",
@@ -5573,6 +5588,11 @@
         "BS CY": {
             "2025": {
                 "A": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-304",
+                        "time": "09:00-10:45"
+                    },
                     {
                         "name": "Func Eng",
                         "location": "C-304",
