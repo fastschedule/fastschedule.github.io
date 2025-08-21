@@ -185,6 +185,50 @@ button:hover {
     color: #FFD700;
 }
 
+.contact-info-group {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font-size: 1rem;
+}
+
+.contact-info-group a {
+    color: #FFD700;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease-in-out;
+}
+
+.contact-info-group a:hover {
+    color: #ffcc00;
+    text-decoration: underline;
+}
+
+.contact-info-group span {
+    color: #FFD700;
+}
+
+.footer-privacy-link-row {
+    margin-top: 1.2rem;
+    text-align: center;
+}
+
+.footer-privacy-link-row a {
+    color: #FFD700;
+    text-decoration: underline;
+    font-weight: 500;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.footer-privacy-link-row a:hover {
+    color: #ffcc00;
+}
+
 .strikethrough {
     text-decoration: line-through;
     color: #888;
@@ -419,6 +463,13 @@ button:hover {
     }
     .modal-content h3 {
         font-size: 1rem;
+    }
+    .contact-info-group {
+        flex-direction: column;
+        gap: 0.3rem;
+    }
+    .footer-privacy-link-row {
+        margin-top: 1.5rem;
     }
 }
 
