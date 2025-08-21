@@ -14,7 +14,6 @@
     <meta name="keywords" content="FAST Timetable,Timetable Fast, Fast Nuces Timetable, NUCES,FAST,Timetable,Schedule,Class,Islamabad,University">
     <meta name="robots" content="index, nofollow">
     <meta name="author" content="Abdul Moiz">
-    <meta name="google-adsense-account" content="ca-pub-9484979318543356">
 </head>
 <body>
     <!-- <div id="ddosOverlay">
@@ -82,6 +81,36 @@
         <button id="getTimetableBtn">Get Timetable</button>
 
         <div id="timetableDisplay"></div>
+
+        <hr class="section-separator">
+
+        <section class="info-sections-vertical">
+            <div class="info-card">
+                <h2>About</h2>
+                <p>
+                    This is an independent actively maintained web tool that currently works only on the Bachelor's Computing Department of FAST Islamabad. The goal is to not look at the annoying <a style="color: #FFD700" href="https://docs.google.com/spreadsheets/d/1cmDXt7UTIKBVXBHhtZ0E4qMnJrRoexl2GmDFfTBl0Z4">excel doc</a> again and again which is the official way of checking your timetable<br><br>
+                    I originally made this tool for myself because the excel sheet never loads in my phone (idk why) but then decided to make it public.<br>
+                    The data updates automatically every 15 minutes and before checking make sure to refresh the page as the previous one might be cached by the browser.<br><br>
+                    If you find a bug or some inaccurate info or suggestions feel free to contact me (details given below in the footer)
+                </p>
+            </div>
+            <div class="info-card">
+                <h2>Features Planned (in no particular order):</h2>
+                <ul>
+                    <li>Add support for MS</li>
+                    <li>Add support for Repeat Courses</li>
+                    <li>Add support for Elective Courses</li>
+                    <li>Notification system for holidays</li>
+                    <li>Make a similar thing for the Management and Electrical students</li>
+                </ul>
+            </div>
+            <div class="info-card">
+                <h2>How reliable is it??</h2>
+                <p>
+                    I would say 99.99% of the time the info is accurate and the last 0.1% can be due to sudden unpredictable changes FAST decides to make in their format, but these kind of issues are usually resolved within an hour and users are notified immediately; I have tried my best to account for all edge cases but there is still a very small chance  that it might report something wrong so please double check with the official FAST NUCES sources before making any important decisions based on this tool and contact me if you find any issues.
+                </p>
+            </div>
+        </section>
     </div>
     <footer class="footer">
         <p>Made with ❤️ by Abdul Moiz (CY-B)</p>
@@ -96,8 +125,36 @@
                 </svg>
                 <span style="margin-left: 0;">abdul-m01z</span>
             </a>
+            <span>|</span>
+            <a href="#privacy-policy" id="footer-privacy-link">Privacy Policy & Terms</a>
         </div>
     </footer>
+
+    <!-- Privacy Policy Modal -->
+    <div id="privacyModal" class="modal-overlay" style="display:none;">
+        <div class="modal-content">
+            <span class="close-modal" id="closePrivacyModal">&times;</span>
+            <h2>Terms & Privacy</h2>
+
+            <p>
+                Welcome to <strong>FAST Timetable</strong>. By using this website, you agree to the following Terms of Service and Privacy Policy.
+            </p>
+
+            <h3>Terms of Use</h3>
+            <ol>
+                <li>You use this website at your own risk. We provide the timetable "as is" without any guarantees.</li>
+                <li>You agree not to integrate the fastschedule.github.io service into your own or third-party applications.</li>
+                <li>We reserve the right to change the terms of this agreement without notice.</li>
+            </ol>
+
+            <h3>Privacy Policy</h3>
+            <ol>
+                <li>We use <strong>Cloudflare Web Analytics</strong> to gather anonymous usage statistics (page views, device type, etc.). No personally identifiable information (PII) is collected.</li>
+                <li>Google and third-party vendors use cookies to serve ads based on your visit to this and other websites. Users can opt out of personalized ads by visiting the <a href="https://www.google.com/settings/ads/" target="_blank" style="color:#FFD700;text-decoration:underline;">Google Ads Settings</a>.</li>
+                <li>By using this site, you consent to the use of cookies, especially for saving the last selected options.</li>
+            </ol>
+        </div>
+    </div>
 
     <!-- <script>
         let loadingFrames = ['\\','|', '/', '-'];
@@ -112,9 +169,28 @@
     </script> -->
     <script src="js/timetable.js"></script>
     <!-- Cloudflare Web Analytics -->
-    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b2084f472fc94217a7ae3992fa5803a1"}'></script><!-- End Cloudflare Web Analytics -->
+     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b2084f472fc94217a7ae3992fa5803a1"}'></script><!-- End Cloudflare Web Analytics -->
+
+    <script>
+        // Privacy Policy Modal logic
+        const privacyLink = document.getElementById('footer-privacy-link');
+        const modal = document.getElementById('privacyModal');
+        const closeModal = document.getElementById('closePrivacyModal');
+
+        privacyLink.addEventListener('click', function(e) {
+            e.preventDefault();
+            modal.style.display = 'flex';
+        });
+
+        closeModal.addEventListener('click', function() {
+            modal.style.display = 'none';
+        });
+
+        window.addEventListener('click', function(e) {
+            if (e.target === modal) {
+                modal.style.display = 'none';
+            }
+        });
+    </script>
 </body>
-
 </html>
-
-
