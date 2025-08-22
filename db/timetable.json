@@ -540,6 +540,13 @@
                         "location": "D-313",
                         "time": "03:55-05:15"
                     }
+                ],
+                "K": [
+                    {
+                        "name": "PPIT [Rescheduled]",
+                        "location": "D-314",
+                        "time": "02:30-03:50"
+                    }
                 ]
             }
         },
