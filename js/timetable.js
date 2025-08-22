@@ -20,7 +20,7 @@ function hideLoading() {
 async function loadTimetableData() {
     showLoading();
     try {
-        var response = await fetch("db/timetable.json");
+        var response = await fetch("db/timetable.json?v=" + Date.now());
         response = await response.json();
         timetableData = response;
         // viewCount = response["viewCount"];
@@ -231,4 +231,5 @@ daySelect.addEventListener("change", () => {
 });
 
 loadTimetableData();    
+
 setDefaultDay();
