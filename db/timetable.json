@@ -4005,14 +4005,14 @@
             "2023": {
                 "A": [
                     {
+                        "name": "S/w Const",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Algo",
                         "location": "C-406",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "S/w Const",
-                        "location": "C-406",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
