@@ -475,7 +475,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT[Auditorium (Block-A)]",
                         "location": "D-312",
                         "time": "02:30-03:50"
                     },
@@ -487,7 +487,7 @@
                 ],
                 "B": [
                     {
-                        "name": "PPIT",
+                        "name": "PPIT[Auditorium (Block-A)]",
                         "location": "D-306",
                         "time": "02:30-03:50"
                     },
@@ -955,7 +955,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Discrete [Rescheduled]",
+                        "name": "Discrete[ReSch]",
                         "location": "C-309",
                         "time": "10:00-11:20"
                     },
@@ -965,7 +965,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete[Cancelled]",
                         "location": "C-309",
                         "time": "01:00-02:20"
                     }
@@ -2862,7 +2862,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete[Cancelled]",
                         "location": "D-302",
                         "time": "10:00-11:20"
                     },
@@ -2889,7 +2889,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete[Cancelled]",
                         "location": "D-303",
                         "time": "11:30-12:50"
                     }
@@ -3018,7 +3018,7 @@
                 ],
                 "B": [
                     {
-                        "name": "PPIT",
+                        "name": "PPIT[Auditorium]",
                         "location": "D-306",
                         "time": "02:30-03:50"
                     },
@@ -3077,7 +3077,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT[Auditorium]",
                         "location": "D-312",
                         "time": "02:30-03:50"
                     },
@@ -3202,7 +3202,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Comp Net [Cancelled]",
+                        "name": "Comp Net[Cancelled]",
                         "location": "D-403",
                         "time": "10:00-11:20"
                     }
@@ -3564,7 +3564,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Info Assur",
+                        "name": "Info Assur[Rawal Lab 4]",
                         "location": "D-506",
                         "time": "11:30-12:50"
                     }
@@ -3587,7 +3587,7 @@
             "2025": {
                 "C": [
                     {
-                        "name": "Discrete [Rescheduled]",
+                        "name": "Discrete[ReSch]",
                         "location": "C-307",
                         "time": "10:00-11:20"
                     },
@@ -3602,7 +3602,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete[Cancelled]",
                         "location": "C-310",
                         "time": "01:00-02:20"
                     }
@@ -4261,7 +4261,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete[Cancelled]",
                         "location": "D-303",
                         "time": "01:00-02:20"
                     }
@@ -4743,7 +4743,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "DW&BI [Cancelled]",
+                        "name": "DW&BI[Cancelled]",
                         "location": "D-413",
                         "time": "01:00-02:20"
                     },
@@ -4764,7 +4764,7 @@
                         "time": "09:00-10:45"
                     },
                     {
-                        "name": "Func Eng [Cancelled]",
+                        "name": "Func Eng[Cancelled]",
                         "location": "C-308",
                         "time": "02:30-04:15"
                     },
@@ -5619,7 +5619,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab A2",
+                        "name": "Func Eng Lab A2[Shifted into Mehran-q (3rd flr, Block-A)]",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
                     }
@@ -5646,7 +5646,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Adv AI",
+                        "name": "Adv AI[from 29th Aug 2025 and onwards]",
                         "location": "C-305",
                         "time": "05:20-08:05"
                     }
