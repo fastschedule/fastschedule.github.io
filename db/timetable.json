@@ -1428,124 +1428,6 @@
                     }
                 ]
             },
-            "2022": {
-                "A": [
-                    {
-                        "name": "Adv AI",
-                        "location": "C-304",
-                        "time": "06:45-08:05"
-                    },
-                    {
-                        "name": "Fund of SPM",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Ethical Hack",
-                        "location": "D-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-314",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-315",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MLOPs",
-                        "location": "D-316",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-312",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-313",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "MLOPs",
-                        "location": "D-314",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-312",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-312",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-313",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-313",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "H": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-314",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-314",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Deep Learning",
-                        "location": "D-315",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "J": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-315",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-315",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "K": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-316",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-316",
-                        "time": "03:55-05:15"
-                    }
-                ]
-            },
             "2024": {
                 "E": [
                     {
@@ -1674,6 +1556,119 @@
                         "name": "COAL Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2022": {
+                "A": [
+                    {
+                        "name": "Fund of SPM",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Ethical Hack",
+                        "location": "D-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-314",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-315",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MLOPs",
+                        "location": "D-316",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-312",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-313",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "MLOPs",
+                        "location": "D-314",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Info Sec",
+                        "location": "D-312",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-312",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-313",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-313",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "Info Sec",
+                        "location": "D-314",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-314",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Deep Learning",
+                        "location": "D-315",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "J": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-315",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-315",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "K": [
+                    {
+                        "name": "Info Sec",
+                        "location": "D-316",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-316",
+                        "time": "03:55-05:15"
                     }
                 ]
             },
@@ -2455,14 +2450,14 @@
                         "time": "02:30-03:50"
                     },
                     {
+                        "name": "COAL",
+                        "location": "D-414",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Data St",
                         "location": "D-414",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-414",
-                        "time": "11:30-12:50"
                     }
                 ]
             }
@@ -4197,129 +4192,6 @@
                     }
                 ]
             },
-            "2022": {
-                "A": [
-                    {
-                        "name": "Adv AI",
-                        "location": "C-304",
-                        "time": "06:45-08:05"
-                    },
-                    {
-                        "name": "Ethical Hack",
-                        "location": "D-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-313",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MLOPs",
-                        "location": "D-314",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-315",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fund of SPM",
-                        "location": "D-316",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Game Design",
-                        "location": "C-Margala 3",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-312",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-312",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Deep Learning",
-                        "location": "D-313",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Gen AI",
-                        "location": "D-313",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "MLOPs",
-                        "location": "D-314",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-315",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "H": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-313",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-314",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-313",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-313",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "J": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-315",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-315",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "K": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-316",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-316",
-                        "time": "03:55-05:15"
-                    }
-                ]
-            },
             "2024": {
                 "E": [
                     {
@@ -4566,6 +4438,124 @@
                         "time": "11:30-12:50"
                     }
                 ]
+            },
+            "2022": {
+                "A": [
+                    {
+                        "name": "Ethical Hack",
+                        "location": "D-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-313",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MLOPs",
+                        "location": "D-314",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-315",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Fund of SPM",
+                        "location": "D-316",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Game Design",
+                        "location": "C-Margala 3",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Info Sec",
+                        "location": "D-312",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-312",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Deep Learning",
+                        "location": "D-313",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Gen AI",
+                        "location": "D-313",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "MLOPs",
+                        "location": "D-314",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-315",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "Info Sec",
+                        "location": "D-313",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-314",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-313",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-313",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "J": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-315",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-315",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "K": [
+                    {
+                        "name": "Info Sec",
+                        "location": "D-316",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-316",
+                        "time": "03:55-05:15"
+                    }
+                ]
             }
         },
         "BS DS": {
@@ -4690,14 +4680,14 @@
                 ],
                 "B": [
                     {
+                        "name": "COAL",
+                        "location": "D-411",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Data St",
                         "location": "D-411",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-411",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "LA",
@@ -5648,6 +5638,17 @@
                         "name": "Net Sec Lab",
                         "location": "C-Margala 4",
                         "time": "10:00-12:50"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2022": {
+                "A": [
+                    {
+                        "name": "Adv AI",
+                        "location": "C-305",
+                        "time": "05:20-08:05"
                     }
                 ]
             }
