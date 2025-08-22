@@ -5619,6 +5619,11 @@
                         "time": "11:00-12:45"
                     },
                     {
+                        "name": "Func Eng Lab A2",
+                        "location": "A-Mehran 1",
+                        "time": "02:30-05:15"
+                    },
+                    {
                         "name": "Func Eng Lab A1",
                         "location": "A-CALL-2",
                         "time": "02:30-05:15"
