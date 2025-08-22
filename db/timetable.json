@@ -2573,6 +2573,11 @@
                         "name": "OS",
                         "location": "C-311",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "A-Mehran 1",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
@@ -5152,6 +5157,11 @@
                         "name": "Algo",
                         "location": "C-110",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Net Sec Lab",
+                        "location": "C-Rawal 4",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
