@@ -1044,14 +1044,14 @@
                 ],
                 "C": [
                     {
-                        "name": "Financial Mgt",
+                        "name": "Org Behavior",
                         "location": "D-411",
                         "time": "10:00-11:20"
                     }
                 ],
                 "B": [
                     {
-                        "name": "Financial Mgt",
+                        "name": "Org Behavior",
                         "location": "D-411",
                         "time": "11:30-12:50"
                     },
@@ -2241,7 +2241,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Financial Mgt",
+                        "name": "Org Behavior",
                         "location": "D-402",
                         "time": "02:30-03:50"
                     },
@@ -2258,7 +2258,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Financial Mgt",
+                        "name": "Org Behavior",
                         "location": "D-403",
                         "time": "01:00-02:20"
                     }
@@ -3734,7 +3734,7 @@
             "2022": {
                 "C": [
                     {
-                        "name": "Financial Mgt",
+                        "name": "Org Behavior",
                         "location": "D-411",
                         "time": "10:00-11:20"
                     }
@@ -3770,7 +3770,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Financial Mgt",
+                        "name": "Org Behavior",
                         "location": "D-412",
                         "time": "11:30-12:50"
                     },
@@ -4901,7 +4901,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Financial Mgt",
+                        "name": "Org Behavior",
                         "location": "D-404",
                         "time": "02:30-03:50"
                     },
@@ -4937,7 +4937,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Financial Mgt",
+                        "name": "Org Behavior",
                         "location": "D-405",
                         "time": "01:00-02:20"
                     },
