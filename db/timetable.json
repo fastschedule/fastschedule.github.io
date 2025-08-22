@@ -955,12 +955,17 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "Discrete [Rescheduled]",
+                        "location": "C-309",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Calculus",
                         "location": "C-309",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Discrete",
+                        "name": "Discrete [Cancelled]",
                         "location": "C-309",
                         "time": "01:00-02:20"
                     }
@@ -3582,6 +3587,11 @@
             "2025": {
                 "C": [
                     {
+                        "name": "Discrete [Rescheduled]",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "PF",
                         "location": "C-309",
                         "time": "08:30-09:50"
@@ -3592,7 +3602,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Discrete",
+                        "name": "Discrete [Cancelled]",
                         "location": "C-310",
                         "time": "01:00-02:20"
                     }
