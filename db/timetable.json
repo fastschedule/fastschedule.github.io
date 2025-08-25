@@ -1909,7 +1909,7 @@
                     },
                     {
                         "name": "Data St Lab",
-                        "location": "C-Margala 4",
+                        "location": "A-Karakoram 3",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -2180,7 +2180,7 @@
                     },
                     {
                         "name": "Prog for AI Lab",
-                        "location": "C-GPU Lab",
+                        "location": "C-Rawal 1",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -2314,7 +2314,7 @@
                     },
                     {
                         "name": "OS Lab",
-                        "location": "C-Rawal 1",
+                        "location": "C-Margala 4",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -4299,7 +4299,7 @@
                     },
                     {
                         "name": "Data St Lab",
-                        "location": "C-Margala 1",
+                        "location": "Rawal 3 (B-232)",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -4879,7 +4879,7 @@
                     },
                     {
                         "name": "Prog for AI Lab",
-                        "location": "C-GPU Lab",
+                        "location": "C-Margala 1",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -5575,7 +5575,7 @@
                     },
                     {
                         "name": "Prog for AI Lab",
-                        "location": "C-GPU Lab",
+                        "location": "C-Rawal 1",
                         "time": "02:30-05:15"
                     }
                 ]
