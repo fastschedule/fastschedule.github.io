@@ -5610,22 +5610,6 @@
                         "time": "02:30-05:15"
                     }
                 ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "OS Lab",
-                        "location": "C-Margala 3",
-                        "time": "10:00-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Net Sec Lab",
-                        "location": "C-Margala 4",
-                        "time": "10:00-12:50"
-                    }
-                ]
             }
         },
         "BS CS": {
