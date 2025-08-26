@@ -2855,7 +2855,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete",
                         "location": "D-302",
                         "time": "10:00-11:20"
                     },
@@ -2882,7 +2882,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete",
                         "location": "D-303",
                         "time": "11:30-12:50"
                     }
