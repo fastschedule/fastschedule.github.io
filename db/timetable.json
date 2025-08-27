@@ -3120,7 +3120,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Algo",
+                        "name": "Algo [Cancelled]",
                         "location": "D-316",
                         "time": "11:30-12:50"
                     },
@@ -3159,7 +3159,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Algo",
+                        "name": "Algo [Cancelled]",
                         "location": "D-401",
                         "time": "01:00-02:20"
                     },
@@ -3481,7 +3481,7 @@
                 "A": [
                     {
                         "name": "DB",
-                        "location": "D-303",
+                        "location": "D-316",
                         "time": "11:30-12:50"
                     },
                     {
@@ -3534,7 +3534,7 @@
                 "B": [
                     {
                         "name": "App ML",
-                        "location": "C-307",
+                        "location": "C-410",
                         "time": "10:00-11:20"
                     },
                     {
