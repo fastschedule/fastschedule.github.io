@@ -4247,7 +4247,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete",
                         "location": "D-303",
                         "time": "01:00-02:20"
                     }
@@ -4729,7 +4729,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "DW&BI [Cancelled]",
+                        "name": "DW&BI",
                         "location": "D-413",
                         "time": "01:00-02:20"
                     },
@@ -4750,7 +4750,7 @@
                         "time": "09:00-10:45"
                     },
                     {
-                        "name": "Func Eng [Cancelled]",
+                        "name": "Func Eng",
                         "location": "C-308",
                         "time": "02:30-04:15"
                     },
