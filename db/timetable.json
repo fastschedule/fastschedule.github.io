@@ -5238,7 +5238,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Data St",
+                        "name": "Data St [Cancelled]",
                         "location": "C-406",
                         "time": "11:30-12:50"
                     }
@@ -5250,7 +5250,7 @@
                         "time": "02:00-03:45"
                     },
                     {
-                        "name": "Data St",
+                        "name": "Data St [Cancelled]",
                         "location": "C-407",
                         "time": "08:30-09:50"
                     },
@@ -5279,7 +5279,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Busi Proc Engg",
+                        "name": "Busi Proc Engg [Cancelled]",
                         "location": "C-409",
                         "time": "08:30-09:50"
                     }
@@ -5296,7 +5296,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Busi Proc Engg",
+                        "name": "Busi Proc Engg [Cancelled]",
                         "location": "C-408",
                         "time": "10:00-11:20"
                     }
