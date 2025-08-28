@@ -902,6 +902,28 @@
         },
         "BS AI": {
             "2025": {
+                "C": [
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "PF",
+                        "location": "C-309",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Calculus",
+                        "location": "C-309",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-309",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Ideology of Pak",
@@ -939,23 +961,6 @@
                         "name": "Func Eng Lab A2",
                         "location": "A-CALL-1",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "PF",
-                        "location": "C-309",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Calculus",
-                        "location": "C-309",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "C-309",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
