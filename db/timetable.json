@@ -637,7 +637,7 @@
                     {
                         "name": "Psychology",
                         "location": "C-405",
-                        "time": "02:30-03:45"
+                        "time": "02:30-04:15"
                     }
                 ]
             },
@@ -778,7 +778,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "COAL Lab [Cancalled]",
+                        "name": "COAL Lab",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
                     }
@@ -795,7 +795,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "COAL Lab [Cancalled]",
+                        "name": "COAL Lab",
                         "location": "C-Rawal 1",
                         "time": "08:30-11:20"
                     }
@@ -4438,7 +4438,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MLOPs [G-1]",
+                        "name": "MLOPs [G-1) Cancelled]",
                         "location": "D-314",
                         "time": "10:00-11:20"
                     },
@@ -4484,7 +4484,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "MLOPs [G-1]",
+                        "name": "MLOPs [G-1) Cancelled]",
                         "location": "D-314",
                         "time": "11:30-12:50"
                     },
