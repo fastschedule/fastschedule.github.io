@@ -1097,7 +1097,7 @@
                         "time": "12:30-02:15"
                     },
                     {
-                        "name": "PF Lab",
+                        "name": "PF Lab [Cancelled]",
                         "location": "D-IT Lab 4",
                         "time": "08:30-11:20"
                     },
@@ -2156,7 +2156,7 @@
                     },
                     {
                         "name": "Data St Lab",
-                        "location": "Rawal 3 (B-232)",
+                        "location": "C-Rawal 1",
                         "time": "02:30-05:15"
                     }
                 ],
@@ -2190,7 +2190,7 @@
                     },
                     {
                         "name": "Data St Lab",
-                        "location": "Rawal 3 (B-232)",
+                        "location": "C-Rawal 1",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -2221,7 +2221,7 @@
                     },
                     {
                         "name": "Comp Vision Lab",
-                        "location": "C-Rawal 1",
+                        "location": "Rawal 3 (B-232)",
                         "time": "02:30-05:15"
                     }
                 ],
