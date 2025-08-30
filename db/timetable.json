@@ -976,7 +976,7 @@
                     },
                     {
                         "name": "Data St",
-                        "location": "D-406",
+                        "location": "D-412",
                         "time": "10:00-11:20"
                     }
                 ],
@@ -1005,17 +1005,24 @@
                     },
                     {
                         "name": "Prog for AI",
-                        "location": "D-406",
+                        "location": "D-412",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Data St",
-                        "location": "D-406",
+                        "location": "D-412",
                         "time": "10:00-11:20"
                     }
                 ]
             },
             "2022": {
+                "D": [
+                    {
+                        "name": "Comp Vision",
+                        "location": "D-406",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Comp Vision",
@@ -1060,13 +1067,6 @@
                         "name": "Comp Vision Lab",
                         "location": "A-Karakoram 3",
                         "time": "08:30-11:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Comp Vision",
-                        "location": "D-412",
-                        "time": "10:00-11:20"
                     }
                 ]
             }
@@ -3728,12 +3728,24 @@
                         "time": "10:00-11:20"
                     }
                 ],
-                "A": [
+                "B": [
                     {
-                        "name": "Comp Vision",
+                        "name": "Org Behavior",
                         "location": "D-411",
                         "time": "11:30-12:50"
                     },
+                    {
+                        "name": "Cloud MLOps",
+                        "location": "D-412",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Agentic AI",
+                        "location": "D-412",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "A": [
                     {
                         "name": "Agentic AI",
                         "location": "D-411",
@@ -3743,6 +3755,11 @@
                         "name": "Cloud MLOps",
                         "location": "D-411",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Vision",
+                        "location": "D-412",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Comp Vision Lab",
@@ -3755,23 +3772,6 @@
                         "name": "Comp Vision",
                         "location": "D-412",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Org Behavior",
-                        "location": "D-412",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cloud MLOps",
-                        "location": "D-412",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-412",
-                        "time": "02:30-03:50"
                     }
                 ]
             }
