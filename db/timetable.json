@@ -1713,7 +1713,7 @@
                     },
                     {
                         "name": "SMD",
-                        "location": "D-306",
+                        "location": "C-110",
                         "time": "02:30-03:50"
                     },
                     {
@@ -1725,6 +1725,11 @@
                         "name": "Comp Net",
                         "location": "D-311",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "C-110",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "Game Design",
@@ -1759,7 +1764,7 @@
                 "B": [
                     {
                         "name": "SMD",
-                        "location": "D-311",
+                        "location": "C-110",
                         "time": "01:00-02:20"
                     },
                     {
@@ -1776,6 +1781,11 @@
                         "name": "SDA",
                         "location": "D-312",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "C-110",
+                        "time": "01:00-02:20"
                     }
                 ]
             }
@@ -1991,7 +2001,7 @@
                     },
                     {
                         "name": "MLOps",
-                        "location": "C-110",
+                        "location": "D-501",
                         "time": "10:00-11:20"
                     }
                 ],
@@ -2027,7 +2037,7 @@
                     },
                     {
                         "name": "MLOps",
-                        "location": "C-110",
+                        "location": "D-501",
                         "time": "11:30-12:50"
                     }
                 ],
@@ -2569,12 +2579,12 @@
                     },
                     {
                         "name": "Net Sec",
-                        "location": "D-414",
+                        "location": "D-503",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Algo",
-                        "location": "D-313",
+                        "location": "D-503",
                         "time": "01:00-02:20"
                     }
                 ]
@@ -2583,24 +2593,24 @@
                 "A": [
                     {
                         "name": "Cloud Comp",
-                        "location": "D-405",
+                        "location": "D-504",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "PDC",
-                        "location": "C-410",
+                        "location": "D-505",
                         "time": "11:30-12:50"
                     }
                 ],
                 "B": [
                     {
                         "name": "Cloud Comp",
-                        "location": "C-410",
+                        "location": "D-504",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "PDC",
-                        "location": "C-308",
+                        "location": "D-504",
                         "time": "01:00-02:20"
                     },
                     {
@@ -2612,34 +2622,34 @@
                 "C": [
                     {
                         "name": "PDC",
-                        "location": "C-308",
+                        "location": "D-504",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Sec S/w Design",
-                        "location": "D-316",
+                        "location": "D-505",
                         "time": "08:30-09:50"
                     }
                 ],
                 "D": [
                     {
                         "name": "PDC",
-                        "location": "C-308",
+                        "location": "D-504",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "PDC",
-                        "location": "C-308",
+                        "location": "D-504",
                         "time": "01:00-02:20"
                     },
                     {
                         "name": "Sec S/w Design",
-                        "location": "C-311",
+                        "location": "D-505",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "PDC",
-                        "location": "C-410",
+                        "location": "D-505",
                         "time": "11:30-12:50"
                     }
                 ]
@@ -2972,8 +2982,8 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "SMD [G-3]",
-                        "location": "D-311",
+                        "name": "SMD [G-3)]",
+                        "location": "C-110",
                         "time": "08:30-09:50"
                     },
                     {
@@ -3014,8 +3024,8 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "SMD [G-3]",
-                        "location": "D-311",
+                        "name": "SMD [G-3)]",
+                        "location": "C-110",
                         "time": "10:00-11:20"
                     },
                     {
@@ -4342,7 +4352,7 @@
                 "B": [
                     {
                         "name": "SMD",
-                        "location": "C-307",
+                        "location": "C-110",
                         "time": "01:00-02:20"
                     },
                     {
@@ -4376,6 +4386,11 @@
                         "name": "HPC",
                         "location": "D-311",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "C-110",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "SMD",
