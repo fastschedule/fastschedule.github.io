@@ -596,6 +596,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "Data St [ReSch]",
+                        "location": "C-406",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Data St Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
@@ -611,6 +616,11 @@
                         "name": "Prob & Stats",
                         "location": "C-402",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St [ReSch]",
+                        "location": "C-406",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "DLD Lab",
@@ -4369,6 +4379,11 @@
                         "name": "SDA",
                         "location": "D-311",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "C-110",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "A": [
