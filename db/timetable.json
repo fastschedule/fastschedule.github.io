@@ -1149,61 +1149,6 @@
                     }
                 ]
             },
-            "2022": {
-                "A": [
-                    {
-                        "name": "App ML",
-                        "location": "D-415",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Sec S/w Design",
-                        "location": "D-416",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Info Assur",
-                        "location": "D-304",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "App ML",
-                        "location": "D-415",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Info Assur",
-                        "location": "D-416",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Sec S/w Design",
-                        "location": "D-314",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Info Assur",
-                        "location": "B-230",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Sec S/w Design Lab",
-                        "location": "A-Mehran 1",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Info Assur",
-                        "location": "B-230",
-                        "time": "01:00-02:20"
-                    }
-                ]
-            },
             "2023": {
                 "A": [
                     {
@@ -1237,6 +1182,61 @@
                         "name": "DB Lab",
                         "location": "C-Rawal 1",
                         "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2022": {
+                "A": [
+                    {
+                        "name": "App ML",
+                        "location": "D-501",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Info Assur",
+                        "location": "D-501",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Sec S/w Design",
+                        "location": "D-503",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "App ML",
+                        "location": "D-501",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Sec S/w Design",
+                        "location": "D-501",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Info Assur",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Info Assur",
+                        "location": "D-503",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Sec S/w Design Lab",
+                        "location": "A-Mehran 1",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Info Assur",
+                        "location": "D-503",
+                        "time": "01:00-02:20"
                     }
                 ]
             }
@@ -4814,12 +4814,12 @@
                     },
                     {
                         "name": "TBW",
-                        "location": "D-403",
+                        "location": "D-404",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "ML",
-                        "location": "D-403",
+                        "location": "D-404",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -4881,7 +4881,7 @@
                 "A": [
                     {
                         "name": "Reinf Learning",
-                        "location": "D-404",
+                        "location": "D-403",
                         "time": "10:00-11:20"
                     },
                     {
@@ -4898,7 +4898,7 @@
                 "B": [
                     {
                         "name": "Reinf Learning",
-                        "location": "D-404",
+                        "location": "D-403",
                         "time": "11:30-12:50"
                     },
                     {
