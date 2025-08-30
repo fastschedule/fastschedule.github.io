@@ -1722,11 +1722,6 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "SMD",
-                        "location": "C-110",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "SDA",
                         "location": "D-311",
                         "time": "08:30-09:50"
@@ -1735,6 +1730,11 @@
                         "name": "Comp Net",
                         "location": "D-311",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "C-110",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "SMD",
@@ -1773,14 +1773,14 @@
                 ],
                 "B": [
                     {
+                        "name": "HPC",
+                        "location": "D-306",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "SMD",
                         "location": "C-110",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "HPC",
-                        "location": "D-311",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "Comp Net",
