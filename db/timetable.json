@@ -2129,7 +2129,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "D-401",
                         "time": "11:30-12:50"
                     },
@@ -2141,7 +2141,7 @@
                 ],
                 "B": [
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "D-401",
                         "time": "01:00-02:20"
                     },
