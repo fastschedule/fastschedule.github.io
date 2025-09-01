@@ -795,14 +795,14 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Data St Lab",
-                        "location": "C-Margala 3",
-                        "time": "02:30-05:15"
-                    },
-                    {
                         "name": "COAL Lab",
                         "location": "C-Rawal 1",
                         "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
