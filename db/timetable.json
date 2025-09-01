@@ -335,14 +335,14 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "SMD [G-3)]",
-                        "location": "C-110",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Blockchain [G-2]",
                         "location": "D-313",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SMD [G-3]",
+                        "location": "C-110",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "C": [
@@ -401,11 +401,6 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "SMD [G-3)]",
-                        "location": "C-110",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "Blockchain [G-2]",
                         "location": "D-313",
                         "time": "01:00-02:20"
@@ -414,6 +409,11 @@
                         "name": "DIP [G-2]",
                         "location": "D-314",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "SMD [G-3]",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "E": [
@@ -755,7 +755,7 @@
                 "A": [
                     {
                         "name": "PF",
-                        "location": "C-401",
+                        "location": "C-309",
                         "time": "10:00-11:20"
                     },
                     {
@@ -2556,19 +2556,19 @@
             "2023": {
                 "A": [
                     {
+                        "name": "OS",
+                        "location": "D-501",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "Net Sec",
                         "location": "C-110",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Algo",
-                        "location": "B-230",
+                        "location": "C-110",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "C-312",
-                        "time": "01:00-02:20"
                     },
                     {
                         "name": "OS Lab",
@@ -2987,11 +2987,6 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "SMD [G-3)]",
-                        "location": "C-110",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "DIP [G-2]",
                         "location": "D-312",
                         "time": "08:30-09:50"
@@ -3015,6 +3010,11 @@
                         "name": "Deep Learning [G-2]",
                         "location": "D-315",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SMD [G-3]",
+                        "location": "C-110",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "B": [
@@ -3027,11 +3027,6 @@
                         "name": "Info Sec",
                         "location": "D-306",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "SMD [G-3)]",
-                        "location": "C-110",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "DIP [G-2]",
@@ -3052,6 +3047,11 @@
                         "name": "Blockchain [G-2]",
                         "location": "D-314",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "SMD [G-3]",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "C": [
@@ -3128,7 +3128,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Algo [Cancelled]",
+                        "name": "Algo",
                         "location": "D-316",
                         "time": "11:30-12:50"
                     },
@@ -3167,7 +3167,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Algo [Cancelled]",
+                        "name": "Algo",
                         "location": "D-401",
                         "time": "01:00-02:20"
                     },
@@ -3196,7 +3196,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Comp Net [Cancelled]",
+                        "name": "Comp Net",
                         "location": "D-403",
                         "time": "10:00-11:20"
                     }
@@ -3379,12 +3379,12 @@
                 "C": [
                     {
                         "name": "PPIT",
-                        "location": "D-311",
+                        "location": "D-501",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Info Sec",
-                        "location": "D-311",
+                        "location": "D-501",
                         "time": "01:00-02:20"
                     }
                 ]
@@ -3453,12 +3453,12 @@
                 "B": [
                     {
                         "name": "DLD",
-                        "location": "B-230",
+                        "location": "D-501",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "LA",
-                        "location": "B-230",
+                        "location": "D-501",
                         "time": "10:00-11:20"
                     },
                     {
@@ -3480,12 +3480,12 @@
                     },
                     {
                         "name": "LA",
-                        "location": "D-403",
+                        "location": "D-503",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "DLD",
-                        "location": "D-403",
+                        "location": "D-503",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -3494,12 +3494,12 @@
                 "A": [
                     {
                         "name": "DB",
-                        "location": "D-316",
+                        "location": "D-503",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Web",
-                        "location": "C-406",
+                        "location": "D-503",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3511,12 +3511,12 @@
                 "B": [
                     {
                         "name": "Web",
-                        "location": "C-410",
+                        "location": "D-504",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "DB",
-                        "location": "C-410",
+                        "location": "D-504",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3530,48 +3530,48 @@
                 "A": [
                     {
                         "name": "App ML",
-                        "location": "D-411",
+                        "location": "D-504",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Sec S/w Design",
-                        "location": "D-412",
+                        "location": "D-505",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Info Assur",
-                        "location": "C-110",
+                        "location": "D-505",
                         "time": "01:00-02:20"
                     }
                 ],
                 "B": [
                     {
                         "name": "App ML",
-                        "location": "C-410",
+                        "location": "D-504",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "Info Assur",
-                        "location": "D-404",
+                        "location": "D-505",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "Sec S/w Design",
-                        "location": "C-110",
+                        "location": "D-505",
                         "time": "11:30-12:50"
                     }
                 ],
                 "D": [
                     {
-                        "name": "Info Assur [Rawal Lab 4]",
-                        "location": "D-506",
+                        "name": "Info Assur",
+                        "location": "C-110",
                         "time": "11:30-12:50"
                     }
                 ],
                 "C": [
                     {
                         "name": "Info Assur",
-                        "location": "D-303",
+                        "location": "C-110",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3586,11 +3586,6 @@
             "2025": {
                 "C": [
                     {
-                        "name": "Discrete [ReSch]",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "PF",
                         "location": "C-309",
                         "time": "08:30-09:50"
@@ -3601,7 +3596,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete",
                         "location": "C-310",
                         "time": "01:00-02:20"
                     }
@@ -4361,11 +4356,6 @@
                 ],
                 "B": [
                     {
-                        "name": "SMD",
-                        "location": "C-110",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "HPC",
                         "location": "D-305",
                         "time": "02:30-03:50"
@@ -4401,11 +4391,6 @@
                         "name": "HPC",
                         "location": "D-311",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "SMD",
-                        "location": "C-110",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "SMD",
@@ -4461,7 +4446,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MLOPs [G-1) Cancelled]",
+                        "name": "MLOPs [G-1]",
                         "location": "D-314",
                         "time": "10:00-11:20"
                     },
@@ -4507,7 +4492,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "MLOPs [G-1) Cancelled]",
+                        "name": "MLOPs [G-1]",
                         "location": "D-314",
                         "time": "11:30-12:50"
                     },
@@ -5026,12 +5011,12 @@
                 "A": [
                     {
                         "name": "Cloud Comp",
-                        "location": "D-314",
+                        "location": "D-501",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "PDC",
-                        "location": "D-403",
+                        "location": "D-411",
                         "time": "11:30-12:50"
                     },
                     {
@@ -5043,19 +5028,19 @@
                 "B": [
                     {
                         "name": "Cloud Comp",
-                        "location": "C-311",
+                        "location": "D-501",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "PDC",
-                        "location": "D-406",
+                        "location": "D-501",
                         "time": "01:00-02:20"
                     }
                 ],
                 "C": [
                     {
                         "name": "PDC",
-                        "location": "D-406",
+                        "location": "D-501",
                         "time": "11:30-12:50"
                     },
                     {
@@ -5067,23 +5052,23 @@
                 "D": [
                     {
                         "name": "PDC",
-                        "location": "D-406",
+                        "location": "D-501",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "PDC",
-                        "location": "D-406",
+                        "location": "D-501",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Sec S/w Design",
-                        "location": "C-410",
-                        "time": "10:00-11:20"
+                        "name": "PDC",
+                        "location": "D-411",
+                        "time": "11:30-12:50"
                     },
                     {
-                        "name": "PDC",
-                        "location": "D-403",
-                        "time": "11:30-12:50"
+                        "name": "Sec S/w Design",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -5091,12 +5076,12 @@
                 "A": [
                     {
                         "name": "Cy Sec",
-                        "location": "D-304",
+                        "location": "D-503",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Fund of SE",
-                        "location": "D-314",
+                        "location": "D-503",
                         "time": "01:00-02:20"
                     },
                     {
@@ -5108,12 +5093,12 @@
                 "B": [
                     {
                         "name": "Fund of SE",
-                        "location": "C-311",
+                        "location": "D-504",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Data St",
-                        "location": "C-311",
+                        "location": "D-504",
                         "time": "01:00-02:20"
                     },
                     {
@@ -5127,34 +5112,34 @@
                 "A": [
                     {
                         "name": "Net Sec",
-                        "location": "B-230",
+                        "location": "D-504",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Algo",
-                        "location": "B-230",
+                        "location": "D-504",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "OS [Cancelled]",
-                        "location": "D-315",
+                        "name": "OS",
+                        "location": "D-406",
                         "time": "01:00-02:20"
                     }
                 ],
                 "B": [
                     {
-                        "name": "OS [Cancelled]",
-                        "location": "C-110",
+                        "name": "OS",
+                        "location": "D-505",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "Net Sec",
-                        "location": "C-110",
+                        "location": "D-505",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Algo",
-                        "location": "C-110",
+                        "location": "D-505",
                         "time": "01:00-02:20"
                     },
                     {
@@ -5261,7 +5246,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Data St [Cancelled]",
+                        "name": "Data St",
                         "location": "C-406",
                         "time": "11:30-12:50"
                     }
@@ -5273,7 +5258,7 @@
                         "time": "02:00-03:45"
                     },
                     {
-                        "name": "Data St [Cancelled]",
+                        "name": "Data St",
                         "location": "C-407",
                         "time": "08:30-09:50"
                     },
@@ -5302,7 +5287,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Busi Proc Engg [Cancelled]",
+                        "name": "Busi Proc Engg",
                         "location": "C-409",
                         "time": "08:30-09:50"
                     }
@@ -5319,7 +5304,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Busi Proc Engg [Cancelled]",
+                        "name": "Busi Proc Engg",
                         "location": "C-408",
                         "time": "10:00-11:20"
                     }
