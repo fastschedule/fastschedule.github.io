@@ -3489,6 +3489,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "Cy Sec [ReSch]",
+                        "location": "D-502",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "LA",
                         "location": "D-503",
                         "time": "08:30-09:50"
@@ -4154,6 +4159,11 @@
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B2 [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
@@ -5014,6 +5024,11 @@
                         "name": "Calculus",
                         "location": "C-403",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "PF Lab [ReSch]",
+                        "location": "D-IT Lab 4",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
