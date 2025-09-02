@@ -1306,7 +1306,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Func Eng Lab A1 [Cancelled]",
+                        "name": "Func Eng Lab A1",
                         "location": "A-CALL-2",
                         "time": "02:30-05:15"
                     },
@@ -1389,7 +1389,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Func Eng Lab B2 [Cancelled]",
+                        "name": "Func Eng Lab B2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
                     }
@@ -1870,7 +1870,7 @@
                         "time": "11:00-12:45"
                     },
                     {
-                        "name": "Func Eng Lab D1 [Cancelled]",
+                        "name": "Func Eng Lab D1",
                         "location": "A-Mehran 2",
                         "time": "02:30-05:15"
                     },
@@ -2019,7 +2019,7 @@
                 ],
                 "G": [
                     {
-                        "name": "S/w Re-Engg [Cancelled]",
+                        "name": "S/w Re-Engg",
                         "location": "D-414",
                         "time": "01:00-02:20"
                     }
@@ -2129,7 +2129,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "OS [Cancelled]",
+                        "name": "OS",
                         "location": "D-401",
                         "time": "11:30-12:50"
                     },
@@ -2141,7 +2141,7 @@
                 ],
                 "B": [
                     {
-                        "name": "OS [Cancelled]",
+                        "name": "OS",
                         "location": "D-401",
                         "time": "01:00-02:20"
                     },
@@ -2350,7 +2350,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS [Cancelled]",
+                        "name": "OS",
                         "location": "D-412",
                         "time": "10:00-11:20"
                     },
@@ -2520,7 +2520,7 @@
             "2024": {
                 "A": [
                     {
-                        "name": "Cy Sec [Cancelled]",
+                        "name": "Cy Sec",
                         "location": "D-411",
                         "time": "11:30-12:50"
                     },
@@ -4367,6 +4367,11 @@
                         "name": "Comp Net",
                         "location": "D-305",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo [ReSch]",
+                        "location": "D-305",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "SDA",
