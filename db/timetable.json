@@ -783,7 +783,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "COAL Lab [Cancelled]",
+                        "name": "COAL Lab",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
                     }
@@ -1102,7 +1102,7 @@
                         "time": "12:30-02:15"
                     },
                     {
-                        "name": "PF Lab [Cancelled]",
+                        "name": "PF Lab",
                         "location": "D-IT Lab 4",
                         "time": "08:30-11:20"
                     },
@@ -2350,7 +2350,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "D-412",
                         "time": "10:00-11:20"
                     },
