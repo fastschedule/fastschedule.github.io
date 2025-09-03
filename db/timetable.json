@@ -3460,6 +3460,28 @@
                 ]
             },
             "2024": {
+                "A": [
+                    {
+                        "name": "Cy Sec [ReSch]",
+                        "location": "C-311",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "B-230",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-503",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "DLD",
@@ -3480,28 +3502,6 @@
                         "name": "Psychology",
                         "location": "B-230",
                         "time": "02:30-04:15"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Data St",
-                        "location": "B-230",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Cy Sec [ReSch]",
-                        "location": "D-502",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "D-503",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "D-503",
-                        "time": "10:00-11:20"
                     }
                 ]
             },
