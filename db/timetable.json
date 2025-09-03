@@ -5034,11 +5034,6 @@
                         "name": "Calculus",
                         "location": "C-403",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "PF Lab [ReSch]",
-                        "location": "D-IT Lab 4",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -5472,6 +5467,15 @@
                         "time": "08:30-11:20"
                     }
                 ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "COAL Lab [ReSch]",
+                        "location": "C-Margala 4",
+                        "time": "10:30 - 01:15"
+                    }
+                ]
             }
         },
         "BS SE": {
@@ -5594,7 +5598,7 @@
                     },
                     {
                         "name": "COAL Lab",
-                        "location": "C-Margala 4",
+                        "location": "Rawal 3 (B-232)",
                         "time": "10:30-01:15"
                     }
                 ],
@@ -5651,6 +5655,13 @@
                         "name": "Func Eng Lab A2",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "PF Lab [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "10:00-12:50"
                     }
                 ]
             }
