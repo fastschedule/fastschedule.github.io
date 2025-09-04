@@ -1976,6 +1976,20 @@
                 ]
             },
             "2022": {
+                "F": [
+                    {
+                        "name": "Fund of SPM",
+                        "location": "D-313",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Fund of SPM",
+                        "location": "D-404",
+                        "time": "08:30-09:50"
+                    }
+                ],
                 "E": [
                     {
                         "name": "S/w Re-Engg",
@@ -2044,20 +2058,6 @@
                         "name": "MLOps",
                         "location": "D-501",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Fund of SPM",
-                        "location": "D-416",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "Fund of SPM",
-                        "location": "D-416",
-                        "time": "01:00-02:20"
                     }
                 ]
             }
@@ -5379,6 +5379,13 @@
                         "time": "01:00-02:20"
                     }
                 ],
+                "C": [
+                    {
+                        "name": "Fund of SPM",
+                        "location": "D-403",
+                        "time": "08:30-09:50"
+                    }
+                ],
                 "E": [
                     {
                         "name": "S/w Re-Engg",
@@ -5386,17 +5393,10 @@
                         "time": "08:30-09:50"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "Fund of SPM",
-                        "location": "D-416",
-                        "time": "08:30-09:50"
-                    }
-                ],
                 "F": [
                     {
                         "name": "Fund of SPM",
-                        "location": "D-416",
+                        "location": "D-315",
                         "time": "01:00-02:20"
                     }
                 ]
