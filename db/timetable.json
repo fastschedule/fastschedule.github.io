@@ -4139,11 +4139,6 @@
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab B2 [ReSch]",
-                        "location": "A-Mehran 1",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
@@ -4226,28 +4221,6 @@
                         "time": "01:00-02:20"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "Data St [ReSch]",
-                        "location": "C-410",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "D-303",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-304",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "08:30-11:20"
-                    }
-                ],
                 "C": [
                     {
                         "name": "LA",
@@ -4314,6 +4287,23 @@
                         "name": "COAL Lab",
                         "location": "D-IT Lab 3",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "LA",
+                        "location": "D-303",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-304",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "08:30-11:20"
                     }
                 ]
             },
