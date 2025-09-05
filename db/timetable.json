@@ -3482,6 +3482,11 @@
                         "name": "DLD",
                         "location": "D-503",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data St Lab [ReSch]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -5432,15 +5437,6 @@
                         "time": "08:30-11:20"
                     }
                 ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "COAL Lab [ReSch]",
-                        "location": "C-Margala 4",
-                        "time": "10:30 - 01:15"
-                    }
-                ]
             }
         },
         "BS SE": {
@@ -5452,7 +5448,7 @@
                         "time": "02:30-04:15"
                     },
                     {
-                        "name": "Ideology of Pak [Cancel]",
+                        "name": "Ideology of Pak",
                         "location": "C-308",
                         "time": "11:30-01:15"
                     },
@@ -5620,13 +5616,6 @@
                         "name": "Func Eng Lab A2",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "PF Lab [ReSch]",
-                        "location": "A-Mehran 1",
-                        "time": "10:00-12:50"
                     }
                 ]
             }
