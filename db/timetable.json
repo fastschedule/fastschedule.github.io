@@ -4053,6 +4053,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "Islamic [ReSch]",
+                        "location": "C-303",
+                        "time": "01:30-03:15"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "08:30-11:20"
@@ -4516,6 +4521,18 @@
                         "time": "03:55-05:15"
                     }
                 ],
+                "K": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-315",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-316",
+                        "time": "02:30-03:50"
+                    }
+                ],
                 "J": [
                     {
                         "name": "PPIT",
@@ -4525,18 +4542,6 @@
                     {
                         "name": "Info Sec",
                         "location": "D-315",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "K": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-316",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-316",
                         "time": "03:55-05:15"
                     }
                 ]
