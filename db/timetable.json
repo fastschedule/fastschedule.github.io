@@ -1325,7 +1325,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Calculus [Cancelled]",
+                        "name": "Calculus [CancelledAlgo (CS-D) ReSch]",
                         "location": "C-304",
                         "time": "08:30-09:50"
                     },
@@ -1749,6 +1749,11 @@
                         "name": "SDA",
                         "location": "D-313",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo [ReSch]",
+                        "location": "D-502",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
