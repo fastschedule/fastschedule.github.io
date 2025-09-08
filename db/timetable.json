@@ -2568,6 +2568,11 @@
                 ],
                 "B": [
                     {
+                        "name": "OS [ReSch]",
+                        "location": "D-503",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "OS",
                         "location": "D-503",
                         "time": "10:00-11:20"
