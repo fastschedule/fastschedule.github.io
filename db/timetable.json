@@ -369,7 +369,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "PPIT [Auditorium (Block-A)]",
+                        "name": "PPIT",
                         "location": "D-312",
                         "time": "02:30-03:50"
                     },
@@ -381,7 +381,7 @@
                 ],
                 "B": [
                     {
-                        "name": "PPIT [Auditorium (Block-A)]",
+                        "name": "PPIT",
                         "location": "D-306",
                         "time": "02:30-03:50"
                     },
