@@ -3501,6 +3501,28 @@
                 ]
             },
             "2023": {
+                "B": [
+                    {
+                        "name": "OS [ReSch]",
+                        "location": "D-502",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Web",
+                        "location": "D-504",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "D-504",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "DB",
@@ -3515,23 +3537,6 @@
                     {
                         "name": "DB Lab",
                         "location": "C-Margala 1",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Web",
-                        "location": "D-504",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "D-504",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "C-Rawal 1",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -3802,6 +3807,97 @@
             }
         },
         "BS SE": {
+            "2022": {
+                "C": [
+                    {
+                        "name": "S/w Re-Engg [ReSch]",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "C-409",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "S/w Re-Engg",
+                        "location": "C-409",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "S/w Re-Engg",
+                        "location": "C-405",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Fund of SPM",
+                        "location": "C-407",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Info Sec",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Fund of SPM",
+                        "location": "C-405",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "S/w Re-Engg",
+                        "location": "C-408",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Fund of SPM",
+                        "location": "C-408",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Fund of SPM",
+                        "location": "C-408",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "C-408",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "S/w Re-Engg",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "C-409",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Info Sec",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Fund of SPM",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2024": {
                 "C": [
                     {
@@ -3912,92 +4008,6 @@
                         "name": "IICT Lab",
                         "location": "C-Margala 1",
                         "time": "11:30-02:20"
-                    }
-                ]
-            },
-            "2022": {
-                "B": [
-                    {
-                        "name": "S/w Re-Engg",
-                        "location": "C-405",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fund of SPM",
-                        "location": "C-407",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "Info Sec",
-                        "location": "C-405",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Fund of SPM",
-                        "location": "C-405",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "S/w Re-Engg",
-                        "location": "C-408",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Fund of SPM",
-                        "location": "C-408",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Fund of SPM",
-                        "location": "C-408",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "C-408",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Info Sec",
-                        "location": "C-409",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "S/w Re-Engg",
-                        "location": "C-409",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "S/w Re-Engg",
-                        "location": "C-409",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "C-409",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fund of SPM",
-                        "location": "D-301",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
