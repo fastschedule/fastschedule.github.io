@@ -272,6 +272,11 @@
                         "name": "COAL",
                         "location": "D-304",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-304",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "F": [
