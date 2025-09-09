@@ -2579,13 +2579,18 @@
                     },
                     {
                         "name": "Net Sec",
-                        "location": "D-503",
+                        "location": "C-110",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Algo",
                         "location": "D-503",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Net Sec",
+                        "location": "C-110",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
