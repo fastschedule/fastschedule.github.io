@@ -1892,7 +1892,7 @@
                     },
                     {
                         "name": "Data St",
-                        "location": "C-406",
+                        "location": "C-409",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3240,6 +3240,64 @@
                     }
                 ]
             },
+            "2023": {
+                "C": [
+                    {
+                        "name": "DW&BI [ReSch]",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-416",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DAV",
+                        "location": "D-416",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "D-416",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "DW&BI",
+                        "location": "D-414",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-414",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "D-415",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Algo",
+                        "location": "D-415",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DW&BI",
+                        "location": "D-415",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "D-415",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
@@ -3273,59 +3331,6 @@
                         "name": "Intro to DS Lab",
                         "location": "A-Mehran 1",
                         "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "DW&BI",
-                        "location": "D-414",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-414",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "D-415",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Algo",
-                        "location": "D-415",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DW&BI",
-                        "location": "D-415",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "D-415",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "OS",
-                        "location": "D-416",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DAV",
-                        "location": "D-416",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "D-416",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
