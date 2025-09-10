@@ -2366,11 +2366,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Net Sec",
-                        "location": "C-110",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Algo",
                         "location": "D-503",
                         "time": "01:00-02:20"
@@ -2909,7 +2904,7 @@
                 ],
                 "G": [
                     {
-                        "name": "LA",
+                        "name": "LA [Cancelled]",
                         "location": "D-303",
                         "time": "03:55-05:15"
                     },
@@ -4272,7 +4267,7 @@
                 ],
                 "A": [
                     {
-                        "name": "LA",
+                        "name": "LA [Cancelled]",
                         "location": "D-302",
                         "time": "02:30-03:50"
                     },
@@ -5017,6 +5012,57 @@
                     }
                 ]
             },
+            "2023": {
+                "B": [
+                    {
+                        "name": "Net Sec",
+                        "location": "D-304",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-505",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Net Sec",
+                        "location": "D-304",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-505",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Net Sec Lab",
+                        "location": "C-Rawal 4",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Net Sec",
+                        "location": "D-314",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Net Sec",
+                        "location": "D-314",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-504",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-406",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            },
             "2022": {
                 "A": [
                     {
@@ -5026,7 +5072,7 @@
                     },
                     {
                         "name": "PDC",
-                        "location": "D-411",
+                        "location": "D-502",
                         "time": "11:30-12:50"
                     },
                     {
@@ -5055,7 +5101,7 @@
                     },
                     {
                         "name": "Sec S/w Design",
-                        "location": "D-315",
+                        "location": "D-503",
                         "time": "08:30-09:50"
                     }
                 ],
@@ -5072,7 +5118,7 @@
                     },
                     {
                         "name": "PDC",
-                        "location": "D-411",
+                        "location": "D-502",
                         "time": "11:30-12:50"
                     },
                     {
@@ -5114,47 +5160,6 @@
                     {
                         "name": "Data St Lab",
                         "location": "C-Margala 1",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "Net Sec",
-                        "location": "D-504",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-504",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-406",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "OS",
-                        "location": "D-505",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Net Sec",
-                        "location": "D-505",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-505",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Net Sec Lab",
-                        "location": "C-Rawal 4",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -5642,6 +5647,32 @@
                         "name": "Adv AI",
                         "location": "C-304",
                         "time": "05:20-08:05"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-308",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
