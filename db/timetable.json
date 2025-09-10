@@ -3009,7 +3009,7 @@
                 ],
                 "B": [
                     {
-                        "name": "PPIT [Auditorium]",
+                        "name": "PPIT",
                         "location": "D-306",
                         "time": "02:30-03:50"
                     },
@@ -3068,7 +3068,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "PPIT [Auditorium]",
+                        "name": "PPIT",
                         "location": "D-312",
                         "time": "02:30-03:50"
                     },
@@ -3423,7 +3423,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Islamic",
+                        "name": "Islamic [Cancelled]",
                         "location": "C-308",
                         "time": "03:00-04:45"
                     },
