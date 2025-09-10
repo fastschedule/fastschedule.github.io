@@ -1862,6 +1862,23 @@
                 ]
             },
             "2024": {
+                "C": [
+                    {
+                        "name": "Data St",
+                        "location": "C-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "C-406",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "A-Karakoram 3",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Psychology",
@@ -1882,23 +1899,6 @@
                         "name": "Data St",
                         "location": "C-407",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "LA",
-                        "location": "C-406",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "C-409",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "A-Karakoram 3",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "B": [
@@ -5161,6 +5161,64 @@
             }
         },
         "BS SE": {
+            "2024": {
+                "C": [
+                    {
+                        "name": "Data St",
+                        "location": "C-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "C-404",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "DLD",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Intro to SE",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "C-406",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-406",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "C-407",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-407",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Intro to SE",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2025": {
                 "A": [
                     {
@@ -5223,64 +5281,6 @@
                         "name": "PF Lab",
                         "location": "D-IT Lab 3",
                         "time": "11:30-02:20"
-                    }
-                ]
-            },
-            "2024": {
-                "C": [
-                    {
-                        "name": "LA",
-                        "location": "C-404",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "C-404",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "DLD",
-                        "location": "C-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Intro to SE",
-                        "location": "C-406",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "C-406",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Psychology",
-                        "location": "C-406",
-                        "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "C-407",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "C-407",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Intro to SE",
-                        "location": "C-407",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -5360,6 +5360,11 @@
                         "name": "Cloud Comp",
                         "location": "C-409",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Fund of SPM [ReSch]",
+                        "location": "D-314",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Info Sec",
