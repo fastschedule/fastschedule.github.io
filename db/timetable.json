@@ -2109,14 +2109,14 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "OS",
-                        "location": "D-401",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Algo",
                         "location": "D-403",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-404",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -2488,8 +2488,8 @@
             "2023": {
                 "C": [
                     {
-                        "name": "Algo",
-                        "location": "D-404",
+                        "name": "OS",
+                        "location": "D-401",
                         "time": "11:30-12:50"
                     },
                     {
@@ -3238,7 +3238,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS",
+                        "name": "Algo",
                         "location": "D-416",
                         "time": "10:00-11:20"
                     },
@@ -4599,6 +4599,59 @@
                     }
                 ]
             },
+            "2023": {
+                "C": [
+                    {
+                        "name": "OS",
+                        "location": "D-316",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DW&BI",
+                        "location": "D-413",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DAV Lab",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "DAV [Cancelled]",
+                        "location": "D-412",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-412",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DW&BI Lab",
+                        "location": "C-Margala 4",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "OS",
+                        "location": "D-413",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DAV [Cancelled]",
+                        "location": "D-413",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DAV Lab",
+                        "location": "C-Rawal 1",
+                        "time": "11:30-02:20"
+                    }
+                ]
+            },
             "2022": {
                 "A": [
                     {
@@ -4699,59 +4752,6 @@
                         "time": "02:30-03:50"
                     }
                 ]
-            },
-            "2023": {
-                "B": [
-                    {
-                        "name": "DAV [Cancelled]",
-                        "location": "D-412",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-412",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DW&BI Lab",
-                        "location": "C-Margala 4",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "OS",
-                        "location": "D-413",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DAV [Cancelled]",
-                        "location": "D-413",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DAV Lab",
-                        "location": "C-Rawal 1",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Algo",
-                        "location": "D-413",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DW&BI",
-                        "location": "D-413",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DAV Lab",
-                        "location": "A-Mehran 1",
-                        "time": "08:30-11:20"
-                    }
-                ]
             }
         },
         "BS AI": {
@@ -4809,23 +4809,6 @@
                 ]
             },
             "2023": {
-                "A": [
-                    {
-                        "name": "OS",
-                        "location": "D-316",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-402",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "ML",
-                        "location": "D-403",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "B": [
                     {
                         "name": "OS",
@@ -4841,6 +4824,23 @@
                         "name": "ML",
                         "location": "D-404",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Algo",
+                        "location": "D-402",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "ML",
+                        "location": "D-403",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-411",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -5428,7 +5428,7 @@
             "2023": {
                 "C": [
                     {
-                        "name": "OS",
+                        "name": "Algo",
                         "location": "C-301",
                         "time": "08:30-09:50"
                     },
