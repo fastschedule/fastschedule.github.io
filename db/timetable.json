@@ -5651,32 +5651,6 @@
                         "time": "11:30-12:50"
                     }
                 ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "C-307",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "C-308",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "C-308",
-                        "time": "10:00-11:20"
-                    }
-                ]
             }
         },
         "BS CY": {
