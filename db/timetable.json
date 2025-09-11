@@ -1407,6 +1407,13 @@
                         "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
                     }
+                ],
+                "Z": [
+                    {
+                        "name": "PF [Afghan Students]",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
+                    }
                 ]
             },
             "2024": {
@@ -4188,6 +4195,13 @@
                         "name": "Calculus",
                         "location": "C-307",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "Z": [
+                    {
+                        "name": "PF [Afghan Students]",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
