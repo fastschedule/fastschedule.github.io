@@ -5628,46 +5628,20 @@
                 ]
             }
         },
-        "BS CY": {
-            "2025": {
-                "A": [
-                    {
-                        "name": "Ideology of Pak",
-                        "location": "C-304",
-                        "time": "09:00-10:45"
-                    },
-                    {
-                        "name": "Func Eng",
-                        "location": "C-304",
-                        "time": "11:00-12:45"
-                    },
-                    {
-                        "name": "Func Eng Lab A1",
-                        "location": "A-CALL-2",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Func Eng Lab A2",
-                        "location": "A-CALL-3",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            }
-        },
         "BS CS": {
             "2022": {
+                "E": [
+                    {
+                        "name": "Info Sec [ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-03:50"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Adv AI",
                         "location": "C-304",
                         "time": "05:20-08:05"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Info Sec [ReSch]",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "D": [
@@ -5701,6 +5675,32 @@
                         "name": "LA [ReSch]",
                         "location": "C-308",
                         "time": "10:00-11:20"
+                    }
+                ]
+            }
+        },
+        "BS CY": {
+            "2025": {
+                "A": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-304",
+                        "time": "09:00-10:45"
+                    },
+                    {
+                        "name": "Func Eng",
+                        "location": "C-304",
+                        "time": "11:00-12:45"
+                    },
+                    {
+                        "name": "Func Eng Lab A1",
+                        "location": "A-CALL-2",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Func Eng Lab A2",
+                        "location": "A-CALL-3",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
