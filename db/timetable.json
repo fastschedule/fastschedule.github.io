@@ -65,7 +65,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Calculus [Cancelled]",
+                        "name": "Calculus",
                         "location": "C-303",
                         "time": "10:00-11:20"
                     },
@@ -82,7 +82,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Calculus [Cancelled]",
+                        "name": "Calculus",
                         "location": "C-304",
                         "time": "08:30-09:50"
                     },
@@ -2768,7 +2768,7 @@
                 ],
                 "E": [
                     {
-                        "name": "Calculus [ReSch]",
+                        "name": "Calculus",
                         "location": "C-304",
                         "time": "02:30-03:50"
                     },
@@ -2785,7 +2785,7 @@
                 ],
                 "F": [
                     {
-                        "name": "Calculus [ReSch]",
+                        "name": "Calculus",
                         "location": "C-304",
                         "time": "03:55-05:15"
                     },
@@ -2904,7 +2904,7 @@
                 ],
                 "G": [
                     {
-                        "name": "LA [Cancelled]",
+                        "name": "LA",
                         "location": "D-303",
                         "time": "03:55-05:15"
                     },
@@ -3073,14 +3073,14 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Info Sec [Cancelled]",
+                        "name": "Info Sec",
                         "location": "D-312",
                         "time": "03:55-05:15"
                     }
                 ],
                 "E": [
                     {
-                        "name": "Info Sec [Cancelled]",
+                        "name": "Info Sec",
                         "location": "D-313",
                         "time": "02:30-03:50"
                     },
@@ -3233,7 +3233,7 @@
             "2023": {
                 "C": [
                     {
-                        "name": "DW&BI [ReSch]",
+                        "name": "DW&BI",
                         "location": "C-406",
                         "time": "08:30-09:50"
                     },
@@ -3423,7 +3423,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Islamic [Cancelled]",
+                        "name": "Islamic",
                         "location": "C-308",
                         "time": "03:00-04:45"
                     },
@@ -3483,7 +3483,7 @@
             "2023": {
                 "B": [
                     {
-                        "name": "OS [ReSch]",
+                        "name": "OS",
                         "location": "D-502",
                         "time": "08:30-09:50"
                     },
@@ -3790,7 +3790,7 @@
             "2022": {
                 "C": [
                     {
-                        "name": "S/w Re-Engg [ReSch]",
+                        "name": "S/w Re-Engg",
                         "location": "C-311",
                         "time": "11:30-12:50"
                     },
@@ -3848,7 +3848,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Info Sec [Cancelled]",
+                        "name": "Info Sec",
                         "location": "C-408",
                         "time": "01:00-02:20"
                     }
@@ -5578,7 +5578,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "ML Lab",
+                        "name": "ML Lab [Cancelled]",
                         "location": "D-IT Lab 2",
                         "time": "02:30-05:15"
                     }
