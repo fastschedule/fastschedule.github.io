@@ -5662,6 +5662,20 @@
                         "location": "C-304",
                         "time": "05:20-08:05"
                     }
+                ],
+                "E": [
+                    {
+                        "name": "Info Sec [ReSch]",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Info Sec [ReSch]",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    }
                 ]
             },
             "2024": {
