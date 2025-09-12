@@ -4036,7 +4036,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-301",
                         "time": "10:00-11:20"
                     },
@@ -4053,7 +4053,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-302",
                         "time": "08:30-09:50"
                     },
@@ -4068,11 +4068,6 @@
                         "name": "Islamic",
                         "location": "C-302",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Islamic [ReSch]",
-                        "location": "C-303",
-                        "time": "01:30-03:15"
                     },
                     {
                         "name": "PF Lab",
@@ -4633,7 +4628,7 @@
                 ],
                 "B": [
                     {
-                        "name": "DAV [Cancelled]",
+                        "name": "DAV",
                         "location": "D-412",
                         "time": "08:30-09:50"
                     },
@@ -4655,7 +4650,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DAV [Cancelled]",
+                        "name": "DAV",
                         "location": "D-413",
                         "time": "10:00-11:20"
                     },
@@ -5367,11 +5362,6 @@
                         "name": "S/w Re-Engg",
                         "location": "C-408",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "S/w Re-Engg [ReSch]",
-                        "location": "D-315",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "A": [
@@ -5384,11 +5374,6 @@
                         "name": "Cloud Comp",
                         "location": "C-409",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Fund of SPM [ReSch]",
-                        "location": "D-314",
-                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Info Sec",
@@ -5492,12 +5477,12 @@
                         "time": "11:30-01:15"
                     },
                     {
-                        "name": "Func Eng Lab A1",
+                        "name": "Func Eng Lab A1 [(Potohar Lab I)]",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Func Eng Lab A2",
+                        "name": "Func Eng Lab A2 [(Potohar lab II)]",
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
                     }
