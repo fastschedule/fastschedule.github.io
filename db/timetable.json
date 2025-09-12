@@ -172,7 +172,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "IICT [Afghan Students]",
+                        "name": "PF Lab [Afghan Students]",
                         "location": "Rawal 3 (B-232)",
                         "time": "11:30-02:20"
                     }
@@ -2866,6 +2866,11 @@
                         "name": "AP [Afghan Students]",
                         "location": "C-311",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "IICT [Afghan Students]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "11:30-02:20"
                     }
                 ]
             },
