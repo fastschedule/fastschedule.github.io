@@ -5579,15 +5579,6 @@
                         "time": "10:00-11:20"
                     }
                 ]
-            },
-            "2024": {
-                "C": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "D-302",
-                        "time": "11:30-12:50"
-                    }
-                ]
             }
         },
         "BS AI": {
@@ -5611,7 +5602,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Algo [Cancelled Reserved]",
+                        "name": "Algo",
                         "location": "C-303",
                         "time": "10:00-11:20"
                     },
@@ -5685,29 +5676,6 @@
                         "name": "Adv AI",
                         "location": "C-304",
                         "time": "05:20-08:05"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Info Sec [ReSch]",
-                        "location": "D-301",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-304",
-                        "time": "11:30-12:50"
                     }
                 ]
             }
