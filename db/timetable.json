@@ -164,6 +164,13 @@
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
                     }
+                ],
+                "Z": [
+                    {
+                        "name": "AP [Afghan Students]",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
+                    }
                 ]
             },
             "2024": {
@@ -2847,6 +2854,13 @@
                         "name": "Func Eng Lab H2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
+                    }
+                ],
+                "Z": [
+                    {
+                        "name": "AP [Afghan Students]",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
