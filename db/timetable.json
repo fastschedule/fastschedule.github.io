@@ -277,11 +277,6 @@
                         "name": "COAL",
                         "location": "D-304",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-304",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "F": [
@@ -1559,6 +1554,11 @@
                         "name": "LA",
                         "location": "D-304",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-304",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "COAL Lab",
