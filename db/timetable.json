@@ -5079,7 +5079,7 @@
                     },
                     {
                         "name": "Net Sec",
-                        "location": "D-304",
+                        "location": "D-505",
                         "time": "11:30-12:50"
                     },
                     {
@@ -5100,6 +5100,11 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "OS",
+                        "location": "D-414",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "Net Sec",
                         "location": "D-314",
                         "time": "08:30-09:50"
@@ -5108,11 +5113,6 @@
                         "name": "Algo",
                         "location": "D-504",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-406",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -5459,7 +5459,7 @@
                 "F": [
                     {
                         "name": "Fund of SPM",
-                        "location": "D-305",
+                        "location": "D-416",
                         "time": "01:00-02:20"
                     }
                 ]
