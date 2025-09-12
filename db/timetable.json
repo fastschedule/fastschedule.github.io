@@ -1440,6 +1440,11 @@
                         "name": "PF [Afghan Students]",
                         "location": "C-311",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Calculus [Afghan Students]",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -4246,6 +4251,11 @@
                         "name": "PF [Afghan Students]",
                         "location": "C-311",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Calculus [Afghan Students]",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
