@@ -167,12 +167,12 @@
                 ],
                 "Z": [
                     {
-                        "name": "AP [Intl. Students]",
+                        "name": "AP [International Students]",
                         "location": "C-311",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "PF Lab [Intl. Students]",
+                        "name": "PF Lab [International Students]",
                         "location": "Rawal 3 (B-232)",
                         "time": "11:30-02:20"
                     }
@@ -1437,12 +1437,12 @@
                 ],
                 "Z": [
                     {
-                        "name": "PF [Afghan Students]",
+                        "name": "PF [International Students]",
                         "location": "C-311",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Calculus [Afghan Students]",
+                        "name": "Calculus [International Students]",
                         "location": "C-311",
                         "time": "11:30-12:50"
                     }
@@ -2868,12 +2868,12 @@
                 ],
                 "Z": [
                     {
-                        "name": "AP [Afghan Students]",
+                        "name": "AP [International Students]",
                         "location": "C-311",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "IICT [Afghan Students]",
+                        "name": "IICT [International Students]",
                         "location": "Rawal 3 (B-232)",
                         "time": "11:30-02:20"
                     }
@@ -4248,12 +4248,12 @@
                 ],
                 "Z": [
                     {
-                        "name": "PF [Afghan Students]",
+                        "name": "PF [International Students]",
                         "location": "C-311",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Calculus [Afghan Students]",
+                        "name": "Calculus [International Students]",
                         "location": "C-311",
                         "time": "11:30-12:50"
                     }
