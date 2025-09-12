@@ -5627,7 +5627,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "ML Lab [Cancelled]",
+                        "name": "ML Lab",
                         "location": "D-IT Lab 2",
                         "time": "02:30-05:15"
                     }
@@ -5677,24 +5677,6 @@
                 ]
             }
         },
-        "BS CS": {
-            "2022": {
-                "E": [
-                    {
-                        "name": "Info Sec [ReSch]",
-                        "location": "C-303",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Adv AI",
-                        "location": "C-304",
-                        "time": "05:20-08:05"
-                    }
-                ]
-            }
-        },
         "BS CY": {
             "2025": {
                 "A": [
@@ -5717,6 +5699,17 @@
                         "name": "Func Eng Lab A2",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2022": {
+                "A": [
+                    {
+                        "name": "Adv AI",
+                        "location": "C-304",
+                        "time": "05:20-08:05"
                     }
                 ]
             }
