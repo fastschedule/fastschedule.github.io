@@ -32,7 +32,7 @@
                     },
                     {
                         "name": "Func Eng Lab E1",
-                        "location": "A-CALL-2",
+                        "location": "C-307",
                         "time": "02:30-05:15"
                     },
                     {
@@ -3927,6 +3927,11 @@
                         "name": "Info Sec",
                         "location": "C-408",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Info Sec [ReSch]",
+                        "location": "C-409",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "F": [
