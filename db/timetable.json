@@ -2014,6 +2014,18 @@
                         "time": "08:30-09:50"
                     }
                 ],
+                "G": [
+                    {
+                        "name": "S/w Re-Engg [ReSch]",
+                        "location": "D-405",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "S/w Re-Engg",
+                        "location": "D-414",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "E": [
                     {
                         "name": "S/w Re-Engg",
@@ -2052,13 +2064,6 @@
                     {
                         "name": "S/w Re-Engg",
                         "location": "D-413",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "S/w Re-Engg",
-                        "location": "D-414",
                         "time": "01:00-02:20"
                     }
                 ],
