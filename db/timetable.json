@@ -2125,6 +2125,11 @@
                         "name": "Discrete",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Discrete [ReSch]",
+                        "location": "C-310",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -2822,6 +2827,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "AP [ReSch]",
+                        "location": "C-403",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "08:30-11:20"
@@ -2837,6 +2847,11 @@
                         "name": "Islamic",
                         "location": "C-305",
                         "time": "09:00-10:45"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-403",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "PF Lab",
@@ -4873,6 +4888,11 @@
                         "name": "PF",
                         "location": "C-310",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete [ReSch]",
+                        "location": "C-310",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
