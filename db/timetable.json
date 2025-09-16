@@ -2895,6 +2895,28 @@
                 ]
             },
             "2024": {
+                "G": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-410",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-303",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-306",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Rawal 1",
+                        "time": "11:30-02:20"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Civics",
@@ -2970,23 +2992,6 @@
                     {
                         "name": "Data St Lab",
                         "location": "A-Mehran 1",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "LA",
-                        "location": "D-303",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-306",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "C-Rawal 1",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -4368,6 +4373,11 @@
                         "name": "LA",
                         "location": "D-302",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-302",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Automata",
