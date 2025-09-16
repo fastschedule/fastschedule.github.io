@@ -2915,11 +2915,6 @@
                         "name": "Discrete",
                         "location": "D-306",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Data St [ReSch]",
-                        "location": "D-311",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "D": [
@@ -4339,6 +4334,11 @@
                         "name": "Automata",
                         "location": "D-301",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data St [ReSch]",
+                        "location": "D-401",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "COAL Lab",
