@@ -5083,6 +5083,11 @@
                         "name": "PF",
                         "location": "C-403",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Func Eng Lab A1 [ReSch]",
+                        "location": "C-403",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
@@ -5758,6 +5763,22 @@
                         "name": "Func Eng Lab A2",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "OS [ReSch]",
+                        "location": "C-401",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "OS [ReSch]",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
