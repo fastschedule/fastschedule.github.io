@@ -97,7 +97,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Func Eng [Extended till 05:15]",
+                        "name": "Func Eng",
                         "location": "C-304",
                         "time": "02:30-04:15"
                     }
@@ -140,7 +140,7 @@
                 ],
                 "F": [
                     {
-                        "name": "Func Eng [extednded 2:15]",
+                        "name": "Func Eng",
                         "location": "C-307",
                         "time": "11:30-01:15"
                     },
@@ -1264,7 +1264,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Func Eng [Extended till 05:15]",
+                        "name": "Func Eng",
                         "location": "C-301",
                         "time": "02:30-04:15"
                     }
@@ -1293,7 +1293,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Func Eng [extended 2:15]",
+                        "name": "Func Eng",
                         "location": "C-302",
                         "time": "11:30-01:15"
                     },
@@ -2787,7 +2787,7 @@
                 ],
                 "E": [
                     {
-                        "name": "Calculus",
+                        "name": "Calculus [ReSch]",
                         "location": "C-304",
                         "time": "02:30-03:50"
                     },
@@ -2809,7 +2809,7 @@
                 ],
                 "F": [
                     {
-                        "name": "Calculus",
+                        "name": "Calculus [ReSch]",
                         "location": "C-304",
                         "time": "03:55-05:15"
                     },
