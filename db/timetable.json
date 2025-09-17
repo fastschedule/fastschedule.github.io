@@ -1328,11 +1328,6 @@
                         "name": "AP",
                         "location": "C-303",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-308",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "H": [
@@ -1396,29 +1391,7 @@
                         "time": "08:30-11:20"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Islamic",
-                        "location": "C-307",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "PF Lab",
-                        "location": "D-IT Lab 2",
-                        "time": "08:30-11:20"
-                    }
-                ],
                 "D": [
-                    {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-305",
-                        "time": "03:55-05:15"
-                    },
                     {
                         "name": "Islamic",
                         "location": "C-307",
@@ -1428,6 +1401,18 @@
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Islamic",
+                        "location": "C-307",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "PF Lab",
+                        "location": "D-IT Lab 2",
+                        "time": "08:30-11:20"
                     }
                 ],
                 "Z": [
@@ -1566,11 +1551,6 @@
                         "name": "LA",
                         "location": "D-304",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-304",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "COAL Lab",
@@ -1930,7 +1910,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Intro to SE [Cancelled]",
+                        "name": "Intro to SE",
                         "location": "C-407",
                         "time": "10:00-11:20"
                     },
@@ -1997,28 +1977,16 @@
             "2022": {
                 "F": [
                     {
-                        "name": "Fund of SPM [Cancelled]",
+                        "name": "Fund of SPM",
                         "location": "D-313",
                         "time": "01:00-02:20"
                     }
                 ],
                 "C": [
                     {
-                        "name": "Fund of SPM [Cancelled]",
+                        "name": "Fund of SPM",
                         "location": "D-404",
                         "time": "08:30-09:50"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "S/w Re-Engg [ReSch]",
-                        "location": "D-405",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "S/w Re-Engg",
-                        "location": "D-414",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "E": [
@@ -2062,6 +2030,13 @@
                         "time": "01:00-02:20"
                     }
                 ],
+                "G": [
+                    {
+                        "name": "S/w Re-Engg",
+                        "location": "D-414",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "NLP",
@@ -2100,7 +2075,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab C1 [Cancelled]",
+                        "name": "Func Eng Lab C1",
                         "location": "A-CALL-2",
                         "time": "11:30-02:20"
                     },
@@ -2125,11 +2100,6 @@
                         "name": "Discrete",
                         "location": "C-309",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Discrete [ReSch]",
-                        "location": "C-310",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -5083,11 +5053,6 @@
                         "name": "PF",
                         "location": "C-403",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Func Eng Lab A1 [ReSch]",
-                        "location": "C-403",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
