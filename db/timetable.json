@@ -4072,28 +4072,6 @@
                         "time": "10:00-11:20"
                     }
                 ],
-                "J": [
-                    {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-301",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PF",
-                        "location": "C-307",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AP",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Calculus",
-                        "location": "C-307",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "A": [
                     {
                         "name": "Islamic",
@@ -4206,6 +4184,23 @@
                         "time": "02:30-05:15"
                     }
                 ],
+                "J": [
+                    {
+                        "name": "PF",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AP",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Calculus",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "Z": [
                     {
                         "name": "PF [International Students]",
@@ -4247,11 +4242,6 @@
                         "name": "Automata",
                         "location": "D-301",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Data St [ReSch]",
-                        "location": "D-401",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "COAL Lab",
@@ -4303,11 +4293,6 @@
                         "name": "LA",
                         "location": "D-302",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-302",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Automata",
@@ -4843,11 +4828,6 @@
                         "name": "PF",
                         "location": "C-310",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Discrete [ReSch]",
-                        "location": "C-310",
-                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -5278,11 +5258,6 @@
                         "name": "Discrete",
                         "location": "C-401",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Ideology of Pak [ReSch]",
-                        "location": "C-402",
-                        "time": "02:30-04:15"
                     }
                 ],
                 "C": [
