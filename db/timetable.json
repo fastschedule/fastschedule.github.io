@@ -5095,11 +5095,6 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Net Sec",
-                        "location": "D-504",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Algo",
                         "location": "D-504",
                         "time": "10:00-11:20"
