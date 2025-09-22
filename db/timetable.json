@@ -5649,6 +5649,11 @@
                         "name": "Prog for AI Lab",
                         "location": "C-Rawal 1",
                         "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Prog for AI Lab",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
