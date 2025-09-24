@@ -4247,6 +4247,28 @@
                         "time": "01:00-02:20"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "COAL [ReSch]",
+                        "location": "C-410",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "02:30-05:15"
+                    }
+                ],
                 "A": [
                     {
                         "name": "COAL [ReSch]",
@@ -4323,23 +4345,6 @@
                         "name": "Discrete",
                         "location": "D-303",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "LA",
-                        "location": "D-303",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "D-IT Lab 3",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "D": [
