@@ -4221,6 +4221,11 @@
                         "name": "Calculus [International Students]",
                         "location": "C-311",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PF Lab [International Students]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
