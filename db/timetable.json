@@ -4230,6 +4230,28 @@
                 ]
             },
             "2024": {
+                "F": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "D-303",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "E": [
                     {
                         "name": "Data St",
@@ -4310,7 +4332,7 @@
                 ],
                 "G": [
                     {
-                        "name": "Civics",
+                        "name": "Civics [Cancelled]",
                         "location": "D-301",
                         "time": "02:30-04:15"
                     },
@@ -4328,23 +4350,6 @@
                         "name": "Data St",
                         "location": "D-315",
                         "time": "08:30-09:50"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "COAL",
-                        "location": "D-302",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-302",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "D-303",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
@@ -4639,6 +4644,11 @@
                         "name": "Islamic",
                         "location": "C-309",
                         "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-309",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "PF Lab",
@@ -5345,7 +5355,7 @@
             "2023": {
                 "B": [
                     {
-                        "name": "TBW",
+                        "name": "TBW [Cancelled]",
                         "location": "C-405",
                         "time": "11:30-12:50"
                     },
@@ -5362,7 +5372,7 @@
                 ],
                 "A": [
                     {
-                        "name": "TBW",
+                        "name": "TBW [Cancelled]",
                         "location": "C-407",
                         "time": "01:00-02:20"
                     },
