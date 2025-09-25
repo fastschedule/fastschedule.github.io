@@ -761,6 +761,11 @@
                 ],
                 "A": [
                     {
+                        "name": "Func Eng [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-03:45"
+                    },
+                    {
                         "name": "PF",
                         "location": "C-401",
                         "time": "10:00-11:20"
@@ -5703,7 +5708,7 @@
                         "time": "09:00-10:45"
                     },
                     {
-                        "name": "Func Eng",
+                        "name": "Func Eng [Cancelled]",
                         "location": "C-304",
                         "time": "11:00-12:45"
                     },
