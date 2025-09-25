@@ -5583,6 +5583,20 @@
                         "location": "A-CALL-1",
                         "time": "02:30-05:15"
                     }
+                ],
+                "C": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-402",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-402",
+                        "time": "11:30-12:50"
+                    }
                 ]
             },
             "2023": {
