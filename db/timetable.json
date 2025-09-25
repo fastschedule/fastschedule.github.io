@@ -1522,6 +1522,11 @@
                         "name": "Data St",
                         "location": "D-304",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "D-502",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "A": [
@@ -4344,7 +4349,7 @@
                 ],
                 "G": [
                     {
-                        "name": "Civics [Cancelled]",
+                        "name": "Civics",
                         "location": "D-301",
                         "time": "02:30-04:15"
                     },
