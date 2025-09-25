@@ -2333,6 +2333,11 @@
                         "name": "Calculus",
                         "location": "C-404",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "D-316",
+                        "time": "08:30-09:50"
                     }
                 ]
             },
