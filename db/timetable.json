@@ -5747,11 +5747,11 @@
                 ]
             },
             "2025": {
-                "H": [
+                "Z": [
                     {
-                        "name": "Func Eng Lab H2 [ReSch]",
-                        "location": "A-Mehran 1",
-                        "time": "08:30-11:20"
+                        "name": "AP [International Students]",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
