@@ -598,6 +598,20 @@
                         "location": "A-CALL-3",
                         "time": "11:30-02:20"
                     }
+                ],
+                "A": [
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "D-IT Lab 4",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:20"
+                    }
                 ]
             },
             "2024": {
