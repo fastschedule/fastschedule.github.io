@@ -5600,22 +5600,6 @@
                         "time": "10:00-11:20"
                     }
                 ]
-            },
-            "2024": {
-                "B": [
-                    {
-                        "name": "Intro to SE [ReSch]",
-                        "location": "C-403",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Intro to SE [ReSch]",
-                        "location": "C-403",
-                        "time": "11:30-12:50"
-                    }
-                ]
             }
         },
         "BS AI": {
