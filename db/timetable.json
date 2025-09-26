@@ -1921,7 +1921,7 @@
                     },
                     {
                         "name": "Func Eng Lab D2",
-                        "location": "C-401",
+                        "location": "A-CALL-1",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -2340,6 +2340,11 @@
                         "name": "Discrete",
                         "location": "C-403",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab A1 [ReSch]",
+                        "location": "C-403",
+                        "time": "02:30-05:15"
                     },
                     {
                         "name": "PF",
