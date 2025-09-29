@@ -167,11 +167,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AP [International Students]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "PF Lab [International Students]",
                         "location": "Rawal 3 (B-232)",
                         "time": "11:30-02:20"
@@ -352,7 +347,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Blockchain [G-2]",
+                        "name": "Blockchain [G-2) Cancelled]",
                         "location": "D-313",
                         "time": "11:30-12:50"
                     },
@@ -398,7 +393,7 @@
                 ],
                 "B": [
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-306",
                         "time": "02:30-03:50"
                     },
@@ -418,7 +413,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Blockchain [G-2]",
+                        "name": "Blockchain [G-2) Cancelled]",
                         "location": "D-313",
                         "time": "01:00-02:20"
                     },
@@ -466,7 +461,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Automata",
+                        "name": "Automata [Cancelled]",
                         "location": "D-315",
                         "time": "10:00-11:20"
                     },
@@ -1461,11 +1456,6 @@
                         "name": "Calculus [International Students]",
                         "location": "C-311",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Calculus [International Students]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "11:30-02:30"
                     }
                 ]
             },
@@ -4257,11 +4247,6 @@
                         "name": "Calculus [International Students]",
                         "location": "C-311",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "PF Lab [International Students]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -5526,6 +5511,15 @@
                         "time": "08:30-11:20"
                     }
                 ]
+            },
+            "2025": {
+                "B": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
+                    }
+                ]
             }
         },
         "BS SE": {
@@ -5572,20 +5566,6 @@
                         "name": "Func Eng Lab B2",
                         "location": "A-CALL-1",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "C-402",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "C-402",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -5715,7 +5695,7 @@
                         "time": "09:00-10:45"
                     },
                     {
-                        "name": "Func Eng [Cancelled]",
+                        "name": "Func Eng",
                         "location": "C-304",
                         "time": "11:00-12:45"
                     },
@@ -5730,22 +5710,6 @@
                         "time": "02:30-05:15"
                     }
                 ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "OS [ReSch]",
-                        "location": "C-401",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "OS [ReSch]",
-                        "location": "C-401",
-                        "time": "10:00-11:20"
-                    }
-                ]
             }
         },
         "BS CS": {
@@ -5755,6 +5719,24 @@
                         "name": "Adv AI",
                         "location": "C-304",
                         "time": "05:20-08:05"
+                    }
+                ]
+            },
+            "2025": {
+                "C": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-401",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
+            "2024": {
+                "B": [
+                    {
+                        "name": "Data St Lab [ReSch]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
