@@ -2445,7 +2445,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Cloud Comp",
+                        "name": "Cloud Comp [Cancelled]",
                         "location": "D-504",
                         "time": "08:30-09:50"
                     },
@@ -2457,7 +2457,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Cloud Comp",
+                        "name": "Cloud Comp [Cancelled]",
                         "location": "D-504",
                         "time": "10:00-11:20"
                     },
@@ -2606,7 +2606,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Info Sec",
+                        "name": "Info Sec [Cancelled]",
                         "location": "D-405",
                         "time": "10:00-11:20"
                     },
@@ -2623,7 +2623,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Info Sec",
+                        "name": "Info Sec [Cancelled]",
                         "location": "D-406",
                         "time": "11:30-12:50"
                     }
@@ -5125,7 +5125,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Cloud Comp",
+                        "name": "Cloud Comp [Cancelled]",
                         "location": "D-501",
                         "time": "08:30-09:50"
                     },
@@ -5142,7 +5142,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Cloud Comp",
+                        "name": "Cloud Comp [Cancelled]",
                         "location": "D-501",
                         "time": "10:00-11:20"
                     },
