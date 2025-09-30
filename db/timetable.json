@@ -1558,7 +1558,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "COAL Lab",
+                        "name": "COAL Lab [Cancelled]",
                         "location": "C-Margala 1",
                         "time": "08:30-11:20"
                     }
@@ -2337,7 +2337,7 @@
             "2024": {
                 "A": [
                     {
-                        "name": "Cy Sec",
+                        "name": "Cy Sec [Cancelled]",
                         "location": "D-411",
                         "time": "11:30-12:50"
                     },
