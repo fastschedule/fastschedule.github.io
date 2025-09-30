@@ -2807,6 +2807,11 @@
                         "time": "09:00-10:45"
                     },
                     {
+                        "name": "Func Eng Lab F1 [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-05:15"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
@@ -4058,6 +4063,11 @@
                         "name": "Calculus",
                         "location": "C-301",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Func Eng Lab E2 [ReSch]",
+                        "location": "C-301",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "F": [
