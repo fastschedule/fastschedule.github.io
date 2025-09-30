@@ -2491,7 +2491,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Func Eng Lab A1",
+                        "name": "Func Eng Lab A1 [Rawal 3]",
                         "location": "A-Mehran 2",
                         "time": "11:30-02:20"
                     },
@@ -4291,6 +4291,11 @@
                         "name": "Discrete",
                         "location": "D-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St Lab [ReSch]",
+                        "location": "C-Margala 4",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "A": [
