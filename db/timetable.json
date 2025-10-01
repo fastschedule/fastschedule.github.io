@@ -5571,7 +5571,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "Algo",
+                        "name": "Algo [Cancelled]",
                         "location": "C-310",
                         "time": "08:30-09:50"
                     },
@@ -5588,7 +5588,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Algo",
+                        "name": "Algo [Cancelled]",
                         "location": "C-311",
                         "time": "10:00-11:20"
                     }
