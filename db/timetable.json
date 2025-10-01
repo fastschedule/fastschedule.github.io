@@ -1609,6 +1609,18 @@
                         "time": "11:30-12:50"
                     }
                 ],
+                "K": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-312",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-316",
+                        "time": "02:30-03:50"
+                    }
+                ],
                 "F": [
                     {
                         "name": "Info Sec",
@@ -1661,18 +1673,6 @@
                     {
                         "name": "Info Sec",
                         "location": "D-315",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "K": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-316",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-316",
                         "time": "03:55-05:15"
                     }
                 ]
