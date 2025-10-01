@@ -4226,6 +4226,11 @@
                         "name": "Calculus [International Students]",
                         "location": "C-311",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Calculus [International Students ReSch]",
+                        "location": "C-404",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
