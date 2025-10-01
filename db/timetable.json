@@ -756,6 +756,11 @@
                 ],
                 "A": [
                     {
+                        "name": "Ideology of Pak [ReSch]",
+                        "location": "C-305",
+                        "time": "03:00-04:45"
+                    },
+                    {
                         "name": "PF",
                         "location": "C-401",
                         "time": "10:00-11:20"
@@ -3788,7 +3793,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Comp Vision",
+                        "name": "Comp Vision [Cancelled]",
                         "location": "D-412",
                         "time": "11:30-12:50"
                     },
@@ -3800,7 +3805,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Comp Vision",
+                        "name": "Comp Vision [Cancelled]",
                         "location": "D-412",
                         "time": "10:00-11:20"
                     }
@@ -5687,6 +5692,20 @@
                         "name": "Func Eng Lab A2",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-402",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-402",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
