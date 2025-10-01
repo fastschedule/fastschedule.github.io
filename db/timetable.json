@@ -5727,6 +5727,13 @@
                         "location": "C-401",
                         "time": "08:30-09:50"
                     }
+                ],
+                "H": [
+                    {
+                        "name": "Func Eng Lab H2 [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:20"
+                    }
                 ]
             },
             "2024": {
