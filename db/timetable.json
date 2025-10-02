@@ -1932,6 +1932,11 @@
                 ],
                 "B": [
                     {
+                        "name": "LA [ReSch]",
+                        "location": "C-406",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "Data St",
                         "location": "C-408",
                         "time": "08:30-09:50"
@@ -5702,20 +5707,6 @@
                         "name": "Func Eng Lab A2",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2024": {
-                "B": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "C-402",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "C-402",
-                        "time": "10:00-11:20"
                     }
                 ]
             }
