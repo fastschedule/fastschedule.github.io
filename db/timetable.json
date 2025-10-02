@@ -121,6 +121,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-05:15"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
@@ -301,6 +306,11 @@
                         "name": "Automata",
                         "location": "D-305",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-305",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Data St Lab",
@@ -1355,6 +1365,11 @@
                         "name": "PF",
                         "location": "C-304",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "J": [
@@ -1969,6 +1984,11 @@
                         "name": "TBW",
                         "location": "C-409",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo [ReSch]",
+                        "location": "C-409",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
@@ -1986,6 +2006,11 @@
                         "name": "Busi Proc Engg",
                         "location": "C-409",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Algo [ReSch]",
+                        "location": "C-409",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
