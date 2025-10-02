@@ -4083,11 +4083,6 @@
                         "name": "Calculus",
                         "location": "C-301",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Func Eng Lab E2 [ReSch]",
-                        "location": "C-301",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "F": [
@@ -4226,7 +4221,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-307",
                         "time": "10:00-11:20"
                     },
@@ -4246,11 +4241,6 @@
                         "name": "Calculus [International Students]",
                         "location": "C-311",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Calculus [International Students ReSch]",
-                        "location": "C-404",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -4270,11 +4260,6 @@
                         "name": "COAL",
                         "location": "D-301",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "COAL Lab [ReSch]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
@@ -4331,11 +4316,6 @@
                         "name": "Discrete",
                         "location": "D-303",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Data St Lab [ReSch]",
-                        "location": "C-Margala 4",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "A": [
@@ -4666,11 +4646,6 @@
                         "time": "02:00-03:45"
                     },
                     {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-309",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 3",
                         "time": "08:30-11:20"
@@ -4685,7 +4660,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "DW&BI [Cancelled]",
+                        "name": "DW&BI",
                         "location": "D-413",
                         "time": "01:00-02:20"
                     },
@@ -4779,7 +4754,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Comp Net Lab [Cancelled]",
+                        "name": "Comp Net Lab",
                         "location": "A-Mehran 1",
                         "time": "11:30-02:20"
                     }
@@ -4902,11 +4877,6 @@
                         "name": "ML",
                         "location": "D-404",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "ML Lab [ReSch]",
-                        "location": "A-Karakoram 3",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "A": [
@@ -5144,7 +5114,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Cloud Comp [Cancelled]",
+                        "name": "Cloud Comp",
                         "location": "D-501",
                         "time": "08:30-09:50"
                     },
@@ -5161,7 +5131,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Cloud Comp [Cancelled]",
+                        "name": "Cloud Comp",
                         "location": "D-501",
                         "time": "10:00-11:20"
                     },
@@ -5758,13 +5728,6 @@
                 ]
             },
             "2024": {
-                "E": [
-                    {
-                        "name": "Data St Lab [ReSch]",
-                        "location": "D-IT Lab 4",
-                        "time": "02:30-05:15"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Data St Lab [ReSch]",
