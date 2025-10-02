@@ -2802,11 +2802,6 @@
                         "time": "09:00-10:45"
                     },
                     {
-                        "name": "Func Eng Lab F1 [ReSch]",
-                        "location": "C-309",
-                        "time": "02:30-05:15"
-                    },
-                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
@@ -3430,7 +3425,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Discrete [ReSch only for 08-08-25]",
+                        "name": "Discrete [ReSch]",
                         "location": "C-311",
                         "time": "02:30-03:50"
                     }
@@ -3477,11 +3472,6 @@
             },
             "2024": {
                 "B": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-311",
-                        "time": "01:00-02:20"
-                    },
                     {
                         "name": "DLD",
                         "location": "D-501",
@@ -3803,7 +3793,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Comp Vision [Cancelled]",
+                        "name": "Comp Vision",
                         "location": "D-412",
                         "time": "11:30-12:50"
                     },
@@ -3815,7 +3805,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Comp Vision [Cancelled]",
+                        "name": "Comp Vision",
                         "location": "D-412",
                         "time": "10:00-11:20"
                     }
@@ -5757,6 +5747,13 @@
                 ]
             },
             "2024": {
+                "E": [
+                    {
+                        "name": "Data St Lab [ReSch]",
+                        "location": "D-IT Lab 4",
+                        "time": "02:30-05:15"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Data St Lab [ReSch]",
