@@ -1947,11 +1947,6 @@
                 ],
                 "B": [
                     {
-                        "name": "LA [ReSch]",
-                        "location": "C-406",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "Data St",
                         "location": "C-408",
                         "time": "08:30-09:50"
@@ -4126,7 +4121,7 @@
                 ],
                 "G": [
                     {
-                        "name": "Ideology of Pak [10:10-11:30]",
+                        "name": "Ideology of Pak",
                         "location": "C-302",
                         "time": "02:30-04:15"
                     },
