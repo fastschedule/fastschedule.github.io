@@ -603,6 +603,13 @@
                         "location": "A-CALL-3",
                         "time": "11:30-02:20"
                     }
+                ],
+                "B": [
+                    {
+                        "name": "Func Eng Lab B1 [ReSch]",
+                        "location": "D-313",
+                        "time": "08:30-11:20"
+                    }
                 ]
             },
             "2024": {
