@@ -1513,6 +1513,11 @@
                         "name": "Data St Lab",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "COAL Lab [ReSch]",
+                        "location": "A-Karakoram 3",
+                        "time": "08:30-11:20"
                     }
                 ],
                 "G": [
