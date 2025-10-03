@@ -5512,15 +5512,6 @@
                         "time": "08:30-11:20"
                     }
                 ]
-            },
-            "2025": {
-                "B": [
-                    {
-                        "name": "AP [ReSch]",
-                        "location": "C-401",
-                        "time": "10:00-11:20"
-                    }
-                ]
             }
         },
         "BS SE": {
@@ -5573,7 +5564,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "Algo [Cancelled]",
+                        "name": "Algo",
                         "location": "C-310",
                         "time": "08:30-09:50"
                     },
@@ -5590,7 +5581,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Algo [Cancelled]",
+                        "name": "Algo",
                         "location": "C-311",
                         "time": "10:00-11:20"
                     }
@@ -5711,31 +5702,6 @@
                         "name": "Adv AI",
                         "location": "C-304",
                         "time": "05:20-08:05"
-                    }
-                ]
-            },
-            "2025": {
-                "C": [
-                    {
-                        "name": "AP [ReSch]",
-                        "location": "C-401",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "H": [
-                    {
-                        "name": "Func Eng Lab H2 [ReSch]",
-                        "location": "A-Mehran 1",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2024": {
-                "B": [
-                    {
-                        "name": "Data St Lab [ReSch]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "08:30-11:20"
                     }
                 ]
             }
