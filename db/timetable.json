@@ -607,8 +607,8 @@
                 "B": [
                     {
                         "name": "Func Eng Lab B1 [ReSch]",
-                        "location": "D-313",
-                        "time": "08:30-11:20"
+                        "location": "B-229",
+                        "time": "11:30-02:20"
                     }
                 ]
             },
@@ -1251,7 +1251,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Info Assur",
+                        "name": "Info Assur [Cancelled]",
                         "location": "D-503",
                         "time": "11:30-12:50"
                     },
@@ -1263,7 +1263,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Info Assur",
+                        "name": "Info Assur [Cancelled]",
                         "location": "D-503",
                         "time": "01:00-02:20"
                     }
