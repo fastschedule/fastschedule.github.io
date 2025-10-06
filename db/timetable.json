@@ -1874,6 +1874,11 @@
                 ],
                 "B": [
                     {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Discrete",
                         "location": "C-402",
                         "time": "01:00-02:20"
@@ -3273,6 +3278,11 @@
                         "name": "Calculus",
                         "location": "C-304",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-304",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "AP",
@@ -4858,6 +4868,11 @@
                         "name": "Calculus",
                         "location": "C-309",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Ideology of Pak [ReSch]",
+                        "location": "C-310",
+                        "time": "03:00-04:45"
                     }
                 ],
                 "B": [
@@ -5305,6 +5320,11 @@
                         "name": "Discrete",
                         "location": "C-401",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-404",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "C": [
