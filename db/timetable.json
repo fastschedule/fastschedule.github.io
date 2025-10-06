@@ -607,7 +607,7 @@
                 "B": [
                     {
                         "name": "Func Eng Lab B1 [ReSch]",
-                        "location": "B-229",
+                        "location": "C-110",
                         "time": "11:30-02:20"
                     }
                 ]
@@ -3524,6 +3524,11 @@
             },
             "2024": {
                 "B": [
+                    {
+                        "name": "Cy Sec [ReSch]",
+                        "location": "C-406",
+                        "time": "01:00-02:20"
+                    },
                     {
                         "name": "DLD",
                         "location": "D-501",
