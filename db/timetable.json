@@ -3508,11 +3508,6 @@
             "2024": {
                 "B": [
                     {
-                        "name": "Cy Sec [ReSch]",
-                        "location": "C-406",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "DLD",
                         "location": "D-501",
                         "time": "08:30-09:50"
@@ -3703,29 +3698,12 @@
                 ]
             },
             "2024": {
-                "B": [
+                "A": [
                     {
                         "name": "LA [ReSch]",
-                        "location": "C-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "D-405",
+                        "location": "D-301",
                         "time": "01:00-02:20"
                     },
-                    {
-                        "name": "Prog for AI",
-                        "location": "D-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-406",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
                     {
                         "name": "Data St",
                         "location": "D-405",
@@ -3762,6 +3740,23 @@
                         "name": "LA",
                         "location": "D-406",
                         "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Discrete",
+                        "location": "D-405",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Prog for AI",
+                        "location": "D-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-406",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
