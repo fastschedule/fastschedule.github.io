@@ -4032,6 +4032,11 @@
                         "name": "Info Sec",
                         "location": "C-409",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Fund of SPM [ReSch]",
+                        "location": "C-409",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "D": [
@@ -5136,6 +5141,47 @@
                     }
                 ]
             },
+            "2024": {
+                "B": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-416",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Fund of SE",
+                        "location": "D-504",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-504",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "C-Margala 1",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Cy Sec",
+                        "location": "D-503",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Fund of SE",
+                        "location": "D-503",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
             "2022": {
                 "A": [
                     {
@@ -5198,42 +5244,6 @@
                         "name": "Sec S/w Design",
                         "location": "D-503",
                         "time": "10:00-11:20"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "Cy Sec",
-                        "location": "D-503",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Fund of SE",
-                        "location": "D-503",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Fund of SE",
-                        "location": "D-504",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-504",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "C-Margala 1",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
