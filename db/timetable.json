@@ -1350,11 +1350,6 @@
                         "name": "PF",
                         "location": "C-304",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "IICT Lab [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "J": [
@@ -1503,11 +1498,6 @@
                         "name": "Data St Lab",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "COAL Lab [ReSch]",
-                        "location": "A-Karakoram 3",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "G": [
@@ -1857,11 +1847,6 @@
                 ],
                 "B": [
                     {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-401",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Discrete",
                         "location": "C-402",
                         "time": "01:00-02:20"
@@ -1979,11 +1964,6 @@
                         "name": "TBW",
                         "location": "C-409",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo [ReSch]",
-                        "location": "C-409",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
@@ -2001,11 +1981,6 @@
                         "name": "Busi Proc Engg",
                         "location": "C-409",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Algo [ReSch]",
-                        "location": "C-409",
-                        "time": "02:30-03:50"
                     }
                 ]
             },
