@@ -3692,43 +3692,29 @@
                     }
                 ]
             },
-            "2023": {
-                "A": [
-                    {
-                        "name": "KRR",
-                        "location": "D-403",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "D-403",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "ML Lab",
-                        "location": "C-Margala 1",
-                        "time": "02:30-05:15"
-                    }
-                ],
+            "2024": {
                 "B": [
                     {
-                        "name": "Algo",
-                        "location": "D-404",
+                        "name": "LA [ReSch]",
+                        "location": "C-311",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "KRR",
-                        "location": "D-404",
+                        "name": "Discrete",
+                        "location": "D-405",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "OS Lab",
-                        "location": "C-Margala 4",
-                        "time": "02:30-05:15"
+                        "name": "Prog for AI",
+                        "location": "D-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-406",
+                        "time": "10:00-11:20"
                     }
-                ]
-            },
-            "2024": {
+                ],
                 "A": [
                     {
                         "name": "Data St",
@@ -3767,22 +3753,41 @@
                         "location": "D-406",
                         "time": "01:00-02:20"
                     }
-                ],
-                "B": [
+                ]
+            },
+            "2023": {
+                "A": [
                     {
-                        "name": "Discrete",
-                        "location": "D-405",
+                        "name": "KRR",
+                        "location": "D-403",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "D-403",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Prog for AI",
-                        "location": "D-406",
-                        "time": "08:30-09:50"
+                        "name": "ML Lab",
+                        "location": "C-Margala 1",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Algo",
+                        "location": "D-404",
+                        "time": "11:30-12:50"
                     },
                     {
-                        "name": "Data St",
-                        "location": "D-406",
-                        "time": "10:00-11:20"
+                        "name": "KRR",
+                        "location": "D-404",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 4",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
