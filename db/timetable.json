@@ -5647,6 +5647,33 @@
                         "name": "LA [ReSch]",
                         "location": "C-302",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-406",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-303",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "DLD Lab [ReSch]",
+                        "location": "B-Digital",
+                        "time": "08:30-11:20"
                     }
                 ],
                 "A": [
@@ -5659,13 +5686,6 @@
                         "name": "Prob & Stats [ReSch]",
                         "location": "C-402",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "DLD Lab [ReSch]",
-                        "location": "B-Digital",
-                        "time": "08:30-11:20"
                     }
                 ]
             },
