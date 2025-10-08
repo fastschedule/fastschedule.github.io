@@ -1412,6 +1412,11 @@
                 ],
                 "D": [
                     {
+                        "name": "AP [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Islamic",
                         "location": "C-307",
                         "time": "09:00-10:45"
@@ -5817,6 +5822,15 @@
                         "name": "Adv AI",
                         "location": "C-304",
                         "time": "05:20-08:05"
+                    }
+                ]
+            },
+            "2025": {
+                "F": [
+                    {
+                        "name": "Func Eng",
+                        "location": "C-405",
+                        "time": "11:30-01:15"
                     }
                 ]
             },
