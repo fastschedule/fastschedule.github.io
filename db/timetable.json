@@ -763,11 +763,6 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-309",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "AP",
                         "location": "C-310",
                         "time": "08:30-09:50"
@@ -4175,6 +4170,11 @@
                         "name": "AP",
                         "location": "C-304",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-410",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "D": [
