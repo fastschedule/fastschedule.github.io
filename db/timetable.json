@@ -2787,7 +2787,7 @@
                         "time": "03:30-05:15"
                     },
                     {
-                        "name": "IICT Lab [Cancelled]",
+                        "name": "IICT Lab [Cancelled Reserved]",
                         "location": "D-IT Lab 4",
                         "time": "11:30-02:20"
                     },
@@ -5807,6 +5807,15 @@
                         "name": "Adv AI",
                         "location": "C-304",
                         "time": "05:20-08:05"
+                    }
+                ]
+            },
+            "2024": {
+                "C": [
+                    {
+                        "name": "Data St Lab [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
