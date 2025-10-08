@@ -5540,6 +5540,22 @@
                         "time": "08:30-11:20"
                     }
                 ]
+            },
+            "2022": {
+                "A": [
+                    {
+                        "name": "Info Sec [ReSch]",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Info Sec [ReSch]",
+                        "location": "C-404",
+                        "time": "11:30-12:50"
+                    }
+                ]
             }
         },
         "BS SE": {
@@ -5621,6 +5637,11 @@
                         "name": "Algo",
                         "location": "C-311",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Busi Proc Engg [ReSch]",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "A": [
@@ -5713,6 +5734,15 @@
                     {
                         "name": "Prog for AI Lab",
                         "location": "C-Rawal 1",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2022": {
+                "B": [
+                    {
+                        "name": "Comp Vision Lab [ReSch]",
+                        "location": "Rawal 3 (B-232)",
                         "time": "02:30-05:15"
                     }
                 ]
