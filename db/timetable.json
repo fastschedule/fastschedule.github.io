@@ -593,6 +593,20 @@
                         "location": "A-CALL-3",
                         "time": "11:30-02:20"
                     }
+                ],
+                "A": [
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "D-IT Lab 4",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:20"
+                    }
                 ]
             },
             "2024": {
@@ -747,6 +761,11 @@
                         "name": "Calculus",
                         "location": "C-304",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "AP",
@@ -2110,6 +2129,11 @@
                         "name": "Discrete",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Func Eng Lab A2 [ReSch]",
+                        "location": "C-311",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
@@ -5554,6 +5578,13 @@
                         "name": "Info Sec [ReSch]",
                         "location": "C-404",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "C-Margala 4",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
