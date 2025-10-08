@@ -5660,6 +5660,13 @@
                         "location": "C-402",
                         "time": "11:30-12:50"
                     }
+                ],
+                "C": [
+                    {
+                        "name": "DLD Lab [ReSch]",
+                        "location": "B-Digital",
+                        "time": "08:30-11:20"
+                    }
                 ]
             },
             "2023": {
@@ -5826,11 +5833,18 @@
                 ]
             },
             "2025": {
-                "F": [
+                "G": [
                     {
-                        "name": "Func Eng",
+                        "name": "Func Eng [ReSch]",
                         "location": "C-405",
-                        "time": "11:30-01:15"
+                        "time": "08:30-10:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "C-405",
+                        "time": "10:30-12:15"
                     }
                 ]
             },
