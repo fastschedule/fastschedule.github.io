@@ -2237,6 +2237,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "Discrete [ReSch]",
+                        "location": "D-414",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Data St Lab",
                         "location": "C-Rawal 1",
                         "time": "02:30-05:15"
@@ -5746,6 +5751,11 @@
                         "time": "08:30-10:15"
                     },
                     {
+                        "name": "Discrete [ReSch]",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "COAL Lab",
                         "location": "C-Margala 4",
                         "time": "10:30-01:15"
@@ -5756,6 +5766,11 @@
                         "name": "Psychology [Cancelled]",
                         "location": "C-305",
                         "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "Discrete [ReSch]",
+                        "location": "C-408",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Data St Lab",
