@@ -5741,7 +5741,7 @@
             "2024": {
                 "B": [
                     {
-                        "name": "Psychology",
+                        "name": "Psychology [Cancelled]",
                         "location": "C-305",
                         "time": "08:30-10:15"
                     },
@@ -5753,7 +5753,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Psychology",
+                        "name": "Psychology [Cancelled]",
                         "location": "C-305",
                         "time": "11:30-01:15"
                     },
@@ -5840,6 +5840,13 @@
                         "name": "Func Eng [ReSch]",
                         "location": "C-405",
                         "time": "10:30-12:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Func Eng Lab B2 [ReSch]",
+                        "location": "C-407",
+                        "time": "10:00-12:50"
                     }
                 ]
             },
