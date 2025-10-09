@@ -4812,7 +4812,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "LA [Cancelled]",
+                        "name": "LA",
                         "location": "D-411",
                         "time": "02:30-03:50"
                     }
@@ -5860,15 +5860,6 @@
                         "name": "Func Eng Lab B2 [ReSch]",
                         "location": "C-407",
                         "time": "10:00-12:50"
-                    }
-                ]
-            },
-            "2024": {
-                "C": [
-                    {
-                        "name": "Data St Lab [ReSch]",
-                        "location": "A-Mehran 1",
-                        "time": "08:30-11:20"
                     }
                 ]
             }
