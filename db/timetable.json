@@ -3832,6 +3832,37 @@
             }
         },
         "BS SE": {
+            "2023": {
+                "A": [
+                    {
+                        "name": "Busi Proc Engg [ReSch]",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-407",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-407",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2024": {
                 "C": [
                     {
@@ -4027,32 +4058,6 @@
                     {
                         "name": "Fund of SPM",
                         "location": "D-301",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "Algo",
-                        "location": "C-406",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "S/w Const",
-                        "location": "C-407",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "S/w Const",
-                        "location": "C-407",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "C-407",
                         "time": "11:30-12:50"
                     }
                 ]
