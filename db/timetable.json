@@ -791,6 +791,66 @@
                     }
                 ]
             },
+            "2022": {
+                "D": [
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "D-313",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-413",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-413",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-412",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-412",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Comp Net",
+                        "location": "D-412",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Deep Learning",
+                        "location": "D-412",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Deep Learning",
+                        "location": "D-413",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-413",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Margala 3",
+                        "time": "11:30-02:20"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
@@ -860,61 +920,6 @@
                         "name": "Algo",
                         "location": "D-404",
                         "time": "10:00-11:20"
-                    }
-                ]
-            },
-            "2022": {
-                "C": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-412",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-412",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Comp Net",
-                        "location": "D-412",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Deep Learning",
-                        "location": "D-412",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-413",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-413",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Deep Learning",
-                        "location": "D-413",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-413",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Comp Net Lab",
-                        "location": "C-Margala 3",
-                        "time": "11:30-02:20"
                     }
                 ]
             }
@@ -5563,13 +5568,6 @@
                         "name": "Info Sec [ReSch]",
                         "location": "C-404",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Comp Net Lab [ReSch]",
-                        "location": "C-Margala 4",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
