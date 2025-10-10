@@ -17,6 +17,11 @@
                         "name": "Calculus",
                         "location": "C-302",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "E": [
@@ -4116,6 +4121,23 @@
                         "time": "10:00-11:20"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-301",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Islamic",
+                        "location": "C-305",
+                        "time": "09:00-10:45"
+                    },
+                    {
+                        "name": "PF Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "11:30-02:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Islamic",
@@ -4192,18 +4214,6 @@
                         "name": "Func Eng",
                         "location": "C-304",
                         "time": "02:30-04:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Islamic",
-                        "location": "C-305",
-                        "time": "09:00-10:45"
-                    },
-                    {
-                        "name": "PF Lab",
-                        "location": "D-IT Lab 1",
-                        "time": "11:30-02:20"
                     }
                 ],
                 "C": [
