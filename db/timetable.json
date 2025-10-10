@@ -4111,23 +4111,6 @@
                         "time": "10:00-11:20"
                     }
                 ],
-                "B": [
-                    {
-                        "name": "Func Eng Lab B1 [ReSch]",
-                        "location": "C-301",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Islamic",
-                        "location": "C-305",
-                        "time": "09:00-10:45"
-                    },
-                    {
-                        "name": "PF Lab",
-                        "location": "D-IT Lab 1",
-                        "time": "11:30-02:20"
-                    }
-                ],
                 "A": [
                     {
                         "name": "Islamic",
@@ -4160,11 +4143,6 @@
                         "name": "AP",
                         "location": "C-304",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AP [ReSch]",
-                        "location": "C-407",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "D": [
@@ -4189,28 +4167,6 @@
                         "time": "08:30-11:20"
                     }
                 ],
-                "J": [
-                    {
-                        "name": "AP [ReSch]",
-                        "location": "C-303",
-                        "time": "N/A"
-                    },
-                    {
-                        "name": "PF",
-                        "location": "C-307",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AP",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Calculus",
-                        "location": "C-307",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "H": [
                     {
                         "name": "Calculus [Cancelled]",
@@ -4231,11 +4187,18 @@
                         "name": "Func Eng",
                         "location": "C-304",
                         "time": "02:30-04:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Islamic",
+                        "location": "C-305",
+                        "time": "09:00-10:45"
                     },
                     {
-                        "name": "Ideology of Pak [ReSch]",
-                        "location": "D-314",
-                        "time": "01:00-02:20"
+                        "name": "PF Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "11:30-02:20"
                     }
                 ],
                 "C": [
@@ -4258,6 +4221,23 @@
                         "name": "Func Eng Lab C2",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "J": [
+                    {
+                        "name": "PF",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AP",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Calculus",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "Z": [
@@ -4289,11 +4269,6 @@
                         "name": "COAL",
                         "location": "D-301",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Data St Lab [ReSch]",
-                        "location": "C-Margala 4",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
@@ -4875,11 +4850,6 @@
                         "name": "Calculus",
                         "location": "C-309",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Ideology of Pak [ReSch]",
-                        "location": "C-310",
-                        "time": "03:00-04:45"
                     }
                 ],
                 "B": [
@@ -4897,11 +4867,6 @@
                         "name": "PF",
                         "location": "C-310",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab B2 [ReSch]",
-                        "location": "C-402",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -5150,47 +5115,6 @@
                     }
                 ]
             },
-            "2024": {
-                "B": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-416",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Fund of SE",
-                        "location": "D-504",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-504",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "C-Margala 1",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Cy Sec",
-                        "location": "D-503",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Fund of SE",
-                        "location": "D-503",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            },
             "2022": {
                 "A": [
                     {
@@ -5253,6 +5177,42 @@
                         "name": "Sec S/w Design",
                         "location": "D-503",
                         "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Cy Sec",
+                        "location": "D-503",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Fund of SE",
+                        "location": "D-503",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Fund of SE",
+                        "location": "D-504",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-504",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "C-Margala 1",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -5332,11 +5292,6 @@
                         "name": "Discrete",
                         "location": "C-401",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-404",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "C": [
@@ -5409,11 +5364,6 @@
                         "name": "TBW",
                         "location": "C-407",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "TBW [ReSch]",
-                        "location": "C-407",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "S/w Qual Engg",
