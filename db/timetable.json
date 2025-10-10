@@ -2016,7 +2016,7 @@
             "2022": {
                 "F": [
                     {
-                        "name": "Fund of SPM [Cancelled]",
+                        "name": "Fund of SPM",
                         "location": "D-313",
                         "time": "01:00-02:20"
                     }
@@ -4174,7 +4174,7 @@
                 ],
                 "H": [
                     {
-                        "name": "Calculus [Cancelled]",
+                        "name": "Calculus",
                         "location": "C-304",
                         "time": "08:30-09:50"
                     },
@@ -4295,7 +4295,7 @@
                 ],
                 "G": [
                     {
-                        "name": "Civics [Cancelled]",
+                        "name": "Civics",
                         "location": "D-301",
                         "time": "02:30-04:15"
                     },
@@ -5013,7 +5013,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "LA [Cancelled]",
+                        "name": "LA",
                         "location": "D-412",
                         "time": "01:00-02:20"
                     },
