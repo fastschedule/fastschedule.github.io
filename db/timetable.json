@@ -17,11 +17,6 @@
                         "name": "Calculus",
                         "location": "C-302",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-309",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "E": [
@@ -112,11 +107,6 @@
                         "name": "Islamic",
                         "location": "C-305",
                         "time": "09:00-10:45"
-                    },
-                    {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "PF Lab",
@@ -464,23 +454,6 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "B": [
-                    {
-                        "name": "Comp Net [ReSch]",
-                        "location": "D-314",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-316",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-316",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "A": [
                     {
                         "name": "Algo",
@@ -500,7 +473,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Algo [cancelled]",
+                        "name": "Algo",
                         "location": "D-315",
                         "time": "11:30-12:50"
                     },
@@ -520,6 +493,18 @@
                         "time": "08:30-11:20"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "Automata",
+                        "location": "D-316",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-316",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "D": [
                     {
                         "name": "Automata",
@@ -527,7 +512,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Algo [cancelled]",
+                        "name": "Algo",
                         "location": "D-316",
                         "time": "01:00-02:20"
                     }
@@ -602,20 +587,6 @@
                         "name": "Func Eng Lab C2",
                         "location": "A-CALL-3",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "IICT Lab [ReSch]",
-                        "location": "D-IT Lab 4",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "IICT Lab [ReSch]",
-                        "location": "A-Mehran 1",
-                        "time": "08:30-11:20"
                     }
                 ]
             },
@@ -806,66 +777,6 @@
                     }
                 ]
             },
-            "2022": {
-                "D": [
-                    {
-                        "name": "Comp Net Lab [ReSch]",
-                        "location": "D-313",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-413",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-413",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-412",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-412",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Comp Net",
-                        "location": "D-412",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Deep Learning",
-                        "location": "D-412",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Deep Learning",
-                        "location": "D-413",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-413",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Comp Net Lab",
-                        "location": "C-Margala 3",
-                        "time": "11:30-02:20"
-                    }
-                ]
-            },
             "2024": {
                 "A": [
                     {
@@ -935,6 +846,61 @@
                         "name": "Algo",
                         "location": "D-404",
                         "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2022": {
+                "C": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-412",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-412",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Comp Net",
+                        "location": "D-412",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Deep Learning",
+                        "location": "D-412",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Info Sec",
+                        "location": "D-413",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-413",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Deep Learning",
+                        "location": "D-413",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-413",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Margala 3",
+                        "time": "11:30-02:20"
                     }
                 ]
             }
@@ -1732,6 +1698,11 @@
                         "name": "Algo",
                         "location": "D-305",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Automata [ReSch]",
+                        "location": "D-502",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "E": [
@@ -1744,11 +1715,6 @@
                         "name": "Algo",
                         "location": "D-306",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-502",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Comp Net Lab",
