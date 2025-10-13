@@ -500,7 +500,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Algo",
+                        "name": "Algo [cancelled]",
                         "location": "D-315",
                         "time": "11:30-12:50"
                     },
@@ -527,7 +527,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Algo",
+                        "name": "Algo [cancelled]",
                         "location": "D-316",
                         "time": "01:00-02:20"
                     }
