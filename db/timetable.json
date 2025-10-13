@@ -1449,6 +1449,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "Func Eng [ReSch]",
+                        "location": "C-409",
+                        "time": "02:00-03:45"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
@@ -5723,6 +5728,22 @@
                         "name": "Adv AI",
                         "location": "C-304",
                         "time": "05:20-08:05"
+                    }
+                ]
+            },
+            "2025": {
+                "C": [
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "C-401",
+                        "time": "08:30-10:15"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "C-401",
+                        "time": "10:30-12:15"
                     }
                 ]
             }
