@@ -223,7 +223,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Civics",
+                        "name": "Civics [Cancelled]",
                         "location": "D-302",
                         "time": "11:30-01:15"
                     }
@@ -5524,22 +5524,6 @@
                         "time": "08:30-11:20"
                     }
                 ]
-            },
-            "2022": {
-                "A": [
-                    {
-                        "name": "Info Sec [ReSch]",
-                        "location": "C-404",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Info Sec [ReSch]",
-                        "location": "C-404",
-                        "time": "11:30-12:50"
-                    }
-                ]
             }
         },
         "BS SE": {
@@ -5595,71 +5579,10 @@
                         "name": "LA [ReSch]",
                         "location": "C-302",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-406",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-406",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-303",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-303",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "DLD Lab [ReSch]",
-                        "location": "B-Digital",
-                        "time": "10:00-12:45"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "C-402",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-402",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
             "2023": {
-                "B": [
-                    {
-                        "name": "TBW [ReSch]",
-                        "location": "C-302",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "S/w Const",
-                        "location": "C-311",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "C-311",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Busi Proc Engg [ReSch]",
-                        "location": "C-401",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "A": [
                     {
                         "name": "Algo",
@@ -5669,6 +5592,18 @@
                     {
                         "name": "S/w Const",
                         "location": "C-310",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-311",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-311",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -5714,14 +5649,9 @@
             "2024": {
                 "B": [
                     {
-                        "name": "Psychology [Cancelled]",
+                        "name": "Psychology",
                         "location": "C-305",
                         "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "Discrete [ReSch]",
-                        "location": "C-307",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "COAL Lab",
@@ -5731,14 +5661,9 @@
                 ],
                 "A": [
                     {
-                        "name": "Psychology [Cancelled]",
+                        "name": "Psychology",
                         "location": "C-305",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Discrete [ReSch]",
-                        "location": "C-408",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Data St Lab",
@@ -5760,15 +5685,6 @@
                     {
                         "name": "Prog for AI Lab",
                         "location": "C-Rawal 1",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2022": {
-                "B": [
-                    {
-                        "name": "Comp Vision Lab [ReSch]",
-                        "location": "Rawal 3 (B-232)",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -5807,29 +5723,6 @@
                         "name": "Adv AI",
                         "location": "C-304",
                         "time": "05:20-08:05"
-                    }
-                ]
-            },
-            "2025": {
-                "G": [
-                    {
-                        "name": "Func Eng [ReSch]",
-                        "location": "C-405",
-                        "time": "08:30-10:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Func Eng [ReSch]",
-                        "location": "C-405",
-                        "time": "10:30-12:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Func Eng Lab B2 [ReSch]",
-                        "location": "C-407",
-                        "time": "10:00-12:50"
                     }
                 ]
             }
