@@ -1466,11 +1466,6 @@
                 ],
                 "Z": [
                     {
-                        "name": "Calculus [International Students]",
-                        "location": "C-308",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "PF [International Students]",
                         "location": "C-311",
                         "time": "10:00-11:20"
@@ -1749,6 +1744,11 @@
                         "name": "Algo",
                         "location": "D-306",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-502",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Comp Net Lab",
