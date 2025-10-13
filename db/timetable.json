@@ -1333,6 +1333,11 @@
                         "name": "AP",
                         "location": "C-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Islamic [ReSch]",
+                        "location": "C-404",
+                        "time": "02:30-04:15"
                     }
                 ],
                 "H": [
