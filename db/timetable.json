@@ -3716,6 +3716,66 @@
                     }
                 ]
             },
+            "2022": {
+                "B": [
+                    {
+                        "name": "Comp Vision Lab [ReSch]",
+                        "location": "C-408",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Org Behavior",
+                        "location": "D-411",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cloud MLOps",
+                        "location": "D-412",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Agentic AI",
+                        "location": "D-412",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Org Behavior",
+                        "location": "D-411",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Agentic AI",
+                        "location": "D-411",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Cloud MLOps",
+                        "location": "D-411",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Vision",
+                        "location": "D-412",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Vision Lab",
+                        "location": "C-Rawal 4",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Comp Vision",
+                        "location": "D-412",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2023": {
                 "A": [
                     {
@@ -3806,61 +3866,6 @@
                     {
                         "name": "Data St",
                         "location": "D-406",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
-            "2022": {
-                "C": [
-                    {
-                        "name": "Org Behavior",
-                        "location": "D-411",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Org Behavior",
-                        "location": "D-411",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cloud MLOps",
-                        "location": "D-412",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-412",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-411",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Cloud MLOps",
-                        "location": "D-411",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Comp Vision",
-                        "location": "D-412",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Comp Vision Lab",
-                        "location": "C-Rawal 4",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Comp Vision",
-                        "location": "D-412",
                         "time": "10:00-11:20"
                     }
                 ]
