@@ -3170,6 +3170,28 @@
                         "time": "10:00-11:20"
                     }
                 ],
+                "D": [
+                    {
+                        "name": "Automata [ReSch]",
+                        "location": "D-315",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Algo",
@@ -3219,23 +3241,6 @@
                         "name": "Comp Net Lab",
                         "location": "C-Margala 3",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Automata",
-                        "location": "D-401",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-401",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Comp Net Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "E": [
@@ -4061,6 +4066,11 @@
                         "name": "S/w Re-Engg",
                         "location": "C-409",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "S/w Re-Engg [ReSch]",
+                        "location": "D-311",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "F": [
