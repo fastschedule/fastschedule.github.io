@@ -1333,11 +1333,6 @@
                         "name": "AP",
                         "location": "C-303",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Islamic [ReSch]",
-                        "location": "C-404",
-                        "time": "02:30-04:15"
                     }
                 ],
                 "H": [
@@ -1403,11 +1398,6 @@
                 ],
                 "D": [
                     {
-                        "name": "AP [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Islamic",
                         "location": "C-307",
                         "time": "09:00-10:45"
@@ -1423,11 +1413,6 @@
                         "name": "Islamic",
                         "location": "C-307",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Func Eng [ReSch]",
-                        "location": "C-409",
-                        "time": "02:00-03:45"
                     },
                     {
                         "name": "PF Lab",
@@ -1703,11 +1688,6 @@
                         "name": "Algo",
                         "location": "D-305",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Automata [ReSch]",
-                        "location": "D-502",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "E": [
@@ -2110,28 +2090,6 @@
                         "time": "11:30-02:20"
                     }
                 ],
-                "B": [
-                    {
-                        "name": "Func Eng [ReSch]",
-                        "location": "C-308",
-                        "time": "02:30-04:15"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "C-309",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Calculus",
-                        "location": "C-310",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PF",
-                        "location": "C-310",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "A": [
                     {
                         "name": "PF",
@@ -2147,11 +2105,23 @@
                         "name": "Discrete",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Discrete",
+                        "location": "C-309",
+                        "time": "01:00-02:20"
                     },
                     {
-                        "name": "Func Eng Lab A2 [ReSch]",
-                        "location": "C-311",
-                        "time": "02:30-05:15"
+                        "name": "Calculus",
+                        "location": "C-310",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PF",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -2221,7 +2191,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Prog for AI Lab [Cancelled]",
+                        "name": "Prog for AI Lab",
                         "location": "C-Rawal 1",
                         "time": "08:30-11:20"
                     }
@@ -2236,11 +2206,6 @@
                         "name": "Prog for AI",
                         "location": "D-401",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Discrete [ReSch]",
-                        "location": "D-414",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Data St Lab",
@@ -2600,11 +2565,6 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Comp Net [ReSch]",
-                        "location": "D-404",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Info Sec",
                         "location": "D-405",
                         "time": "10:00-11:20"
@@ -2639,7 +2599,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Comp Net Lab [Cancelled]",
+                        "name": "Comp Net Lab",
                         "location": "C-Rawal 4",
                         "time": "08:30-11:20"
                     }
