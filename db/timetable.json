@@ -2221,7 +2221,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Prog for AI Lab",
+                        "name": "Prog for AI Lab [Cancelled]",
                         "location": "C-Rawal 1",
                         "time": "08:30-11:20"
                     }
@@ -3922,6 +3922,11 @@
                         "name": "Data St Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "DLD Lab [ReSch]",
+                        "location": "B-Digital",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
@@ -4792,7 +4797,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Prog for AI Lab",
+                        "name": "Prog for AI Lab [Cancelled]",
                         "location": "C-Margala 1",
                         "time": "08:30-11:20"
                     }
