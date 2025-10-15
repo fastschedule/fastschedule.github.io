@@ -3602,7 +3602,7 @@
                 "C": [
                     {
                         "name": "Info Assur",
-                        "location": "D-506",
+                        "location": "D-311",
                         "time": "01:00-02:20"
                     },
                     {
@@ -5460,6 +5460,11 @@
                         "name": "S/w Re-Engg",
                         "location": "C-409",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Fund of SPM [ReSch]",
+                        "location": "C-410",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "C": [
