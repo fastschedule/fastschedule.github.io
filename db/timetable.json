@@ -967,6 +967,11 @@
             "2024": {
                 "C": [
                     {
+                        "name": "LA [ReSch]",
+                        "location": "D-302",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "COAL",
                         "location": "D-404",
                         "time": "11:30-12:50"
@@ -2206,6 +2211,11 @@
                         "name": "Prog for AI",
                         "location": "D-401",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-502",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Data St Lab",
