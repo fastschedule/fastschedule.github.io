@@ -2754,6 +2754,11 @@
                         "name": "AP",
                         "location": "C-303",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "D-301",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "J": [
@@ -5705,6 +5710,20 @@
                         "name": "Func Eng Lab A2",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-403",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-403",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
