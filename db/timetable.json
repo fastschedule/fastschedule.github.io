@@ -4244,6 +4244,11 @@
                         "name": "Calculus",
                         "location": "C-307",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PF Lab [ReSch]",
+                        "location": "C-Margala 4",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "Z": [
@@ -5391,6 +5396,11 @@
             "2022": {
                 "B": [
                     {
+                        "name": "Fund of SPM [ReSch]",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "MLOps",
                         "location": "C-408",
                         "time": "11:30-12:50"
@@ -5677,6 +5687,11 @@
                         "name": "Comp Vision [ReSch]",
                         "location": "C-402",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Vision [ReSch]",
+                        "location": "D-406",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
@@ -5684,6 +5699,20 @@
                         "name": "Comp Vision [ReSch]",
                         "location": "C-402",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Vision [ReSch]",
+                        "location": "D-406",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2025": {
+                "B": [
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
@@ -5723,6 +5752,16 @@
                     {
                         "name": "LA [ReSch]",
                         "location": "C-403",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-405",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-405",
                         "time": "10:00-11:20"
                     }
                 ]
