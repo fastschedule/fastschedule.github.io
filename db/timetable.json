@@ -5729,32 +5729,6 @@
                     }
                 ]
             },
-            "2022": {
-                "C": [
-                    {
-                        "name": "Comp Vision [ReSch]",
-                        "location": "C-402",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Vision [ReSch]",
-                        "location": "D-406",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Comp Vision [ReSch]",
-                        "location": "C-402",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Comp Vision [ReSch]",
-                        "location": "D-406",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
             "2025": {
                 "B": [
                     {
@@ -5766,6 +5740,22 @@
                         "name": "IICT Lab [ReSch]",
                         "location": "A-Mehran 1",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2022": {
+                "C": [
+                    {
+                        "name": "Comp Vision [ReSch]",
+                        "location": "D-406",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Vision [ReSch]",
+                        "location": "D-406",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
@@ -5806,13 +5796,6 @@
                         "name": "LA [ReSch]",
                         "location": "D-405",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Psychology [ReSch]",
-                        "location": "D-405",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
