@@ -78,6 +78,11 @@
                         "name": "Ideology of Pak",
                         "location": "C-303",
                         "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "Func English [ReSch]",
+                        "location": "D-305",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
@@ -1353,6 +1358,11 @@
                         "name": "AP",
                         "location": "C-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Func English [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "H": [
@@ -4125,6 +4135,11 @@
                     }
                 ],
                 "A": [
+                    {
+                        "name": "Ideo of Pak [Resch]",
+                        "location": "C-301",
+                        "time": "03:55-05:15"
+                    },
                     {
                         "name": "Islamic",
                         "location": "C-302",
