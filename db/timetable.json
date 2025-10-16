@@ -128,6 +128,11 @@
                 ],
                 "J": [
                     {
+                        "name": "Ideology of Pak [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-04:15"
+                    },
+                    {
                         "name": "Islamic",
                         "location": "C-307",
                         "time": "08:30-10:15"
@@ -608,6 +613,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "Intro to SE",
+                        "location": "C-402",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "Data St Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
@@ -627,7 +637,7 @@
                     {
                         "name": "Intro to SE",
                         "location": "C-402",
-                        "time": "03:55-05:15"
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "DLD Lab",
@@ -3875,11 +3885,6 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Intro to SE",
-                        "location": "C-404",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:30-11:20"
@@ -4124,6 +4129,11 @@
                         "name": "Islamic",
                         "location": "C-302",
                         "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "Ideo of Pak [Resch]",
+                        "location": "C-302",
+                        "time": "N/A"
                     },
                     {
                         "name": "PF Lab",
@@ -5816,6 +5826,15 @@
                         "name": "Psychology [ReSch]",
                         "location": "D-405",
                         "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Net Sec Lab [ReSch]",
+                        "location": "A-Karakoram 3",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
