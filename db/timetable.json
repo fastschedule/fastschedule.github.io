@@ -794,6 +794,11 @@
                         "name": "AP",
                         "location": "C-401",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-404",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -5564,9 +5569,19 @@
             "2024": {
                 "A": [
                     {
+                        "name": "COAL Lab",
+                        "location": "C-302",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "COAL Lab [ReSch]",
+                        "location": "D-303",
+                        "time": "08:30-11:20"
+                    },
+                    {
                         "name": "LA [ReSch]",
-                        "location": "D-404",
-                        "time": "10:00-11:20"
+                        "location": "D-303",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
