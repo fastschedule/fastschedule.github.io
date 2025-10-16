@@ -4141,11 +4141,6 @@
                 ],
                 "A": [
                     {
-                        "name": "Ideo of Pak [Resch]",
-                        "location": "C-301",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "Islamic",
                         "location": "C-302",
                         "time": "11:30-01:15"
@@ -4154,6 +4149,11 @@
                         "name": "Ideo of Pak [Resch]",
                         "location": "C-302",
                         "time": "N/A"
+                    },
+                    {
+                        "name": "Ideo of Pak [Resch]",
+                        "location": "C-310",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "PF Lab",
@@ -5805,6 +5805,11 @@
             },
             "2025": {
                 "B": [
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "D-304",
+                        "time": "11:30-12:30"
+                    },
                     {
                         "name": "IICT Lab [ReSch]",
                         "location": "A-Mehran 1",
