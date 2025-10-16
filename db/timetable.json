@@ -5569,11 +5569,6 @@
             "2024": {
                 "A": [
                     {
-                        "name": "COAL Lab",
-                        "location": "C-302",
-                        "time": "02:30-05:15"
-                    },
-                    {
                         "name": "COAL Lab [ReSch]",
                         "location": "D-303",
                         "time": "08:30-11:20"
