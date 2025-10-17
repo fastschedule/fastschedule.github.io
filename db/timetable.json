@@ -5853,29 +5853,15 @@
                 "C": [
                     {
                         "name": "Func Eng [ReSch]",
-                        "location": "C-401",
+                        "location": "D-305",
                         "time": "08:30-10:15"
                     }
                 ],
                 "G": [
                     {
                         "name": "Func Eng [ReSch]",
-                        "location": "C-401",
+                        "location": "D-305",
                         "time": "10:30-12:15"
-                    }
-                ]
-            },
-            "2024": {
-                "E": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-411",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-411",
-                        "time": "11:30-12:50"
                     }
                 ]
             }
