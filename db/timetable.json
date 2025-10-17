@@ -603,6 +603,13 @@
                         "location": "A-CALL-3",
                         "time": "11:30-02:20"
                     }
+                ],
+                "B": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-406",
+                        "time": "02:30-03:50"
+                    }
                 ]
             },
             "2024": {
@@ -2243,6 +2250,11 @@
                         "name": "Prog for AI",
                         "location": "D-401",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Psychology [ReSch]",
+                        "location": "D-502",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "LA [ReSch]",
@@ -5559,11 +5571,6 @@
                         "name": "COAL Lab [ReSch]",
                         "location": "D-303",
                         "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
