@@ -3890,6 +3890,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "Data St [ReSch]",
+                        "location": "C-404",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Data St Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
@@ -3905,6 +3910,11 @@
                         "name": "LA",
                         "location": "C-404",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St [ReSch]",
+                        "location": "C-404",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "DLD Lab",
