@@ -3956,6 +3956,11 @@
                         "name": "PF",
                         "location": "C-403",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab C1 [ReSch]",
+                        "location": "C-406",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "A": [
