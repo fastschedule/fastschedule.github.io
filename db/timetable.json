@@ -17,6 +17,11 @@
                         "name": "Calculus",
                         "location": "C-302",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-302",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "E": [
@@ -2963,6 +2968,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "LA [ReSch]",
+                        "location": "D-302",
+                        "time": "N/A"
+                    },
+                    {
                         "name": "COAL",
                         "location": "D-302",
                         "time": "02:30-03:50"
@@ -3341,6 +3351,28 @@
                 ]
             },
             "2024": {
+                "B": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "D-413",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Psychology",
+                        "location": "D-413",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "Intro to DS Lab",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Psychology",
@@ -3356,23 +3388,6 @@
                         "name": "Data St Lab",
                         "location": "Rawal 3 (B-232)",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Discrete",
-                        "location": "D-413",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Psychology",
-                        "location": "D-413",
-                        "time": "02:30-04:15"
-                    },
-                    {
-                        "name": "Intro to DS Lab",
-                        "location": "A-Mehran 1",
-                        "time": "08:30-11:20"
                     }
                 ]
             },
