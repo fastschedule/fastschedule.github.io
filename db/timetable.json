@@ -4408,6 +4408,23 @@
                 ]
             },
             "2023": {
+                "C": [
+                    {
+                        "name": "Comp Net [ReSch]",
+                        "location": "C-410",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-312",
+                        "time": "08:30-09:50"
+                    }
+                ],
                 "E": [
                     {
                         "name": "Algo",
@@ -4435,18 +4452,6 @@
                         "name": "Comp Net Lab",
                         "location": "C-Margala 3",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Comp Net",
-                        "location": "D-305",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "SDA",
-                        "location": "D-312",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "B": [
@@ -5156,8 +5161,18 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Sec S/w Design Lab  Exams [& D]",
+                        "location": "C-Margala 4",
+                        "time": "02:30-05:15"
+                    },
+                    {
                         "name": "Sec S/w Design Lab",
                         "location": "C-Rawal 1",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Sec S/w Design Lab  Exams [& D]",
+                        "location": "Rawal 3 (B-232)",
                         "time": "02:30-05:15"
                     }
                 ],
