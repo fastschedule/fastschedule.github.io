@@ -2039,31 +2039,10 @@
                 ]
             },
             "2022": {
-                "F": [
-                    {
-                        "name": "Fund of SPM",
-                        "location": "D-313",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Fund of SPM",
-                        "location": "D-404",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "S/w Re-Engg",
-                        "location": "D-406",
-                        "time": "08:30-09:50"
-                    }
-                ],
                 "A": [
                     {
                         "name": "Cloud Comp",
-                        "location": "D-413",
+                        "location": "C-408",
                         "time": "11:30-12:50"
                     },
                     {
@@ -2085,6 +2064,27 @@
                         "name": "MLOps",
                         "location": "D-501",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Fund of SPM",
+                        "location": "D-313",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Fund of SPM",
+                        "location": "D-404",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "S/w Re-Engg",
+                        "location": "D-406",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "D": [
