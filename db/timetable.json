@@ -4281,6 +4281,11 @@
                         "time": "09:00-10:45"
                     },
                     {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
