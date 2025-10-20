@@ -1498,6 +1498,28 @@
                 ]
             },
             "2024": {
+                "G": [
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "C-407",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "D-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-304",
+                        "time": "08:30-09:50"
+                    }
+                ],
                 "E": [
                     {
                         "name": "Data St",
@@ -1557,23 +1579,6 @@
                         "name": "Data St Lab",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "Discrete",
-                        "location": "D-302",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-304",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "A": [
