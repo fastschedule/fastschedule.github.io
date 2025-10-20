@@ -2939,6 +2939,28 @@
                 ]
             },
             "2024": {
+                "A": [
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "C-407",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Civics",
@@ -2986,23 +3008,6 @@
                         "name": "COAL",
                         "location": "D-302",
                         "time": "02:30-03:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Data St",
-                        "location": "D-303",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-303",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "E": [
