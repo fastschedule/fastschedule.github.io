@@ -2811,6 +2811,11 @@
                         "name": "Func Eng",
                         "location": "C-302",
                         "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-302",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "C": [
@@ -4187,6 +4192,11 @@
                     }
                 ],
                 "A": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-301",
+                        "time": "02:30-03:50"
+                    },
                     {
                         "name": "Islamic",
                         "location": "C-302",
