@@ -505,7 +505,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Algo",
+                        "name": "Algo [Cancelled]",
                         "location": "D-315",
                         "time": "11:30-12:50"
                     },
@@ -532,7 +532,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Algo",
+                        "name": "Algo [Cancelled]",
                         "location": "D-316",
                         "time": "01:00-02:20"
                     }
@@ -822,7 +822,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Intro to DS Lab",
+                        "name": "Intro to DS Lab [in Rawal Lab-III for Today i.e. October 20, 2025]",
                         "location": "C-Margala 1",
                         "time": "08:30-11:20"
                     },
