@@ -1345,6 +1345,11 @@
                         "name": "AP",
                         "location": "C-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "PF Lab [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "H": [
@@ -3066,6 +3071,11 @@
                         "name": "LA",
                         "location": "D-303",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-304",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "Automata",
@@ -5806,11 +5816,6 @@
                         "name": "Func Eng [ReSch]",
                         "location": "C-401",
                         "time": "10:30-12:15"
-                    },
-                    {
-                        "name": "PF Lab [ReSch GPU Lab]",
-                        "location": "D-Hall 1",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
