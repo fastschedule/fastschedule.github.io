@@ -1345,11 +1345,6 @@
                         "name": "AP",
                         "location": "C-303",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Func English [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "H": [
@@ -1456,28 +1451,6 @@
                 ]
             },
             "2024": {
-                "G": [
-                    {
-                        "name": "Civics [ReSch]",
-                        "location": "C-407",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "D-302",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-304",
-                        "time": "08:30-09:50"
-                    }
-                ],
                 "E": [
                     {
                         "name": "Data St",
@@ -1537,6 +1510,23 @@
                         "name": "Data St Lab",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Discrete",
+                        "location": "D-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-304",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "A": [
@@ -2194,11 +2184,6 @@
                         "name": "Data St Lab",
                         "location": "C-Rawal 1",
                         "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "COAL Lab [ReSch]",
-                        "location": "A-Karakoram 3",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "A": [
@@ -2228,11 +2213,6 @@
                         "name": "Prog for AI",
                         "location": "D-401",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Psychology [ReSch]",
-                        "location": "D-502",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Data St Lab",
@@ -2362,11 +2342,6 @@
                         "name": "Fund of SE",
                         "location": "D-411",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Cy Sec [ReSch]",
-                        "location": "D-414",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Data St Lab",
@@ -2588,7 +2563,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DAV Lab [Cancelled]",
+                        "name": "DAV Lab",
                         "location": "C-Rawal 1",
                         "time": "11:30-02:20"
                     }
@@ -2596,11 +2571,6 @@
             },
             "2022": {
                 "A": [
-                    {
-                        "name": "Comp Net [ReSch]",
-                        "location": "D-404",
-                        "time": "02:30-03:50"
-                    },
                     {
                         "name": "Info Sec",
                         "location": "D-405",
