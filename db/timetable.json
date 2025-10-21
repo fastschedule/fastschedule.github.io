@@ -1439,6 +1439,11 @@
                 ],
                 "Z": [
                     {
+                        "name": "Calculus [International Students]",
+                        "location": "C-308",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "PF [International Students]",
                         "location": "C-311",
                         "time": "10:00-11:20"
@@ -5595,6 +5600,15 @@
                         "name": "OS Lab",
                         "location": "D-IT Lab 3",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2022": {
+                "B": [
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
