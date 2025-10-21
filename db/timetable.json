@@ -3672,6 +3672,11 @@
                         "name": "Discrete",
                         "location": "C-310",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab C2 [ReSch]",
+                        "location": "C-406",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
