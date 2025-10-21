@@ -5365,6 +5365,11 @@
                         "name": "Discrete",
                         "location": "C-401",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Func Eng Lab A2 [ReSch]",
+                        "location": "C-402",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
@@ -5524,17 +5529,22 @@
                         "time": "01:00-02:20"
                     }
                 ],
+                "E": [
+                    {
+                        "name": "Fund of SPM [ReSch]",
+                        "location": "C-410",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "S/w Re-Engg",
+                        "location": "D-414",
+                        "time": "08:30-09:50"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Fund of SPM",
                         "location": "D-403",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "S/w Re-Engg",
-                        "location": "D-414",
                         "time": "08:30-09:50"
                     }
                 ],
@@ -5659,6 +5669,22 @@
                         "name": "Algo",
                         "location": "C-311",
                         "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2024": {
+                "B": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-402",
+                        "time": "10:20-11:40"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-402",
+                        "time": "11:45-01:05"
                     }
                 ]
             }
