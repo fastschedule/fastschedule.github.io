@@ -2839,6 +2839,11 @@
                         "time": "09:00-10:45"
                     },
                     {
+                        "name": "Func Eng Lab F1 [ReSch]",
+                        "location": "D-416",
+                        "time": "02:30-05:15"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
@@ -3479,7 +3484,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Ideology of Pak",
+                        "name": "Ideology of Pak [Cancelled]",
                         "location": "C-307",
                         "time": "02:30-04:15"
                     },
@@ -5129,6 +5134,11 @@
                         "name": "Calculus",
                         "location": "C-403",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Ideology of Pak [ReSch]",
+                        "location": "C-403",
+                        "time": "03:00-04:45"
                     }
                 ]
             },
