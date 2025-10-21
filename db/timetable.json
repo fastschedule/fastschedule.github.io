@@ -70,7 +70,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Calculus [Cancelled]",
+                        "name": "Calculus",
                         "location": "C-303",
                         "time": "10:00-11:20"
                     },
@@ -92,7 +92,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Calculus [Cancelled]",
+                        "name": "Calculus",
                         "location": "C-304",
                         "time": "08:30-09:50"
                     },
@@ -505,7 +505,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Algo [Cancelled]",
+                        "name": "Algo",
                         "location": "D-315",
                         "time": "11:30-12:50"
                     },
@@ -532,7 +532,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Algo [Cancelled]",
+                        "name": "Algo",
                         "location": "D-316",
                         "time": "01:00-02:20"
                     }
@@ -700,7 +700,7 @@
                 ],
                 "E": [
                     {
-                        "name": "Fund of SPM [Cancelled]",
+                        "name": "Fund of SPM",
                         "location": "C-406",
                         "time": "11:30-12:50"
                     },
@@ -2635,7 +2635,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DAV Lab",
+                        "name": "DAV Lab [Cancelled]",
                         "location": "C-Rawal 1",
                         "time": "11:30-02:20"
                     }
