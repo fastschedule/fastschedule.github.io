@@ -649,6 +649,11 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "Psychology [ReSch]",
+                        "location": "C-405",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Intro to SE",
                         "location": "C-405",
                         "time": "11:30-12:50"
@@ -2103,6 +2108,11 @@
                     }
                 ],
                 "A": [
+                    {
+                        "name": "Func Eng Lab A2 [ReSch]",
+                        "location": "C-308",
+                        "time": "02:30-05:15"
+                    },
                     {
                         "name": "PF",
                         "location": "C-309",
@@ -4120,6 +4130,11 @@
                         "name": "Calculus",
                         "location": "C-301",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Func Eng Lab E2 [ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "F": [
@@ -5323,16 +5338,6 @@
                 ],
                 "B": [
                     {
-                        "name": "Psychology",
-                        "location": "C-406",
-                        "time": "01:00-02:45"
-                    },
-                    {
-                        "name": "Intro to SE",
-                        "location": "C-406",
-                        "time": "03:00-04:20"
-                    },
-                    {
                         "name": "Data St",
                         "location": "C-407",
                         "time": "08:30-09:50"
@@ -5341,6 +5346,16 @@
                         "name": "DLD",
                         "location": "C-407",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Psychology",
+                        "location": "C-407",
+                        "time": "12:45-02:30"
+                    },
+                    {
+                        "name": "Intro to SE",
+                        "location": "C-407",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -5439,13 +5454,8 @@
                 ],
                 "A": [
                     {
-                        "name": "Algo [ReSch]",
-                        "location": "C-407",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "TBW",
-                        "location": "C-407",
+                        "location": "C-406",
                         "time": "01:00-02:20"
                     },
                     {
@@ -5457,6 +5467,11 @@
                         "name": "Busi Proc Engg",
                         "location": "C-408",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Algo [ReSch]",
+                        "location": "C-410",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -5707,7 +5722,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [(Mehran I)]",
                         "location": "D-IT Lab 3",
                         "time": "02:30-05:15"
                     }
