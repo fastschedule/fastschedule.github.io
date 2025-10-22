@@ -2759,11 +2759,6 @@
                         "name": "Func Eng",
                         "location": "C-302",
                         "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "AP [ReSch]",
-                        "location": "C-302",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "C": [
@@ -4156,11 +4151,6 @@
                 ],
                 "A": [
                     {
-                        "name": "AP [ReSch]",
-                        "location": "C-301",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Islamic",
                         "location": "C-302",
                         "time": "11:30-01:15"
@@ -4317,6 +4307,11 @@
                         "name": "Data St",
                         "location": "C-311",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Data St [ReSch]",
+                        "location": "C-311",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Discrete",
@@ -5704,6 +5699,15 @@
                         "name": "LA [ReSch]",
                         "location": "C-402",
                         "time": "11:45-01:05"
+                    }
+                ]
+            },
+            "2022": {
+                "A": [
+                    {
+                        "name": "Fund of SPM [ReSch]",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
