@@ -2230,6 +2230,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "Prog for AI Lab [ReSch]",
+                        "location": "C-Margala 3",
+                        "time": "11:30-02:20"
+                    },
+                    {
                         "name": "Data St Lab",
                         "location": "C-Rawal 1",
                         "time": "02:30-05:15"
@@ -3530,7 +3535,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Cy Sec",
+                        "name": "Cy Sec [Cancelled]",
                         "location": "D-502",
                         "time": "11:30-12:50"
                     },
