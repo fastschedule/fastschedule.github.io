@@ -174,6 +174,28 @@
                 ]
             },
             "2024": {
+                "E": [
+                    {
+                        "name": "Data St [ReSch]",
+                        "location": "C-302",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-303",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-305",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Rawal 1",
+                        "time": "11:30-02:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Data St",
@@ -249,23 +271,6 @@
                     {
                         "name": "Data St Lab",
                         "location": "C-Margala 1",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "LA",
-                        "location": "D-303",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-305",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "C-Rawal 1",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -4307,11 +4312,6 @@
                         "name": "Data St",
                         "location": "C-311",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Data St [ReSch]",
-                        "location": "C-311",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Discrete",
