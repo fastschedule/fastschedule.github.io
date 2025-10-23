@@ -5327,11 +5327,21 @@
                     },
                     {
                         "name": "Data St",
-                        "location": "C-406",
+                        "location": "C-407",
                         "time": "11:30-12:50"
                     }
                 ],
                 "B": [
+                    {
+                        "name": "Psychology",
+                        "location": "C-406",
+                        "time": "12:45-02:30"
+                    },
+                    {
+                        "name": "Intro to SE",
+                        "location": "C-406",
+                        "time": "02:30-03:50"
+                    },
                     {
                         "name": "Data St",
                         "location": "C-407",
@@ -5341,16 +5351,6 @@
                         "name": "DLD",
                         "location": "C-407",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Psychology",
-                        "location": "C-407",
-                        "time": "12:45-02:30"
-                    },
-                    {
-                        "name": "Intro to SE",
-                        "location": "C-407",
-                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -5450,7 +5450,7 @@
                 "A": [
                     {
                         "name": "TBW",
-                        "location": "C-406",
+                        "location": "C-407",
                         "time": "01:00-02:20"
                     },
                     {
