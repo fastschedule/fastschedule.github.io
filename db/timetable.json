@@ -5487,7 +5487,7 @@
                 "E": [
                     {
                         "name": "Fund of SPM [ReSch]",
-                        "location": "C-410",
+                        "location": "C-307",
                         "time": "01:00-02:20"
                     },
                     {
@@ -5803,12 +5803,12 @@
             "2024": {
                 "E": [
                     {
-                        "name": "LA",
+                        "name": "LA [ReSch]",
                         "location": "C-405",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "LA",
+                        "name": "LA [ReSch]",
                         "location": "C-405",
                         "time": "11:30-12:50"
                     }
