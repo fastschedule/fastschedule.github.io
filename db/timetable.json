@@ -1920,7 +1920,7 @@
             "2024": {
                 "C": [
                     {
-                        "name": "Data St",
+                        "name": "Data St [Cancelled]",
                         "location": "C-311",
                         "time": "01:00-02:20"
                     },
@@ -5765,6 +5765,15 @@
                         "name": "Func Eng Lab A2",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Psychology [ReSch]",
+                        "location": "C-404",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
