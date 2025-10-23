@@ -4155,6 +4155,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "IICT Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "02:30-05:15"
+                    },
+                    {
                         "name": "Func Eng Lab D1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:20"
@@ -5782,8 +5787,8 @@
                 "A": [
                     {
                         "name": "Psychology [ReSch]",
-                        "location": "C-404",
-                        "time": "11:30-12:50"
+                        "location": "C-305",
+                        "time": "02:30-03:50"
                     }
                 ]
             }
