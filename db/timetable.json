@@ -1137,6 +1137,52 @@
                     }
                 ]
             },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Net Sec [ReSch]",
+                        "location": "D-313",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "D-415",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Web",
+                        "location": "D-415",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Net Sec Lab",
+                        "location": "C-Margala 4",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Net Sec [ReSch]",
+                        "location": "D-313",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Web",
+                        "location": "D-416",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "D-416",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Rawal 1",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
@@ -1175,42 +1221,6 @@
                         "name": "Cy Sec",
                         "location": "D-414",
                         "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "DB",
-                        "location": "D-415",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Web",
-                        "location": "D-415",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Net Sec Lab",
-                        "location": "C-Margala 4",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Web",
-                        "location": "D-416",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "D-416",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Rawal 1",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
