@@ -851,6 +851,11 @@
                         "name": "TBW",
                         "location": "D-403",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DAV [ReSch]",
+                        "location": "D-412",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "A": [
@@ -858,11 +863,6 @@
                         "name": "TBW",
                         "location": "D-403",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DAV",
-                        "location": "D-403",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "DW&BI",
@@ -873,6 +873,11 @@
                         "name": "Algo",
                         "location": "D-404",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DAV [ReSch]",
+                        "location": "D-412",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
