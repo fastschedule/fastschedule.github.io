@@ -109,6 +109,11 @@
                         "time": "09:00-10:45"
                     },
                     {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-305",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
@@ -1007,6 +1012,11 @@
                         "name": "LA",
                         "location": "D-404",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-404",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "Data St",
