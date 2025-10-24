@@ -312,135 +312,135 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Info Sec",
+                        "name": "Info Sec [Cancelled]",
                         "location": "D-305",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-305",
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "DIP [G-2]",
+                        "name": "DIP [G-2) Cancelled]",
                         "location": "D-306",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "User Exp [G-2]",
+                        "name": "User Exp [G-2) Cancelled]",
                         "location": "D-306",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "NLP [G-2]",
+                        "name": "NLP [G-2) Cancelled]",
                         "location": "D-311",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Deep Learning [G-2]",
+                        "name": "Deep Learning [G-2) Cancelled]",
                         "location": "D-311",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Web Prog [G-2]",
+                        "name": "Web Prog [G-2) Cancelled]",
                         "location": "D-312",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Data Mining [G-2]",
+                        "name": "Data Mining [G-2) Cancelled]",
                         "location": "D-312",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Blockchain [G-2]",
+                        "name": "Blockchain [G-2) Cancelled]",
                         "location": "D-313",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "SMD [G-3]",
+                        "name": "SMD [G-3) Cancelled]",
                         "location": "C-110",
                         "time": "08:30-09:50"
                     }
                 ],
                 "C": [
                     {
-                        "name": "Gen AI [G-1]",
+                        "name": "Gen AI [G-1) Cancelled]",
                         "location": "D-306",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-311",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Info Sec",
+                        "name": "Info Sec [Cancelled]",
                         "location": "D-311",
                         "time": "03:55-05:15"
                     }
                 ],
                 "D": [
                     {
-                        "name": "Gen AI [G-1]",
+                        "name": "Gen AI [G-1) Cancelled]",
                         "location": "D-306",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-312",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Info Sec",
+                        "name": "Info Sec [Cancelled]",
                         "location": "D-312",
                         "time": "03:55-05:15"
                     }
                 ],
                 "B": [
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-306",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Info Sec",
+                        "name": "Info Sec [Cancelled]",
                         "location": "D-306",
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Deep Learning [G-2]",
+                        "name": "Deep Learning [G-2) Cancelled]",
                         "location": "D-311",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "NLP [G-2]",
+                        "name": "NLP [G-2) Cancelled]",
                         "location": "D-312",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Blockchain [G-2]",
+                        "name": "Blockchain [G-2) Cancelled]",
                         "location": "D-313",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "DIP [G-2]",
+                        "name": "DIP [G-2) Cancelled]",
                         "location": "D-314",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "SMD [G-3]",
+                        "name": "SMD [G-3) Cancelled]",
                         "location": "C-110",
                         "time": "10:00-11:20"
                     }
                 ],
                 "E": [
                     {
-                        "name": "Info Sec",
+                        "name": "Info Sec [Cancelled]",
                         "location": "D-313",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-313",
                         "time": "03:55-05:15"
                     }
@@ -874,53 +874,53 @@
             "2022": {
                 "C": [
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-412",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Info Sec",
+                        "name": "Info Sec [Cancelled]",
                         "location": "D-412",
                         "time": "01:00-02:20"
                     }
                 ],
                 "A": [
                     {
-                        "name": "Comp Net",
+                        "name": "Comp Net [Cancelled]",
                         "location": "D-412",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Deep Learning",
+                        "name": "Deep Learning [Cancelled]",
                         "location": "D-412",
                         "time": "03:55-05:15"
                     }
                 ],
                 "D": [
                     {
-                        "name": "Info Sec",
+                        "name": "Info Sec [Cancelled]",
                         "location": "D-413",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-413",
                         "time": "01:00-02:20"
                     }
                 ],
                 "B": [
                     {
-                        "name": "Deep Learning",
+                        "name": "Deep Learning [Cancelled]",
                         "location": "D-413",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Comp Net",
+                        "name": "Comp Net [Cancelled]",
                         "location": "D-413",
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Comp Net Lab",
+                        "name": "Comp Net Lab [Cancelled]",
                         "location": "C-Margala 3",
                         "time": "11:30-02:20"
                     }
@@ -1047,48 +1047,48 @@
             "2022": {
                 "D": [
                     {
-                        "name": "Comp Vision",
+                        "name": "Comp Vision [Cancelled]",
                         "location": "D-406",
                         "time": "10:00-11:20"
                     }
                 ],
                 "A": [
                     {
-                        "name": "Comp Vision",
+                        "name": "Comp Vision [Cancelled]",
                         "location": "D-406",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Agentic AI",
+                        "name": "Agentic AI [Cancelled]",
                         "location": "D-406",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Cloud MLOps",
+                        "name": "Cloud MLOps [Cancelled]",
                         "location": "D-406",
                         "time": "02:30-03:50"
                     }
                 ],
                 "C": [
                     {
-                        "name": "Org Behavior",
+                        "name": "Org Behavior [Cancelled]",
                         "location": "D-411",
                         "time": "10:00-11:20"
                     }
                 ],
                 "B": [
                     {
-                        "name": "Org Behavior",
+                        "name": "Org Behavior [Cancelled]",
                         "location": "D-411",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Cloud MLOps",
+                        "name": "Cloud MLOps [Cancelled]",
                         "location": "D-411",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Agentic AI",
+                        "name": "Agentic AI [Cancelled]",
                         "location": "D-411",
                         "time": "02:30-03:50"
                     },
