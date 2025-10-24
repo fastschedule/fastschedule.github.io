@@ -1186,6 +1186,11 @@
             "2024": {
                 "A": [
                     {
+                        "name": "LA [ReSch]",
+                        "location": "D-314",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "LA",
                         "location": "D-413",
                         "time": "08:30-09:50"
@@ -3751,6 +3756,11 @@
                         "name": "Discrete",
                         "location": "D-405",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-406",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
