@@ -2095,7 +2095,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Fund of SPM",
+                        "name": "Fund of SPM [Cancelled]",
                         "location": "D-404",
                         "time": "08:30-09:50"
                     }
@@ -4074,6 +4074,11 @@
                         "name": "S/w Re-Engg",
                         "location": "C-409",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Fund of SPM [ReSch]",
+                        "location": "D-301",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "F": [
