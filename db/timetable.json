@@ -1402,11 +1402,6 @@
                         "name": "AP",
                         "location": "C-303",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "PF Lab [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "H": [
