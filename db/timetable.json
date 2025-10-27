@@ -2007,6 +2007,23 @@
                         "time": "08:30-11:20"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "C-408",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-408",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Psychology",
@@ -2022,18 +2039,6 @@
                         "name": "Data St",
                         "location": "C-407",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Data St",
-                        "location": "C-408",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "C-408",
-                        "time": "10:00-11:20"
                     }
                 ]
             },
