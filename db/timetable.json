@@ -4298,6 +4298,11 @@
                         "name": "Calculus",
                         "location": "C-307",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "A-Karakoram 3",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "Z": [
@@ -4974,7 +4979,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Prog for AI",
+                        "name": "Prog for AI [Cancelled]",
                         "location": "D-401",
                         "time": "10:00-11:20"
                     },
@@ -5764,6 +5769,22 @@
                         "name": "Adv AI",
                         "location": "C-304",
                         "time": "05:20-08:05"
+                    }
+                ]
+            },
+            "2025": {
+                "A": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "D-301",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
