@@ -664,7 +664,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Intro to SE [Cancelled]",
+                        "name": "Intro to SE [Cancelled Reserved]",
                         "location": "C-405",
                         "time": "11:30-12:50"
                     },
@@ -708,7 +708,7 @@
                 "B": [
                     {
                         "name": "S/w Re-Engg",
-                        "location": "C-407",
+                        "location": "D-406",
                         "time": "10:00-11:20"
                     },
                     {
@@ -1079,7 +1079,7 @@
             "2022": {
                 "D": [
                     {
-                        "name": "Comp Vision [Cancelled]",
+                        "name": "Comp Vision [Cancelled/Reserv]",
                         "location": "D-406",
                         "time": "10:00-11:20"
                     }
@@ -4678,7 +4678,7 @@
             "2025": {
                 "B": [
                     {
-                        "name": "Func Eng [Cancelled]",
+                        "name": "Func Eng",
                         "location": "C-307",
                         "time": "02:30-04:15"
                     },
@@ -5366,7 +5366,7 @@
                         "time": "01:00-02:45"
                     },
                     {
-                        "name": "Islamic [Cancelled]",
+                        "name": "Islamic",
                         "location": "C-401",
                         "time": "03:00-04:45"
                     },
