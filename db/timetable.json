@@ -1477,6 +1477,11 @@
                         "time": "09:00-10:45"
                     },
                     {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-310",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
@@ -1487,6 +1492,11 @@
                         "name": "Islamic",
                         "location": "C-307",
                         "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-310",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "PF Lab",
@@ -1596,6 +1606,11 @@
                         "name": "LA",
                         "location": "D-302",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-302",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Automata",
