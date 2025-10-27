@@ -1579,6 +1579,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "Data St [ReSch]",
+                        "location": "D-316",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Data St Lab",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
@@ -3933,6 +3938,11 @@
                         "name": "DLD",
                         "location": "C-404",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Intro to SE",
