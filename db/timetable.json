@@ -3407,6 +3407,11 @@
                         "name": "TBW",
                         "location": "D-416",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Algo [ReSch]",
+                        "location": "D-502",
+                        "time": "08:30-09:50"
                     }
                 ]
             },
@@ -4148,6 +4153,11 @@
                         "name": "Calculus",
                         "location": "C-301",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Ideology of Pak [ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-04:15"
                     }
                 ],
                 "F": [
@@ -5088,6 +5098,11 @@
                         "name": "Discrete",
                         "location": "C-310",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab A2 [ReSch]",
+                        "location": "C-402",
+                        "time": "02:30-05:15"
                     },
                     {
                         "name": "PF",
