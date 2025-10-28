@@ -1909,7 +1909,7 @@
                         "time": "09:00-10:45"
                     },
                     {
-                        "name": "Islamic",
+                        "name": "Islamic [Cancelled]",
                         "location": "C-405",
                         "time": "11:00-12:45"
                     },
@@ -5380,6 +5380,11 @@
                     }
                 ],
                 "D": [
+                    {
+                        "name": "Islamic [ReSch]",
+                        "location": "C-410",
+                        "time": "08:30-10:15"
+                    },
                     {
                         "name": "IICT Lab",
                         "location": "D-IT Lab 2",
