@@ -1158,6 +1158,11 @@
                         "name": "Cy Sec",
                         "location": "D-414",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cy Sec [ReSch]",
+                        "location": "D-416",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
