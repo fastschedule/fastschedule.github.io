@@ -5658,6 +5658,11 @@
                         "time": "11:00-12:45"
                     },
                     {
+                        "name": "Discrete",
+                        "location": "D-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Func Eng Lab B1",
                         "location": "A-Mehran 2",
                         "time": "02:30-05:15"
