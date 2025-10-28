@@ -3635,6 +3635,23 @@
                         "time": "01:00-02:20"
                     }
                 ],
+                "F": [
+                    {
+                        "name": "Fund of SPM [ReSch]",
+                        "location": "C-406",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Re-Engg",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "C-409",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "S/w Re-Engg",
@@ -3673,18 +3690,6 @@
                     {
                         "name": "Fund of SPM [ReSch]",
                         "location": "D-301",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "S/w Re-Engg",
-                        "location": "C-409",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "C-409",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -5658,11 +5663,6 @@
                         "time": "11:00-12:45"
                     },
                     {
-                        "name": "Discrete",
-                        "location": "D-302",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "Func Eng Lab B1",
                         "location": "A-Mehran 2",
                         "time": "02:30-05:15"
@@ -5671,6 +5671,13 @@
                         "name": "Func Eng Lab B2",
                         "location": "A-CALL-1",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Discrete [ReSch]",
+                        "location": "D-302",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
