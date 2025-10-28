@@ -3005,6 +3005,11 @@
                         "time": "03:55-05:15"
                     },
                     {
+                        "name": "LA [ReSch]",
+                        "location": "D-304",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Automata",
                         "location": "D-306",
                         "time": "10:00-11:20"
