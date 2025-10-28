@@ -1670,7 +1670,7 @@
                 ],
                 "G": [
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Auditorium]",
                         "location": "D-313",
                         "time": "02:30-03:50"
                     },
@@ -3333,6 +3333,11 @@
             },
             "2024": {
                 "A": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-413",
+                        "time": "N/A"
+                    },
                     {
                         "name": "Psychology",
                         "location": "D-413",
