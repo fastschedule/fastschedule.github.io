@@ -5279,6 +5279,81 @@
             }
         },
         "BS SE": {
+            "2025": {
+                "B": [
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "C-310",
+                        "time": "03:00-04:45"
+                    },
+                    {
+                        "name": "Calculus",
+                        "location": "C-402",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PF",
+                        "location": "C-402",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-402",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "PF",
+                        "location": "C-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Calculus",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Func Eng",
+                        "location": "C-401",
+                        "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "Islamic",
+                        "location": "C-401",
+                        "time": "03:00-04:45"
+                    },
+                    {
+                        "name": "IICT Lab",
+                        "location": "D-IT Lab 4",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Islamic [ReSch]",
+                        "location": "C-410",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "IICT Lab",
+                        "location": "D-IT Lab 2",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "PF Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "11:30-02:20"
+                    }
+                ]
+            },
             "2024": {
                 "C": [
                     {
@@ -5334,76 +5409,6 @@
                         "name": "DLD",
                         "location": "C-407",
                         "time": "10:00-11:20"
-                    }
-                ]
-            },
-            "2025": {
-                "A": [
-                    {
-                        "name": "PF",
-                        "location": "C-401",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Calculus",
-                        "location": "C-401",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "C-401",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Func Eng",
-                        "location": "C-401",
-                        "time": "01:00-02:45"
-                    },
-                    {
-                        "name": "Islamic",
-                        "location": "C-401",
-                        "time": "03:00-04:45"
-                    },
-                    {
-                        "name": "IICT Lab",
-                        "location": "D-IT Lab 4",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Calculus",
-                        "location": "C-402",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PF",
-                        "location": "C-402",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "C-402",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Islamic [ReSch]",
-                        "location": "C-410",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "IICT Lab",
-                        "location": "D-IT Lab 2",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "PF Lab",
-                        "location": "D-IT Lab 3",
-                        "time": "11:30-02:20"
                     }
                 ]
             },
