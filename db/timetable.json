@@ -4725,6 +4725,28 @@
                         "time": "08:30-11:20"
                     }
                 ],
+                "A": [
+                    {
+                        "name": "OS [ReSch]",
+                        "location": "D-411",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-413",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DAV",
+                        "location": "D-413",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DAV Lab",
+                        "location": "C-Rawal 1",
+                        "time": "11:30-02:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "DAV",
@@ -4739,23 +4761,6 @@
                     {
                         "name": "DW&BI Lab",
                         "location": "C-Margala 4",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "OS",
-                        "location": "D-413",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DAV",
-                        "location": "D-413",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DAV Lab",
-                        "location": "C-Rawal 1",
                         "time": "11:30-02:20"
                     }
                 ]
@@ -5575,6 +5580,20 @@
                         "time": "08:30-11:20"
                     }
                 ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Discrete [ReSch]",
+                        "location": "D-306",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete [ReSch]",
+                        "location": "D-306",
+                        "time": "11:30-12:50"
+                    }
+                ]
             }
         },
         "BS SE": {
@@ -5752,7 +5771,7 @@
                 "A": [
                     {
                         "name": "Islamic [ReSch]",
-                        "location": "D-303",
+                        "location": "D-311",
                         "time": "11:15-01:00"
                     }
                 ]
