@@ -1449,6 +1449,28 @@
                 ]
             },
             "2024": {
+                "G": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-310",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "D-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-304",
+                        "time": "08:30-09:50"
+                    }
+                ],
                 "E": [
                     {
                         "name": "Data St",
@@ -1508,23 +1530,6 @@
                         "name": "Data St Lab [Mehran Lab-2]",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "Discrete",
-                        "location": "D-302",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-304",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "A": [
