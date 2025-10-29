@@ -3950,6 +3950,11 @@
                         "name": "Agentic AI",
                         "location": "D-412",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Vision Lab [ReSch]",
+                        "location": "D-412",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "C": [
@@ -5627,6 +5632,23 @@
                 ]
             },
             "2023": {
+                "B": [
+                    {
+                        "name": "TBW [ReSch]",
+                        "location": "C-304",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-311",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Algo",
@@ -5636,18 +5658,6 @@
                     {
                         "name": "S/w Const",
                         "location": "C-310",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "S/w Const",
-                        "location": "C-311",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "C-311",
                         "time": "10:00-11:20"
                     }
                 ]
