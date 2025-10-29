@@ -1527,7 +1527,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Data St Lab [Mehran Lab-2]",
+                        "name": "Data St Lab",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
                     }
@@ -5184,18 +5184,8 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Sec S/w Design Lab  Exams [& D]",
-                        "location": "C-Margala 4",
-                        "time": "02:30-05:15"
-                    },
-                    {
                         "name": "Sec S/w Design Lab",
                         "location": "C-Rawal 1",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Sec S/w Design Lab  Exams [& D]",
-                        "location": "Rawal 3 (B-232)",
                         "time": "02:30-05:15"
                     }
                 ],
