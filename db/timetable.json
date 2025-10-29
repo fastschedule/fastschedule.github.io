@@ -1694,7 +1694,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Deep Learning [G-2) Cancelled]",
+                        "name": "Deep Learning [G-2]",
                         "location": "D-315",
                         "time": "08:30-09:50"
                     }
@@ -1914,17 +1914,17 @@
                         "time": "09:00-10:45"
                     },
                     {
-                        "name": "Islamic [Cancelled]",
+                        "name": "Islamic",
                         "location": "C-405",
                         "time": "11:00-12:45"
                     },
                     {
-                        "name": "Func Eng Lab D1 [Cancelled]",
+                        "name": "Func Eng Lab D1",
                         "location": "A-Mehran 2",
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab D2 [Cancelled]",
+                        "name": "Func Eng Lab D2",
                         "location": "A-CALL-1",
                         "time": "02:30-05:15"
                     }
@@ -1933,7 +1933,7 @@
             "2024": {
                 "C": [
                     {
-                        "name": "Data St [Cancelled]",
+                        "name": "Data St",
                         "location": "C-311",
                         "time": "01:00-02:20"
                     },
@@ -2066,7 +2066,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Fund of SPM [Cancelled]",
+                        "name": "Fund of SPM",
                         "location": "D-404",
                         "time": "08:30-09:50"
                     }
@@ -2141,11 +2141,6 @@
                     }
                 ],
                 "A": [
-                    {
-                        "name": "Func Eng Lab A2 [ReSch]",
-                        "location": "C-308",
-                        "time": "02:30-05:15"
-                    },
                     {
                         "name": "PF",
                         "location": "C-309",
@@ -2520,7 +2515,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Sec S/w Design [Cancelled]",
+                        "name": "Sec S/w Design",
                         "location": "D-505",
                         "time": "10:00-11:20"
                     },
@@ -2664,7 +2659,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Comp Net Lab [Cancelled]",
+                        "name": "Comp Net Lab",
                         "location": "C-Rawal 4",
                         "time": "08:30-11:20"
                     }
@@ -3003,11 +2998,6 @@
                         "name": "LA",
                         "location": "D-303",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-304",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "Automata",
