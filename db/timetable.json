@@ -1413,11 +1413,6 @@
                         "time": "09:00-10:45"
                     },
                     {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-310",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
@@ -1428,11 +1423,6 @@
                         "name": "Islamic",
                         "location": "C-307",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-310",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "PF Lab",
@@ -1515,11 +1505,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Data St [ReSch]",
-                        "location": "D-316",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Data St Lab [Mehran Lab-2]",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
@@ -1547,11 +1532,6 @@
                         "name": "LA",
                         "location": "D-302",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-302",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Automata",
@@ -1725,23 +1705,6 @@
                         "time": "01:00-02:20"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "Algo [ReSch]",
-                        "location": "D-304",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-305",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "SDA",
-                        "location": "D-313",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "E": [
                     {
                         "name": "Automata",
@@ -1757,6 +1720,18 @@
                         "name": "Comp Net Lab",
                         "location": "C-Margala 4",
                         "time": "11:30-02:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Comp Net",
+                        "location": "D-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-313",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "A": [
@@ -1813,11 +1788,6 @@
                         "name": "SDA",
                         "location": "D-313",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Algo [ReSch]",
-                        "location": "D-502",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
@@ -1943,36 +1913,9 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Intro to SE [ReSch]",
-                        "location": "C-406",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Intro to SE [ReSch]",
-                        "location": "C-406",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Data St Lab",
                         "location": "A-Mehran 1",
                         "time": "08:30-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-401",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "C-408",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "C-408",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "A": [
@@ -1990,6 +1933,18 @@
                         "name": "Data St",
                         "location": "C-407",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Data St",
+                        "location": "C-408",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-408",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -2175,13 +2130,44 @@
                     }
                 ]
             },
-            "2024": {
+            "2023": {
+                "A": [
+                    {
+                        "name": "ML",
+                        "location": "D-314",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-403",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-404",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "B": [
                     {
-                        "name": "LA [ReSch]",
-                        "location": "C-407",
-                        "time": "10:00-11:20"
+                        "name": "OS",
+                        "location": "D-401",
+                        "time": "01:00-02:20"
                     },
+                    {
+                        "name": "TBW",
+                        "location": "D-402",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "ML",
+                        "location": "D-402",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2024": {
+                "B": [
                     {
                         "name": "LA",
                         "location": "D-315",
@@ -2227,50 +2213,9 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Prog for AI Lab [ReSch]",
-                        "location": "C-Margala 3",
-                        "time": "11:30-02:20"
-                    },
-                    {
                         "name": "Data St Lab",
                         "location": "C-Rawal 1",
                         "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "ML",
-                        "location": "D-314",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-403",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-404",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "OS",
-                        "location": "D-401",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "D-402",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "ML",
-                        "location": "D-402",
-                        "time": "10:00-11:20"
                     }
                 ]
             },
