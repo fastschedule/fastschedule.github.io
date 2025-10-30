@@ -2640,11 +2640,6 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Discrete [ReSch]",
-                        "location": "D-405",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "COAL",
                         "location": "D-413",
                         "time": "08:30-09:50"
