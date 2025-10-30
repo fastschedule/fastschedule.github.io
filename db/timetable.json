@@ -5351,7 +5351,7 @@
                         "time": "12:45-02:30"
                     },
                     {
-                        "name": "Intro to SE",
+                        "name": "Intro to SE [Cancelled]",
                         "location": "C-406",
                         "time": "02:30-03:50"
                     },
@@ -5619,6 +5619,13 @@
             },
             "2024": {
                 "B": [
+                    {
+                        "name": "Intro to SE [ReSch]",
+                        "location": "D-504",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
                     {
                         "name": "Prob & Stats [ReSch]",
                         "location": "D-506",
