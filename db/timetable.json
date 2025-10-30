@@ -4531,7 +4531,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-312",
                         "time": "03:55-05:15"
                     }
@@ -4598,7 +4598,7 @@
                 ],
                 "J": [
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-315",
                         "time": "02:30-03:50"
                     },
@@ -5743,12 +5743,36 @@
                         "name": "AP [ReSch]",
                         "location": "D-301",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "D-502",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
                     {
                         "name": "AP [ReSch]",
                         "location": "D-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "D-502",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "D-504",
                         "time": "10:00-11:20"
                     }
                 ]
