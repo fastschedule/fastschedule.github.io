@@ -4511,13 +4511,18 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "SMD",
+                        "name": "SMD [in Margallah-4 for TodayReserved for Onestop]",
                         "location": "C-110",
                         "time": "02:30-03:50"
                     },
                     {
                         "name": "Game Design",
                         "location": "C-Margala 3",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "SMD [for Oct 30 Only]",
+                        "location": "C-Margala 4",
                         "time": "02:30-03:50"
                     }
                 ],
