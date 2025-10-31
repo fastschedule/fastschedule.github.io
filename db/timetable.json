@@ -17,6 +17,11 @@
                         "name": "Calculus",
                         "location": "C-302",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-305",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "E": [
