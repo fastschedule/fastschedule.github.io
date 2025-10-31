@@ -474,6 +474,23 @@
                         "time": "11:30-12:50"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "Comp Net [ReSch]",
+                        "location": "D-314",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-316",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-316",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Algo",
@@ -511,18 +528,6 @@
                         "name": "Comp Net Lab",
                         "location": "C-Margala 4",
                         "time": "08:30-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Automata",
-                        "location": "D-316",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-316",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "D": [
