@@ -218,6 +218,28 @@
                         "time": "11:30-01:15"
                     }
                 ],
+                "E": [
+                    {
+                        "name": "Data St [ReSch]",
+                        "location": "D-302",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-303",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-305",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Rawal 1",
+                        "time": "11:30-02:20"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Data St",
@@ -252,23 +274,6 @@
                         "time": "11:30-02:20"
                     }
                 ],
-                "E": [
-                    {
-                        "name": "LA",
-                        "location": "D-303",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-305",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "C-Rawal 1",
-                        "time": "11:30-02:20"
-                    }
-                ],
                 "D": [
                     {
                         "name": "Data St",
@@ -284,6 +289,11 @@
                         "name": "COAL",
                         "location": "D-304",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data St [ReSch]",
+                        "location": "D-304",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "F": [
