@@ -814,6 +814,11 @@
                         "name": "AP",
                         "location": "C-401",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "C-401",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -1001,6 +1006,11 @@
                         "name": "Discrete",
                         "location": "C-309",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
                     }
                 ]
             },
@@ -2150,6 +2160,11 @@
                         "name": "Discrete",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "C-401",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -2167,6 +2182,11 @@
                         "name": "PF",
                         "location": "C-310",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
                     }
                 ]
             },
@@ -4671,7 +4691,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Func Eng [in Auditorium]",
+                        "name": "Func Eng",
                         "location": "C-309",
                         "time": "11:30-01:15"
                     },
