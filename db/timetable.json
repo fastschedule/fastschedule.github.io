@@ -503,6 +503,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "Automata [ReSch]",
+                        "location": "D-315",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Comp Net Lab",
                         "location": "C-Rawal 4",
                         "time": "11:30-02:20"
@@ -531,6 +536,11 @@
                     }
                 ],
                 "D": [
+                    {
+                        "name": "Automata [ReSch]",
+                        "location": "D-315",
+                        "time": "03:55-05:15"
+                    },
                     {
                         "name": "Automata",
                         "location": "D-316",
