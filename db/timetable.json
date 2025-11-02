@@ -5673,19 +5673,7 @@
                 ]
             },
             "2024": {
-                "B": [
-                    {
-                        "name": "Intro to SE [ReSch]",
-                        "location": "D-504",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "A": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "D-506",
-                        "time": "11:30-12:50"
-                    },
                     {
                         "name": "DLD Lab [ReSch]",
                         "location": "B-Digital",
@@ -5810,36 +5798,12 @@
                         "name": "AP [ReSch]",
                         "location": "D-301",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "D-502",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
                     {
                         "name": "AP [ReSch]",
                         "location": "D-301",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "D-502",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "D-503",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "D-504",
                         "time": "10:00-11:20"
                     }
                 ]
