@@ -131,6 +131,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "AP [ReSch]",
+                        "location": "C-404",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
@@ -143,7 +148,7 @@
                         "time": "08:30-10:15"
                     },
                     {
-                        "name": "PF Lab",
+                        "name": "PF Lab [Cancelled]",
                         "location": "D-IT Lab 2",
                         "time": "11:30-02:20"
                     }
