@@ -1521,6 +1521,28 @@
                         "time": "08:30-09:50"
                     }
                 ],
+                "A": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-407",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-302",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-305",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Rawal 4",
+                        "time": "11:30-02:20"
+                    }
+                ],
                 "E": [
                     {
                         "name": "Data St",
@@ -1580,23 +1602,6 @@
                         "name": "Data St Lab",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "LA",
-                        "location": "D-302",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-305",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "C-Rawal 4",
-                        "time": "11:30-02:20"
                     }
                 ],
                 "C": [
@@ -4228,6 +4233,11 @@
                         "name": "Func Eng",
                         "location": "C-304",
                         "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "PF Lab [ReSch]",
+                        "location": "A-Karakoram 3",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
@@ -4279,11 +4289,6 @@
                         "name": "Calculus",
                         "location": "C-307",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "IICT Lab [ReSch]",
-                        "location": "A-Karakoram 3",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "Z": [
