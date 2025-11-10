@@ -1448,6 +1448,132 @@
                     }
                 ]
             },
+            "2023": {
+                "C": [
+                    {
+                        "name": "Comp Net [ReSch]",
+                        "location": "C-407",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-306",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-313",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Automata",
+                        "location": "D-304",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-305",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Automata",
+                        "location": "D-305",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-306",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Margala 4",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Comp Net",
+                        "location": "D-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-313",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Game Design",
+                        "location": "D-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "HPC",
+                        "location": "D-306",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-311",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-311",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "C-110",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Game Design",
+                        "location": "C-Margala 3",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Algo",
+                        "location": "D-306",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-314",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "HPC",
+                        "location": "D-306",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-312",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-312",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "C-110",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            },
             "2024": {
                 "E": [
                     {
@@ -1691,127 +1817,6 @@
                         "time": "03:55-05:15"
                     }
                 ]
-            },
-            "2023": {
-                "G": [
-                    {
-                        "name": "Automata",
-                        "location": "D-304",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-305",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Automata",
-                        "location": "D-305",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-306",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Net Lab",
-                        "location": "C-Margala 4",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Comp Net",
-                        "location": "D-305",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "SDA",
-                        "location": "D-313",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Game Design",
-                        "location": "D-305",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "HPC",
-                        "location": "D-306",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "SDA",
-                        "location": "D-311",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-311",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "SMD",
-                        "location": "C-110",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Game Design",
-                        "location": "C-Margala 3",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "Algo",
-                        "location": "D-306",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-314",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Comp Net",
-                        "location": "D-306",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "SDA",
-                        "location": "D-313",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "HPC",
-                        "location": "D-306",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-312",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "SDA",
-                        "location": "D-312",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "SMD",
-                        "location": "C-110",
-                        "time": "01:00-02:20"
-                    }
-                ]
             }
         },
         "BS SE": {
@@ -2014,7 +2019,7 @@
                 ],
                 "F": [
                     {
-                        "name": "Fund of SPM",
+                        "name": "Fund of SPM [Cancelled]",
                         "location": "D-313",
                         "time": "01:00-02:20"
                     }
