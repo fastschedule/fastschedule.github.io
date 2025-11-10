@@ -2206,6 +2206,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "Reserved for Prog for AI Lab",
+                        "location": "D-502",
+                        "time": "08:30-11:20"
+                    },
+                    {
                         "name": "Prog for AI Lab",
                         "location": "C-Rawal 1",
                         "time": "08:30-11:20"
@@ -5161,6 +5166,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Reserved for Prog for AI Lab",
+                        "location": "C-110",
+                        "time": "08:30-11:20"
+                    },
+                    {
                         "name": "Prog for AI Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:20"
@@ -5653,6 +5663,11 @@
                         "name": "Psychology",
                         "location": "C-307",
                         "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "Reserved for Prog for AI Lab",
+                        "location": "C-402",
+                        "time": "02:30-05:15"
                     },
                     {
                         "name": "Data St Lab",
