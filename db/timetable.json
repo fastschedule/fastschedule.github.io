@@ -65,7 +65,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Calculus [Cancelled]",
+                        "name": "Calculus",
                         "location": "C-303",
                         "time": "10:00-11:20"
                     },
@@ -82,7 +82,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Calculus [Cancelled]",
+                        "name": "Calculus",
                         "location": "C-304",
                         "time": "08:30-09:50"
                     },
@@ -92,7 +92,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-304",
                         "time": "11:30-12:50"
                     },
@@ -288,7 +288,7 @@
                 ],
                 "F": [
                     {
-                        "name": "LA [Cancelled]",
+                        "name": "LA",
                         "location": "D-305",
                         "time": "10:00-11:20"
                     },
@@ -317,7 +317,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "DIP [G-2) Cancelled]",
+                        "name": "DIP [G-2]",
                         "location": "D-306",
                         "time": "08:30-09:50"
                     },
@@ -418,7 +418,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "DIP [G-2) Cancelled]",
+                        "name": "DIP [G-2]",
                         "location": "D-314",
                         "time": "01:00-02:20"
                     },
@@ -486,11 +486,6 @@
                         "name": "HPC",
                         "location": "D-401",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "HPC [ReSch]",
-                        "location": "D-401",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "Comp Net Lab",
@@ -635,7 +630,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "DLD Lab [Cancelled]",
+                        "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:30-11:20"
                     }
@@ -1391,7 +1386,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Ideology of Pak",
+                        "name": "Ideology of Pak [Cancelled]",
                         "location": "C-304",
                         "time": "11:30-01:15"
                     },
@@ -2090,7 +2085,7 @@
             "2025": {
                 "C": [
                     {
-                        "name": "Ideology of Pak",
+                        "name": "Ideology of Pak [Cancelled]",
                         "location": "C-308",
                         "time": "09:00-10:45"
                     },
