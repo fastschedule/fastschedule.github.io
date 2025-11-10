@@ -1360,6 +1360,11 @@
                         "name": "PF",
                         "location": "C-304",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "PF Lab [ReSch]",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "J": [
@@ -4198,11 +4203,6 @@
                         "name": "Func Eng",
                         "location": "C-304",
                         "time": "02:30-04:15"
-                    },
-                    {
-                        "name": "PF Lab [ReSch]",
-                        "location": "A-Karakoram 3",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
