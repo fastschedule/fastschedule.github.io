@@ -3774,6 +3774,11 @@
             "2022": {
                 "C": [
                     {
+                        "name": "Org Behavior [ReSch]",
+                        "location": "D-411",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Org Behavior",
                         "location": "D-411",
                         "time": "10:00-11:20"
