@@ -1448,6 +1448,142 @@
                     }
                 ]
             },
+            "2024": {
+                "D": [
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-304",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-304",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Data St",
+                        "location": "D-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-301",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "D-301",
+                        "time": "02:30-04:15"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "COAL",
+                        "location": "D-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "D-303",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "D-303",
+                        "time": "02:30-04:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Automata",
+                        "location": "D-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-304",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "C-Rawal 4",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Discrete",
+                        "location": "D-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-304",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "LA",
+                        "location": "D-302",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-305",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Rawal 4",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "LA",
+                        "location": "D-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "D-IT Lab 4",
+                        "time": "11:30-02:20"
+                    }
+                ]
+            },
             "2023": {
                 "C": [
                     {
@@ -1571,137 +1707,6 @@
                         "name": "SMD",
                         "location": "C-110",
                         "time": "01:00-02:20"
-                    }
-                ]
-            },
-            "2024": {
-                "E": [
-                    {
-                        "name": "Data St",
-                        "location": "D-301",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "D-301",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-301",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Civics",
-                        "location": "D-301",
-                        "time": "02:30-04:15"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "COAL",
-                        "location": "D-302",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-302",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "D-303",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Civics",
-                        "location": "D-303",
-                        "time": "02:30-04:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Automata",
-                        "location": "D-302",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "D-304",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "C-Rawal 4",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "Discrete",
-                        "location": "D-302",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-304",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "LA",
-                        "location": "D-302",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-305",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "C-Rawal 4",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "LA",
-                        "location": "D-303",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-303",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "D-IT Lab 4",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Automata",
-                        "location": "D-304",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "D-304",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "C-Margala 1",
-                        "time": "08:30-11:20"
                     }
                 ]
             },
@@ -5694,11 +5699,27 @@
                 ]
             },
             "2023": {
+                "G": [
+                    {
+                        "name": "SDA [ReSch]",
+                        "location": "C-402",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Comp Net Lab [ReSch]",
                         "location": "A-Mehran 1",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2025": {
+                "F": [
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "C-403",
+                        "time": "08:30-10:15"
                     }
                 ]
             }
