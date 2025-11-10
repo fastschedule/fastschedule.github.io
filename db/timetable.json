@@ -488,6 +488,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "HPC [ReSch]",
+                        "location": "D-401",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Comp Net Lab",
                         "location": "C-Margala 4",
                         "time": "08:30-11:20"
@@ -630,7 +635,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "DLD Lab",
+                        "name": "DLD Lab [Cancelled]",
                         "location": "B-Digital",
                         "time": "08:30-11:20"
                     }
@@ -1275,7 +1280,7 @@
                     },
                     {
                         "name": "Func Eng",
-                        "location": "C-406",
+                        "location": "C-301",
                         "time": "02:30-04:15"
                     }
                 ],
@@ -1335,7 +1340,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-303",
                         "time": "01:00-02:20"
                     }
@@ -2110,11 +2115,6 @@
                         "name": "Discrete",
                         "location": "C-309",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Func Eng [ReSch]",
-                        "location": "C-401",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -2132,11 +2132,6 @@
                         "name": "PF",
                         "location": "C-310",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Func Eng [ReSch]",
-                        "location": "C-401",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -2311,7 +2306,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete",
                         "location": "C-403",
                         "time": "01:00-02:20"
                     },
@@ -5680,6 +5675,15 @@
                         "name": "Adv AI",
                         "location": "C-304",
                         "time": "05:20-08:05"
+                    }
+                ]
+            },
+            "2023": {
+                "C": [
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
