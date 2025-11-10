@@ -3123,31 +3123,12 @@
                 ]
             },
             "2023": {
-                "F": [
-                    {
-                        "name": "Comp Net",
-                        "location": "D-315",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "SDA",
-                        "location": "D-315",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Algo",
-                        "location": "D-316",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-316",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "C": [
+                    {
+                        "name": "SDA [ReSch]",
+                        "location": "D-311",
+                        "time": "08:30-09:50"
+                    },
                     {
                         "name": "Algo",
                         "location": "D-316",
@@ -3162,6 +3143,52 @@
                         "name": "HPC",
                         "location": "D-402",
                         "time": "01:00-02:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Comp Net",
+                        "location": "D-315",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-315",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "SDA [ReSch]",
+                        "location": "D-315",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Algo",
+                        "location": "D-316",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-316",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
@@ -3179,23 +3206,6 @@
                         "name": "Comp Net Lab",
                         "location": "C-Margala 3",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Automata",
-                        "location": "D-401",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-401",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Comp Net Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "E": [
@@ -5050,6 +5060,71 @@
                     }
                 ]
             },
+            "2022": {
+                "D": [
+                    {
+                        "name": "Sec S/w Design",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "C-410",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "C-410",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "D-413",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Cloud Comp",
+                        "location": "C-410",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "D-413",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Sec S/w Design Lab",
+                        "location": "C-Rawal 1",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Cloud Comp",
+                        "location": "C-410",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "C-410",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "PDC",
+                        "location": "C-410",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Sec S/w Design",
+                        "location": "D-316",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
             "2023": {
                 "B": [
                     {
@@ -5087,71 +5162,6 @@
                     {
                         "name": "Algo",
                         "location": "D-504",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
-            "2022": {
-                "A": [
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-501",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-502",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Sec S/w Design Lab",
-                        "location": "C-Rawal 1",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-501",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-501",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "PDC",
-                        "location": "D-501",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Sec S/w Design",
-                        "location": "D-503",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "PDC",
-                        "location": "D-501",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-501",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-502",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Sec S/w Design",
-                        "location": "D-503",
                         "time": "10:00-11:20"
                     }
                 ]
