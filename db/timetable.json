@@ -1347,7 +1347,7 @@
                 ],
                 "H": [
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-303",
                         "time": "11:30-12:50"
                     },
@@ -1360,11 +1360,6 @@
                         "name": "PF",
                         "location": "C-304",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "PF Lab [ReSch]",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "J": [
@@ -1379,7 +1374,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-305",
                         "time": "10:00-11:20"
                     },
@@ -1391,7 +1386,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Ideology of Pak [Cancelled]",
+                        "name": "Ideology of Pak",
                         "location": "C-304",
                         "time": "11:30-01:15"
                     },
@@ -1454,28 +1449,6 @@
                 ]
             },
             "2024": {
-                "D": [
-                    {
-                        "name": "Civics [ReSch]",
-                        "location": "C-401",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-304",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "D-304",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "C-Margala 1",
-                        "time": "08:30-11:20"
-                    }
-                ],
                 "E": [
                     {
                         "name": "Data St",
@@ -1587,26 +1560,139 @@
                         "location": "D-IT Lab 4",
                         "time": "11:30-02:20"
                     }
+                ],
+                "D": [
+                    {
+                        "name": "Automata",
+                        "location": "D-304",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-304",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:20"
+                    }
                 ]
             },
-            "2023": {
-                "C": [
+            "2022": {
+                "A": [
                     {
-                        "name": "Comp Net [ReSch]",
-                        "location": "C-407",
+                        "name": "Fund of SPM [G-1]",
+                        "location": "D-301",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Comp Net",
-                        "location": "D-306",
+                        "name": "Ethical Hack [G-1]",
+                        "location": "D-311",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "SDA",
+                        "name": "Cloud Comp [G-1]",
+                        "location": "D-314",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Gen AI [G-1]",
+                        "location": "D-315",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MLOPs [G-1]",
+                        "location": "D-316",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Cloud Comp [G-1]",
+                        "location": "D-312",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Gen AI [G-1]",
                         "location": "D-313",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "MLOPs [G-1]",
+                        "location": "D-314",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "K": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-312",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-316",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Info Sec",
+                        "location": "D-312",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-312",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "PPIT [Auditorium]",
+                        "location": "D-313",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-313",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "Info Sec",
+                        "location": "D-314",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-314",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Deep Learning [G-2]",
+                        "location": "D-315",
                         "time": "08:30-09:50"
                     }
                 ],
+                "J": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-315",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-315",
+                        "time": "03:55-05:15"
+                    }
+                ]
+            },
+            "2023": {
                 "G": [
                     {
                         "name": "Automata",
@@ -1692,6 +1778,18 @@
                         "time": "08:30-09:50"
                     }
                 ],
+                "C": [
+                    {
+                        "name": "Comp Net",
+                        "location": "D-306",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-313",
+                        "time": "08:30-09:50"
+                    }
+                ],
                 "B": [
                     {
                         "name": "HPC",
@@ -1712,119 +1810,6 @@
                         "name": "SMD",
                         "location": "C-110",
                         "time": "01:00-02:20"
-                    }
-                ]
-            },
-            "2022": {
-                "A": [
-                    {
-                        "name": "Fund of SPM [G-1]",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Ethical Hack [G-1]",
-                        "location": "D-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cloud Comp [G-1]",
-                        "location": "D-314",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Gen AI [G-1]",
-                        "location": "D-315",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MLOPs [G-1]",
-                        "location": "D-316",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Cloud Comp [G-1]",
-                        "location": "D-312",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Gen AI [G-1]",
-                        "location": "D-313",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "MLOPs [G-1]",
-                        "location": "D-314",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "K": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-312",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Info Sec [Cancelled]",
-                        "location": "D-316",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-312",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-312",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "PPIT [Auditorium]",
-                        "location": "D-313",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-313",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "H": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-314",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-314",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Deep Learning [G-2]",
-                        "location": "D-315",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "J": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-315",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-315",
-                        "time": "03:55-05:15"
                     }
                 ]
             }
@@ -2029,7 +2014,7 @@
                 ],
                 "F": [
                     {
-                        "name": "Fund of SPM [Cancelled]",
+                        "name": "Fund of SPM",
                         "location": "D-313",
                         "time": "01:00-02:20"
                     }
@@ -2090,7 +2075,7 @@
             "2025": {
                 "C": [
                     {
-                        "name": "Ideology of Pak [Cancelled]",
+                        "name": "Ideology of Pak",
                         "location": "C-308",
                         "time": "09:00-10:45"
                     },
@@ -2252,14 +2237,14 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Comp Vision [Cancelled]",
+                        "name": "Comp Vision",
                         "location": "D-403",
                         "time": "02:30-03:50"
                     }
                 ],
                 "C": [
                     {
-                        "name": "Comp Vision [Cancelled]",
+                        "name": "Comp Vision",
                         "location": "D-402",
                         "time": "01:00-02:20"
                     },
