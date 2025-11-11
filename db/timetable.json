@@ -5611,7 +5611,7 @@
                     },
                     {
                         "name": "OS Lab",
-                        "location": "D-IT Lab 3",
+                        "location": "C-Rawal 4",
                         "time": "02:30-05:15"
                     }
                 ],
@@ -5628,7 +5628,7 @@
                     },
                     {
                         "name": "ML Lab",
-                        "location": "D-IT Lab 2",
+                        "location": "A-Karakoram 3",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -5676,7 +5676,7 @@
                     },
                     {
                         "name": "Prog for AI Lab",
-                        "location": "C-Rawal 1",
+                        "location": "A-Mehran 1",
                         "time": "02:30-05:15"
                     }
                 ]
