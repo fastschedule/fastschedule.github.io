@@ -966,6 +966,11 @@
                         "name": "Discrete",
                         "location": "C-309",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab C1 [ReSch]",
+                        "location": "C-405",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -2815,6 +2820,11 @@
                         "name": "Islamic",
                         "location": "C-305",
                         "time": "09:00-10:45"
+                    },
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "D-501",
+                        "time": "02:30-05:15"
                     },
                     {
                         "name": "PF Lab",
@@ -5357,6 +5367,11 @@
                         "name": "Discrete",
                         "location": "C-402",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B1 [ReSch]",
+                        "location": "C-402",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "D": [
