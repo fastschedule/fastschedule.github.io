@@ -3824,11 +3824,6 @@
                         "name": "Agentic AI",
                         "location": "D-412",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Comp Vision Lab [ReSch]",
-                        "location": "D-412",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
@@ -4128,7 +4123,7 @@
                     },
                     {
                         "name": "IICT Lab [ReSch]",
-                        "location": "A-Karakoram 3",
+                        "location": "C-Margala 4",
                         "time": "02:30-05:15"
                     }
                 ],
