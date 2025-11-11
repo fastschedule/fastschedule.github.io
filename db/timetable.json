@@ -1762,7 +1762,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Info Sec",
+                        "name": "Info Sec [Cancelled]",
                         "location": "D-316",
                         "time": "02:30-03:50"
                     }
@@ -3905,7 +3905,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "DLD Lab",
+                        "name": "DLD Lab [Cancelled]",
                         "location": "B-Digital",
                         "time": "08:30-11:20"
                     }
@@ -3913,6 +3913,11 @@
             },
             "2025": {
                 "D": [
+                    {
+                        "name": "Func Eng Lab D2 [ReSch]",
+                        "location": "C-311",
+                        "time": "02:30-05:15"
+                    },
                     {
                         "name": "PF",
                         "location": "C-402",
