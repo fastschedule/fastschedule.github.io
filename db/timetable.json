@@ -2824,7 +2824,7 @@
                 ],
                 "E": [
                     {
-                        "name": "Islamic",
+                        "name": "Islamic [Cancelled]",
                         "location": "C-305",
                         "time": "11:30-01:15"
                     },
@@ -4129,7 +4129,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Islamic",
+                        "name": "Islamic [Cancelled]",
                         "location": "C-302",
                         "time": "11:30-01:15"
                     },
@@ -4341,11 +4341,6 @@
                         "name": "Discrete",
                         "location": "D-303",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-304",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "A": [
