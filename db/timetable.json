@@ -1432,11 +1432,6 @@
                 ],
                 "Z": [
                     {
-                        "name": "Calculus [International Students]",
-                        "location": "C-308",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "PF [International Students]",
                         "location": "C-311",
                         "time": "10:00-11:20"
@@ -1650,7 +1645,7 @@
                 ],
                 "G": [
                     {
-                        "name": "PPIT [Auditorium]",
+                        "name": "PPIT",
                         "location": "D-313",
                         "time": "02:30-03:50"
                     },
@@ -3632,7 +3627,7 @@
                 "C": [
                     {
                         "name": "Info Assur",
-                        "location": "D-311",
+                        "location": "D-506",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3657,7 +3652,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Calculus",
+                        "name": "Calculus [Cancelled]",
                         "location": "C-310",
                         "time": "11:30-12:50"
                     },
@@ -3929,7 +3924,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Calculus",
+                        "name": "Calculus [Cancelled]",
                         "location": "C-402",
                         "time": "10:00-11:20"
                     },
@@ -4356,6 +4351,11 @@
                         "name": "Discrete",
                         "location": "D-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "A-316",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "A": [
