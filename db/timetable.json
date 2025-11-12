@@ -2697,7 +2697,7 @@
                 ],
                 "G": [
                     {
-                        "name": "Func Eng",
+                        "name": "Func Eng [Cancelled]",
                         "location": "C-301",
                         "time": "11:30-01:15"
                     },
@@ -2734,7 +2734,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Func Eng",
+                        "name": "Func Eng [Cancelled]",
                         "location": "C-302",
                         "time": "02:00-03:45"
                     }
@@ -5724,6 +5724,11 @@
                         "name": "IICT Lab [ReSch]",
                         "location": "C-303",
                         "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "F": [
@@ -5743,6 +5748,20 @@
                         "name": "Ideology of Pak [ReSch]",
                         "location": "C-404",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-405",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-405",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
