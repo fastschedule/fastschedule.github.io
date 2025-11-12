@@ -5578,6 +5578,13 @@
                         "location": "C-406",
                         "time": "08:30-09:50"
                     }
+                ],
+                "B": [
+                    {
+                        "name": "Intro to DS [ReSch]",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
+                    }
                 ]
             }
         },
@@ -5643,15 +5650,10 @@
                     {
                         "name": "S/w Const [ReSch]",
                         "location": "C-310",
-                        "time": "03:55-05:15"
+                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
-                    {
-                        "name": "S/w Const [ReSch]",
-                        "location": "C-310",
-                        "time": "02:30-03:50"
-                    },
                     {
                         "name": "S/w Const",
                         "location": "C-311",
@@ -5661,6 +5663,11 @@
                         "name": "Algo",
                         "location": "C-311",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "S/w Const [ReSch]",
+                        "location": "C-403",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
