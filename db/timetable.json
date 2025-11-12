@@ -779,6 +779,11 @@
                         "name": "AP",
                         "location": "C-401",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Func English [ReSch]",
+                        "location": "C-401",
+                        "time": "02:30-03:30"
                     }
                 ]
             },
@@ -5563,6 +5568,15 @@
                         "name": "OS Lab",
                         "location": "D-IT Lab 3",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Intro to DS [ReSch]",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
                     }
                 ]
             }
