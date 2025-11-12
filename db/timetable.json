@@ -776,7 +776,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AP",
+                        "name": "AP [Cancelled]",
                         "location": "C-401",
                         "time": "01:00-02:20"
                     },
@@ -4489,6 +4489,28 @@
                         "time": "01:00-02:20"
                     }
                 ],
+                "G": [
+                    {
+                        "name": "Comp Net [ReSch]",
+                        "location": "D-305",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Automata",
+                        "location": "D-306",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-306",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "SDA",
@@ -4514,23 +4536,6 @@
                         "name": "Game Design",
                         "location": "C-Margala 3",
                         "time": "02:30-03:50"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "Automata",
-                        "location": "D-306",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-306",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Comp Net Lab",
-                        "location": "C-Rawal 1",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "D": [
@@ -4861,7 +4866,7 @@
                     },
                     {
                         "name": "Algo",
-                        "location": "D-506",
+                        "location": "B-030",
                         "time": "10:00-11:20"
                     }
                 ]
