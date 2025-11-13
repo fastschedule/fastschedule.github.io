@@ -5530,22 +5530,6 @@
                         "time": "08:30-11:20"
                     }
                 ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "Intro to DS [ReSch]",
-                        "location": "C-406",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Intro to DS [ReSch]",
-                        "location": "C-406",
-                        "time": "10:00-11:20"
-                    }
-                ]
             }
         },
         "BS SE": {
