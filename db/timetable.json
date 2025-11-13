@@ -5752,6 +5752,29 @@
                     }
                 ]
             },
+            "2023": {
+                "G": [
+                    {
+                        "name": "SDA [ReSch]",
+                        "location": "C-304",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "SMD [&B) ReSch]",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            },
             "2022": {
                 "A": [
                     {
@@ -5770,29 +5793,6 @@
                         "name": "SMD [G-3) ReSch]",
                         "location": "D-303",
                         "time": "10:00-11:20"
-                    }
-                ]
-            },
-            "2023": {
-                "G": [
-                    {
-                        "name": "SDA [ReSch]",
-                        "location": "C-402",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "SMD [&B) ReSch]",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Comp Net Lab [ReSch]",
-                        "location": "A-Mehran 1",
-                        "time": "08:30-11:20"
                     }
                 ]
             },
