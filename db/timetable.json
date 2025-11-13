@@ -620,7 +620,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Prob & Stats",
+                        "name": "Prob & Stats [Cancelled]",
                         "location": "C-402",
                         "time": "01:00-02:20"
                     },
@@ -5506,17 +5506,22 @@
                         "time": "02:30-05:15"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "DAV Lab [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "DW&BI Lab",
                         "location": "D-IT Lab 2",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "OS Lab",
-                        "location": "D-IT Lab 3",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -5604,6 +5609,15 @@
                         "time": "11:30-12:50"
                     }
                 ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "DLD Lab [ReSch]",
+                        "location": "B-Digital",
+                        "time": "10:30-01:15"
+                    }
+                ]
             }
         },
         "BS AI": {
@@ -5646,7 +5660,7 @@
             "2024": {
                 "B": [
                     {
-                        "name": "Psychology",
+                        "name": "Psychology [Cancelled]",
                         "location": "C-305",
                         "time": "08:30-10:15"
                     },
@@ -5658,7 +5672,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Psychology",
+                        "name": "Psychology [Cancelled]",
                         "location": "C-305",
                         "time": "11:30-01:15"
                     },
@@ -5776,6 +5790,18 @@
                         "name": "SMD [G-3) ReSch]",
                         "location": "D-303",
                         "time": "08:30-09:50"
+                    }
+                ],
+                "K": [
+                    {
+                        "name": "Info Sec [ReSch]",
+                        "location": "C-307",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Info Sec [ReSch]",
+                        "location": "C-307",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
