@@ -1133,6 +1133,13 @@
                         "location": "D-IT Lab 4",
                         "time": "02:30-05:15"
                     }
+                ],
+                "A": [
+                    {
+                        "name": "Ideology of Pak [ReSch]",
+                        "location": "D-504",
+                        "time": "11:30-01:15"
+                    }
                 ]
             },
             "2024": {
@@ -5833,7 +5840,7 @@
             "2025": {
                 "A": [
                     {
-                        "name": "Ideology of Pak",
+                        "name": "Ideology of Pak [Cancelled]",
                         "location": "C-304",
                         "time": "09:00-10:45"
                     },
