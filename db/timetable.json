@@ -5574,6 +5574,22 @@
                     }
                 ]
             },
+            "2024": {
+                "C": [
+                    {
+                        "name": "Psychology [ReSch]",
+                        "location": "C-308",
+                        "time": "02:30-04:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "DLD Lab [ReSch]",
+                        "location": "B-Digital",
+                        "time": "10:30-01:15"
+                    }
+                ]
+            },
             "2023": {
                 "A": [
                     {
@@ -5607,15 +5623,6 @@
                         "name": "S/w Const [ReSch]",
                         "location": "C-403",
                         "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "DLD Lab [ReSch]",
-                        "location": "B-Digital",
-                        "time": "10:30-01:15"
                     }
                 ]
             }
