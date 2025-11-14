@@ -174,6 +174,28 @@
                 ]
             },
             "2024": {
+                "D": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-410",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-304",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "D-304",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-304",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Data St",
@@ -267,23 +289,6 @@
                         "name": "COAL Lab",
                         "location": "C-Rawal 1",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Data St",
-                        "location": "D-304",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "D-304",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-304",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "F": [
@@ -567,7 +572,19 @@
                         "time": "11:30-12:50"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-03:50"
+                    }
+                ],
                 "C": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-309",
+                        "time": "03:55-05:15"
+                    },
                     {
                         "name": "Discrete",
                         "location": "C-402",
@@ -587,6 +604,13 @@
                         "name": "Func Eng Lab C2",
                         "location": "A-CALL-3",
                         "time": "11:30-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "D-304",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -762,6 +786,11 @@
                         "name": "PF",
                         "location": "C-310",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B1 [ReSch]",
+                        "location": "C-310",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "A": [
@@ -1144,6 +1173,11 @@
                         "name": "Ideology of Pak [ReSch]",
                         "location": "D-504",
                         "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:20"
                     }
                 ]
             },
@@ -1904,6 +1938,11 @@
                         "name": "Islamic",
                         "location": "C-405",
                         "time": "11:00-12:45"
+                    },
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-406",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Func Eng Lab D1",
@@ -2702,6 +2741,11 @@
                         "name": "Data St",
                         "location": "D-414",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-414",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
@@ -5804,7 +5848,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Adv AI",
+                        "name": "Adv AI [Cancelled]",
                         "location": "C-304",
                         "time": "05:20-08:05"
                     },
