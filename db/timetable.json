@@ -795,6 +795,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Reserved for Intro to DS Lab",
+                        "location": "D-415",
+                        "time": "08:30-11:20"
+                    },
+                    {
                         "name": "Intro to DS Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:20"
