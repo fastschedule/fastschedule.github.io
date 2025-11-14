@@ -544,11 +544,6 @@
                         "name": "SDA",
                         "location": "D-402",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Net Lab [ReSch]",
-                        "location": "C-Margala 4",
-                        "time": "11:30-02:20"
                     }
                 ]
             }
