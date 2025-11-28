@@ -1,8 +1,7 @@
 let timetableData = {};
-// let viewCount = 0;
 let isLoading = false;
 //saturday label
-let saturdayLabel = "Saturday";
+let saturdayLabels = []; // Changed to array to hold all Saturday keys
 
 function showLoading() {
     isLoading = true;
@@ -23,20 +22,20 @@ async function loadTimetableData() {
         var response = await fetch("db/timetable.json?v=" + Date.now());
         response = await response.json();
         timetableData = response;
-        // viewCount = response["viewCount"];
-        // document.getElementById("viewCount").innerHTML=viewCount;
+        saturdayLabels = []; // Reset array
         for (let key of Object.keys(timetableData)) {
             if (key.startsWith("Saturday")) {
-                saturdayLabel = key;
-                break;
+                saturdayLabels.push(key);
             }
         }
+        loadDays(); // New function to populate day dropdown
         loadDepartments();
         loadBatchYear();
     } catch (error) {
         console.error("Error loading timetable data: ", error);
     } finally{
         hideLoading();
+        setDefaultDay(); // Move setDefaultDay here after data is loaded
         loadTimetable();
     }
 }
@@ -47,6 +46,27 @@ const daySelect = document.getElementById("day");
 const sectionSelect = document.getElementById("section");
 const timetableDisplay = document.getElementById("timetableDisplay");
 const getTimetableBtn = document.getElementById("getTimetableBtn");
+
+function loadDays() {
+    daySelect.innerHTML = "<option>Select Day</option>";
+    
+    // Add static weekdays
+    const staticDays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
+    staticDays.forEach(day => {
+        const option = document.createElement("option");
+        option.value = day;
+        option.textContent = day;
+        daySelect.appendChild(option);
+    });
+    
+    // Add all Saturday options from JSON
+    saturdayLabels.forEach(satLabel => {
+        const option = document.createElement("option");
+        option.value = satLabel;
+        option.textContent = satLabel;
+        daySelect.appendChild(option);
+    });
+}
 
 function loadBatchYear() {
     const savedBatchYear = localStorage.getItem("selectedBatchYear");
@@ -91,10 +111,9 @@ function loadSections() {
     sectionSelect.innerHTML = "<option>Select Section</option>";
     if (department && batchYear) {
         const allSections = new Set();
-        for (let day of ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]) {
-            if (day === "Saturday") {
-                day = saturdayLabel;
-            }
+        const daysToCheck = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", ...saturdayLabels];
+        
+        for (let day of daysToCheck) {
             if (timetableData[day] && timetableData[day][department] && timetableData[day][department][batchYear]) {
                 const sections = Object.keys(timetableData[day][department][batchYear]);
                 sections.forEach(section => allSections.add(section));
@@ -120,7 +139,7 @@ function loadSections() {
 function loadTimetable() {
     const department = departmentSelect.value;
     const batchYear = batchYearSelect.value;
-    var day = daySelect.value;
+    const day = daySelect.value; // Use the selected value directly
     const section = sectionSelect.value;
 
     if (!department || !batchYear || !day || section === "Select Section" || day === "Select Day" || !section) {
@@ -128,14 +147,7 @@ function loadTimetable() {
         return;
     }
 
-    // if (day === "Friday") {
-    //     timetableDisplay.innerHTML = `<p style="padding: 1rem">friday wale courses fix ho rhe...</p>`;
-    //     return;
-    // }
-
-    if (day==="Saturday"){
-        day = saturdayLabel
-    }
+    // No conversion needed - use day value as-is since dropdown now contains actual JSON keys
 
     let dayData = timetableData[day]?.[department]?.[batchYear]?.[section] || [];
 
@@ -209,7 +221,12 @@ function setDefaultDay() {
     }
     const currentDayName = dayNames[currentDayIndex];
 
-    daySelect.value = currentDayName;
+    // If today is Saturday, select the last Saturday option from dropdown
+    if (currentDayName === "Saturday" && saturdayLabels.length > 0) {
+        daySelect.value = saturdayLabels[saturdayLabels.length - 1];
+    } else {
+        daySelect.value = currentDayName;
+    }
 }
 
 // getTimetableBtn.addEventListener("click", loadTimetableData);      //TOO MANY REQUESTS SO BUTTON IS JUST FOR DECORATION (:
@@ -226,10 +243,8 @@ sectionSelect.addEventListener("change", () => {
     loadTimetable();
 });
 daySelect.addEventListener("change", () => {
-    saveSelection();
+    // Removed saveSelection() - day is not saved to localStorage
     loadTimetable();
 });
 
-loadTimetableData();    
-
-setDefaultDay();
+loadTimetableData();
