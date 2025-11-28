@@ -5933,11 +5933,6 @@
             "2025": {
                 "A": [
                     {
-                        "name": "PF",
-                        "location": "C-301",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "AP",
                         "location": "C-301",
                         "time": "10:00-11:20"
@@ -5980,11 +5975,6 @@
                         "name": "AP",
                         "location": "C-302",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PF",
-                        "location": "C-302",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Calculus",
