@@ -121,6 +121,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "Ideology of Pak [ReSch]",
+                        "location": "C-308",
+                        "time": "02:00-03:45"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
@@ -1122,6 +1127,13 @@
                         "name": "PF Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Ideology of Pak [ReSch]",
+                        "location": "D-314",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
