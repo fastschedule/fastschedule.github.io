@@ -513,6 +513,11 @@
                         "name": "Algo",
                         "location": "D-316",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Net [ReSch]",
+                        "location": "\u060c",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "D": [
