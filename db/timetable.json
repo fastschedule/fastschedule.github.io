@@ -2916,6 +2916,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "Islamic",
+                        "location": "C-311",
+                        "time": "11:30-01:15"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "D-IT Lab 1",
                         "time": "08:30-11:20"
@@ -4328,6 +4333,11 @@
                 ],
                 "J": [
                     {
+                        "name": "Islamic [ReSch]",
+                        "location": "C-305",
+                        "time": "01:20-03:20"
+                    },
+                    {
                         "name": "PF",
                         "location": "C-307",
                         "time": "08:30-09:50"
@@ -5194,6 +5204,11 @@
                         "name": "Calculus",
                         "location": "C-403",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-403",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -5867,6 +5882,18 @@
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
                     }
+                ],
+                "C": [
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "D-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
+                    }
                 ]
             }
         },
@@ -5972,6 +5999,11 @@
                         "name": "Func Eng",
                         "location": "C-303",
                         "time": "03:30-05:15"
+                    },
+                    {
+                        "name": "Islamic [ReSch]",
+                        "location": "C-305",
+                        "time": "01:30-03:30"
                     },
                     {
                         "name": "Func Eng Lab J1",
