@@ -613,7 +613,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Intro to SE",
+                        "name": "Intro to SE [Cancelled]",
                         "location": "C-402",
                         "time": "03:55-05:15"
                     },
@@ -635,7 +635,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Intro to SE",
+                        "name": "Intro to SE [Cancelled]",
                         "location": "C-402",
                         "time": "02:30-03:50"
                     },
@@ -2441,6 +2441,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "LA [ReSch]",
+                        "location": "D-502",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:30-11:20"
@@ -2616,6 +2621,11 @@
                 ],
                 "A": [
                     {
+                        "name": "DAV [ReSch]",
+                        "location": "D-404",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "OS",
                         "location": "D-411",
                         "time": "08:30-09:50"
@@ -2632,6 +2642,11 @@
                     }
                 ],
                 "B": [
+                    {
+                        "name": "DAV [ReSch]",
+                        "location": "D-404",
+                        "time": "03:55-05:15"
+                    },
                     {
                         "name": "DAV",
                         "location": "D-412",
@@ -3368,6 +3383,64 @@
                     }
                 ]
             },
+            "2023": {
+                "C": [
+                    {
+                        "name": "DAV [ReSch]",
+                        "location": "D-411",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-416",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DAV",
+                        "location": "D-416",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "D-416",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "DW&BI",
+                        "location": "D-414",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-414",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "D-415",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Algo",
+                        "location": "D-415",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DW&BI",
+                        "location": "D-415",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "D-415",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
@@ -3401,59 +3474,6 @@
                         "name": "Intro to DS Lab",
                         "location": "D-IT Lab 4",
                         "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "DW&BI",
-                        "location": "D-414",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-414",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "D-415",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Algo",
-                        "location": "D-415",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DW&BI",
-                        "location": "D-415",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "D-415",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Algo",
-                        "location": "D-416",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DAV",
-                        "location": "D-416",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "D-416",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -3579,11 +3599,6 @@
             },
             "2024": {
                 "B": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-301",
-                        "time": "01:00-02:20"
-                    },
                     {
                         "name": "DLD",
                         "location": "D-501",
@@ -5613,6 +5628,20 @@
                     }
                 ]
             },
+            "2022": {
+                "B": [
+                    {
+                        "name": "Comp Net [ReSch]",
+                        "location": "D-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "C-Rawal 4",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
             "2024": {
                 "B": [
                     {
@@ -5667,6 +5696,22 @@
                         "name": "Func Eng Lab B2",
                         "location": "A-CALL-1",
                         "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Intro to SE [ReSch]",
+                        "location": "C-302",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Intro to SE [ReSch]",
+                        "location": "C-302",
+                        "time": "03:55-05:15"
                     }
                 ]
             },
@@ -5922,11 +5967,6 @@
                         "name": "Func Eng",
                         "location": "C-303",
                         "time": "03:30-05:15"
-                    },
-                    {
-                        "name": "IICT Lab",
-                        "location": "D-IT Lab 4",
-                        "time": "11:30-02:20"
                     },
                     {
                         "name": "Func Eng Lab J1",
@@ -6439,6 +6479,11 @@
                         "name": "DW&BI",
                         "location": "D-414",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DAV [ReSch]",
+                        "location": "D-414",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "C": [
