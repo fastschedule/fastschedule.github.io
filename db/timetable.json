@@ -2250,6 +2250,11 @@
                         "time": "11:30-12:30"
                     },
                     {
+                        "name": "LA [ReSch]",
+                        "location": "D-416",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "Data St Lab",
                         "location": "C-Rawal 1",
                         "time": "02:30-05:15"
