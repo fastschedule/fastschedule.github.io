@@ -1823,7 +1823,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Data St Lab",
+                        "name": "Data St Lab [Cancelled]",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
                     }
@@ -2861,6 +2861,11 @@
                         "name": "AP",
                         "location": "C-303",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Ideology of Pak [ReSch]",
+                        "location": "C-401",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "J": [
@@ -6155,6 +6160,11 @@
                         "name": "Civics [Extended till 02:00]",
                         "location": "D-302",
                         "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-302",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "A": [
@@ -6518,6 +6528,11 @@
                     }
                 ],
                 "B": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-413",
+                        "time": "11:30-12:50"
+                    },
                     {
                         "name": "Discrete",
                         "location": "D-413",
