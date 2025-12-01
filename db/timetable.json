@@ -1540,6 +1540,11 @@
                         "name": "Algo",
                         "location": "D-305",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "A-Karakoram 3",
+                        "time": "08:30-11:20"
                     }
                 ],
                 "E": [
@@ -1581,6 +1586,11 @@
                         "name": "Automata",
                         "location": "D-314",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "C-Margala 3",
+                        "time": "11:30-02:20"
                     }
                 ],
                 "C": [
@@ -2167,6 +2177,11 @@
                         "name": "Discrete",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Islamic [ReSch]",
+                        "location": "C-401",
+                        "time": "02:30-04:15"
                     }
                 ],
                 "B": [
@@ -2565,7 +2580,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Islamic",
+                        "name": "Start from 08:30 Islamic [Extended till 11:20]",
                         "location": "C-401",
                         "time": "09:00-10:45"
                     },
@@ -3731,7 +3746,7 @@
                         "time": "02:30-04:15"
                     },
                     {
-                        "name": "Islamic",
+                        "name": "Start from 08:30 Islamic [Extended till 11:20]",
                         "location": "C-401",
                         "time": "09:00-10:45"
                     },
