@@ -259,7 +259,7 @@
                 ],
                 "E": [
                     {
-                        "name": "LA",
+                        "name": "LA [Cancelled]",
                         "location": "D-303",
                         "time": "02:30-03:50"
                     },
@@ -516,7 +516,7 @@
                     },
                     {
                         "name": "Comp Net [ReSch]",
-                        "location": "\u060c",
+                        "location": "D-502",
                         "time": "11:30-12:50"
                     }
                 ],
@@ -992,7 +992,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "LA",
+                        "name": "LA [Cancelled]",
                         "location": "D-404",
                         "time": "01:00-02:20"
                     },
@@ -1180,6 +1180,11 @@
                         "name": "Cy Sec",
                         "location": "D-414",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cy Sec [ReSch]",
+                        "location": "D-502",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
