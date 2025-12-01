@@ -1740,6 +1740,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Info Sec [ReSch]",
+                        "location": "D-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "Cloud Comp [G-1]",
                         "location": "D-314",
                         "time": "10:00-11:20"
