@@ -1488,6 +1488,11 @@
                         "time": "02:30-03:50"
                     },
                     {
+                        "name": "HPC [ReSch]",
+                        "location": "D-306",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "Comp Net",
                         "location": "D-312",
                         "time": "08:30-09:50"
@@ -1987,7 +1992,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Psychology",
+                        "name": "Psychology [Exended Till 03:50]",
                         "location": "C-405",
                         "time": "01:00-02:45"
                     },
