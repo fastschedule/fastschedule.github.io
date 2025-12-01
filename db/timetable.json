@@ -662,7 +662,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Psychology",
+                        "name": "Psychology [Extended till 05:15]",
                         "location": "C-405",
                         "time": "02:30-04:15"
                     }
@@ -1323,9 +1323,14 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Ideology of Pak",
+                        "name": "Ideology of Pak [Cancelled]",
                         "location": "C-302",
                         "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "Ideology of Pak [ReSch]",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "A": [
@@ -1433,6 +1438,11 @@
                         "name": "Islamic",
                         "location": "C-307",
                         "time": "09:00-10:45"
+                    },
+                    {
+                        "name": "Ideology of Pak [ReSch]",
+                        "location": "C-310",
+                        "time": "02:30-04:15"
                     },
                     {
                         "name": "PF Lab",
@@ -1587,29 +1597,12 @@
                 ]
             },
             "2022": {
-                "B": [
-                    {
-                        "name": "PPIT [ReSch]",
-                        "location": "C-409",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Cloud Comp [G-1]",
-                        "location": "D-312",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Gen AI [G-1]",
-                        "location": "D-313",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "MLOPs [G-1]",
-                        "location": "D-314",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "A": [
+                    {
+                        "name": "NLP [B, G-2)  ReSch]",
+                        "location": "C-408",
+                        "time": "02:30-03:50"
+                    },
                     {
                         "name": "Fund of SPM [G-1]",
                         "location": "D-301",
@@ -1639,6 +1632,28 @@
                         "name": "MLOPs [G-1]",
                         "location": "D-316",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "PPIT [ReSch]",
+                        "location": "C-409",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Cloud Comp [G-1]",
+                        "location": "D-312",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Gen AI [G-1]",
+                        "location": "D-313",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "MLOPs [G-1]",
+                        "location": "D-314",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "K": [
@@ -4178,7 +4193,7 @@
                 ],
                 "G": [
                     {
-                        "name": "Ideology of Pak",
+                        "name": "Ideology of Pak [Cancelled]",
                         "location": "C-302",
                         "time": "02:30-04:15"
                     },
@@ -4200,7 +4215,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Ideology of Pak",
+                        "name": "Ideology of Pak [Cancelled]",
                         "location": "C-303",
                         "time": "11:30-01:15"
                     },
@@ -5768,7 +5783,7 @@
             "2025": {
                 "A": [
                     {
-                        "name": "Ideology of Pak",
+                        "name": "Ideology of Pak [Cancelled]",
                         "location": "C-304",
                         "time": "09:00-10:45"
                     },
