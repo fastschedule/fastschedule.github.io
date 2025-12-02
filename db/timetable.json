@@ -6075,11 +6075,6 @@
                         "name": "Islamic",
                         "location": "C-305",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "PF Lab",
-                        "location": "D-IT Lab 1",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "H": [
@@ -6189,11 +6184,6 @@
                         "name": "Automata",
                         "location": "D-306",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "A-Mehran 1",
-                        "time": "11:30-02:20"
                     }
                 ],
                 "G": [
@@ -7196,11 +7186,6 @@
             "2023": {
                 "A": [
                     {
-                        "name": "Algo",
-                        "location": "C-406",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "S/w Const",
                         "location": "C-407",
                         "time": "08:30-09:50"
@@ -7211,11 +7196,6 @@
                         "name": "S/w Const",
                         "location": "C-407",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "C-407",
-                        "time": "11:30-12:50"
                     }
                 ]
             }
