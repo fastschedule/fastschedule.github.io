@@ -2787,10 +2787,32 @@
                         "time": "01:00-02:20"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "Calculus",
+                        "location": "C-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AP",
+                        "location": "C-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PF",
+                        "location": "C-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Func Eng",
+                        "location": "C-302",
+                        "time": "02:00-03:45"
+                    }
+                ],
                 "G": [
                     {
                         "name": "Func Eng",
-                        "location": "C-301",
+                        "location": "C-302",
                         "time": "11:30-01:15"
                     },
                     {
@@ -2807,28 +2829,6 @@
                         "name": "Func Eng Lab G2",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "AP",
-                        "location": "C-302",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PF",
-                        "location": "C-302",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Calculus",
-                        "location": "C-302",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Func Eng",
-                        "location": "C-302",
-                        "time": "02:00-03:45"
                     }
                 ],
                 "C": [
@@ -2957,6 +2957,28 @@
                 ]
             },
             "2024": {
+                "A": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-301",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "F": [
                     {
                         "name": "LA [ReSch]",
@@ -3021,23 +3043,6 @@
                         "name": "COAL",
                         "location": "D-302",
                         "time": "02:30-03:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Data St",
-                        "location": "D-303",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-303",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "E": [
@@ -3428,7 +3433,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Psychology",
+                        "name": "Psychology [Extended till 05:00]",
                         "location": "D-413",
                         "time": "02:30-04:15"
                     },
