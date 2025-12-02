@@ -1769,7 +1769,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Civics",
+                        "name": "Civics [extend 05:15]",
                         "location": "D-301",
                         "time": "02:30-04:15"
                     }
@@ -6195,11 +6195,6 @@
                         "name": "LA",
                         "location": "D-303",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "C-Rawal 1",
-                        "time": "11:30-02:20"
                     }
                 ],
                 "B": [
@@ -6229,11 +6224,6 @@
                         "name": "Automata",
                         "location": "D-305",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "D-IT Lab 4",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -6373,11 +6363,6 @@
                     {
                         "name": "Automata",
                         "location": "D-316",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "HPC",
-                        "location": "D-402",
                         "time": "01:00-02:20"
                     }
                 ],
