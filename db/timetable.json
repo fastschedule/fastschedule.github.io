@@ -3445,6 +3445,28 @@
                 ]
             },
             "2023": {
+                "B": [
+                    {
+                        "name": "DAV [ReSch]",
+                        "location": "D-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-415",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DW&BI",
+                        "location": "D-415",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "D-415",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "C": [
                     {
                         "name": "DAV [ReSch]",
@@ -3482,23 +3504,6 @@
                         "name": "TBW",
                         "location": "D-415",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Algo",
-                        "location": "D-415",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DW&BI",
-                        "location": "D-415",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "D-415",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -6137,28 +6142,6 @@
                 ]
             },
             "2024": {
-                "C": [
-                    {
-                        "name": "Civics",
-                        "location": "D-301",
-                        "time": "02:30-04:15"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-305",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-306",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "D-306",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "D": [
                     {
                         "name": "Discrete",
@@ -6222,6 +6205,23 @@
                         "name": "Discrete",
                         "location": "D-304",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Data St",
+                        "location": "D-305",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-306",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "D-306",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "F": [
@@ -6564,13 +6564,6 @@
                     {
                         "name": "TBW",
                         "location": "D-416",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "DAV [ReSch]",
-                        "location": "D-501",
                         "time": "01:00-02:20"
                     }
                 ]
@@ -7015,19 +7008,9 @@
                         "name": "Calculus",
                         "location": "C-402",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "C-402",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
-                    {
-                        "name": "Discrete",
-                        "location": "C-402",
-                        "time": "01:00-02:20"
-                    },
                     {
                         "name": "Calculus",
                         "location": "C-403",
