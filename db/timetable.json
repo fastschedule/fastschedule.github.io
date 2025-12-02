@@ -5650,6 +5650,11 @@
                 ],
                 "A": [
                     {
+                        "name": "DAV [ReSch]",
+                        "location": "D-312",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "DW&BI Lab",
                         "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
@@ -6485,44 +6490,6 @@
                     }
                 ]
             },
-            "2023": {
-                "A": [
-                    {
-                        "name": "DAV [ReSch]",
-                        "location": "D-414",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "DAV [ReSch]",
-                        "location": "D-415",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-416",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DAV",
-                        "location": "D-416",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "D-416",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "DAV [ReSch]",
-                        "location": "D-501",
-                        "time": "01:00-02:20"
-                    }
-                ]
-            },
             "2022": {
                 "D": [
                     {
@@ -6565,6 +6532,37 @@
                         "name": "PPIT",
                         "location": "D-501",
                         "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2023": {
+                "C": [
+                    {
+                        "name": "DAV [ReSch]",
+                        "location": "D-415",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-416",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DAV",
+                        "location": "D-416",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "D-416",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "DAV [ReSch]",
+                        "location": "D-501",
+                        "time": "01:00-02:20"
                     }
                 ]
             }
