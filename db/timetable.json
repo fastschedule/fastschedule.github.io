@@ -3363,6 +3363,11 @@
                         "name": "PF",
                         "location": "C-310",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Islamic [ReSch]",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "A": [
@@ -4663,6 +4668,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "Fund of SPM [G-1) ReSch]",
+                        "location": "D-314",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "Cloud Comp [G-1]",
                         "location": "D-315",
                         "time": "10:00-11:20"
@@ -4773,7 +4783,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Islamic",
+                        "name": "Start from 01:30 Islamic [extended till 04:30]",
                         "location": "C-309",
                         "time": "02:00-03:45"
                     },
@@ -6776,6 +6786,11 @@
                         "name": "Discrete",
                         "location": "C-310",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Islamic [ReSch]",
+                        "location": "C-311",
+                        "time": "02:30-04:15"
                     }
                 ],
                 "B": [
