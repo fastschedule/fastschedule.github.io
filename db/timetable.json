@@ -6179,11 +6179,6 @@
                         "name": "LA",
                         "location": "D-303",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-306",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "G": [
@@ -6191,11 +6186,6 @@
                         "name": "LA",
                         "location": "D-303",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-306",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "COAL Lab",
