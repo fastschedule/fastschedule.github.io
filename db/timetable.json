@@ -3393,6 +3393,47 @@
                     }
                 ]
             },
+            "2024": {
+                "A": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-301",
+                        "time": "01:00-02:00"
+                    },
+                    {
+                        "name": "Start from 09:00 Psychology",
+                        "location": "D-413",
+                        "time": "09:30-11:15"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-413",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Discrete",
+                        "location": "D-413",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Psychology",
+                        "location": "D-413",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "Intro to DS Lab",
+                        "location": "D-IT Lab 4",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            },
             "2023": {
                 "C": [
                     {
@@ -3448,42 +3489,6 @@
                         "name": "TBW",
                         "location": "D-415",
                         "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "Start from 09:00 Psychology",
-                        "location": "D-413",
-                        "time": "09:30-11:15"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-413",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Discrete",
-                        "location": "D-413",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Psychology",
-                        "location": "D-413",
-                        "time": "02:30-04:15"
-                    },
-                    {
-                        "name": "Intro to DS Lab",
-                        "location": "D-IT Lab 4",
-                        "time": "08:30-11:20"
                     }
                 ]
             },
@@ -5923,6 +5928,15 @@
                         "name": "Calculus [ReSch]",
                         "location": "D-301",
                         "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "A-Karakoram 3",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
