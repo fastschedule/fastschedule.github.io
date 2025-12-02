@@ -230,7 +230,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "COAL [Cancelled]",
+                        "name": "COAL",
                         "location": "D-303",
                         "time": "11:30-12:50"
                     },
@@ -259,7 +259,7 @@
                 ],
                 "E": [
                     {
-                        "name": "LA [Cancelled]",
+                        "name": "LA",
                         "location": "D-303",
                         "time": "02:30-03:50"
                     },
@@ -301,11 +301,6 @@
                         "name": "Automata",
                         "location": "D-305",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Discrete [ReSch]",
-                        "location": "D-305",
-                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Data St Lab",
@@ -505,7 +500,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Automata [Cancelled]",
+                        "name": "Automata",
                         "location": "D-316",
                         "time": "08:30-09:50"
                     },
@@ -613,7 +608,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Intro to SE [Cancelled]",
+                        "name": "Intro to SE",
                         "location": "C-402",
                         "time": "03:55-05:15"
                     },
@@ -635,7 +630,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Intro to SE [Cancelled]",
+                        "name": "Intro to SE",
                         "location": "C-402",
                         "time": "02:30-03:50"
                     },
@@ -662,7 +657,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Psychology [Extended till 05:15]",
+                        "name": "Psychology",
                         "location": "C-405",
                         "time": "02:30-04:15"
                     }
@@ -934,7 +929,7 @@
                         "time": "11:30-02:20"
                     },
                     {
-                        "name": "IICT Lab [Cancelled]",
+                        "name": "IICT Lab",
                         "location": "D-IT Lab 3",
                         "time": "02:30-05:15"
                     }
@@ -1009,7 +1004,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Prog for AI [Cancelled]",
+                        "name": "Prog for AI",
                         "location": "D-405",
                         "time": "10:00-11:20"
                     },
@@ -1175,11 +1170,6 @@
                         "name": "Cy Sec",
                         "location": "D-414",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cy Sec [ReSch]",
-                        "location": "D-502",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -1247,11 +1237,6 @@
                         "name": "Sec S/w Design",
                         "location": "D-501",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Info Assur [ReSch]",
-                        "location": "D-501",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Info Assur",
