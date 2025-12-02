@@ -6137,11 +6137,6 @@
                 ],
                 "D": [
                     {
-                        "name": "Data St",
-                        "location": "D-302",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Discrete",
                         "location": "D-302",
                         "time": "10:00-11:20"
@@ -6251,11 +6246,6 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "DIP [G-2]",
-                        "location": "D-312",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "NLP [G-2]",
                         "location": "D-313",
                         "time": "10:00-11:20"
@@ -6286,11 +6276,6 @@
                         "name": "Info Sec",
                         "location": "D-306",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "DIP [G-2]",
-                        "location": "D-312",
-                        "time": "01:00-02:20"
                     },
                     {
                         "name": "NLP [G-2]",
@@ -6330,11 +6315,6 @@
                         "name": "Gen AI [G-1]",
                         "location": "D-312",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-312",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "Info Sec",
@@ -6523,11 +6503,6 @@
             "2023": {
                 "A": [
                     {
-                        "name": "DW&BI",
-                        "location": "D-414",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "DAV [ReSch]",
                         "location": "D-414",
                         "time": "10:00-11:20"
@@ -6556,11 +6531,6 @@
                     }
                 ],
                 "B": [
-                    {
-                        "name": "DW&BI",
-                        "location": "D-415",
-                        "time": "10:00-11:20"
-                    },
                     {
                         "name": "DAV [ReSch]",
                         "location": "D-501",
@@ -7093,11 +7063,6 @@
                         "name": "S/w Re-Engg",
                         "location": "C-405",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fund of SPM",
-                        "location": "C-407",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "G": [
@@ -7165,11 +7130,6 @@
                         "name": "Info Sec",
                         "location": "D-301",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fund of SPM",
-                        "location": "D-301",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
