@@ -6240,11 +6240,6 @@
             "2022": {
                 "A": [
                     {
-                        "name": "User Exp [G-2]",
-                        "location": "D-304",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "Data Mining [G-2]",
                         "location": "D-305",
                         "time": "01:00-02:20"
@@ -6367,11 +6362,6 @@
                         "name": "Algo",
                         "location": "D-316",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-316",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "C": [
@@ -6404,11 +6394,6 @@
                     }
                 ],
                 "D": [
-                    {
-                        "name": "Automata",
-                        "location": "D-401",
-                        "time": "11:30-12:50"
-                    },
                     {
                         "name": "Algo",
                         "location": "D-401",
@@ -7118,11 +7103,6 @@
                         "name": "Info Sec",
                         "location": "C-409",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "S/w Re-Engg",
-                        "location": "C-409",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "F": [
@@ -7144,20 +7124,22 @@
                         "time": "10:00-11:20"
                     }
                 ]
-            },
-            "2023": {
-                "A": [
+            }
+        }
+    },
+    "Monday (08-12-2025)": {
+        "BS CS": {
+            "2024": {
+                "E": [
                     {
-                        "name": "S/w Const",
-                        "location": "C-407",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "S/w Const",
-                        "location": "C-407",
+                        "name": "Discrete [&G) ReSch]",
+                        "location": "C-301",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Discrete [&G) ReSch]",
+                        "location": "C-301",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
