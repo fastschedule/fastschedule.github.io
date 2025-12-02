@@ -3052,6 +3052,11 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "LA [ReSch]",
+                        "location": "D-502",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Data St Lab",
                         "location": "A-Mehran 1",
                         "time": "11:30-02:20"
@@ -6388,6 +6393,11 @@
                         "name": "Comp Net Lab",
                         "location": "C-Margala 4",
                         "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "C-Rawal 1",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "E": [
