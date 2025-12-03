@@ -2064,6 +2064,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "DAV [ReSch]",
+                        "location": "D-401",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "DW&BI",
                         "location": "D-413",
                         "time": "01:00-02:20"
@@ -3810,19 +3815,9 @@
             "2023": {
                 "C": [
                     {
-                        "name": "DAV [ReSch]",
-                        "location": "D-415",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Algo",
                         "location": "D-416",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DAV",
-                        "location": "D-416",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "TBW",
