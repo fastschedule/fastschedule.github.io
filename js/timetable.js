@@ -1,7 +1,5 @@
 let timetableData = {};
 let isLoading = false;
-//saturday label
-let saturdayLabels = []; // Changed to array to hold all Saturday keys
 
 function showLoading() {
     isLoading = true;
@@ -22,12 +20,6 @@ async function loadTimetableData() {
         var response = await fetch("db/timetable.json?v=" + Date.now());
         response = await response.json();
         timetableData = response;
-        saturdayLabels = []; // Reset array
-        for (let key of Object.keys(timetableData)) {
-            if (key.startsWith("Saturday")) {
-                saturdayLabels.push(key);
-            }
-        }
         loadDays(); // New function to populate day dropdown
         loadDepartments();
         loadBatchYear();
@@ -50,20 +42,50 @@ const getTimetableBtn = document.getElementById("getTimetableBtn");
 function loadDays() {
     daySelect.innerHTML = "<option>Select Day</option>";
     
-    // Add static weekdays
-    const staticDays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
-    staticDays.forEach(day => {
+    const days = Object.keys(timetableData);
+
+    const dayOrder = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"];
+
+    days.sort((a, b) => {
+        const aLower = a.toLowerCase();
+        const bLower = b.toLowerCase();
+
+        let aIndex = -1;
+        let bIndex = -1;
+
+        for (let i = 0; i < dayOrder.length; i++) {
+            if (aLower.includes(dayOrder[i])) {
+                aIndex = i;
+                break;
+            }
+        }
+
+        for (let i = 0; i < dayOrder.length; i++) {
+            if (bLower.includes(dayOrder[i])) {
+                bIndex = i;
+                break;
+            }
+        }
+
+        if (aIndex !== -1 && bIndex !== -1) {
+            if (aIndex !== bIndex) {
+                return aIndex - bIndex;
+            }
+            // If they are the same day (e.g. "Saturday" and "Saturday (makeup)")
+            return a.length - b.length;
+        }
+
+        if (aIndex !== -1) return -1;
+        if (bIndex !== -1) return 1;
+
+        // Fallback for non-day keys
+        return a.localeCompare(b);
+    });
+
+    days.forEach(day => {
         const option = document.createElement("option");
         option.value = day;
         option.textContent = day;
-        daySelect.appendChild(option);
-    });
-    
-    // Add all Saturday options from JSON
-    saturdayLabels.forEach(satLabel => {
-        const option = document.createElement("option");
-        option.value = satLabel;
-        option.textContent = satLabel;
         daySelect.appendChild(option);
     });
 }
@@ -89,7 +111,13 @@ function timeToNumber(timeStr, isStart = true) {
 }
 
 function loadDepartments() {
-    const departments = Object.keys(timetableData["Monday"]);
+    const dayKeys = Object.keys(timetableData);
+    if (dayKeys.length === 0) {
+        console.error("Timetable data is empty. Cannot load departments.");
+        return;
+    }
+    const firstDayKey = dayKeys[0];
+    const departments = Object.keys(timetableData[firstDayKey]);
     departmentSelect.innerHTML = "<option>Select Department</option>";
     departments.forEach(department => {
         const option = document.createElement("option");
@@ -111,7 +139,7 @@ function loadSections() {
     sectionSelect.innerHTML = "<option>Select Section</option>";
     if (department && batchYear) {
         const allSections = new Set();
-        const daysToCheck = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", ...saturdayLabels];
+        const daysToCheck = Object.keys(timetableData);
         
         for (let day of daysToCheck) {
             if (timetableData[day] && timetableData[day][department] && timetableData[day][department][batchYear]) {
@@ -220,10 +248,12 @@ function setDefaultDay() {
         currentDayIndex = 1;
     }
     const currentDayName = dayNames[currentDayIndex];
+    
+    const saturdayKeys = Object.keys(timetableData).filter(key => key.toLowerCase().includes("saturday"));
 
     // If today is Saturday, select the last Saturday option from dropdown
-    if (currentDayName === "Saturday" && saturdayLabels.length > 0) {
-        daySelect.value = saturdayLabels[saturdayLabels.length - 1];
+    if (currentDayName === "Saturday" && saturdayKeys.length > 0) {
+        daySelect.value = saturdayKeys[saturdayKeys.length - 1];
     } else {
         daySelect.value = currentDayName;
     }
