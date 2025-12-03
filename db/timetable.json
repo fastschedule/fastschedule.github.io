@@ -3195,15 +3195,6 @@
                         "time": "05:20-08:05"
                     }
                 ]
-            },
-            "2023": {
-                "G": [
-                    {
-                        "name": "Comp Net [ReSch]",
-                        "location": "D-303",
-                        "time": "10:00-11:20"
-                    }
-                ]
             }
         },
         "BS CY": {
@@ -3697,6 +3688,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Comp Net [ReSch]",
+                        "location": "D-402",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "Comp Net",
                         "location": "D-403",
                         "time": "10:00-11:20"
@@ -3873,11 +3869,6 @@
                         "name": "Islamic",
                         "location": "C-308",
                         "time": "03:00-04:45"
-                    },
-                    {
-                        "name": "PF Lab",
-                        "location": "D-IT Lab 2",
-                        "time": "11:30-02:20"
                     },
                     {
                         "name": "IICT Lab",
@@ -4238,11 +4229,6 @@
                         "name": "LA",
                         "location": "C-403",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "C-403",
-                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Intro to SE [ReSch]",
