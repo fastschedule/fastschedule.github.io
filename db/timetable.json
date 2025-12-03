@@ -3591,7 +3591,7 @@
                     {
                         "name": "Ideology of Pak [ReSch]",
                         "location": "C-307",
-                        "time": "02:30-04:15"
+                        "time": "02:30-05:15"
                     },
                     {
                         "name": "Func Eng",
@@ -7138,25 +7138,28 @@
                 ]
             },
             "2024": {
-                "B": [
+                "A": [
                     {
                         "name": "Prog for AI",
                         "location": "C-307",
                         "time": "08:30-09:50"
-                    }
-                ],
-                "A": [
+                    },
                     {
                         "name": "Prog for AI",
                         "location": "C-307",
                         "time": "10:00-11:20"
                     }
                 ],
-                "C": [
+                "B": [
                     {
                         "name": "Prog for AI",
                         "location": "C-307",
-                        "time": "11:30-12:50"
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Prog for AI",
+                        "location": "C-307",
+                        "time": "02:30-03:50"
                     }
                 ]
             }
@@ -7175,12 +7178,24 @@
                 "B": [
                     {
                         "name": "Intro to DS",
-                        "location": "C-307",
+                        "location": "C-309",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Intro to DS",
+                        "location": "C-309",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Intro to DS",
+                        "location": "C-309",
                         "time": "02:30-03:50"
                     },
                     {
                         "name": "Intro to DS",
-                        "location": "C-307",
+                        "location": "C-309",
                         "time": "03:55-05:15"
                     }
                 ]
@@ -7208,41 +7223,16 @@
     "Tuesday (09-12-2025)": {
         "BS AI": {
             "2024": {
-                "B": [
-                    {
-                        "name": "Prog for AI",
-                        "location": "C-301",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Prog for AI",
-                        "location": "C-301",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "C": [
                     {
                         "name": "Prog for AI",
                         "location": "C-301",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            }
-        },
-        "BS DS": {
-            "2024": {
-                "A": [
-                    {
-                        "name": "Intro to DS",
-                        "location": "C-301",
-                        "time": "02:30-03:50"
+                        "time": "10:00-11:20"
                     },
                     {
-                        "name": "Intro to DS",
+                        "name": "Prog for AI",
                         "location": "C-301",
-                        "time": "03:55-05:15"
+                        "time": "11:30-12:50"
                     }
                 ]
             }
