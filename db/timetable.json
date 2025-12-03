@@ -1886,28 +1886,6 @@
                 ]
             },
             "2022": {
-                "B": [
-                    {
-                        "name": "PPIT [ReSch]",
-                        "location": "D-305",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Gen AI [G-1]",
-                        "location": "D-313",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "MLOPs [G-1]",
-                        "location": "D-314",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cloud Comp [G-1]",
-                        "location": "D-315",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "A": [
                     {
                         "name": "Ethical Hack [G-1]",
@@ -1962,6 +1940,23 @@
                         "name": "Deep Learning [G-2]",
                         "location": "D-313",
                         "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Gen AI [G-1]",
+                        "location": "D-313",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "MLOPs [G-1]",
+                        "location": "D-314",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cloud Comp [G-1]",
+                        "location": "D-315",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "H": [
@@ -3550,11 +3545,6 @@
                     }
                 ],
                 "B": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-306",
-                        "time": "02:30-03:50"
-                    },
                     {
                         "name": "Info Sec",
                         "location": "D-306",
