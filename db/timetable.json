@@ -1760,6 +1760,33 @@
                 ]
             },
             "2023": {
+                "A": [
+                    {
+                        "name": "SMD",
+                        "location": "C-406",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-306",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-306",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "HPC",
+                        "location": "D-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Game Design [Cancelled]",
+                        "location": "C-Margala 3",
+                        "time": "02:30-03:50"
+                    }
+                ],
                 "E": [
                     {
                         "name": "Algo",
@@ -1803,6 +1830,11 @@
                 ],
                 "B": [
                     {
+                        "name": "SMD",
+                        "location": "D-305",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "HPC",
                         "location": "D-305",
                         "time": "02:30-03:50"
@@ -1821,38 +1853,6 @@
                         "name": "Automata [ReSch]",
                         "location": "D-413",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "SMD",
-                        "location": "C-110",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "SDA",
-                        "location": "D-306",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-306",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "HPC",
-                        "location": "D-311",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "SMD",
-                        "location": "C-110",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Game Design",
-                        "location": "C-Margala 3",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "G": [
@@ -1918,7 +1918,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Game Design [G-3]",
+                        "name": "Game Design [G-3) Cancelled]",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
                     }
@@ -4347,6 +4347,29 @@
                         "name": "Discrete [&G) ReSch]",
                         "location": "C-301",
                         "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2022": {
+                "A": [
+                    {
+                        "name": "Game Design [G-3]",
+                        "location": "D-301",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Game Design",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Game Design",
+                        "location": "D-301",
+                        "time": "01:00-02:20"
                     }
                 ]
             }
