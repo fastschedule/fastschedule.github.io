@@ -4141,11 +4141,6 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Cloud MLOps",
-                        "location": "D-411",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Comp Vision",
                         "location": "D-412",
                         "time": "11:30-12:50"
@@ -4164,11 +4159,6 @@
                     }
                 ],
                 "B": [
-                    {
-                        "name": "Cloud MLOps",
-                        "location": "D-412",
-                        "time": "01:00-02:20"
-                    },
                     {
                         "name": "Agentic AI",
                         "location": "D-412",
