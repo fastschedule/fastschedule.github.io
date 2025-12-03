@@ -3160,6 +3160,18 @@
                         "time": "02:30-04:15"
                     }
                 ],
+                "H": [
+                    {
+                        "name": "Func Eng Lab H2 [ReSch]",
+                        "location": "C-304",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "D-315",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Calculus [ReSch]",
@@ -3172,13 +3184,6 @@
                         "name": "Calculus [ReSch]",
                         "location": "D-315",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "H": [
-                    {
-                        "name": "Calculus [ReSch]",
-                        "location": "D-315",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -3398,11 +3403,6 @@
                     {
                         "name": "Func Eng Lab H1",
                         "location": "A-CALL-2",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab H2",
-                        "location": "A-CALL-3",
                         "time": "08:30-11:20"
                     }
                 ],
