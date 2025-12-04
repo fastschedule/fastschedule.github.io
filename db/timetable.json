@@ -1564,6 +1564,13 @@
                         "location": "A-CALL-1",
                         "time": "02:30-05:15"
                     }
+                ],
+                "D": [
+                    {
+                        "name": "Islamic [ReSch]",
+                        "location": "D-302",
+                        "time": "09:00-11:00"
+                    }
                 ]
             },
             "2024": {
@@ -2542,7 +2549,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Islamic [ReSch]",
+                        "name": "Islamic [ReSch extended 05:15]",
                         "location": "C-311",
                         "time": "02:30-04:15"
                     }
