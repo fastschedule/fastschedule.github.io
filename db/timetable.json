@@ -2720,11 +2720,6 @@
                         "name": "Info Sec",
                         "location": "C-405",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Fund of SPM",
-                        "location": "C-405",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "A": [
@@ -2740,11 +2735,6 @@
                     }
                 ],
                 "E": [
-                    {
-                        "name": "Fund of SPM",
-                        "location": "C-408",
-                        "time": "11:30-12:50"
-                    },
                     {
                         "name": "Info Sec",
                         "location": "C-408",
