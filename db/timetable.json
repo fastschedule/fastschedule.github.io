@@ -1942,21 +1942,9 @@
                 ],
                 "E": [
                     {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-304",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Islamic",
                         "location": "C-305",
                         "time": "11:30-01:15"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-304",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "H": [
@@ -2164,11 +2152,6 @@
                         "name": "Info Sec",
                         "location": "D-313",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-313",
-                        "time": "03:55-05:15"
                     }
                 ]
             },
@@ -2825,6 +2808,22 @@
                         "name": "Discrete [&G) ReSch]",
                         "location": "C-301",
                         "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2025": {
+                "E": [
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-302",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-302",
+                        "time": "03:55-05:15"
                     }
                 ]
             },
