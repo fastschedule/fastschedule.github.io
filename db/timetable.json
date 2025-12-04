@@ -2680,18 +2680,6 @@
                 ]
             },
             "2024": {
-                "A": [
-                    {
-                        "name": "LA",
-                        "location": "C-403",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Intro to SE [ReSch]",
-                        "location": "C-404",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "C": [
                     {
                         "name": "DLD",
@@ -2704,16 +2692,18 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "B": [
+                "A": [
                     {
-                        "name": "LA",
+                        "name": "Intro to SE [ReSch]",
                         "location": "C-404",
-                        "time": "01:00-02:20"
-                    },
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
                     {
                         "name": "Intro to SE [ReSch]",
                         "location": "C-406",
-                        "time": "03:55-05:15"
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "DLD Lab",
