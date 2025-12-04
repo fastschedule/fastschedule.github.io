@@ -104,7 +104,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PF",
+                        "name": "PF [Cancelled]",
                         "location": "C-304",
                         "time": "10:00-11:20"
                     },
@@ -160,7 +160,7 @@
                         "time": "01:20-03:20"
                     },
                     {
-                        "name": "PF",
+                        "name": "PF [Cancelled]",
                         "location": "C-307",
                         "time": "08:30-09:50"
                     },
@@ -1872,11 +1872,6 @@
                 ],
                 "C": [
                     {
-                        "name": "PF",
-                        "location": "C-303",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Calculus",
                         "location": "C-303",
                         "time": "10:00-11:20"
@@ -1978,11 +1973,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Civics [Extended till 02:00]",
-                        "location": "D-302",
-                        "time": "11:30-01:15"
-                    },
-                    {
                         "name": "LA [ReSch]",
                         "location": "D-302",
                         "time": "02:30-03:50"
@@ -2072,11 +2062,6 @@
                         "name": "Data Mining [G-2]",
                         "location": "D-305",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-305",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "PPIT",
@@ -2288,18 +2273,6 @@
                 ]
             },
             "2024": {
-                "A": [
-                    {
-                        "name": "Start from 09:00 Psychology",
-                        "location": "D-413",
-                        "time": "09:30-11:15"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "Rawal 3 (B-232)",
-                        "time": "02:30-05:15"
-                    }
-                ],
                 "B": [
                     {
                         "name": "LA [ReSch]",
@@ -2310,11 +2283,13 @@
                         "name": "Discrete",
                         "location": "D-413",
                         "time": "01:00-02:20"
-                    },
+                    }
+                ],
+                "A": [
                     {
-                        "name": "Psychology",
-                        "location": "D-413",
-                        "time": "02:30-04:15"
+                        "name": "Data St Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -2411,11 +2386,6 @@
                     {
                         "name": "Func Eng Lab B1",
                         "location": "A-Mehran 2",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab B2 [Cancelled]",
-                        "location": "A-CALL-1",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -2630,11 +2600,6 @@
                         "name": "KRR",
                         "location": "D-403",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "D-403",
-                        "time": "01:00-02:20"
                     },
                     {
                         "name": "ML Lab",
