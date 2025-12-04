@@ -1806,6 +1806,27 @@
                     }
                 ]
             },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Web [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Web [ReSch]",
+                        "location": "C-305",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "A-Karakoram 3",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
@@ -1819,15 +1840,6 @@
                         "name": "Cyber Sec [ReSch]",
                         "location": "D-316",
                         "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2023": {
-                "B": [
-                    {
-                        "name": "OS Lab [ReSch]",
-                        "location": "A-Karakoram 3",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -2407,11 +2419,6 @@
             "2024": {
                 "B": [
                     {
-                        "name": "DLD",
-                        "location": "D-501",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "LA",
                         "location": "D-501",
                         "time": "10:00-11:20"
@@ -2437,11 +2444,6 @@
                         "name": "LA",
                         "location": "D-503",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "D-503",
-                        "time": "10:00-11:20"
                     }
                 ]
             },
