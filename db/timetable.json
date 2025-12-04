@@ -117,6 +117,11 @@
                         "name": "Func Eng",
                         "location": "C-304",
                         "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "Func Eng Lab H1 [ReSch]",
+                        "location": "C-307",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "B": [
@@ -2040,11 +2045,6 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "COAL",
-                        "location": "D-306",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Discrete",
                         "location": "D-306",
                         "time": "01:00-02:20"
@@ -2193,11 +2193,6 @@
                     }
                 ],
                 "B": [
-                    {
-                        "name": "Automata",
-                        "location": "D-401",
-                        "time": "08:30-09:50"
-                    },
                     {
                         "name": "Algo",
                         "location": "D-401",
