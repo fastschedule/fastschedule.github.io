@@ -2514,19 +2514,7 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "Info Assur",
-                        "location": "D-506",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "C": [
-                    {
-                        "name": "Info Assur",
-                        "location": "D-506",
-                        "time": "01:00-02:20"
-                    },
                     {
                         "name": "Sec S/w Design Lab",
                         "location": "C-Rawal 4",
