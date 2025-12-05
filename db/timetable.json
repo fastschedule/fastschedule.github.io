@@ -594,11 +594,6 @@
                         "name": "LA",
                         "location": "D-305",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Automata",
-                        "location": "D-305",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -994,11 +989,6 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Calculus",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Discrete",
                         "location": "C-310",
                         "time": "01:00-02:20"
@@ -1144,11 +1134,6 @@
                         "name": "PF",
                         "location": "C-402",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Calculus",
-                        "location": "C-402",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "C": [
