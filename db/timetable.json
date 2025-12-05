@@ -392,30 +392,6 @@
     "Saturday December 06": {
         "BS CS": {
             "2025": {
-                "B": [
-                    {
-                        "name": "AP",
-                        "location": "C-301",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Func Eng",
-                        "location": "C-302",
-                        "time": "02:00-03:45"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "AP",
-                        "location": "C-301",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Ideology of Pak",
-                        "location": "C-301",
-                        "time": "02:30-04:15"
-                    }
-                ],
                 "G": [
                     {
                         "name": "Func Eng",
@@ -433,11 +409,25 @@
                         "time": "02:30-05:15"
                     }
                 ],
+                "A": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-301",
+                        "time": "02:30-04:15"
+                    }
+                ],
                 "D": [
                     {
                         "name": "PF",
                         "location": "C-302",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Func Eng",
+                        "location": "C-302",
+                        "time": "02:00-03:45"
                     }
                 ],
                 "E": [
@@ -480,13 +470,6 @@
                 ]
             },
             "2024": {
-                "G": [
-                    {
-                        "name": "LA",
-                        "location": "C-302",
-                        "time": "03:55-05:15"
-                    }
-                ],
                 "D": [
                     {
                         "name": "LA [ReSch]",
@@ -566,18 +549,6 @@
                         "time": "10:00-11:20"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "Info Sec",
-                        "location": "C-311",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Gen AI [G-1]",
-                        "location": "D-304",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "E": [
                     {
                         "name": "Info Sec",
@@ -595,6 +566,13 @@
                         "name": "Gen AI [G-1]",
                         "location": "D-304",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Gen AI [G-1]",
+                        "location": "D-304",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "A": [
@@ -1028,20 +1006,6 @@
                 ]
             },
             "2022": {
-                "C": [
-                    {
-                        "name": "PPIT",
-                        "location": "C-311",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "PPIT",
-                        "location": "C-402",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "A": [
                     {
                         "name": "Deep Learning",
