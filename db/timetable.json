@@ -416,13 +416,6 @@
                         "time": "02:30-04:15"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "PF",
-                        "location": "C-302",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Func Eng",
@@ -924,27 +917,6 @@
                     }
                 ]
             },
-            "2022": {
-                "D": [
-                    {
-                        "name": "Comp Vision",
-                        "location": "D-311",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Comp Vision",
-                        "location": "D-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Comp Vision Lab",
-                        "location": "C-Rawal 4",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            },
             "2024": {
                 "A": [
                     {
@@ -970,6 +942,15 @@
                         "name": "LA",
                         "location": "D-313",
                         "time": "01:00-02:20"
+                    }
+                ]
+            },
+            "2022": {
+                "A": [
+                    {
+                        "name": "Comp Vision Lab",
+                        "location": "C-Rawal 4",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
