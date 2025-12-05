@@ -217,7 +217,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "ML Lab",
+                        "name": "ML Lab [Cancelled]",
                         "location": "D-IT Lab 2",
                         "time": "02:30-05:15"
                     }
@@ -392,6 +392,18 @@
     "Saturday December 06": {
         "BS CS": {
             "2025": {
+                "B": [
+                    {
+                        "name": "AP",
+                        "location": "C-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Func Eng",
+                        "location": "C-302",
+                        "time": "02:00-03:45"
+                    }
+                ],
                 "A": [
                     {
                         "name": "AP",
@@ -426,16 +438,21 @@
                         "time": "02:30-05:15"
                     }
                 ],
-                "B": [
+                "D": [
                     {
-                        "name": "AP",
+                        "name": "Calculus",
                         "location": "C-302",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Func Eng",
+                        "name": "PF",
                         "location": "C-302",
-                        "time": "02:00-03:45"
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AP",
+                        "location": "C-302",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -443,23 +460,6 @@
                         "name": "Calculus",
                         "location": "C-303",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Calculus",
-                        "location": "C-304",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PF",
-                        "location": "C-304",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AP",
-                        "location": "C-304",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "E": [
