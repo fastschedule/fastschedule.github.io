@@ -1530,7 +1530,7 @@
                     {
                         "name": "Islamic",
                         "location": "C-301",
-                        "time": "02:30-04:15"
+                        "time": "02:00-03:45"
                     },
                     {
                         "name": "Ideology of Pak",
@@ -2330,11 +2330,6 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Islamic",
-                        "location": "C-308",
-                        "time": "11:00-12:45"
-                    },
-                    {
                         "name": "Calculus",
                         "location": "C-308",
                         "time": "01:00-02:20"
@@ -2358,11 +2353,6 @@
                     }
                 ],
                 "A": [
-                    {
-                        "name": "Islamic",
-                        "location": "C-308",
-                        "time": "03:00-04:45"
-                    },
                     {
                         "name": "IICT Lab",
                         "location": "A-Mehran 1",
@@ -2827,6 +2817,20 @@
             }
         },
         "BS AI": {
+            "2022": {
+                "B": [
+                    {
+                        "name": "Comp Vision [ReSch]",
+                        "location": "C-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Vision [ReSch]",
+                        "location": "C-302",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2025": {
                 "C": [
                     {
@@ -2931,6 +2935,20 @@
                     {
                         "name": "Prog for AI",
                         "location": "C-301",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2022": {
+                "C": [
+                    {
+                        "name": "Comp Vision [ReSch]",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Vision [ReSch]",
+                        "location": "C-303",
                         "time": "11:30-12:50"
                     }
                 ]
