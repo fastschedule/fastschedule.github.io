@@ -438,11 +438,6 @@
                         "name": "PF",
                         "location": "C-302",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AP",
-                        "location": "C-302",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "E": [
@@ -470,11 +465,6 @@
                     }
                 ],
                 "Z": [
-                    {
-                        "name": "AP [International Students]",
-                        "location": "C-304",
-                        "time": "10:00-11:20"
-                    },
                     {
                         "name": "IICT [International Students]",
                         "location": "Rawal 3 (B-232)",
