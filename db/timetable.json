@@ -1228,25 +1228,11 @@
                         "time": "01:00-02:20"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "Info Sec",
-                        "location": "C-409",
-                        "time": "08:30-09:50"
-                    }
-                ],
                 "F": [
                     {
                         "name": "S/w Re-Engg",
                         "location": "C-409",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
                     }
                 ]
             }
