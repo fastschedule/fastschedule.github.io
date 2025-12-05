@@ -771,11 +771,6 @@
                         "name": "Calculus",
                         "location": "C-309",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AP",
-                        "location": "C-309",
-                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -1234,13 +1229,6 @@
                         "time": "10:00-11:20"
                     }
                 ],
-                "G": [
-                    {
-                        "name": "Info Sec",
-                        "location": "C-405",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "A": [
                     {
                         "name": "S/w Re-Engg",
@@ -1272,11 +1260,6 @@
                         "name": "S/w Re-Engg",
                         "location": "C-409",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "C-409",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
