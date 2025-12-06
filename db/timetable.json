@@ -437,7 +437,7 @@
                         "time": "01:30-03:30"
                     },
                     {
-                        "name": "Func Eng Lab J1",
+                        "name": "Func Eng Lab J1 [NC]",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:20"
                     },
@@ -456,7 +456,7 @@
                 ],
                 "H": [
                     {
-                        "name": "Func Eng Lab H1",
+                        "name": "Func Eng Lab H1 [NC]",
                         "location": "A-CALL-2",
                         "time": "08:30-11:20"
                     }
@@ -594,7 +594,7 @@
             "2023": {
                 "F": [
                     {
-                        "name": "Comp Net",
+                        "name": "Comp Net [NC]",
                         "location": "D-301",
                         "time": "08:30-09:50"
                     },
@@ -641,7 +641,7 @@
             "2025": {
                 "C": [
                     {
-                        "name": "Discrete",
+                        "name": "Discrete [NC]",
                         "location": "C-303",
                         "time": "08:30-09:50"
                     },
@@ -665,7 +665,7 @@
                 ],
                 "A": [
                     {
-                        "name": "IICT Lab",
+                        "name": "IICT Lab [NC]",
                         "location": "A-Mehran 1",
                         "time": "08:30-11:20"
                     }
@@ -700,7 +700,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "DB Lab",
+                        "name": "DB Lab [NC]",
                         "location": "C-Margala 1",
                         "time": "08:30-11:20"
                     }
@@ -756,7 +756,7 @@
             "2025": {
                 "D": [
                     {
-                        "name": "PF",
+                        "name": "PF [NC]",
                         "location": "C-304",
                         "time": "08:30-09:50"
                     }
@@ -791,7 +791,7 @@
                 ],
                 "A": [
                     {
-                        "name": "S/w Re-Engg",
+                        "name": "S/w Re-Engg [NC]",
                         "location": "C-311",
                         "time": "08:30-09:50"
                     }
@@ -873,7 +873,7 @@
                         "time": "11:30-01:15"
                     },
                     {
-                        "name": "PF Lab",
+                        "name": "PF Lab [NC]",
                         "location": "D-IT Lab 3",
                         "time": "08:30-11:20"
                     }
@@ -883,12 +883,12 @@
                 "A": [
                     {
                         "name": "KRR",
-                        "location": "C-401",
+                        "location": "D-301",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "TBW [ReSch]",
-                        "location": "C-401",
+                        "location": "D-301",
                         "time": "01:00-02:20"
                     }
                 ],
