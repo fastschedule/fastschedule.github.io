@@ -611,7 +611,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Comp Net",
+                        "name": "Comp Net [NC]",
                         "location": "D-302",
                         "time": "10:00-11:20"
                     }
@@ -768,7 +768,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PF",
+                        "name": "PF [NC]",
                         "location": "C-308",
                         "time": "10:00-11:20"
                     }
@@ -814,7 +814,7 @@
             "2024": {
                 "A": [
                     {
-                        "name": "Intro to SE [ReSch]",
+                        "name": "Intro to SE [ReSch NC]",
                         "location": "C-310",
                         "time": "10:00-11:20"
                     }
@@ -952,7 +952,7 @@
             "2025": {
                 "A": [
                     {
-                        "name": "PF",
+                        "name": "PF [NC]",
                         "location": "C-307",
                         "time": "10:00-11:20"
                     },
