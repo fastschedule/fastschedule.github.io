@@ -37,13 +37,13 @@
                 ],
                 "G": [
                     {
-                        "name": "Func Eng Lab G1",
-                        "location": "A-Mehran 2",
+                        "name": "Func Eng Lab G2",
+                        "location": "D-IT Lab 4",
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab G2",
-                        "location": "A-CALL-3",
+                        "name": "Func Eng Lab G1",
+                        "location": "C-Margala 3",
                         "time": "02:30-05:15"
                     }
                 ]
