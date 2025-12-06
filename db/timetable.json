@@ -604,13 +604,6 @@
                         "time": "10:00-11:20"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "Automata",
-                        "location": "D-301",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "E": [
                     {
                         "name": "SDA",
@@ -999,11 +992,6 @@
                         "name": "Deep Learning",
                         "location": "C-406",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "C-406",
-                        "time": "03:55-05:15"
                     }
                 ]
             },
