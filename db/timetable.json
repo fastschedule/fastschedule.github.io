@@ -470,7 +470,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Discrete",
+                        "name": "Discrete [NC]",
                         "location": "C-405",
                         "time": "10:00-11:20"
                     }
@@ -489,7 +489,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "COAL",
+                        "name": "COAL [NC]",
                         "location": "C-402",
                         "time": "10:00-11:20"
                     },
@@ -733,12 +733,12 @@
                 ],
                 "B": [
                     {
-                        "name": "App ML",
+                        "name": "App ML [NC]",
                         "location": "C-408",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Info Assur",
+                        "name": "Info Assur [NC]",
                         "location": "C-409",
                         "time": "10:00-11:20"
                     }
