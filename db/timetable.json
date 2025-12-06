@@ -484,7 +484,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Data St",
+                        "name": "Data St [NC]",
                         "location": "C-402",
                         "time": "08:30-09:50"
                     },
@@ -681,7 +681,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Data St",
+                        "name": "Data St [Cancelled]",
                         "location": "C-404",
                         "time": "01:00-02:20"
                     }
@@ -763,7 +763,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Calculus",
+                        "name": "Calculus [Cancelled]",
                         "location": "C-308",
                         "time": "08:30-09:50"
                     },
