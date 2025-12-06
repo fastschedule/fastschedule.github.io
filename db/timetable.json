@@ -79,23 +79,6 @@
                 ]
             },
             "2022": {
-                "B": [
-                    {
-                        "name": "Info Sec",
-                        "location": "C-310",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "NLP [G-2]",
-                        "location": "D-305",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "SMD [G-3]",
-                        "location": "C-110",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "E": [
                     {
                         "name": "Info Sec",
@@ -108,6 +91,18 @@
                         "name": "Info Sec",
                         "location": "C-401",
                         "time": "03:55-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "NLP [G-2]",
+                        "location": "D-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SMD [G-3]",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "A": [
@@ -368,22 +363,6 @@
                     }
                 ]
             },
-            "2022": {
-                "A": [
-                    {
-                        "name": "Deep Learning",
-                        "location": "C-405",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Deep Learning",
-                        "location": "C-406",
-                        "time": "02:30-03:50"
-                    }
-                ]
-            },
             "2023": {
                 "C": [
                     {
@@ -395,6 +374,15 @@
                         "name": "Algo [ReSch]",
                         "location": "C-406",
                         "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2022": {
+                "B": [
+                    {
+                        "name": "Deep Learning",
+                        "location": "C-406",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
