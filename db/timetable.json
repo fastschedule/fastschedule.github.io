@@ -4,7 +4,7 @@
             "2025": {
                 "G": [
                     {
-                        "name": "Func Eng",
+                        "name": "Func Eng [NC]",
                         "location": "C-301",
                         "time": "11:30-01:15"
                     },
@@ -166,7 +166,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Gen AI [G-1]",
+                        "name": "Gen AI [G-1) NC]",
                         "location": "D-304",
                         "time": "11:30-12:50"
                     }
@@ -190,7 +190,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Blockchain [G-2]",
+                        "name": "Blockchain [G-2) NC]",
                         "location": "D-306",
                         "time": "11:30-12:50"
                     },
@@ -233,7 +233,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "SDA",
+                        "name": "SDA [NC]",
                         "location": "D-303",
                         "time": "11:30-12:50"
                     }
@@ -478,7 +478,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Func Eng",
+                        "name": "Func Eng [NC]",
                         "location": "C-308",
                         "time": "11:30-01:15"
                     },
@@ -537,7 +537,7 @@
                 ],
                 "C": [
                     {
-                        "name": "COAL",
+                        "name": "COAL [NC]",
                         "location": "D-313",
                         "time": "11:30-12:50"
                     },
