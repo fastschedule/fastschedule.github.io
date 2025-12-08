@@ -1,4 +1,402 @@
 {
+    "Saturday December 06": {
+        "BS CS": {
+            "2025": {
+                "A": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-301",
+                        "time": "02:30-04:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Func Eng",
+                        "location": "C-302",
+                        "time": "02:00-03:45"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Islamic",
+                        "location": "C-303",
+                        "time": "11:30-01:15"
+                    }
+                ],
+                "J": [
+                    {
+                        "name": "Islamic [ReSch]",
+                        "location": "C-303",
+                        "time": "01:30-03:30"
+                    },
+                    {
+                        "name": "Func Eng Lab J2",
+                        "location": "A-CALL-1",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Func Eng Lab G2",
+                        "location": "D-IT Lab 4",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Func Eng Lab G1",
+                        "location": "C-Margala 3",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2024": {
+                "D": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-308",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "LA",
+                        "location": "C-310",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Data St",
+                        "location": "C-403",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Data St",
+                        "location": "C-404",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
+            "2022": {
+                "E": [
+                    {
+                        "name": "Info Sec",
+                        "location": "C-401",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Info Sec",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "NLP [G-2]",
+                        "location": "D-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SMD [G-3]",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Web Prog [G-2]",
+                        "location": "D-306",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "SMD [G-3]",
+                        "location": "C-110",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
+            "2023": {
+                "F": [
+                    {
+                        "name": "SDA",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "SDA",
+                        "location": "D-302",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Comp Net",
+                        "location": "D-303",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            }
+        },
+        "BS SE": {
+            "2022": {
+                "F": [
+                    {
+                        "name": "S/w Re-Engg",
+                        "location": "C-304",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Info Sec",
+                        "location": "C-311",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "S/w Re-Engg",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2024": {
+                "C": [
+                    {
+                        "name": "Intro to SE",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Intro to SE [ReSch]",
+                        "location": "C-310",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2025": {
+                "B": [
+                    {
+                        "name": "Func Eng Lab B2 [ReSch]",
+                        "location": "C-408",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            }
+        },
+        "BS CY": {
+            "2025": {
+                "C": [
+                    {
+                        "name": "Calculus",
+                        "location": "C-304",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-304",
+                        "time": "02:30-04:15"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "DB",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Web",
+                        "location": "C-405",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Web",
+                        "location": "C-408",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "C-408",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            },
+            "2022": {
+                "A": [
+                    {
+                        "name": "App ML",
+                        "location": "C-408",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Info Assur",
+                        "location": "C-409",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Sec S/w Design Lab",
+                        "location": "C-Rawal 4",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            }
+        },
+        "BS AI": {
+            "2025": {
+                "B": [
+                    {
+                        "name": "Islamic",
+                        "location": "C-305",
+                        "time": "09:00-10:45"
+                    },
+                    {
+                        "name": "Func Eng",
+                        "location": "C-305",
+                        "time": "02:30-04:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Discrete",
+                        "location": "C-307",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Islamic [ReSch extended 05:15]",
+                        "location": "C-307",
+                        "time": "02:30-04:15"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "KRR",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW [ReSch]",
+                        "location": "D-301",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Algo",
+                        "location": "D-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "KRR",
+                        "location": "D-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 4",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Discrete",
+                        "location": "D-312",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Discrete",
+                        "location": "D-312",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            },
+            "2022": {
+                "A": [
+                    {
+                        "name": "Comp Vision Lab",
+                        "location": "C-Rawal 4",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            }
+        },
+        "BS DS": {
+            "2025": {
+                "A": [
+                    {
+                        "name": "Calculus",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2023": {
+                "C": [
+                    {
+                        "name": "Algo [ReSch]",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo [ReSch]",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2022": {
+                "B": [
+                    {
+                        "name": "Deep Learning",
+                        "location": "C-406",
+                        "time": "02:30-03:50"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Data St Lab",
+                        "location": "Rawal 3 (B-232)",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            }
+        }
+    },
     "Monday (08-12-2025)": {
         "BS CS": {
             "2024": {
