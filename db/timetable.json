@@ -68,20 +68,6 @@
                         "location": "C-302",
                         "time": "11:30-12:50"
                     }
-                ],
-                "A": [
-                    {
-                        "name": "Comp Vision [ReSch]",
-                        "location": "D-303",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Comp Vision [ReSch]",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
-                    }
                 ]
             },
             "2025": {
@@ -218,6 +204,20 @@
                     {
                         "name": "Comp Vision [ReSch]",
                         "location": "C-303",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Comp Vision [ReSch]",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Comp Vision [ReSch]",
+                        "location": "C-307",
                         "time": "11:30-12:50"
                     }
                 ]
