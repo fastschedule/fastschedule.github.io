@@ -222,6 +222,31 @@
                     }
                 ]
             }
+        },
+        "BS CS": {
+            "2022": {
+                "A": [
+                    {
+                        "name": "Game Design [G-3]",
+                        "location": "D-301",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Game Design",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Game Design",
+                        "location": "D-301",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            }
         }
     }
 }
