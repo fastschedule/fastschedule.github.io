@@ -961,46 +961,26 @@
                         "name": "Entre Comp",
                         "location": "C-407",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "C-407",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Gen AI",
-                        "location": "C-408",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Entre Comp",
-                        "location": "C-408",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "G": [
                     {
-                        "name": "Gen AI",
-                        "location": "C-408",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Entre Comp",
-                        "location": "C-408",
+                        "location": "C-407",
                         "time": "03:55-05:15"
                     }
                 ],
                 "D": [
                     {
                         "name": "Entre",
-                        "location": "C-409",
+                        "location": "C-408",
                         "time": "08:30-09:50"
-                    },
+                    }
+                ],
+                "C": [
                     {
-                        "name": "Gen AI",
-                        "location": "C-409",
+                        "name": "Entre",
+                        "location": "C-408",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -2164,7 +2144,7 @@
                 ],
                 "A": [
                     {
-                        "name": "DB",
+                        "name": "OS",
                         "location": "C-409",
                         "time": "11:30-12:50"
                     },
@@ -2181,7 +2161,7 @@
                 ],
                 "B": [
                     {
-                        "name": "DB",
+                        "name": "OS",
                         "location": "C-409",
                         "time": "01:00-02:20"
                     },
@@ -2258,11 +2238,6 @@
                 ],
                 "E": [
                     {
-                        "name": "Gen AI",
-                        "location": "D-301",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Entre",
                         "location": "D-301",
                         "time": "10:00-11:20"
@@ -2281,8 +2256,8 @@
                     },
                     {
                         "name": "Gen AI",
-                        "location": "D-301",
-                        "time": "03:55-05:15"
+                        "location": "D-302",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -2292,14 +2267,14 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Gen AI",
-                        "location": "D-302",
-                        "time": "02:30-03:50"
+                        "name": "Entre",
+                        "location": "D-301",
+                        "time": "03:55-05:15"
                     },
                     {
-                        "name": "Entre",
+                        "name": "Gen AI",
                         "location": "D-302",
-                        "time": "03:55-05:15"
+                        "time": "01:00-02:20"
                     }
                 ],
                 "F": [
@@ -2314,6 +2289,18 @@
                         "time": "10:00-11:20"
                     }
                 ],
+                "C": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-302",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Metrices",
+                        "location": "D-302",
+                        "time": "03:55-05:15"
+                    }
+                ],
                 "G": [
                     {
                         "name": "S/w Metrices",
@@ -2324,18 +2311,6 @@
                         "name": "PPIT",
                         "location": "D-303",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-303",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "S/w Metrices",
-                        "location": "D-303",
-                        "time": "03:55-05:15"
                     }
                 ]
             }
@@ -3645,7 +3620,7 @@
                     },
                     {
                         "name": "Cloud Comp",
-                        "location": "D-301",
+                        "location": "C-410",
                         "time": "02:30-03:50"
                     }
                 ],
@@ -3683,46 +3658,26 @@
                         "name": "Entre Comp",
                         "location": "C-409",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "C-409",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Gen AI",
-                        "location": "C-410",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Entre Comp",
-                        "location": "C-410",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "G": [
                     {
-                        "name": "Gen AI",
-                        "location": "C-410",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Entre Comp",
-                        "location": "C-410",
+                        "location": "C-409",
                         "time": "03:55-05:15"
                     }
                 ],
                 "D": [
                     {
                         "name": "Entre",
-                        "location": "D-301",
+                        "location": "C-410",
                         "time": "08:30-09:50"
-                    },
+                    }
+                ],
+                "C": [
                     {
-                        "name": "Gen AI",
-                        "location": "D-301",
+                        "name": "Entre",
+                        "location": "C-410",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -4036,12 +3991,12 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Big Data",
-                        "location": "D-302",
+                        "name": "Robo Tech",
+                        "location": "C-407",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Robo Tech",
+                        "name": "Big Data",
                         "location": "D-303",
                         "time": "11:30-12:50"
                     },
@@ -4064,7 +4019,7 @@
                 "C": [
                     {
                         "name": "Tech Mgt",
-                        "location": "D-302",
+                        "location": "D-303",
                         "time": "01:00-02:20"
                     },
                     {
@@ -4856,8 +4811,8 @@
                     },
                     {
                         "name": "Gen AI",
-                        "location": "D-301",
-                        "time": "03:55-05:15"
+                        "location": "D-302",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -4869,7 +4824,7 @@
                     {
                         "name": "Gen AI",
                         "location": "D-302",
-                        "time": "02:30-03:50"
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Entre",
@@ -4944,7 +4899,7 @@
                         "time": "09:30-11:15"
                     },
                     {
-                        "name": "DB",
+                        "name": "OS",
                         "location": "C-408",
                         "time": "11:30-12:50"
                     },
@@ -4956,7 +4911,7 @@
                 ],
                 "B": [
                     {
-                        "name": "DB",
+                        "name": "OS",
                         "location": "C-408",
                         "time": "01:00-02:20"
                     },
