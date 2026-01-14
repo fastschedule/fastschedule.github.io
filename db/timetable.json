@@ -26,11 +26,6 @@
                         "time": "11:30-01:15"
                     },
                     {
-                        "name": "Seerah",
-                        "location": "C-307",
-                        "time": "10:20-11:15"
-                    },
-                    {
                         "name": "Exp Writing Lab E1",
                         "location": "A-Mehran 2",
                         "time": "02:30-05:15"
@@ -143,11 +138,6 @@
                         "name": "Exp Writing",
                         "location": "C-307",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "C-307",
-                        "time": "01:25-02:20"
                     },
                     {
                         "name": "Exp Writing Lab F1",
@@ -567,21 +557,21 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Seerah",
+                        "name": "Seerah & UHQ-I",
                         "location": "C-309",
-                        "time": "01:25-02:20"
+                        "time": "02:00-03:45"
                     }
                 ],
                 "C": [
                     {
-                        "name": "Exp Writing",
-                        "location": "C-309",
-                        "time": "02:30-04:15"
-                    },
-                    {
                         "name": "AP",
                         "location": "C-310",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-310",
+                        "time": "02:30-04:15"
                     },
                     {
                         "name": "Exp Writing Lab C1",
@@ -765,9 +755,9 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Seerah",
+                        "name": "Seerah & UHQ-I",
                         "location": "C-401",
-                        "time": "01:25-02:20"
+                        "time": "02:00-03:45"
                     }
                 ],
                 "D": [
@@ -1134,7 +1124,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "TBW",
+                        "name": "Algo",
                         "location": "D-503",
                         "time": "01:00-02:20"
                     },
@@ -1199,11 +1189,6 @@
                         "name": "Exp Writing",
                         "location": "C-302",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "C-308",
-                        "time": "10:25-11:20"
                     },
                     {
                         "name": "Exp Writing Lab A1",
@@ -1277,11 +1262,6 @@
                         "name": "Pak Studies",
                         "location": "C-304",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "C-304",
-                        "time": "01:25-02:20"
                     },
                     {
                         "name": "Exp Writing Lab B1",
@@ -1724,7 +1704,7 @@
                     },
                     {
                         "name": "Exp Writing",
-                        "location": "C-310",
+                        "location": "C-309",
                         "time": "03:00-04:45"
                     },
                     {
@@ -1755,9 +1735,9 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Seerah",
+                        "name": "Seerah & UHQ-I",
                         "location": "C-310",
-                        "time": "01:25-02:20"
+                        "time": "02:00-03:45"
                     }
                 ]
             },
@@ -2052,14 +2032,14 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Seerah",
-                        "location": "C-402",
-                        "time": "12:00-12:55"
-                    },
-                    {
                         "name": "MV Calculus",
                         "location": "C-402",
-                        "time": "01:00-02:20"
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Seerah & UHQ-I",
+                        "location": "C-402",
+                        "time": "02:00-03:45"
                     }
                 ],
                 "D": [
@@ -2450,7 +2430,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Algo",
+                        "name": "TBW",
                         "location": "D-503",
                         "time": "10:00-11:20"
                     }
@@ -2555,11 +2535,6 @@
                 ],
                 "J": [
                     {
-                        "name": "Seerah",
-                        "location": "C-301",
-                        "time": "11:30-12:25"
-                    },
-                    {
                         "name": "Exp Writing",
                         "location": "C-301",
                         "time": "12:30-02:15"
@@ -2597,11 +2572,6 @@
                         "name": "Exp Writing",
                         "location": "C-302",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "C-307",
-                        "time": "10:00-10:55"
                     },
                     {
                         "name": "Exp Writing Lab G1",
@@ -2677,11 +2647,6 @@
                         "name": "Pak Studies",
                         "location": "C-307",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "C-307",
-                        "time": "01:25-02:20"
                     },
                     {
                         "name": "Exp Writing Lab H1",
@@ -3106,9 +3071,9 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Seerah",
-                        "location": "C-309",
-                        "time": "01:00-01:55"
+                        "name": "Seerah & UHQ-I",
+                        "location": "C-308",
+                        "time": "02:00-03:45"
                     }
                 ],
                 "B": [
@@ -3308,16 +3273,6 @@
                         "time": "08:30-10:15"
                     },
                     {
-                        "name": "Seerah",
-                        "location": "C-310",
-                        "time": "10:30-11:25"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "C-310",
-                        "time": "01:25-02:20"
-                    },
-                    {
                         "name": "Exp Writing Lab A1",
                         "location": "A-Mehran 2",
                         "time": "11:30-02:20"
@@ -3440,9 +3395,9 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Seerah",
+                        "name": "Seerah & UHQ-I",
                         "location": "C-311",
-                        "time": "01:25-02:20"
+                        "time": "02:00-03:45"
                     }
                 ],
                 "B": [
@@ -3687,6 +3642,16 @@
             "2025": {
                 "A": [
                     {
+                        "name": "AP",
+                        "location": "C-402",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "MV Calculus",
+                        "location": "C-402",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "OOP",
                         "location": "C-403",
                         "time": "08:30-09:50"
@@ -3695,16 +3660,6 @@
                         "name": "DLD",
                         "location": "C-403",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AP",
-                        "location": "C-404",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "MV Calculus",
-                        "location": "C-404",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
@@ -3714,9 +3669,9 @@
                         "time": "11:30-01:15"
                     },
                     {
-                        "name": "Seerah",
+                        "name": "Seerah & UHQ-I",
                         "location": "C-403",
-                        "time": "01:25-02:20"
+                        "time": "02:00-03:45"
                     },
                     {
                         "name": "DLD Lab",
@@ -3726,9 +3681,9 @@
                 ],
                 "B": [
                     {
-                        "name": "Seerah",
+                        "name": "Seerah & UHQ-I",
                         "location": "C-404",
-                        "time": "11:30-12:25"
+                        "time": "11:30-01:15"
                     },
                     {
                         "name": "DLD Lab",
@@ -3762,7 +3717,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "TBW",
+                        "name": "Algo",
                         "location": "D-502",
                         "time": "01:00-02:20"
                     },
@@ -3899,11 +3854,6 @@
                         "time": "11:30-01:15"
                     },
                     {
-                        "name": "Seerah",
-                        "location": "C-303",
-                        "time": "01:25-02:20"
-                    },
-                    {
                         "name": "Exp Writing Lab D1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:20"
@@ -3949,11 +3899,6 @@
                     }
                 ],
                 "C": [
-                    {
-                        "name": "Seerah",
-                        "location": "C-305",
-                        "time": "10:25-11:20"
-                    },
                     {
                         "name": "Exp Writing",
                         "location": "C-305",
@@ -4733,9 +4678,9 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Seerah",
+                        "name": "Seerah & UHQ-I",
                         "location": "C-402",
-                        "time": "01:25-02:20"
+                        "time": "02:00-03:45"
                     }
                 ],
                 "B": [
@@ -4983,9 +4928,9 @@
             "2025": {
                 "A": [
                     {
-                        "name": "Seerah",
+                        "name": "Seerah & UHQ-I",
                         "location": "C-404",
-                        "time": "10:25-11:20"
+                        "time": "09:30-11:15"
                     },
                     {
                         "name": "OOP Lab",
@@ -5089,7 +5034,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Algo",
+                        "name": "TBW",
                         "location": "D-503",
                         "time": "10:00-11:20"
                     },
