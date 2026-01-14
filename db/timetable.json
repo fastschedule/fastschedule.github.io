@@ -332,11 +332,6 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Reinf Learn",
-                        "location": "D-315",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Digital Mktg",
                         "location": "D-316",
                         "time": "08:30-09:50"
@@ -371,11 +366,6 @@
                     {
                         "name": "Cloud Comp",
                         "location": "D-314",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Reinf Learn",
-                        "location": "D-315",
                         "time": "01:00-02:20"
                     },
                     {
@@ -517,7 +507,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "PDC",
+                        "name": "SE",
                         "location": "D-306",
                         "time": "03:55-05:15"
                     }
@@ -1088,7 +1078,7 @@
                     {
                         "name": "AI",
                         "location": "D-501",
-                        "time": "11:30-12:50"
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Ethical Hack [Cyber Lab]",
@@ -1098,7 +1088,7 @@
                     {
                         "name": "Malware Analysis",
                         "location": "D-502",
-                        "time": "01:00-02:20"
+                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -1115,7 +1105,7 @@
                     {
                         "name": "AI",
                         "location": "D-502",
-                        "time": "11:30-12:50"
+                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -1603,7 +1593,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "SE",
+                        "name": "PDC",
                         "location": "D-315",
                         "time": "01:00-02:20"
                     }
@@ -2733,11 +2723,6 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Reinf Learn",
-                        "location": "D-401",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Digital Mktg",
                         "location": "D-402",
                         "time": "08:30-09:50"
@@ -2767,11 +2752,6 @@
                     {
                         "name": "Cloud Comp",
                         "location": "D-316",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Reinf Learn",
-                        "location": "D-401",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3066,7 +3046,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "PDC",
+                        "name": "SE",
                         "location": "D-314",
                         "time": "03:55-05:15"
                     },
@@ -3808,12 +3788,12 @@
                     {
                         "name": "AI",
                         "location": "D-503",
-                        "time": "11:30-12:50"
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Malware Analysis",
                         "location": "D-504",
-                        "time": "01:00-02:20"
+                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -3835,7 +3815,7 @@
                     {
                         "name": "AI",
                         "location": "D-504",
-                        "time": "11:30-12:50"
+                        "time": "01:00-02:20"
                     }
                 ]
             }
@@ -4282,7 +4262,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "SE",
+                        "name": "PDC",
                         "location": "D-314",
                         "time": "01:00-02:20"
                     }
