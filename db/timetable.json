@@ -317,11 +317,6 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AI Prod Develop",
-                        "location": "D-312",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Gen AI",
                         "location": "D-313",
                         "time": "11:30-12:50"
@@ -332,14 +327,9 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Agentic AI",
+                        "name": "Cloud Comp",
                         "location": "D-314",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-314",
-                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Reinf Learn",
@@ -355,13 +345,18 @@
                         "name": "Tech Mgt",
                         "location": "D-316",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI Prod Develop",
+                        "location": "D-401",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
                     {
                         "name": "AI Prod Develop",
                         "location": "D-312",
-                        "time": "01:00-02:20"
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Gen AI",
@@ -372,6 +367,11 @@
                         "name": "Stat Modeling",
                         "location": "D-314",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-314",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Reinf Learn",
@@ -390,6 +390,11 @@
                     }
                 ],
                 "C": [
+                    {
+                        "name": "AI Prod Develop",
+                        "location": "D-312",
+                        "time": "01:00-02:20"
+                    },
                     {
                         "name": "Stat Modeling",
                         "location": "D-315",
@@ -647,14 +652,14 @@
                 ],
                 "C": [
                     {
-                        "name": "Pak Studies",
-                        "location": "D-404",
-                        "time": "09:30-11:15"
-                    },
-                    {
                         "name": "OS",
                         "location": "D-404",
-                        "time": "11:30-12:50"
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Pak Studies",
+                        "location": "D-404",
+                        "time": "10:00-11:45"
                     },
                     {
                         "name": "DB Lab",
@@ -1478,7 +1483,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Cloud Comp",
+                        "name": "Agentic AI",
                         "location": "D-402",
                         "time": "11:30-12:50"
                     },
@@ -1486,6 +1491,28 @@
                         "name": "Big Data",
                         "location": "D-403",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Gen AI [G-II]",
+                        "location": "C-410",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "D-313",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Tech Mgt",
+                        "location": "D-403",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "D-403",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -1505,26 +1532,9 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Cloud Comp",
+                        "name": "Agentic AI",
                         "location": "D-402",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Entre",
-                        "location": "D-313",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Tech Mgt",
-                        "location": "D-403",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Digital Mktg",
-                        "location": "D-403",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "F": [
@@ -1972,27 +1982,10 @@
                         "time": "11:30-02:20"
                     }
                 ],
-                "A": [
-                    {
-                        "name": "AI",
-                        "location": "D-416",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Data Mining",
-                        "location": "D-416",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-416",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Data Mining",
-                        "location": "D-501",
+                        "location": "D-416",
                         "time": "08:30-09:50"
                     },
                     {
@@ -2004,6 +1997,23 @@
                         "name": "AI",
                         "location": "D-501",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-416",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-416",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-501",
+                        "time": "08:30-09:50"
                     }
                 ]
             },
@@ -2695,6 +2705,118 @@
                     }
                 ]
             },
+            "2022": {
+                "A": [
+                    {
+                        "name": "AI Prod Develop",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Tech Mgt",
+                        "location": "D-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "D-315",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Stat Modeling",
+                        "location": "D-316",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-316",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Reinf Learn",
+                        "location": "D-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "D-402",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-403",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Digital Mktg",
+                        "location": "D-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Tech Mgt",
+                        "location": "D-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Stat Modeling",
+                        "location": "D-316",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-316",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Reinf Learn",
+                        "location": "D-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI Prod Develop",
+                        "location": "D-402",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-403",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Stat Modeling",
+                        "location": "D-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI Prod Develop",
+                        "location": "D-402",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Agentic AI [G-I]",
+                        "location": "D-402",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Stat Modeling",
+                        "location": "D-401",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Stat Modeling",
+                        "location": "D-402",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2024": {
                 "E": [
                     {
@@ -2833,108 +2955,6 @@
                         "name": "DB",
                         "location": "D-306",
                         "time": "02:30-03:50"
-                    }
-                ]
-            },
-            "2022": {
-                "B": [
-                    {
-                        "name": "Digital Mktg",
-                        "location": "D-302",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Tech Mgt",
-                        "location": "D-311",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-316",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Reinf Learn",
-                        "location": "D-401",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI Prod Develop",
-                        "location": "D-402",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-403",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Tech Mgt",
-                        "location": "D-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Entre",
-                        "location": "D-315",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-316",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-316",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-316",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Reinf Learn",
-                        "location": "D-401",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Digital Mktg",
-                        "location": "D-402",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI Prod Develop",
-                        "location": "D-402",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-403",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-401",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-401",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-402",
-                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -4011,7 +4031,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Cloud Comp",
+                        "name": "Agentic AI",
                         "location": "D-402",
                         "time": "11:30-12:50"
                     }
@@ -4031,6 +4051,11 @@
                         "name": "Digital Mktg",
                         "location": "D-316",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Gen AI [G-II]",
+                        "location": "D-401",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "F": [
@@ -4078,7 +4103,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Cloud Comp",
+                        "name": "Agentic AI",
                         "location": "D-402",
                         "time": "01:00-02:20"
                     }
@@ -4575,27 +4600,10 @@
                         "time": "11:30-02:20"
                     }
                 ],
-                "A": [
-                    {
-                        "name": "AI",
-                        "location": "D-412",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Data Mining",
-                        "location": "D-412",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-412",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Data Mining",
-                        "location": "D-413",
+                        "location": "D-412",
                         "time": "08:30-09:50"
                     },
                     {
@@ -4607,6 +4615,23 @@
                         "name": "AI",
                         "location": "D-413",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-412",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-412",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-413",
+                        "time": "08:30-09:50"
                     }
                 ]
             },
