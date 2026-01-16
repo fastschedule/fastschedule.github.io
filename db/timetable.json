@@ -371,11 +371,6 @@
                 ],
                 "C": [
                     {
-                        "name": "AI Prod Develop",
-                        "location": "D-312",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "Stat Modeling",
                         "location": "D-315",
                         "time": "08:30-09:50"
@@ -1443,6 +1438,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "Big Data",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Fund of SPM",
                         "location": "D-316",
                         "time": "11:30-12:50"
@@ -1456,11 +1456,6 @@
                         "name": "Agentic AI",
                         "location": "D-402",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Big Data",
-                        "location": "D-403",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -1468,6 +1463,11 @@
                         "name": "Gen AI [G-II]",
                         "location": "C-410",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI Prod Develop [G-II]",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Entre",
@@ -1749,14 +1749,14 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PDC",
+                        "name": "NLP",
                         "location": "D-403",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "NLP",
-                        "location": "D-411",
-                        "time": "01:00-02:20"
+                        "name": "PDC",
+                        "location": "D-403",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -2735,11 +2735,6 @@
                         "name": "Stat Modeling",
                         "location": "D-401",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI Prod Develop",
-                        "location": "D-402",
-                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Agentic AI [G-I]",
@@ -3934,6 +3929,33 @@
                 ]
             },
             "2022": {
+                "C": [
+                    {
+                        "name": "AI Prod Develop [G-II]",
+                        "location": "C-406",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Tech Mgt",
+                        "location": "D-303",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "D-316",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "D-316",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Gen AI [G-II]",
+                        "location": "D-401",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Robo Tech",
@@ -3959,28 +3981,6 @@
                         "name": "Agentic AI",
                         "location": "D-402",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Tech Mgt",
-                        "location": "D-303",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Entre",
-                        "location": "D-316",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Digital Mktg",
-                        "location": "D-316",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Gen AI [G-II]",
-                        "location": "D-401",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "F": [
@@ -4373,14 +4373,14 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PDC",
+                        "name": "NLP",
                         "location": "D-403",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "NLP",
-                        "location": "D-405",
-                        "time": "01:00-02:20"
+                        "name": "PDC",
+                        "location": "D-406",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
