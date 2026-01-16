@@ -371,6 +371,11 @@
                 ],
                 "C": [
                     {
+                        "name": "Agentic AI [G-I]",
+                        "location": "D-314",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Stat Modeling",
                         "location": "D-315",
                         "time": "08:30-09:50"
