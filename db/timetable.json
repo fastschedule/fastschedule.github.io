@@ -708,8 +708,8 @@
                     },
                     {
                         "name": "Info Sec",
-                        "location": "D-412",
-                        "time": "08:30-09:50"
+                        "location": "D-411",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "PPIT",
@@ -1760,8 +1760,8 @@
                     },
                     {
                         "name": "PDC",
-                        "location": "D-403",
-                        "time": "11:30-12:50"
+                        "location": "D-411",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "B": [
@@ -3253,8 +3253,8 @@
                     },
                     {
                         "name": "Info Sec",
-                        "location": "D-414",
-                        "time": "08:30-09:50"
+                        "location": "D-413",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "PPIT",
@@ -4384,8 +4384,8 @@
                     },
                     {
                         "name": "PDC",
-                        "location": "D-406",
-                        "time": "11:30-12:50"
+                        "location": "D-405",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "B": [
