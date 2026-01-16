@@ -1033,6 +1033,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Pak Studies",
+                        "location": "D-416",
+                        "time": "09:30-11:15"
+                    },
+                    {
                         "name": "OS Lab",
                         "location": "C-Margala 3",
                         "time": "02:30-05:15"
@@ -3314,6 +3319,11 @@
                         "name": "AI",
                         "location": "D-406",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Pak Studies",
+                        "location": "D-505",
+                        "time": "09:30-11:15"
                     },
                     {
                         "name": "OS Lab",
