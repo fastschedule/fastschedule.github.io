@@ -1088,7 +1088,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Info Sec",
+                        "name": "AI",
                         "location": "D-502",
                         "time": "08:30-09:50"
                     },
@@ -1098,7 +1098,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI",
+                        "name": "Info Sec",
                         "location": "D-502",
                         "time": "01:00-02:20"
                     }
@@ -3768,7 +3768,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Info Sec",
+                        "name": "AI",
                         "location": "D-504",
                         "time": "08:30-09:50"
                     },
@@ -3778,7 +3778,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI",
+                        "name": "Info Sec",
                         "location": "D-504",
                         "time": "01:00-02:20"
                     }
