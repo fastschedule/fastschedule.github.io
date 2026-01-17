@@ -617,7 +617,7 @@
                     {
                         "name": "DB",
                         "location": "D-403",
-                        "time": "10:00-11:20"
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Prob & Stats",
@@ -798,8 +798,8 @@
             "2023": {
                 "A": [
                     {
-                        "name": "Formal Meth in SE",
-                        "location": "C-403",
+                        "name": "SPM",
+                        "location": "C-402",
                         "time": "08:30-09:50"
                     },
                     {
@@ -815,9 +815,9 @@
                 ],
                 "B": [
                     {
-                        "name": "Formal Meth in SE",
+                        "name": "SPM",
                         "location": "C-403",
-                        "time": "10:00-11:20"
+                        "time": "08:30-09:50"
                     },
                     {
                         "name": "AI Lab",
@@ -2175,7 +2175,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "SPM",
+                        "name": "Formal Meth in SE",
                         "location": "C-408",
                         "time": "10:00-11:20"
                     },
@@ -2207,7 +2207,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "SPM",
+                        "name": "Formal Meth in SE",
                         "location": "C-410",
                         "time": "08:30-09:50"
                     }
@@ -3131,7 +3131,7 @@
                     {
                         "name": "DB",
                         "location": "D-404",
-                        "time": "10:00-11:20"
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Prob & Stats",
@@ -3538,7 +3538,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "Formal Meth in SE",
+                        "name": "SPM",
                         "location": "C-407",
                         "time": "08:30-09:50"
                     },
@@ -3550,14 +3550,14 @@
                 ],
                 "B": [
                     {
-                        "name": "Formal Meth in SE",
-                        "location": "C-407",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "Civics",
                         "location": "C-407",
                         "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "SPM",
+                        "location": "D-301",
+                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Comp Net Lab",
@@ -4900,7 +4900,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "SPM",
+                        "name": "Formal Meth in SE",
                         "location": "C-409",
                         "time": "10:00-11:20"
                     },
@@ -4932,7 +4932,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "SPM",
+                        "name": "Formal Meth in SE",
                         "location": "C-410",
                         "time": "08:30-09:50"
                     }
