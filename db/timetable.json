@@ -176,12 +176,12 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS",
+                        "name": "Prob & Stats",
                         "location": "C-410",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Prob & Stats",
+                        "name": "OS",
                         "location": "C-410",
                         "time": "11:30-12:50"
                     },
@@ -2729,12 +2729,12 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS",
+                        "name": "Prob & Stats",
                         "location": "D-303",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Prob & Stats",
+                        "name": "OS",
                         "location": "D-303",
                         "time": "11:30-12:50"
                     },
