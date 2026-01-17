@@ -2449,7 +2449,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "PPIT",
+                        "name": "Blockchain",
                         "location": "D-504",
                         "time": "08:30-09:50"
                     },
@@ -2459,35 +2459,13 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Blockchain",
-                        "location": "D-504",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Cloud Comp",
-                        "location": "D-505",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Blockchain",
                         "location": "D-504",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Entre",
-                        "location": "D-505",
-                        "time": "08:30-09:50"
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "PPIT",
-                        "location": "D-505",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-505",
+                        "location": "D-504",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -2501,6 +2479,28 @@
                         "name": "Entre",
                         "location": "D-504",
                         "time": "03:55-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-505",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Blockchain",
+                        "location": "D-505",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-505",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "D-506",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "D": [
@@ -5063,7 +5063,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "PPIT",
+                        "name": "Blockchain",
                         "location": "D-504",
                         "time": "08:30-09:50"
                     },
@@ -5073,35 +5073,13 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Blockchain",
-                        "location": "D-504",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Cloud Comp",
-                        "location": "D-505",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Blockchain",
                         "location": "D-504",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Entre",
-                        "location": "D-505",
-                        "time": "08:30-09:50"
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "PPIT",
-                        "location": "D-505",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-505",
+                        "location": "D-504",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -5115,6 +5093,28 @@
                         "name": "Entre",
                         "location": "D-504",
                         "time": "03:55-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-505",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Blockchain",
+                        "location": "D-505",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-505",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "D-506",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "D": [
