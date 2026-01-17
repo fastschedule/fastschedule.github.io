@@ -152,6 +152,23 @@
                 ]
             },
             "2024": {
+                "E": [
+                    {
+                        "name": "SDA",
+                        "location": "C-409",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Pak Studies",
+                        "location": "D-304",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "11:30-02:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "DB",
@@ -272,23 +289,6 @@
                         "name": "OS Lab",
                         "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "SDA",
-                        "location": "D-304",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Pak Studies",
-                        "location": "D-304",
-                        "time": "02:30-04:15"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "D-IT Lab 3",
-                        "time": "11:30-02:20"
                     }
                 ]
             },
@@ -1330,8 +1330,8 @@
                     },
                     {
                         "name": "SDA",
-                        "location": "D-311",
-                        "time": "10:00-11:20"
+                        "location": "D-403",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "OS Lab",
@@ -1426,7 +1426,7 @@
                     {
                         "name": "SDA",
                         "location": "D-311",
-                        "time": "08:30-09:50"
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Pak Studies",
@@ -1790,12 +1790,12 @@
             "2024": {
                 "C": [
                     {
-                        "name": "DB",
+                        "name": "AI",
                         "location": "D-404",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "AI",
+                        "name": "DB",
                         "location": "D-404",
                         "time": "10:00-11:20"
                     },
@@ -2670,109 +2670,12 @@
                     }
                 ]
             },
-            "2022": {
-                "A": [
-                    {
-                        "name": "AI Prod Develop",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Tech Mgt",
-                        "location": "D-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Entre",
-                        "location": "D-315",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-316",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-316",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Digital Mktg",
-                        "location": "D-402",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-403",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Digital Mktg",
-                        "location": "D-302",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Tech Mgt",
-                        "location": "D-311",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-316",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-316",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI Prod Develop",
-                        "location": "D-402",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-403",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-401",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Agentic AI [G-I]",
-                        "location": "D-402",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-401",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-402",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
             "2024": {
                 "E": [
                     {
                         "name": "SDA",
-                        "location": "D-302",
-                        "time": "08:30-09:50"
+                        "location": "C-407",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "DB Lab",
@@ -2905,6 +2808,103 @@
                         "name": "DB",
                         "location": "D-306",
                         "time": "02:30-03:50"
+                    }
+                ]
+            },
+            "2022": {
+                "A": [
+                    {
+                        "name": "AI Prod Develop",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Tech Mgt",
+                        "location": "D-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "D-315",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Stat Modeling",
+                        "location": "D-316",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-316",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "D-402",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-403",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Digital Mktg",
+                        "location": "D-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Tech Mgt",
+                        "location": "D-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Stat Modeling",
+                        "location": "D-316",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-316",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI Prod Develop",
+                        "location": "D-402",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-403",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Stat Modeling",
+                        "location": "D-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Agentic AI [G-I]",
+                        "location": "D-402",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Stat Modeling",
+                        "location": "D-401",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Stat Modeling",
+                        "location": "D-402",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -4453,12 +4453,12 @@
                 ],
                 "C": [
                     {
-                        "name": "DB",
+                        "name": "AI",
                         "location": "D-404",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "AI",
+                        "name": "DB",
                         "location": "D-404",
                         "time": "10:00-11:20"
                     },
