@@ -1107,14 +1107,14 @@
             "2024": {
                 "A": [
                     {
+                        "name": "Comp Net",
+                        "location": "D-503",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Prob & Stats",
                         "location": "D-503",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-503",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "COAL Lab",
@@ -3705,14 +3705,14 @@
             "2024": {
                 "A": [
                     {
+                        "name": "Comp Net",
+                        "location": "D-502",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Prob & Stats",
                         "location": "D-502",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-502",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "Comp Net Lab",
