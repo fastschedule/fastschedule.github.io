@@ -1019,7 +1019,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Data Mining",
+                        "name": "PDC",
                         "location": "D-415",
                         "time": "10:00-11:20"
                     },
@@ -1949,17 +1949,47 @@
                     }
                 ]
             },
+            "2022": {
+                "A": [
+                    {
+                        "name": "Fin Mgt",
+                        "location": "D-412",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Fin Mgt",
+                        "location": "D-412",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Fin Mgt",
+                        "location": "D-413",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Fin Mgt",
+                        "location": "D-413",
+                        "time": "02:30-03:50"
+                    }
+                ]
+            },
             "2023": {
                 "C": [
                     {
                         "name": "Deep Learn",
-                        "location": "D-411",
+                        "location": "D-415",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PDC",
-                        "location": "D-411",
-                        "time": "10:00-11:20"
+                        "name": "Data Mining",
+                        "location": "D-416",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "AI Lab",
@@ -1999,36 +2029,6 @@
                         "name": "AI [Cancelled]",
                         "location": "D-501",
                         "time": "08:30-09:50"
-                    }
-                ]
-            },
-            "2022": {
-                "A": [
-                    {
-                        "name": "Fin Mgt",
-                        "location": "D-412",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Fin Mgt",
-                        "location": "D-412",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Fin Mgt",
-                        "location": "D-413",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Fin Mgt",
-                        "location": "D-413",
-                        "time": "02:30-03:50"
                     }
                 ]
             }
@@ -3389,7 +3389,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Data Mining",
+                        "name": "PDC",
                         "location": "D-501",
                         "time": "10:00-11:20"
                     },
@@ -4537,59 +4537,6 @@
                     }
                 ]
             },
-            "2023": {
-                "C": [
-                    {
-                        "name": "Deep Learn",
-                        "location": "D-402",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-402",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Data Mining Lab",
-                        "location": "D-IT Lab 4",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Data Mining",
-                        "location": "D-412",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-413",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI [Cancelled]",
-                        "location": "D-413",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Data Mining",
-                        "location": "D-412",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-412",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI [Cancelled]",
-                        "location": "D-413",
-                        "time": "08:30-09:50"
-                    }
-                ]
-            },
             "2024": {
                 "A": [
                     {
@@ -4638,6 +4585,59 @@
                         "name": "DB Lab",
                         "location": "C-Rawal 1",
                         "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2023": {
+                "B": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-412",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-413",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI [Cancelled]",
+                        "location": "D-413",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-412",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-412",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI [Cancelled]",
+                        "location": "D-413",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-413",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Deep Learn",
+                        "location": "D-414",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Data Mining Lab",
+                        "location": "D-IT Lab 4",
+                        "time": "11:30-02:20"
                     }
                 ]
             },
