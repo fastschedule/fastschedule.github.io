@@ -504,12 +504,12 @@
                 ],
                 "D": [
                     {
-                        "name": "PDC",
+                        "name": "Comp Const",
                         "location": "D-311",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Comp Const",
+                        "name": "PDC",
                         "location": "D-311",
                         "time": "03:55-05:15"
                     },
@@ -3028,12 +3028,12 @@
                 ],
                 "D": [
                     {
-                        "name": "PDC",
+                        "name": "Comp Const",
                         "location": "D-315",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Comp Const",
+                        "name": "PDC",
                         "location": "D-315",
                         "time": "03:55-05:15"
                     }
