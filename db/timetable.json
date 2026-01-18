@@ -815,7 +815,7 @@
                 ],
                 "B": [
                     {
-                        "name": "SPM",
+                        "name": "SPM [Cancelled]",
                         "location": "C-403",
                         "time": "08:30-09:50"
                     },
@@ -2235,7 +2235,7 @@
                 ],
                 "A": [
                     {
-                        "name": "User Exp Engg",
+                        "name": "User Exp Engg [Cancelled]",
                         "location": "D-301",
                         "time": "11:30-12:50"
                     },
@@ -2252,7 +2252,7 @@
                 ],
                 "B": [
                     {
-                        "name": "User Exp Engg",
+                        "name": "User Exp Engg [Cancelled]",
                         "location": "D-301",
                         "time": "01:00-02:20"
                     },
@@ -3555,7 +3555,7 @@
                         "time": "02:30-04:15"
                     },
                     {
-                        "name": "SPM",
+                        "name": "SPM [Cancelled]",
                         "location": "D-301",
                         "time": "08:30-09:50"
                     },
@@ -4765,7 +4765,7 @@
                 ],
                 "A": [
                     {
-                        "name": "User Exp Engg",
+                        "name": "User Exp Engg [Cancelled]",
                         "location": "D-301",
                         "time": "11:30-12:50"
                     },
@@ -4782,7 +4782,7 @@
                 ],
                 "B": [
                     {
-                        "name": "User Exp Engg",
+                        "name": "User Exp Engg [Cancelled]",
                         "location": "D-301",
                         "time": "01:00-02:20"
                     },
