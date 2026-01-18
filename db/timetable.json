@@ -1093,6 +1093,11 @@
                 ],
                 "B": [
                     {
+                        "name": "AI",
+                        "location": "D-502",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Sec S/w Design",
                         "location": "D-502",
                         "time": "10:00-11:20"
@@ -2397,11 +2402,6 @@
                         "name": "Digital Forensics",
                         "location": "D-506",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-506",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "AI Lab",
@@ -3783,6 +3783,11 @@
                         "time": "02:30-05:15"
                     },
                     {
+                        "name": "AI",
+                        "location": "D-504",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Sec S/w Design",
                         "location": "D-504",
                         "time": "10:00-11:20"
@@ -5062,11 +5067,6 @@
                         "name": "Digital Forensics",
                         "location": "D-506",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-506",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Sec S/w Design Lab",
