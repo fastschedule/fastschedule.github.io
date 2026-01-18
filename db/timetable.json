@@ -1098,7 +1098,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Digital Forensics",
+                        "name": "Sec S/w Design",
                         "location": "D-502",
                         "time": "10:00-11:20"
                     },
@@ -2399,7 +2399,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Sec S/w Design",
+                        "name": "Digital Forensics",
                         "location": "C-405",
                         "time": "01:00-02:20"
                     },
@@ -3788,7 +3788,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Digital Forensics",
+                        "name": "Sec S/w Design",
                         "location": "D-504",
                         "time": "10:00-11:20"
                     },
@@ -5016,7 +5016,7 @@
             "2023": {
                 "B": [
                     {
-                        "name": "Sec S/w Design",
+                        "name": "Digital Forensics",
                         "location": "D-501",
                         "time": "01:00-02:20"
                     },
