@@ -1112,7 +1112,7 @@
             "2024": {
                 "A": [
                     {
-                        "name": "Comp Net",
+                        "name": "Comp Net [Cancelled]",
                         "location": "D-503",
                         "time": "08:30-09:50"
                     },
@@ -2454,7 +2454,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Blockchain",
+                        "name": "Blockchain [Cancelled]",
                         "location": "D-504",
                         "time": "08:30-09:50"
                     },
@@ -2493,7 +2493,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Blockchain",
+                        "name": "Blockchain [Cancelled]",
                         "location": "D-505",
                         "time": "11:30-12:50"
                     },
