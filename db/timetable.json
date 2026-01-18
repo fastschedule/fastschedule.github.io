@@ -1093,11 +1093,6 @@
                 ],
                 "B": [
                     {
-                        "name": "AI",
-                        "location": "D-502",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Sec S/w Design",
                         "location": "D-502",
                         "time": "10:00-11:20"
@@ -1823,7 +1818,7 @@
                     },
                     {
                         "name": "Pak Studies",
-                        "location": "D-506",
+                        "location": "D-411",
                         "time": "09:30-11:15"
                     },
                     {
@@ -2400,13 +2395,18 @@
                 "B": [
                     {
                         "name": "Digital Forensics",
-                        "location": "C-405",
-                        "time": "01:00-02:20"
+                        "location": "D-506",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-506",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "AI Lab",
-                        "location": "C-Rawal 1",
-                        "time": "08:30-11:20"
+                        "location": "C-Margala 3",
+                        "time": "11:30-02:20"
                     },
                     {
                         "name": "Digital Forensics Lab",
@@ -3783,11 +3783,6 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "AI",
-                        "location": "D-504",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Sec S/w Design",
                         "location": "D-504",
                         "time": "10:00-11:20"
@@ -5013,32 +5008,6 @@
                     }
                 ]
             },
-            "2023": {
-                "B": [
-                    {
-                        "name": "Digital Forensics",
-                        "location": "D-501",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Sec S/w Design Lab",
-                        "location": "C-Rawal 4",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Sec S/w Design",
-                        "location": "D-502",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            },
             "2024": {
                 "A": [
                     {
@@ -5072,6 +5041,37 @@
                         "name": "Comp Net",
                         "location": "D-503",
                         "time": "01:00-02:20"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Sec S/w Design",
+                        "location": "D-502",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Digital Forensics",
+                        "location": "D-506",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-506",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Sec S/w Design Lab",
+                        "location": "C-Rawal 1",
+                        "time": "11:30-02:20"
                     }
                 ]
             },
