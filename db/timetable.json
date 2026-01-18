@@ -159,7 +159,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Pak Studies",
+                        "name": "Pak Studies [24)]",
                         "location": "D-304",
                         "time": "02:30-04:15"
                     },
@@ -181,7 +181,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "C-410",
                         "time": "11:30-12:50"
                     },
@@ -252,7 +252,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "D-302",
                         "time": "02:30-03:50"
                     }
@@ -264,7 +264,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Pak Studies",
+                        "name": "Pak Studies [24)]",
                         "location": "D-305",
                         "time": "02:30-04:15"
                     },
@@ -307,7 +307,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Gen AI",
+                        "name": "Gen AI [G-II]",
                         "location": "D-313",
                         "time": "11:30-12:50"
                     },
@@ -317,7 +317,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Cloud Comp",
+                        "name": "Cloud Comp [G-II]",
                         "location": "D-314",
                         "time": "11:30-12:50"
                     },
@@ -332,19 +332,24 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AI Prod Develop",
+                        "name": "AI Prod Develop [G-II]",
                         "location": "D-401",
                         "time": "10:00-11:20"
                     }
                 ],
                 "B": [
                     {
-                        "name": "AI Prod Develop",
+                        "name": "AI Prod Develop [G-II]",
                         "location": "D-312",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Gen AI",
+                        "name": "Big Data [G-I]",
+                        "location": "D-312",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Gen AI [G-II]",
                         "location": "D-313",
                         "time": "01:00-02:20"
                     },
@@ -354,7 +359,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Cloud Comp",
+                        "name": "Cloud Comp [G-II]",
                         "location": "D-314",
                         "time": "01:00-02:20"
                     },
@@ -1346,7 +1351,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "D-304",
                         "time": "10:00-11:20"
                     },
@@ -1429,7 +1434,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Pak Studies",
+                        "name": "Pak Studies [24)]",
                         "location": "D-311",
                         "time": "02:30-04:15"
                     },
@@ -1443,27 +1448,27 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Robo Tech",
+                        "name": "Robo Tech [G-I]",
                         "location": "C-309",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Big Data",
+                        "name": "Big Data [G-I]",
                         "location": "C-407",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Fund of SPM",
+                        "name": "Fund of SPM [G-I]",
                         "location": "D-316",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "MLOPs",
+                        "name": "MLOPs [G-I]",
                         "location": "D-401",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Agentic AI",
+                        "name": "Agentic AI [G-I]",
                         "location": "D-402",
                         "time": "11:30-12:50"
                     }
@@ -1502,17 +1507,17 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Fund of SPM",
+                        "name": "Fund of SPM [G-I]",
                         "location": "D-316",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "MLOPs",
+                        "name": "MLOPs [G-I]",
                         "location": "D-401",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Agentic AI",
+                        "name": "Agentic AI [G-I]",
                         "location": "D-402",
                         "time": "01:00-02:20"
                     }
@@ -2572,26 +2577,14 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "MV Calculus",
+                        "location": "C-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Exp Writing",
                         "location": "C-302",
                         "time": "02:00-03:45"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-302",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab G1",
-                        "location": "A-Mehran 2",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab G2",
-                        "location": "A-CALL-3",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
@@ -2668,6 +2661,23 @@
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
                     }
+                ],
+                "G": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-407",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab G1",
+                        "location": "A-Mehran 2",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab G2",
+                        "location": "A-CALL-3",
+                        "time": "02:30-05:15"
+                    }
                 ]
             },
             "2024": {
@@ -2712,7 +2722,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Pak Studies",
+                        "name": "Pak Studies [24)]",
                         "location": "D-302",
                         "time": "02:30-04:15"
                     },
@@ -2734,7 +2744,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "D-303",
                         "time": "11:30-12:50"
                     },
@@ -2783,7 +2793,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "D-305",
                         "time": "02:30-03:50"
                     }
@@ -2814,7 +2824,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "AI Prod Develop",
+                        "name": "AI Prod Develop [G-II]",
                         "location": "D-301",
                         "time": "10:00-11:20"
                     },
@@ -2834,7 +2844,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Cloud Comp",
+                        "name": "Cloud Comp [G-II]",
                         "location": "D-316",
                         "time": "11:30-12:50"
                     },
@@ -2844,7 +2854,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Gen AI",
+                        "name": "Gen AI [G-II]",
                         "location": "D-403",
                         "time": "11:30-12:50"
                     }
@@ -2866,17 +2876,22 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Cloud Comp",
+                        "name": "Cloud Comp [G-II]",
                         "location": "D-316",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "AI Prod Develop",
+                        "name": "Big Data [G-I]",
+                        "location": "D-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI Prod Develop [G-II]",
                         "location": "D-402",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Gen AI",
+                        "name": "Gen AI [G-II]",
                         "location": "D-403",
                         "time": "01:00-02:20"
                     }
@@ -3983,17 +3998,17 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Fund of SPM",
+                        "name": "Fund of SPM [G-I]",
                         "location": "D-315",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "MLOPs",
+                        "name": "MLOPs [G-I]",
                         "location": "D-401",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Agentic AI",
+                        "name": "Agentic AI [G-I]",
                         "location": "D-402",
                         "time": "11:30-12:50"
                     }
@@ -4028,7 +4043,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Fund of SPM",
+                        "name": "Fund of SPM [G-I]",
                         "location": "D-315",
                         "time": "01:00-02:20"
                     },
@@ -4038,12 +4053,12 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "MLOPs",
+                        "name": "MLOPs [G-I]",
                         "location": "D-401",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Agentic AI",
+                        "name": "Agentic AI [G-I]",
                         "location": "D-402",
                         "time": "01:00-02:20"
                     }
@@ -4071,7 +4086,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "D-304",
                         "time": "10:00-11:20"
                     },
@@ -4110,7 +4125,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Pak Studies",
+                        "name": "Pak Studies [24)]",
                         "location": "D-311",
                         "time": "02:30-04:15"
                     },
