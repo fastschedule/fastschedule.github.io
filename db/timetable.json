@@ -997,19 +997,14 @@
                 ],
                 "B": [
                     {
-                        "name": "PDC",
-                        "location": "D-414",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Deep Learn",
                         "location": "D-414",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Data Mining Lab",
-                        "location": "C-Margala 1",
-                        "time": "11:30-02:20"
+                        "name": "PDC",
+                        "location": "D-414",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -3363,23 +3358,18 @@
                         "name": "PDC",
                         "location": "D-415",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Data Mining Lab",
-                        "location": "C-Margala 3",
-                        "time": "11:30-02:20"
                     }
                 ],
                 "B": [
                     {
-                        "name": "PDC",
-                        "location": "D-416",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Deep Learn",
                         "location": "D-416",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "D-501",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "AI Lab",
@@ -4633,11 +4623,6 @@
                         "name": "Deep Learn",
                         "location": "D-414",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Data Mining Lab",
-                        "location": "D-IT Lab 4",
-                        "time": "11:30-02:20"
                     }
                 ]
             },
