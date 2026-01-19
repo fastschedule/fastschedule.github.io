@@ -1510,12 +1510,12 @@
                 ],
                 "G": [
                     {
-                        "name": "AI",
+                        "name": "DB",
                         "location": "D-306",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB",
+                        "name": "AI",
                         "location": "D-306",
                         "time": "10:00-11:20"
                     },
@@ -1791,6 +1791,11 @@
                         "name": "Fin Mgt",
                         "location": "D-412",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Agentic AI [Gp-II]",
+                        "location": "D-414",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
@@ -1798,6 +1803,11 @@
                         "name": "Fin Mgt",
                         "location": "D-412",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Agentic AI [Gp-I]",
+                        "location": "N/A",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -2289,6 +2299,11 @@
                         "name": "S/w Metrices",
                         "location": "D-302",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-303",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "G": [
@@ -4165,12 +4180,12 @@
                 ],
                 "G": [
                     {
-                        "name": "AI",
+                        "name": "DB",
                         "location": "D-306",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB",
+                        "name": "AI",
                         "location": "D-306",
                         "time": "10:00-11:20"
                     },
@@ -4543,6 +4558,46 @@
                     }
                 ]
             },
+            "2022": {
+                "B": [
+                    {
+                        "name": "Agentic AI [Gp-I]",
+                        "location": "C-404",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Fin Mgt",
+                        "location": "D-414",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Reinf Learn [Gp-II]",
+                        "location": "D-403",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Fin Mgt",
+                        "location": "D-414",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Fin Mgt",
+                        "location": "D-415",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Fin Mgt",
+                        "location": "D-415",
+                        "time": "02:30-03:50"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
@@ -4636,36 +4691,6 @@
                         "time": "08:30-09:50"
                     }
                 ]
-            },
-            "2022": {
-                "A": [
-                    {
-                        "name": "Fin Mgt",
-                        "location": "D-414",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Fin Mgt",
-                        "location": "D-414",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Fin Mgt",
-                        "location": "D-415",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Fin Mgt",
-                        "location": "D-415",
-                        "time": "02:30-03:50"
-                    }
-                ]
             }
         },
         "BS SE": {
@@ -4750,6 +4775,23 @@
                 ]
             },
             "2022": {
+                "C": [
+                    {
+                        "name": "Cloud Comp",
+                        "location": "C-404",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-303",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Metrices",
+                        "location": "D-303",
+                        "time": "03:55-05:15"
+                    }
+                ],
                 "D": [
                     {
                         "name": "S/w Metrices",
@@ -4830,18 +4872,6 @@
                         "name": "PPIT",
                         "location": "D-303",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-303",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "S/w Metrices",
-                        "location": "D-303",
-                        "time": "03:55-05:15"
                     }
                 ]
             },
