@@ -608,7 +608,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Prob & Stats",
+                        "name": "Prob & Stats [Cancelled]",
                         "location": "D-402",
                         "time": "02:30-03:50"
                     }
@@ -738,7 +738,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled]",
                         "location": "C-311",
                         "time": "11:30-12:50"
                     }
@@ -1756,42 +1756,6 @@
                     }
                 ]
             },
-            "2023": {
-                "A": [
-                    {
-                        "name": "Comp Vision",
-                        "location": "D-403",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-403",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-411",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "PDC",
-                        "location": "D-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Vision",
-                        "location": "D-406",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-406",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
             "2024": {
                 "C": [
                     {
@@ -1847,6 +1811,42 @@
                         "name": "AI Lab",
                         "location": "D-IT Lab 4",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2023": {
+                "B": [
+                    {
+                        "name": "PDC",
+                        "location": "D-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Vision",
+                        "location": "D-406",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-406",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "PDC",
+                        "location": "D-411",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Vision",
+                        "location": "D-412",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-412",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
@@ -3327,6 +3327,11 @@
                         "name": "AI Lab",
                         "location": "C-Rawal 4",
                         "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Rawal 4",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "A": [
@@ -4399,12 +4404,12 @@
                 "A": [
                     {
                         "name": "Comp Vision",
-                        "location": "D-403",
+                        "location": "D-402",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "NLP",
-                        "location": "D-403",
+                        "location": "D-402",
                         "time": "10:00-11:20"
                     },
                     {
@@ -4580,11 +4585,6 @@
                         "name": "Fund of S/w Engg",
                         "location": "D-411",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Rawal 1",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
