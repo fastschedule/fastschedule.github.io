@@ -678,14 +678,14 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Info Sec",
-                        "location": "D-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "PPIT",
                         "location": "D-406",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-406",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -702,7 +702,7 @@
                     {
                         "name": "Info Sec",
                         "location": "D-411",
-                        "time": "10:00-11:20"
+                        "time": "11:30-12:50"
                     }
                 ],
                 "D": [
