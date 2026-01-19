@@ -950,14 +950,7 @@
                     {
                         "name": "Entre",
                         "location": "C-407",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Entre",
-                        "location": "C-408",
-                        "time": "08:30-09:50"
+                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
@@ -965,6 +958,13 @@
                         "name": "PPIT",
                         "location": "C-408",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Entre",
+                        "location": "C-408",
+                        "time": "03:55-05:15"
                     }
                 ]
             }
@@ -3624,25 +3624,20 @@
                         "name": "PPIT",
                         "location": "C-408",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "S/w Metrices",
-                        "location": "C-408",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "G": [
                     {
                         "name": "Entre",
                         "location": "C-409",
-                        "time": "03:55-05:15"
+                        "time": "02:30-03:50"
                     }
                 ],
                 "D": [
                     {
                         "name": "Entre",
-                        "location": "C-410",
-                        "time": "08:30-09:50"
+                        "location": "C-409",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "C": [
