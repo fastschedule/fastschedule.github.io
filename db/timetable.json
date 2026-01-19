@@ -946,16 +946,9 @@
                         "time": "03:55-05:15"
                     }
                 ],
-                "F": [
-                    {
-                        "name": "Entre Comp",
-                        "location": "C-407",
-                        "time": "02:30-03:50"
-                    }
-                ],
                 "G": [
                     {
-                        "name": "Entre Comp",
+                        "name": "Entre",
                         "location": "C-407",
                         "time": "03:55-05:15"
                     }
@@ -969,7 +962,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Entre",
+                        "name": "PPIT",
                         "location": "C-408",
                         "time": "10:00-11:20"
                     }
@@ -2279,7 +2272,7 @@
                 ],
                 "F": [
                     {
-                        "name": "PPIT",
+                        "name": "Entre",
                         "location": "D-302",
                         "time": "08:30-09:50"
                     },
@@ -2291,7 +2284,7 @@
                 ],
                 "C": [
                     {
-                        "name": "PPIT",
+                        "name": "Entre",
                         "location": "D-302",
                         "time": "02:30-03:50"
                     },
@@ -3638,16 +3631,9 @@
                         "time": "03:55-05:15"
                     }
                 ],
-                "F": [
-                    {
-                        "name": "Entre Comp",
-                        "location": "C-409",
-                        "time": "02:30-03:50"
-                    }
-                ],
                 "G": [
                     {
-                        "name": "Entre Comp",
+                        "name": "Entre",
                         "location": "C-409",
                         "time": "03:55-05:15"
                     }
@@ -3661,7 +3647,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Entre",
+                        "name": "PPIT",
                         "location": "C-410",
                         "time": "10:00-11:20"
                     }
@@ -4782,7 +4768,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "Entre",
                         "location": "D-303",
                         "time": "02:30-03:50"
                     },
@@ -4852,7 +4838,7 @@
                 ],
                 "F": [
                     {
-                        "name": "PPIT",
+                        "name": "Entre",
                         "location": "D-302",
                         "time": "08:30-09:50"
                     },
