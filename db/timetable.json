@@ -4250,12 +4250,12 @@
                 ],
                 "D": [
                     {
-                        "name": "SE",
+                        "name": "AI",
                         "location": "D-311",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AI",
+                        "name": "SE",
                         "location": "D-311",
                         "time": "01:00-02:20"
                     },
