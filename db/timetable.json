@@ -5053,7 +5053,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "COAL",
+                        "name": "COAL [Cancelled]",
                         "location": "D-502",
                         "time": "10:00-11:20"
                     },
@@ -5075,7 +5075,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "COAL",
+                        "name": "COAL [Cancelled]",
                         "location": "C-110",
                         "time": "11:30-12:50"
                     }
