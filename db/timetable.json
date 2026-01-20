@@ -1425,7 +1425,7 @@
             "2024": {
                 "C": [
                     {
-                        "name": "Pak Studies",
+                        "name": "Pak Studies [24)]",
                         "location": "C-401",
                         "time": "11:30-01:15"
                     },
@@ -1447,7 +1447,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Pak Studies",
+                        "name": "Pak Studies [24)]",
                         "location": "C-404",
                         "time": "08:30-10:15"
                     },
@@ -2807,11 +2807,21 @@
                     },
                     {
                         "name": "OS [Cancelled]",
-                        "location": "D-305",
+                        "location": "D-306",
                         "time": "02:30-03:50"
                     }
                 ],
                 "D": [
+                    {
+                        "name": "OS",
+                        "location": "D-305",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "D-305",
+                        "time": "02:30-03:50"
+                    },
                     {
                         "name": "Prob & Stats",
                         "location": "D-306",
@@ -2821,16 +2831,6 @@
                         "name": "AI",
                         "location": "D-306",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-306",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "D-306",
-                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -2840,6 +2840,11 @@
                         "name": "AI Prod Develop [G-II]",
                         "location": "D-301",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Cloud Comp [G-II]",
+                        "location": "D-306",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Tech Mgt",
@@ -2857,7 +2862,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Cloud Comp [G-II]",
+                        "name": "Gen AI [G-II]",
                         "location": "D-316",
                         "time": "11:30-12:50"
                     },
@@ -2865,11 +2870,6 @@
                         "name": "Digital Mktg",
                         "location": "D-402",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Gen AI [G-II]",
-                        "location": "D-403",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -2879,7 +2879,12 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Tech Mgt",
+                        "name": "Cloud Comp [G-II]",
+                        "location": "D-306",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Gen AI [G-II]",
                         "location": "D-311",
                         "time": "01:00-02:20"
                     },
@@ -2889,7 +2894,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Cloud Comp [G-II]",
+                        "name": "Tech Mgt",
                         "location": "D-316",
                         "time": "01:00-02:20"
                     },
@@ -2902,11 +2907,6 @@
                         "name": "AI Prod Develop [G-II]",
                         "location": "D-402",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Gen AI [G-II]",
-                        "location": "D-403",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "C": [
