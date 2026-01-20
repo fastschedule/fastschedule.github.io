@@ -1464,12 +1464,12 @@
                 ],
                 "E": [
                     {
-                        "name": "DB",
+                        "name": "OS",
                         "location": "D-304",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS [Cancelled]",
+                        "name": "DB",
                         "location": "D-304",
                         "time": "10:00-11:20"
                     },
@@ -1486,12 +1486,12 @@
                 ],
                 "F": [
                     {
-                        "name": "OS",
+                        "name": "DB",
                         "location": "D-305",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB",
+                        "name": "OS",
                         "location": "D-305",
                         "time": "10:00-11:20"
                     },
@@ -1808,7 +1808,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "MLOps [Gp-I]",
+                        "name": "MLOps [Gp-II]",
                         "location": "D-413",
                         "time": "10:00-11:20"
                     },
@@ -2188,6 +2188,16 @@
             "2023": {
                 "A": [
                     {
+                        "name": "AI",
+                        "location": "C-405",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Process Mining",
+                        "location": "C-405",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Comp Net",
                         "location": "C-408",
                         "time": "08:30-09:50"
@@ -2196,16 +2206,6 @@
                         "name": "Formal Meth in SE",
                         "location": "C-408",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "C-410",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Process Mining",
-                        "location": "C-410",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -3678,12 +3678,12 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "OOP",
+                        "name": "DLD",
                         "location": "C-403",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DLD",
+                        "name": "OOP",
                         "location": "C-403",
                         "time": "10:00-11:20"
                     }
@@ -4098,12 +4098,12 @@
             "2024": {
                 "E": [
                     {
-                        "name": "DB",
+                        "name": "OS",
                         "location": "D-304",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS [Cancelled]",
+                        "name": "DB",
                         "location": "D-304",
                         "time": "10:00-11:20"
                     },
@@ -4159,12 +4159,12 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "OS",
+                        "name": "DB",
                         "location": "D-305",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB",
+                        "name": "OS",
                         "location": "D-305",
                         "time": "10:00-11:20"
                     },
@@ -4567,7 +4567,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "MLOps [Gp-I]",
+                        "name": "MLOps [Gp-II]",
                         "location": "D-415",
                         "time": "10:00-11:20"
                     }
@@ -4780,6 +4780,52 @@
                     }
                 ]
             },
+            "2023": {
+                "A": [
+                    {
+                        "name": "AI",
+                        "location": "C-403",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Process Mining",
+                        "location": "C-403",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-409",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-409",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Net",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Process Mining",
+                        "location": "C-409",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-409",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-410",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
             "2022": {
                 "C": [
                     {
@@ -4936,52 +4982,6 @@
                         "name": "COAL Lab",
                         "location": "C-Rawal 1",
                         "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "Comp Net",
-                        "location": "C-409",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Formal Meth in SE",
-                        "location": "C-409",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "C-410",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Process Mining",
-                        "location": "C-410",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Comp Net",
-                        "location": "C-409",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Process Mining",
-                        "location": "C-409",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "C-409",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Formal Meth in SE",
-                        "location": "C-410",
-                        "time": "08:30-09:50"
                     }
                 ]
             }
@@ -5239,12 +5239,12 @@
                 ],
                 "A": [
                     {
-                        "name": "OOP",
+                        "name": "DLD",
                         "location": "C-305",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DLD",
+                        "name": "OOP",
                         "location": "C-305",
                         "time": "10:00-11:20"
                     },
