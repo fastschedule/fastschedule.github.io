@@ -648,8 +648,8 @@
                     },
                     {
                         "name": "DB Lab",
-                        "location": "D-IT Lab 3",
-                        "time": "02:30-05:15"
+                        "location": "C-Margala 1",
+                        "time": "11:50-02:30"
                     }
                 ]
             },
@@ -883,14 +883,14 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "DB Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "02:30-05:15"
+                    },
+                    {
                         "name": "COAL Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Margala 1",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -2428,7 +2428,7 @@
                     },
                     {
                         "name": "AI Lab",
-                        "location": "C-Margala 3",
+                        "location": "C-Rawal 1",
                         "time": "11:30-02:20"
                     },
                     {
@@ -2505,7 +2505,7 @@
                     },
                     {
                         "name": "Entre",
-                        "location": "D-504",
+                        "location": "D-505",
                         "time": "03:55-05:15"
                     }
                 ],
@@ -4478,14 +4478,14 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "OS Lab",
-                        "location": "C-Margala 1",
-                        "time": "08:30-11:20"
-                    },
-                    {
                         "name": "DB Lab",
                         "location": "C-Margala 3",
                         "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 4",
+                        "time": "08:30-11:20"
                     }
                 ],
                 "C": [
@@ -5100,7 +5100,7 @@
                     },
                     {
                         "name": "AI Lab",
-                        "location": "C-Margala 4",
+                        "location": "C-Margala 1",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -5147,6 +5147,18 @@
                         "time": "02:30-03:50"
                     }
                 ],
+                "D": [
+                    {
+                        "name": "Entre",
+                        "location": "D-504",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-505",
+                        "time": "02:30-03:50"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Entre",
@@ -5167,18 +5179,6 @@
                         "name": "Cloud Security",
                         "location": "D-505",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-505",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Entre",
-                        "location": "D-505",
-                        "time": "03:55-05:15"
                     }
                 ]
             }
