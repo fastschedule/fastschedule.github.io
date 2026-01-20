@@ -1074,14 +1074,14 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Ethical Hack [Cyber Lab]",
-                        "location": "D-501",
-                        "time": "02:30-05:15"
-                    },
-                    {
                         "name": "Malware Analysis",
                         "location": "D-502",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Ethical Hack",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
@@ -1464,12 +1464,12 @@
                 ],
                 "E": [
                     {
-                        "name": "OS",
+                        "name": "DB",
                         "location": "D-304",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB",
+                        "name": "OS",
                         "location": "D-304",
                         "time": "10:00-11:20"
                     },
@@ -1486,12 +1486,12 @@
                 ],
                 "F": [
                     {
-                        "name": "DB",
+                        "name": "OS",
                         "location": "D-305",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS",
+                        "name": "DB",
                         "location": "D-305",
                         "time": "10:00-11:20"
                     },
@@ -2423,7 +2423,7 @@
                 "B": [
                     {
                         "name": "Digital Forensics",
-                        "location": "D-506",
+                        "location": "D-503",
                         "time": "08:30-09:50"
                     },
                     {
@@ -3784,11 +3784,6 @@
                 ],
                 "B": [
                     {
-                        "name": "Ethical Hack [Cyber Lab]",
-                        "location": "D-503",
-                        "time": "02:30-05:15"
-                    },
-                    {
                         "name": "AI",
                         "location": "D-504",
                         "time": "08:30-09:50"
@@ -3802,6 +3797,11 @@
                         "name": "Info Sec",
                         "location": "D-504",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Ethical Hack",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -4103,12 +4103,12 @@
             "2024": {
                 "E": [
                     {
-                        "name": "OS",
+                        "name": "DB",
                         "location": "D-304",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB",
+                        "name": "OS",
                         "location": "D-304",
                         "time": "10:00-11:20"
                     },
@@ -4164,12 +4164,12 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "DB",
+                        "name": "OS",
                         "location": "D-305",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS",
+                        "name": "DB",
                         "location": "D-305",
                         "time": "10:00-11:20"
                     },
@@ -5086,7 +5086,7 @@
                     },
                     {
                         "name": "COAL [Cancelled]",
-                        "location": "C-110",
+                        "location": "D-506",
                         "time": "11:30-12:50"
                     }
                 ]
