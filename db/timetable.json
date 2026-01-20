@@ -1995,7 +1995,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB",
+                        "name": "DB [for 1st 2 weeks]",
                         "location": "D-404",
                         "time": "10:00-11:20"
                     },
@@ -2008,6 +2008,11 @@
                         "name": "Fund of S/w Engg [Cancelled]",
                         "location": "D-405",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "DB [from 3rd week & onwards]",
+                        "location": "D-415",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "A": [
@@ -2506,6 +2511,11 @@
                 ],
                 "B": [
                     {
+                        "name": "Entre",
+                        "location": "D-505",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "PPIT",
                         "location": "D-505",
                         "time": "10:00-11:20"
@@ -2519,11 +2529,6 @@
                         "name": "Cloud Security",
                         "location": "D-505",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Entre",
-                        "location": "D-506",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "D": [
@@ -4490,7 +4495,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DB",
+                        "name": "DB [for 1st 2 weeks]",
                         "location": "D-404",
                         "time": "10:00-11:20"
                     },
@@ -4498,6 +4503,11 @@
                         "name": "Prob & Stats",
                         "location": "D-404",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DB [from 3rd week & onwards]",
+                        "location": "D-404",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Fund of S/w Engg [Cancelled]",
@@ -5139,6 +5149,11 @@
                 ],
                 "B": [
                     {
+                        "name": "Entre",
+                        "location": "D-505",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "PPIT",
                         "location": "D-505",
                         "time": "10:00-11:20"
@@ -5152,11 +5167,6 @@
                         "name": "Cloud Security",
                         "location": "D-505",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Entre",
-                        "location": "D-506",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "D": [
