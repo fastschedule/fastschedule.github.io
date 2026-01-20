@@ -9,7 +9,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Discrete",
+                        "name": "Discrete [Cancelled]",
                         "location": "C-301",
                         "time": "10:00-11:20"
                     },
@@ -1786,6 +1786,11 @@
             "2022": {
                 "A": [
                     {
+                        "name": "MLOps [Gp-I]",
+                        "location": "D-412",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Fin Mgt",
                         "location": "D-412",
                         "time": "01:00-02:20"
@@ -1801,6 +1806,11 @@
                         "name": "Fin Mgt",
                         "location": "D-412",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "MLOps [Gp-I]",
+                        "location": "D-413",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Agentic AI [Gp-I]",
@@ -4555,6 +4565,11 @@
                         "name": "Fin Mgt",
                         "location": "D-414",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "MLOps [Gp-I]",
+                        "location": "D-415",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "A": [
@@ -4562,6 +4577,11 @@
                         "name": "Reinf Learn [Gp-II]",
                         "location": "D-403",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MLOps [Gp-I]",
+                        "location": "D-414",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Fin Mgt",
