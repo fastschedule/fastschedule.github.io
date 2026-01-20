@@ -1430,7 +1430,12 @@
                         "time": "11:30-01:15"
                     },
                     {
-                        "name": "SDA",
+                        "name": "SDA [ReSch]",
+                        "location": "D-401",
+                        "time": "01:20-02:30"
+                    },
+                    {
+                        "name": "SDA [Cancelled]",
                         "location": "D-403",
                         "time": "11:30-12:50"
                     },
@@ -1758,7 +1763,7 @@
                 "B": [
                     {
                         "name": "Fund of S/w Engg",
-                        "location": "D-405",
+                        "location": "D-406",
                         "time": "01:00-02:20"
                     },
                     {
@@ -1799,7 +1804,7 @@
                     },
                     {
                         "name": "Agentic AI [Gp-I]",
-                        "location": "N/A",
+                        "location": "C-110",
                         "time": "11:30-12:50"
                     }
                 ],
@@ -2015,7 +2020,7 @@
                 "B": [
                     {
                         "name": "OS",
-                        "location": "D-406",
+                        "location": "D-405",
                         "time": "01:00-02:20"
                     },
                     {
@@ -2443,14 +2448,14 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "TBW",
-                        "location": "D-503",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "COAL",
                         "location": "D-503",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
