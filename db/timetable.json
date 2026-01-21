@@ -1332,11 +1332,6 @@
                 ],
                 "C": [
                     {
-                        "name": "Gen AI [G-II]",
-                        "location": "C-410",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "AI Prod Develop [G-II]",
                         "location": "D-303",
                         "time": "11:30-12:50"
@@ -1355,6 +1350,11 @@
                         "name": "Digital Mktg",
                         "location": "D-403",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Gen AI [G-II]",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
@@ -2203,12 +2203,12 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Comp Net",
+                        "name": "Formal Meth in SE",
                         "location": "C-408",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Formal Meth in SE",
+                        "name": "Comp Net",
                         "location": "C-408",
                         "time": "10:00-11:20"
                     }
@@ -2232,7 +2232,7 @@
                     {
                         "name": "Formal Meth in SE",
                         "location": "C-410",
-                        "time": "08:30-09:50"
+                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -3998,11 +3998,6 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Gen AI [G-II]",
-                        "location": "C-410",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "Tech Mgt",
                         "location": "D-303",
                         "time": "01:00-02:20"
@@ -4016,6 +4011,11 @@
                         "name": "Digital Mktg",
                         "location": "D-316",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Gen AI [G-II]",
+                        "location": "D-414",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "A": [
@@ -4813,12 +4813,12 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Comp Net",
+                        "name": "Formal Meth in SE",
                         "location": "C-409",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Formal Meth in SE",
+                        "name": "Comp Net",
                         "location": "C-409",
                         "time": "10:00-11:20"
                     }
@@ -4842,7 +4842,7 @@
                     {
                         "name": "Formal Meth in SE",
                         "location": "C-410",
-                        "time": "08:30-09:50"
+                        "time": "10:00-11:20"
                     }
                 ]
             },
