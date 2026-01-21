@@ -3644,6 +3644,11 @@
                         "name": "PPIT",
                         "location": "C-408",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "S/w Metrices",
+                        "location": "C-408",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "G": [
@@ -3653,18 +3658,18 @@
                         "time": "02:30-03:50"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "Entre",
-                        "location": "C-409",
-                        "time": "03:55-05:15"
-                    }
-                ],
                 "C": [
                     {
                         "name": "PPIT",
                         "location": "C-410",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Entre",
+                        "location": "C-410",
+                        "time": "03:55-05:15"
                     }
                 ]
             }
@@ -4113,7 +4118,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Prob & Stats",
+                        "name": "Prob & Stats [Cancelled]",
                         "location": "D-305",
                         "time": "01:00-02:20"
                     },
@@ -4159,7 +4164,7 @@
                 ],
                 "F": [
                     {
-                        "name": "Prob & Stats",
+                        "name": "Prob & Stats [Cancelled]",
                         "location": "D-304",
                         "time": "02:30-03:50"
                     },
