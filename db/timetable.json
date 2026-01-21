@@ -3010,7 +3010,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DIP",
+                        "name": "DIP [Cancelled]",
                         "location": "D-314",
                         "time": "11:30-12:50"
                     },
@@ -3027,7 +3027,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "DIP",
+                        "name": "DIP [Cancelled]",
                         "location": "D-314",
                         "time": "01:00-02:20"
                     },
@@ -4803,7 +4803,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Process Mining",
+                        "name": "Process Mining [Cancelled]",
                         "location": "C-403",
                         "time": "02:30-03:50"
                     },
@@ -4825,7 +4825,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Process Mining",
+                        "name": "Process Mining [Cancelled]",
                         "location": "C-409",
                         "time": "01:00-02:20"
                     },
