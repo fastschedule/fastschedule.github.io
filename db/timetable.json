@@ -155,7 +155,7 @@
                 "E": [
                     {
                         "name": "SDA",
-                        "location": "C-409",
+                        "location": "C-402",
                         "time": "10:00-11:20"
                     },
                     {
@@ -172,29 +172,29 @@
                 "A": [
                     {
                         "name": "DB",
-                        "location": "C-410",
+                        "location": "C-409",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Prob & Stats",
-                        "location": "C-410",
+                        "location": "C-409",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "OS [Cancelled]",
-                        "location": "C-410",
+                        "location": "C-409",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "AI",
-                        "location": "C-410",
+                        "location": "C-409",
                         "time": "02:30-03:50"
                     }
                 ],
                 "D": [
                     {
                         "name": "OS",
-                        "location": "C-410",
+                        "location": "C-409",
                         "time": "01:00-02:20"
                     },
                     {
