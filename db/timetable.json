@@ -3993,7 +3993,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Tech Mgt",
+                        "name": "Tech Mgt [Cancelled]",
                         "location": "D-303",
                         "time": "01:00-02:20"
                     },
@@ -4016,8 +4016,8 @@
                 "A": [
                     {
                         "name": "Robo Tech",
-                        "location": "C-407",
-                        "time": "11:30-12:50"
+                        "location": "C-410",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Big Data",
