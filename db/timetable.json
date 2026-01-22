@@ -1423,28 +1423,6 @@
                 ]
             },
             "2024": {
-                "C": [
-                    {
-                        "name": "Pak Studies [24)]",
-                        "location": "C-401",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "SDA [ReSch]",
-                        "location": "D-401",
-                        "time": "01:20-02:30"
-                    },
-                    {
-                        "name": "SDA [Cancelled]",
-                        "location": "D-403",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "D-IT Lab 2",
-                        "time": "02:30-05:15"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Pak Studies [24)]",
@@ -1560,6 +1538,23 @@
                         "name": "AI Lab",
                         "location": "D-IT Lab 3",
                         "time": "11:30-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Pak Studies [24)]",
+                        "location": "D-506",
+                        "time": "09:30-11:15"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-506",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "D-IT Lab 2",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
