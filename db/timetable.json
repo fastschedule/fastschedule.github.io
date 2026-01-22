@@ -3918,6 +3918,11 @@
                 ],
                 "H": [
                     {
+                        "name": "Exp Writing",
+                        "location": "C-303",
+                        "time": "02:00-03:45"
+                    },
+                    {
                         "name": "MV Calculus",
                         "location": "C-304",
                         "time": "08:30-09:50"
@@ -3931,11 +3936,6 @@
                         "name": "Discrete",
                         "location": "C-304",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-304",
-                        "time": "02:30-04:15"
                     }
                 ],
                 "B": [
