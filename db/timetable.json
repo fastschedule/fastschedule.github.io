@@ -530,7 +530,7 @@
             "2025": {
                 "A": [
                     {
-                        "name": "OOP",
+                        "name": "OOP [Cancelled]",
                         "location": "C-308",
                         "time": "08:30-09:50"
                     },
@@ -4377,7 +4377,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "OOP",
+                        "name": "OOP Lab",
                         "location": "C-Margala 1",
                         "time": "02:30-05:15"
                     },
@@ -4394,7 +4394,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "OOP",
+                        "name": "OOP Lab",
                         "location": "D-IT Lab 4",
                         "time": "08:30-11:20"
                     },
@@ -4785,7 +4785,7 @@
                     },
                     {
                         "name": "OOP Lab",
-                        "location": "Rawal 3 (B-232)",
+                        "location": "C-Rawal 1",
                         "time": "02:30-05:15"
                     },
                     {
@@ -4877,11 +4877,6 @@
                     }
                 ],
                 "E": [
-                    {
-                        "name": "Gen AI",
-                        "location": "D-301",
-                        "time": "08:30-09:50"
-                    },
                     {
                         "name": "Entre",
                         "location": "D-301",
@@ -5090,7 +5085,7 @@
                 ],
                 "B": [
                     {
-                        "name": "TBW",
+                        "name": "TBW [Rawal-4]",
                         "location": "D-503",
                         "time": "10:00-11:20"
                     },
