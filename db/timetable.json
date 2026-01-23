@@ -3717,11 +3717,6 @@
                         "time": "11:30-01:15"
                     },
                     {
-                        "name": "Pak Studies",
-                        "location": "C-110",
-                        "time": "09:30-11:15"
-                    },
-                    {
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "02:30-05:15"
@@ -5000,11 +4995,6 @@
             "2025": {
                 "A": [
                     {
-                        "name": "Pak Studies",
-                        "location": "C-401",
-                        "time": "03:15-05:00"
-                    },
-                    {
                         "name": "Seerah & UHQ-I",
                         "location": "C-404",
                         "time": "09:30-11:15"
@@ -5275,11 +5265,6 @@
                     }
                 ],
                 "C": [
-                    {
-                        "name": "Pak Studies",
-                        "location": "C-309",
-                        "time": "11:20-01:05"
-                    },
                     {
                         "name": "OOP Lab",
                         "location": "D-IT Lab 3",
