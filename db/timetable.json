@@ -958,6 +958,11 @@
                         "name": "PPIT",
                         "location": "C-408",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "C-408",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
@@ -2298,11 +2303,6 @@
                     }
                 ],
                 "C": [
-                    {
-                        "name": "Entre",
-                        "location": "D-302",
-                        "time": "02:30-03:50"
-                    },
                     {
                         "name": "S/w Metrices",
                         "location": "D-302",
@@ -3658,6 +3658,11 @@
                         "name": "PPIT",
                         "location": "C-410",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "C-410",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
@@ -4842,11 +4847,6 @@
                         "name": "Cloud Comp",
                         "location": "C-404",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Entre",
-                        "location": "D-303",
-                        "time": "02:30-03:50"
                     },
                     {
                         "name": "S/w Metrices",
