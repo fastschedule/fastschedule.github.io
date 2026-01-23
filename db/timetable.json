@@ -1120,6 +1120,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "Pak Studies",
+                        "location": "D-503",
+                        "time": "02:30-04:15"
+                    },
+                    {
                         "name": "COAL Lab",
                         "location": "C-Rawal 1",
                         "time": "11:30-02:20"
@@ -3756,6 +3761,11 @@
                         "name": "Algo",
                         "location": "D-502",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Pak Studies",
+                        "location": "D-502",
+                        "time": "02:30-04:15"
                     },
                     {
                         "name": "COAL Lab",
