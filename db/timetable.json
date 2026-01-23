@@ -9,7 +9,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Discrete [Cancelled]",
+                        "name": "Discrete",
                         "location": "C-301",
                         "time": "10:00-11:20"
                     },
@@ -181,7 +181,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "OS [Cancelled]",
+                        "name": "OS",
                         "location": "C-409",
                         "time": "11:30-12:50"
                     },
@@ -252,7 +252,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "OS [Cancelled]",
+                        "name": "OS",
                         "location": "D-302",
                         "time": "02:30-03:50"
                     }
@@ -281,7 +281,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "DB Lab [Cancelled]",
+                        "name": "DB Lab",
                         "location": "D-IT Lab 1",
                         "time": "02:30-05:15"
                     },
@@ -530,7 +530,7 @@
             "2025": {
                 "A": [
                     {
-                        "name": "OOP [Cancelled]",
+                        "name": "OOP",
                         "location": "C-308",
                         "time": "08:30-09:50"
                     },
@@ -603,12 +603,12 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Fund of S/w Engg [Cancelled]",
+                        "name": "Fund of S/w Engg",
                         "location": "D-402",
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Prob & Stats [Cancelled]",
+                        "name": "Prob & Stats",
                         "location": "D-402",
                         "time": "02:30-03:50"
                     }
@@ -630,7 +630,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Fund of S/w Engg [Cancelled]",
+                        "name": "Fund of S/w Engg",
                         "location": "D-403",
                         "time": "02:30-03:50"
                     }
@@ -738,7 +738,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MV Calculus [Cancelled]",
+                        "name": "MV Calculus",
                         "location": "C-311",
                         "time": "11:30-12:50"
                     }
@@ -820,7 +820,7 @@
                 ],
                 "B": [
                     {
-                        "name": "SPM [Cancelled]",
+                        "name": "SPM",
                         "location": "C-403",
                         "time": "08:30-09:50"
                     },
@@ -902,7 +902,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "S/w Metrices [Cancelled]",
+                        "name": "S/w Metrices",
                         "location": "C-406",
                         "time": "10:00-11:20"
                     },
@@ -924,7 +924,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "S/w Metrices [Cancelled]",
+                        "name": "S/w Metrices",
                         "location": "C-407",
                         "time": "08:30-09:50"
                     },
@@ -1002,7 +1002,7 @@
                 ],
                 "C": [
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "D-415",
                         "time": "08:30-09:50"
                     },
@@ -1105,7 +1105,7 @@
             "2024": {
                 "A": [
                     {
-                        "name": "Comp Net [Cancelled]",
+                        "name": "Comp Net",
                         "location": "D-503",
                         "time": "08:30-09:50"
                     },
@@ -1800,7 +1800,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Prob & Stats [Cancelled]",
+                        "name": "Prob & Stats",
                         "location": "D-405",
                         "time": "10:00-11:20"
                     }
@@ -1817,7 +1817,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Prob & Stats [Cancelled]",
+                        "name": "Prob & Stats",
                         "location": "D-412",
                         "time": "08:30-09:50"
                     },
@@ -1858,7 +1858,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "D-501",
                         "time": "11:30-12:50"
                     }
@@ -1875,7 +1875,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "D-501",
                         "time": "08:30-09:50"
                     }
@@ -2000,7 +2000,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Fund of S/w Engg [Cancelled]",
+                        "name": "Fund of S/w Engg",
                         "location": "D-405",
                         "time": "02:30-03:50"
                     },
@@ -2253,7 +2253,7 @@
                 ],
                 "A": [
                     {
-                        "name": "User Exp Engg [Cancelled]",
+                        "name": "User Exp Engg",
                         "location": "D-301",
                         "time": "11:30-12:50"
                     },
@@ -2270,7 +2270,7 @@
                 ],
                 "B": [
                     {
-                        "name": "User Exp Engg [Cancelled]",
+                        "name": "User Exp Engg",
                         "location": "D-301",
                         "time": "01:00-02:20"
                     },
@@ -2472,7 +2472,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Blockchain [Cancelled]",
+                        "name": "Blockchain",
                         "location": "D-504",
                         "time": "08:30-09:50"
                     },
@@ -2516,7 +2516,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Blockchain [Cancelled]",
+                        "name": "Blockchain",
                         "location": "D-505",
                         "time": "11:30-12:50"
                     },
