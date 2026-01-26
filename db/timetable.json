@@ -767,7 +767,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Exp Writing",
+                        "name": "Exp Writing [Cancelled]",
                         "location": "C-402",
                         "time": "11:30-01:15"
                     },
@@ -784,7 +784,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Exp Writing",
+                        "name": "Exp Writing [Cancelled]",
                         "location": "C-402",
                         "time": "02:30-04:15"
                     },
@@ -803,7 +803,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "SPM",
+                        "name": "SPM [Cancelled]",
                         "location": "C-402",
                         "time": "08:30-09:50"
                     },
@@ -995,7 +995,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Deep Learn",
+                        "name": "Deep Learn [Cancelled]",
                         "location": "D-414",
                         "time": "10:00-11:20"
                     },
@@ -2492,14 +2492,14 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-504",
                         "time": "01:00-02:20"
                     }
                 ],
                 "C": [
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-504",
                         "time": "02:30-03:50"
                     },
@@ -3830,7 +3830,7 @@
                 ],
                 "C": [
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-506",
                         "time": "01:00-02:20"
                     }
@@ -5140,7 +5140,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-504",
                         "time": "01:00-02:20"
                     }
@@ -5159,7 +5159,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Cancelled]",
                         "location": "D-505",
                         "time": "02:30-03:50"
                     }
