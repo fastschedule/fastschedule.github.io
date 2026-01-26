@@ -3993,7 +3993,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Tech Mgt [Cancelled]",
+                        "name": "Tech Mgt",
                         "location": "D-303",
                         "time": "01:00-02:20"
                     },
@@ -4108,7 +4108,7 @@
             "2024": {
                 "E": [
                     {
-                        "name": "OS [Cancelled]",
+                        "name": "OS",
                         "location": "D-304",
                         "time": "08:30-09:50"
                     },
@@ -4118,7 +4118,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Prob & Stats [Cancelled]",
+                        "name": "Prob & Stats",
                         "location": "D-305",
                         "time": "01:00-02:20"
                     },
@@ -4164,7 +4164,7 @@
                 ],
                 "F": [
                     {
-                        "name": "Prob & Stats [Cancelled]",
+                        "name": "Prob & Stats",
                         "location": "D-304",
                         "time": "02:30-03:50"
                     },
@@ -4481,7 +4481,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Fund of S/w Engg [Cancelled]",
+                        "name": "Fund of S/w Engg",
                         "location": "D-404",
                         "time": "02:30-03:50"
                     }
@@ -4678,7 +4678,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "D-413",
                         "time": "11:30-12:50"
                     }
@@ -4695,14 +4695,14 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "D-413",
                         "time": "08:30-09:50"
                     }
                 ],
                 "C": [
                     {
-                        "name": "Data Mining [Cancelled]",
+                        "name": "Data Mining",
                         "location": "D-413",
                         "time": "01:00-02:20"
                     },
@@ -4803,7 +4803,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Process Mining [Cancelled]",
+                        "name": "Process Mining",
                         "location": "C-403",
                         "time": "02:30-03:50"
                     },
@@ -4825,7 +4825,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Process Mining [Cancelled]",
+                        "name": "Process Mining",
                         "location": "C-409",
                         "time": "01:00-02:20"
                     },
@@ -4875,7 +4875,7 @@
                 ],
                 "A": [
                     {
-                        "name": "User Exp Engg [Cancelled]",
+                        "name": "User Exp Engg",
                         "location": "D-301",
                         "time": "11:30-12:50"
                     },
@@ -4892,7 +4892,7 @@
                 ],
                 "B": [
                     {
-                        "name": "User Exp Engg [Cancelled]",
+                        "name": "User Exp Engg",
                         "location": "D-301",
                         "time": "01:00-02:20"
                     },
@@ -5058,7 +5058,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "COAL [Cancelled]",
+                        "name": "COAL",
                         "location": "D-502",
                         "time": "10:00-11:20"
                     },
@@ -5080,7 +5080,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "COAL [Cancelled]",
+                        "name": "COAL",
                         "location": "D-506",
                         "time": "11:30-12:50"
                     }
@@ -5166,7 +5166,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Blockchain [Cancelled]",
+                        "name": "Blockchain",
                         "location": "D-505",
                         "time": "11:30-12:50"
                     },
