@@ -2330,10 +2330,32 @@
         },
         "BS CY": {
             "2025": {
+                "B": [
+                    {
+                        "name": "AP",
+                        "location": "C-405",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-405",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Calculus",
+                        "location": "C-406",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-406",
+                        "time": "02:30-03:50"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Exp Writing",
-                        "location": "C-405",
+                        "location": "C-406",
                         "time": "09:00-10:45"
                     },
                     {
@@ -2350,28 +2372,6 @@
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "AP",
-                        "location": "C-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OOP",
-                        "location": "C-406",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MV Calculus",
-                        "location": "C-406",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "C-406",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
