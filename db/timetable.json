@@ -1745,14 +1745,14 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Fin Mgt",
+                        "location": "D-412",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "MLOps [Gp-II]",
                         "location": "D-413",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fin Mgt",
-                        "location": "D-413",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "A": [
@@ -1772,18 +1772,18 @@
                         "time": "10:00-11:20"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "Fin Mgt",
-                        "location": "D-412",
-                        "time": "02:30-03:50"
-                    }
-                ],
                 "C": [
                     {
                         "name": "Fin Mgt",
                         "location": "D-413",
                         "time": "01:00-02:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Fin Mgt",
+                        "location": "D-413",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
