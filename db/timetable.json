@@ -1795,7 +1795,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Fund of S/w Engg",
+                        "name": "Fund of S/w Engg [Cancelled]",
                         "location": "D-404",
                         "time": "02:30-03:50"
                     },
@@ -1841,7 +1841,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Data Mining",
+                        "name": "Data Mining [Cancelled]",
                         "location": "D-416",
                         "time": "02:30-03:50"
                     },
@@ -2167,14 +2167,14 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [Cancelled ... (MS Exam)]",
                         "location": "C-Margala 4",
                         "time": "02:30-05:15"
                     }
                 ],
                 "B": [
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "C-409",
                         "time": "01:00-02:20"
                     },
@@ -2405,7 +2405,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Sec S/w Design Lab",
+                        "name": "Sec S/w Design Lab [Cancelled ... (MS Exam)]",
                         "location": "C-Margala 3",
                         "time": "02:30-05:15"
                     },
