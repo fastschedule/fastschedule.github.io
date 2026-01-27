@@ -117,7 +117,7 @@
                     },
                     {
                         "name": "OOP Lab",
-                        "location": "D-IT Lab 1",
+                        "location": "C-Margala 4",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -1044,7 +1044,7 @@
                     },
                     {
                         "name": "AI Lab",
-                        "location": "C-Margala 4",
+                        "location": "D-IT Lab 1",
                         "time": "08:30-11:20"
                     },
                     {
@@ -2654,7 +2654,7 @@
                     },
                     {
                         "name": "OOP Lab",
-                        "location": "D-IT Lab 1",
+                        "location": "C-Rawal 4",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -3333,7 +3333,7 @@
                     },
                     {
                         "name": "AI Lab",
-                        "location": "C-Rawal 4",
+                        "location": "D-IT Lab 1",
                         "time": "08:30-11:20"
                     },
                     {
