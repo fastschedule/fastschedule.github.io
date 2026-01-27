@@ -339,11 +339,6 @@
                 ],
                 "B": [
                     {
-                        "name": "AI Prod Develop [G-II]",
-                        "location": "D-312",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Big Data [G-I]",
                         "location": "D-312",
                         "time": "01:00-02:20"
@@ -372,6 +367,11 @@
                         "name": "Tech Mgt",
                         "location": "D-316",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI Prod Develop [G-II]",
+                        "location": "D-401",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -2874,6 +2874,11 @@
                 ],
                 "B": [
                     {
+                        "name": "AI Prod Develop [G-II]",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Digital Mktg",
                         "location": "D-302",
                         "time": "10:00-11:20"
@@ -2902,11 +2907,6 @@
                         "name": "Big Data [G-I]",
                         "location": "D-401",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI Prod Develop [G-II]",
-                        "location": "D-402",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
