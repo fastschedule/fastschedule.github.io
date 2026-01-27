@@ -1740,7 +1740,7 @@
             "2022": {
                 "B": [
                     {
-                        "name": "Agentic AI [Gp-I]",
+                        "name": "Agentic AI [Gp-I) Cance]",
                         "location": "D-403",
                         "time": "11:30-12:50"
                     },
@@ -5070,11 +5070,6 @@
                 ],
                 "B": [
                     {
-                        "name": "TBW [Rawal-4]",
-                        "location": "D-503",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "Comp Net",
                         "location": "D-503",
                         "time": "01:00-02:20"
@@ -5083,6 +5078,11 @@
                         "name": "COAL",
                         "location": "D-506",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
