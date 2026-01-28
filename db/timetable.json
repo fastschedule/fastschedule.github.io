@@ -3292,144 +3292,27 @@
                 ]
             }
         },
-        "BS DS": {
-            "2025": {
-                "A": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-310",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab A1",
-                        "location": "A-Mehran 2",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Exp Writing Lab A2",
-                        "location": "A-Khyber-1",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-310",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "C-Margala 3",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2024": {
-                "B": [
-                    {
-                        "name": "AI",
-                        "location": "D-406",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "D-IT Lab 1",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "C-Rawal 4",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "AI",
-                        "location": "D-406",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Pak Studies",
-                        "location": "D-505",
-                        "time": "09:30-11:15"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "C-Rawal 1",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "Deep Learn",
-                        "location": "D-415",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-415",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Deep Learn",
-                        "location": "D-416",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-501",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "C-Margala 1",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "AI",
-                        "location": "D-501",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-501",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-501",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            }
-        },
         "BS SE": {
             "2025": {
                 "A": [
                     {
                         "name": "DLD",
-                        "location": "C-311",
+                        "location": "C-310",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "OOP",
-                        "location": "C-311",
+                        "location": "C-310",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "MV Calculus",
-                        "location": "C-311",
+                        "location": "C-310",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Seerah & UHQ-I",
-                        "location": "C-311",
+                        "location": "C-310",
                         "time": "02:00-03:45"
                     }
                 ],
@@ -3665,6 +3548,123 @@
                         "name": "Entre",
                         "location": "C-410",
                         "time": "03:55-05:15"
+                    }
+                ]
+            }
+        },
+        "BS DS": {
+            "2025": {
+                "A": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-311",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab A1",
+                        "location": "A-Mehran 2",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Exp Writing Lab A2",
+                        "location": "A-Khyber-1",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-311",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 3",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2024": {
+                "B": [
+                    {
+                        "name": "AI",
+                        "location": "D-406",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "C-Rawal 4",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "AI",
+                        "location": "D-406",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Pak Studies",
+                        "location": "D-505",
+                        "time": "09:30-11:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Rawal 1",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Deep Learn",
+                        "location": "D-415",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "D-415",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Deep Learn",
+                        "location": "D-416",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "D-501",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Margala 1",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "AI",
+                        "location": "D-501",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "D-501",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-501",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
