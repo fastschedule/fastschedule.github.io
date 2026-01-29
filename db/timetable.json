@@ -1363,6 +1363,18 @@
                         "time": "11:30-12:50"
                     }
                 ],
+                "D": [
+                    {
+                        "name": "AI Prod Develop [G-II]",
+                        "location": "C-410",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "D-403",
+                        "time": "03:55-05:15"
+                    }
+                ],
                 "C": [
                     {
                         "name": "AI Prod Develop [G-II]",
@@ -1444,13 +1456,6 @@
                     {
                         "name": "Stat Modeling",
                         "location": "D-402",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Digital Mktg",
-                        "location": "D-403",
                         "time": "03:55-05:15"
                     }
                 ]
@@ -4028,6 +4033,18 @@
                 ]
             },
             "2022": {
+                "D": [
+                    {
+                        "name": "AI Prod Develop [G-II]",
+                        "location": "C-309",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "D-316",
+                        "time": "03:55-05:15"
+                    }
+                ],
                 "C": [
                     {
                         "name": "AI Prod Develop [G-II]",
@@ -4136,13 +4153,6 @@
                     {
                         "name": "Stat Modeling",
                         "location": "D-315",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Digital Mktg",
-                        "location": "D-316",
                         "time": "03:55-05:15"
                     }
                 ]
