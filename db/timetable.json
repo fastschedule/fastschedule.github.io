@@ -4606,14 +4606,14 @@
                 ],
                 "C": [
                     {
-                        "name": "Fin Mgt",
+                        "name": "Fin Mgt [Cancelled]",
                         "location": "D-415",
                         "time": "01:00-02:20"
                     }
                 ],
                 "D": [
                     {
-                        "name": "Fin Mgt",
+                        "name": "Fin Mgt [Cancelled]",
                         "location": "D-415",
                         "time": "02:30-03:50"
                     }
