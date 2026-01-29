@@ -4757,7 +4757,7 @@
                 ],
                 "B": [
                     {
-                        "name": "AP",
+                        "name": "AP [Cancelled]",
                         "location": "C-403",
                         "time": "08:30-09:50"
                     },
@@ -4774,7 +4774,7 @@
                 ],
                 "A": [
                     {
-                        "name": "AP",
+                        "name": "AP [Cancelled]",
                         "location": "C-403",
                         "time": "10:00-11:20"
                     },
