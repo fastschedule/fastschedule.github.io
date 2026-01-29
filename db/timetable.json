@@ -2132,6 +2132,97 @@
                     }
                 ]
             },
+            "2022": {
+                "C": [
+                    {
+                        "name": "S/w Metrices",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-303",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "S/w Metrices",
+                        "location": "C-409",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "C-409",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Entre",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "User Exp Engg",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "D-301",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-302",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "User Exp Engg",
+                        "location": "D-301",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "D-301",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-302",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Entre",
+                        "location": "D-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "S/w Metrices",
+                        "location": "D-302",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "S/w Metrices",
+                        "location": "D-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-303",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2024": {
                 "C": [
                     {
@@ -2232,97 +2323,6 @@
                     {
                         "name": "Formal Meth in SE",
                         "location": "C-410",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
-            "2022": {
-                "D": [
-                    {
-                        "name": "S/w Metrices",
-                        "location": "C-409",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "C-409",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Entre",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "User Exp Engg",
-                        "location": "D-301",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Entre",
-                        "location": "D-301",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-302",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "User Exp Engg",
-                        "location": "D-301",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Entre",
-                        "location": "D-301",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-302",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "Entre",
-                        "location": "D-302",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "S/w Metrices",
-                        "location": "D-302",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "S/w Metrices",
-                        "location": "D-302",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-303",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "S/w Metrices",
-                        "location": "D-303",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-303",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -4795,63 +4795,17 @@
                     }
                 ]
             },
-            "2023": {
-                "A": [
-                    {
-                        "name": "AI",
-                        "location": "C-403",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Process Mining",
-                        "location": "C-403",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Formal Meth in SE",
-                        "location": "C-409",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "C-409",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Comp Net",
-                        "location": "C-409",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Process Mining",
-                        "location": "C-409",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "C-409",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Formal Meth in SE",
-                        "location": "C-410",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
             "2022": {
                 "C": [
+                    {
+                        "name": "S/w Metrices",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
+                    },
                     {
                         "name": "Cloud Comp",
                         "location": "C-404",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "S/w Metrices",
-                        "location": "D-303",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "D": [
@@ -4928,6 +4882,52 @@
                     {
                         "name": "PPIT",
                         "location": "D-303",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "AI",
+                        "location": "C-403",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Process Mining",
+                        "location": "C-403",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-409",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-409",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Net",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Process Mining",
+                        "location": "C-409",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-409",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-410",
                         "time": "10:00-11:20"
                     }
                 ]
