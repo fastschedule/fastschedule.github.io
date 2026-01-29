@@ -525,7 +525,7 @@
             "2025": {
                 "A": [
                     {
-                        "name": "OOP [Cancelled]",
+                        "name": "OOP",
                         "location": "C-308",
                         "time": "08:30-09:50"
                     },
@@ -538,6 +538,11 @@
                         "name": "MV Calculus",
                         "location": "C-308",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "C-308",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "B": [
@@ -798,7 +803,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "SPM [Cancelled]",
+                        "name": "SPM",
                         "location": "C-402",
                         "time": "08:30-09:50"
                     },
