@@ -1054,6 +1054,20 @@
                     }
                 ]
             },
+            "2022": {
+                "A": [
+                    {
+                        "name": "Fin Mgt [ReSch]",
+                        "location": "D-414",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Fin Mgt [ReSch]",
+                        "location": "D-414",
+                        "time": "02:30-03:50"
+                    }
+                ]
+            },
             "2025": {
                 "A": [
                     {
@@ -3590,6 +3604,20 @@
                         "name": "OOP Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2022": {
+                "B": [
+                    {
+                        "name": "Fin Mgt [ReSch]",
+                        "location": "D-403",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Fin Mgt [ReSch]",
+                        "location": "D-403",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
