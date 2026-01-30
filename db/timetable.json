@@ -5337,6 +5337,22 @@
                 ]
             }
         },
+        "BS SE": {
+            "2022": {
+                "C": [
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-307",
+                        "time": "02:00-03:20"
+                    }
+                ]
+            }
+        },
         "BS DS": {
             "2025": {
                 "A": [
