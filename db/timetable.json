@@ -2791,6 +2791,33 @@
                         "time": "02:30-05:15"
                     }
                 ],
+                "C": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-301",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-305",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats [Cancelled]",
+                        "location": "D-305",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "D-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-306",
+                        "time": "02:30-03:50"
+                    }
+                ],
                 "F": [
                     {
                         "name": "SDA",
@@ -2871,28 +2898,6 @@
                     {
                         "name": "Prob & Stats",
                         "location": "D-304",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "AI",
-                        "location": "D-305",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Prob & Stats [Cancelled]",
-                        "location": "D-305",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "D-305",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-306",
                         "time": "02:30-03:50"
                     }
                 ],
