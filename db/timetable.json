@@ -1900,9 +1900,14 @@
                 ],
                 "A": [
                     {
-                        "name": "OS",
+                        "name": "OS [&B) Combined]",
                         "location": "D-405",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OS [&B) Combined]",
+                        "location": "D-405",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Pak Studies",
@@ -1916,11 +1921,6 @@
                     }
                 ],
                 "B": [
-                    {
-                        "name": "OS",
-                        "location": "D-405",
-                        "time": "01:00-02:20"
-                    },
                     {
                         "name": "Pak Studies",
                         "location": "D-406",
