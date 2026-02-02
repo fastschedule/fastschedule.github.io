@@ -3376,6 +3376,11 @@
                         "name": "DLD",
                         "location": "C-401",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-401",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "D": [
