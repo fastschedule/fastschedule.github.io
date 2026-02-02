@@ -1827,8 +1827,8 @@
                 "D": [
                     {
                         "name": "Fin Mgt",
-                        "location": "D-413",
-                        "time": "02:30-03:50"
+                        "location": "D-414",
+                        "time": "08:30-09:50"
                     }
                 ]
             },
@@ -4668,18 +4668,18 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "Fin Mgt [Cancelled]",
-                        "location": "D-415",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "D": [
                     {
-                        "name": "Fin Mgt [Cancelled]",
+                        "name": "Fin Mgt",
                         "location": "D-415",
-                        "time": "02:30-03:50"
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Fin Mgt",
+                        "location": "D-415",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
