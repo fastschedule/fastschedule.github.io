@@ -3357,6 +3357,174 @@
                 ]
             }
         },
+        "BS CY": {
+            "2025": {
+                "B": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Seerah & UHQ-I",
+                        "location": "C-404",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-307",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Seerah & UHQ-I",
+                        "location": "C-403",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-403",
+                        "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "AP",
+                        "location": "C-402",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "MV Calculus",
+                        "location": "C-402",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-403",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-403",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Comp Net",
+                        "location": "D-502",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "D-502",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "C-Rawal 4",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Prob & Stats",
+                        "location": "D-502",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "D-502",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Pak Studies",
+                        "location": "D-502",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Digital Forensics",
+                        "location": "D-503",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-503",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Malware Analysis",
+                        "location": "D-504",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "AI",
+                        "location": "D-504",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Sec S/w Design",
+                        "location": "D-504",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-504",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Ethical Hack",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2022": {
+                "D": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-506",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-506",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            }
+        },
         "BS SE": {
             "2025": {
                 "A": [
@@ -3749,164 +3917,6 @@
                         "name": "NLP",
                         "location": "D-501",
                         "time": "11:30-12:50"
-                    }
-                ]
-            }
-        },
-        "BS CY": {
-            "2025": {
-                "A": [
-                    {
-                        "name": "AP",
-                        "location": "C-402",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "MV Calculus",
-                        "location": "C-402",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "C-403",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OOP",
-                        "location": "C-403",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Seerah & UHQ-I",
-                        "location": "C-403",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-403",
-                        "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Seerah & UHQ-I",
-                        "location": "C-404",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "Comp Net",
-                        "location": "D-502",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "D-502",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Net Lab",
-                        "location": "C-Rawal 4",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Prob & Stats",
-                        "location": "D-502",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-502",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Pak Studies",
-                        "location": "D-502",
-                        "time": "02:30-04:15"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "C-Rawal 1",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "Digital Forensics",
-                        "location": "D-503",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-503",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-503",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Malware Analysis",
-                        "location": "D-504",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "AI",
-                        "location": "D-504",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Sec S/w Design",
-                        "location": "D-504",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-504",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Ethical Hack",
-                        "location": "Cyber (D-514)",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2022": {
-                "D": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-506",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-506",
-                        "time": "01:00-02:20"
                     }
                 ]
             }
