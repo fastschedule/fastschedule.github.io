@@ -1341,6 +1341,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "Exp Writing [ReSch]",
+                        "location": "C-307",
+                        "time": "02:00-03:45"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
@@ -1624,6 +1629,28 @@
                 ]
             },
             "2023": {
+                "A": [
+                    {
+                        "name": "SE [ReSch]",
+                        "location": "C-410",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "SE",
+                        "location": "D-313",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-313",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Arch",
+                        "location": "D-314",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "DIP",
@@ -1656,6 +1683,11 @@
                         "name": "SE",
                         "location": "D-311",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "D-313",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Comp Arch",
@@ -1692,24 +1724,12 @@
                         "time": "08:30-11:20"
                     }
                 ],
-                "A": [
-                    {
-                        "name": "SE",
-                        "location": "D-313",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-313",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Arch",
-                        "location": "D-314",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "C": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "D-313",
+                        "time": "02:30-03:50"
+                    },
                     {
                         "name": "Comp Arch",
                         "location": "D-315",
