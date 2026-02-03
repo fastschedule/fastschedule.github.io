@@ -1588,7 +1588,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Prob & Stats [Cancelled]",
+                        "name": "Prob & Stats",
                         "location": "D-306",
                         "time": "02:30-03:50"
                     }
@@ -2039,7 +2039,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Fund of S/w Engg [Cancelled]",
+                        "name": "Fund of S/w Engg",
                         "location": "D-404",
                         "time": "02:30-03:50"
                     },
@@ -2085,7 +2085,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Data Mining [Cancelled]",
+                        "name": "Data Mining",
                         "location": "D-416",
                         "time": "02:30-03:50"
                     },
@@ -2345,7 +2345,7 @@
                 ],
                 "B": [
                     {
-                        "name": "OS [Cancelled]",
+                        "name": "OS",
                         "location": "C-409",
                         "time": "01:00-02:20"
                     },
@@ -2543,7 +2543,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "TBW",
+                        "name": "TBW [Cancelled]",
                         "location": "C-110",
                         "time": "10:00-11:20"
                     }
@@ -2567,14 +2567,14 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "PPIT [Cancelled]",
+                        "name": "PPIT",
                         "location": "D-504",
                         "time": "01:00-02:20"
                     }
                 ],
                 "C": [
                     {
-                        "name": "PPIT [Cancelled]",
+                        "name": "PPIT",
                         "location": "D-504",
                         "time": "02:30-03:50"
                     },
@@ -2803,7 +2803,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Prob & Stats [Cancelled]",
+                        "name": "Prob & Stats",
                         "location": "D-305",
                         "time": "10:00-11:20"
                     },
@@ -2913,7 +2913,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Prob & Stats [Cancelled]",
+                        "name": "Prob & Stats",
                         "location": "D-306",
                         "time": "08:30-09:50"
                     },
