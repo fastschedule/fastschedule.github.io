@@ -1015,6 +1015,11 @@
                         "name": "PDC",
                         "location": "D-414",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI [ReSch]",
+                        "location": "D-415",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "C": [
@@ -1690,11 +1695,6 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "D-313",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "Comp Arch",
                         "location": "D-315",
                         "time": "08:30-09:50"
@@ -1730,11 +1730,6 @@
                     }
                 ],
                 "C": [
-                    {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "D-313",
-                        "time": "02:30-03:50"
-                    },
                     {
                         "name": "Comp Arch",
                         "location": "D-315",
@@ -2107,7 +2102,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "D-501",
                         "time": "11:30-12:50"
                     }
@@ -5400,11 +5395,32 @@
                         "time": "08:30-11:20"
                     }
                 ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Sec S/w Design Lab [ReSch]",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:20"
+                    }
+                ]
             }
         },
         "BS SE": {
             "2022": {
+                "G": [
+                    {
+                        "name": "S/w Metrices [ReSch]",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    }
+                ],
                 "C": [
+                    {
+                        "name": "S/w Metrices [ReSch]",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
                     {
                         "name": "Entre [ReSch]",
                         "location": "C-307",
@@ -5414,6 +5430,13 @@
                         "name": "Entre [ReSch]",
                         "location": "C-307",
                         "time": "02:00-03:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "S/w Metrices [ReSch]",
+                        "location": "C-309",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
