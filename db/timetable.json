@@ -2922,12 +2922,22 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "OS [ReSch]",
+                        "location": "D-311",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "OS [ReSch]",
+                        "location": "D-311",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "DB Lab",
                         "location": "D-IT Lab 2",
                         "time": "11:30-02:20"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [Cancelled]",
                         "location": "D-IT Lab 2",
                         "time": "02:30-05:15"
                     }
@@ -2959,6 +2969,11 @@
                         "name": "Pak Studies [24)]",
                         "location": "D-302",
                         "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-304",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "AI Lab",
@@ -3467,6 +3482,11 @@
                         "name": "Prob & Stats",
                         "location": "D-502",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "D-503",
+                        "time": "03:00-04:45"
                     },
                     {
                         "name": "Comp Net Lab",
