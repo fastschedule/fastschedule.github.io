@@ -972,7 +972,7 @@
                 ],
                 "F": [
                     {
-                        "name": "Entre [Cancelled]",
+                        "name": "Entre",
                         "location": "C-408",
                         "time": "02:30-03:50"
                     }
@@ -1327,6 +1327,11 @@
                         "name": "Civics",
                         "location": "C-307",
                         "time": "09:00-10:45"
+                    },
+                    {
+                        "name": "Exp Writing Lab D1 [ReSch]",
+                        "location": "C-308",
+                        "time": "02:30-05:15"
                     },
                     {
                         "name": "OOP Lab",
@@ -1876,11 +1881,6 @@
                         "name": "AI",
                         "location": "D-404",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DB [for 1st 2 weeks]",
-                        "location": "D-404",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Prob & Stats",
@@ -2646,6 +2646,11 @@
                         "name": "Exp Writing",
                         "location": "C-301",
                         "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "Exp Writing Lab J1",
@@ -3754,7 +3759,7 @@
                     },
                     {
                         "name": "Cloud Comp",
-                        "location": "C-410",
+                        "location": "D-301",
                         "time": "02:30-03:50"
                     }
                 ],
@@ -3809,7 +3814,7 @@
                 "D": [
                     {
                         "name": "Entre",
-                        "location": "C-410",
+                        "location": "D-301",
                         "time": "03:55-05:15"
                     }
                 ]
@@ -4588,11 +4593,6 @@
                         "name": "AI",
                         "location": "D-404",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DB [for 1st 2 weeks]",
-                        "location": "D-404",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Prob & Stats [Cancelled]",
