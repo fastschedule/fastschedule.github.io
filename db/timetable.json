@@ -1984,7 +1984,7 @@
             "2022": {
                 "B": [
                     {
-                        "name": "Agentic AI [Gp-I) Cance]",
+                        "name": "Agentic AI [Gp-I]",
                         "location": "D-403",
                         "time": "11:30-12:50"
                     },
@@ -2788,137 +2788,6 @@
                     }
                 ]
             },
-            "2023": {
-                "C": [
-                    {
-                        "name": "Web [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "SE",
-                        "location": "D-314",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Comp Const",
-                        "location": "D-314",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "D-IT Lab 3",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "SE",
-                        "location": "D-311",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-311",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Arch",
-                        "location": "D-315",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "AI",
-                        "location": "D-312",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "SE",
-                        "location": "D-312",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Arch",
-                        "location": "D-312",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "SE",
-                        "location": "D-312",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Comp Arch",
-                        "location": "D-313",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-313",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Comp Const",
-                        "location": "D-314",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-314",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DIP",
-                        "location": "D-314",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Web",
-                        "location": "C-110",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "D-IT Lab 3",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "PDC",
-                        "location": "D-315",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Const",
-                        "location": "D-315",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Web",
-                        "location": "C-110",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Comp Const",
-                        "location": "D-315",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-315",
-                        "time": "03:55-05:15"
-                    }
-                ]
-            },
             "2024": {
                 "E": [
                     {
@@ -3174,6 +3043,137 @@
                         "name": "Stat Modeling",
                         "location": "D-402",
                         "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2023": {
+                "E": [
+                    {
+                        "name": "SE",
+                        "location": "D-311",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-311",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Arch",
+                        "location": "D-315",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "AI",
+                        "location": "D-312",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "SE",
+                        "location": "D-312",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Arch",
+                        "location": "D-312",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "SE",
+                        "location": "D-312",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Arch",
+                        "location": "D-313",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-313",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Comp Const",
+                        "location": "D-314",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "D-314",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DIP",
+                        "location": "D-314",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Web",
+                        "location": "C-110",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "SE",
+                        "location": "D-314",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Const",
+                        "location": "D-314",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Web [ReSch]",
+                        "location": "C-110",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "PDC",
+                        "location": "D-315",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Const",
+                        "location": "D-315",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Web",
+                        "location": "C-110",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Comp Const",
+                        "location": "D-315",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "D-315",
+                        "time": "03:55-05:15"
                     }
                 ]
             }
