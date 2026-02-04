@@ -2543,6 +2543,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "COAL [ReSch]",
+                        "location": "C-110",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "TBW [Cancelled]",
                         "location": "C-110",
                         "time": "10:00-11:20"
@@ -3933,6 +3938,11 @@
                         "name": "PDC",
                         "location": "D-415",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "C-Margala 3",
+                        "time": "11:30-02:20"
                     }
                 ],
                 "B": [
@@ -5236,6 +5246,11 @@
                         "name": "AI Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Sec S/w Design Lab [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
@@ -5421,12 +5436,17 @@
                     }
                 ]
             },
-            "2023": {
+            "2024": {
                 "A": [
                     {
-                        "name": "Sec S/w Design Lab [ReSch]",
-                        "location": "C-Margala 1",
-                        "time": "08:30-11:20"
+                        "name": "COAL [ReSch]",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "COAL [ReSch]",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
