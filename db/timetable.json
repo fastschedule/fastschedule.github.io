@@ -3957,7 +3957,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "AI Lab",
+                        "name": "AI Lab [Cancelled]",
                         "location": "C-Margala 1",
                         "time": "11:30-02:20"
                     }
@@ -5482,6 +5482,17 @@
                         "name": "S/w Metrices [ReSch]",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2024": {
+                "G": [
+                    {
+                        "name": "DB [ReSch]",
+                        "location": "C-308",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
