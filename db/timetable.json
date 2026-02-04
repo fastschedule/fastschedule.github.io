@@ -5367,7 +5367,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Exp Writing Lab C2",
+                        "name": "Exp Writing Lab C2 [Cancelled]",
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
                     }
@@ -5419,6 +5419,22 @@
                         "name": "S/w Metrices [ReSch]",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2024": {
+                "B": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "C-Margala 3",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
