@@ -235,6 +235,28 @@
                         "time": "02:30-03:50"
                     }
                 ],
+                "G": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-303",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "D-IT Lab 2",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "C": [
                     {
                         "name": "AI",
@@ -271,23 +293,6 @@
                     {
                         "name": "AI Lab",
                         "location": "D-IT Lab 3",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "SDA",
-                        "location": "D-303",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "D-IT Lab 1",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -538,6 +543,11 @@
                         "name": "MV Calculus",
                         "location": "C-308",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-308",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "B": [
@@ -741,6 +751,33 @@
                         "name": "OOP",
                         "location": "C-311",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-311",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-311",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-402",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "AP",
+                        "location": "C-403",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
@@ -763,23 +800,6 @@
                         "name": "Seerah & UHQ-I",
                         "location": "C-401",
                         "time": "02:00-03:45"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-402",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "AP",
-                        "location": "C-403",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
@@ -1568,6 +1588,11 @@
                     }
                 ],
                 "C": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-401",
+                        "time": "01:00-02:20"
+                    },
                     {
                         "name": "Pak Studies [24)]",
                         "location": "D-506",
@@ -2774,6 +2799,11 @@
                         "name": "Pak Studies [24)]",
                         "location": "D-302",
                         "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-304",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "AI Lab",
