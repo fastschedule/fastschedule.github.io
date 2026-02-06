@@ -461,6 +461,11 @@
                         "name": "Comp Const",
                         "location": "D-306",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Web [ReSch]",
+                        "location": "C-110",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "A": [
@@ -533,6 +538,18 @@
                         "name": "Civics [ReSch]",
                         "location": "C-305",
                         "time": "03:00-04:45"
+                    },
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-307",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -999,6 +1016,11 @@
                         "name": "SDA",
                         "location": "C-405",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "OS [ReSch]",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -1093,7 +1115,7 @@
                 "F": [
                     {
                         "name": "Entre",
-                        "location": "C-408",
+                        "location": "A-104",
                         "time": "02:30-03:50"
                     }
                 ],
@@ -2052,6 +2074,11 @@
                         "name": "Prob & Stats",
                         "location": "D-405",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Fund of S/w Engg [ReSch]",
+                        "location": "C-Margala 3",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -2090,7 +2117,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "AI Lab",
+                        "name": "AI Lab [Cancelled]",
                         "location": "D-IT Lab 2",
                         "time": "11:30-02:20"
                     }
@@ -2165,6 +2192,11 @@
                         "name": "Exp Writing",
                         "location": "C-404",
                         "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-410",
+                        "time": "08:30-09:50"
                     },
                     {
                         "name": "DLD Lab",
@@ -2281,7 +2313,7 @@
                 "F": [
                     {
                         "name": "Entre",
-                        "location": "A-118",
+                        "location": "D-302",
                         "time": "08:30-09:50"
                     },
                     {
@@ -3755,7 +3787,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "AI Lab",
+                        "name": "AI Lab [Cancelled]",
                         "location": "C-Margala 1",
                         "time": "11:30-02:20"
                     }
@@ -3844,6 +3876,11 @@
                         "name": "Prob & Stats",
                         "location": "D-502",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "D-503",
+                        "time": "02:30-04:15"
                     },
                     {
                         "name": "Comp Net Lab",
@@ -5348,6 +5385,34 @@
                 ]
             }
         },
+        "BS CS": {
+            "2023": {
+                "C": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "C-304",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "C-304",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "C-304",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "C-304",
+                        "time": "03:55-05:15"
+                    }
+                ]
+            }
+        },
         "BS CY": {
             "2025": {
                 "B": [
@@ -5406,119 +5471,8 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Exp Writing Lab C2 [Cancelled]",
+                        "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "COAL [ReSch]",
-                        "location": "C-310",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "COAL [ReSch]",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            }
-        },
-        "BS SE": {
-            "2022": {
-                "G": [
-                    {
-                        "name": "S/w Metrices [ReSch]",
-                        "location": "C-307",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "S/w Metrices [ReSch]",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Entre [ReSch]",
-                        "location": "C-307",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Entre [ReSch]",
-                        "location": "C-307",
-                        "time": "02:00-03:20"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "S/w Metrices [ReSch]",
-                        "location": "C-309",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2024": {
-                "B": [
-                    {
-                        "name": "OS Lab [ReSch]",
-                        "location": "C-Margala 1",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "OS Lab [ReSch]",
-                        "location": "C-Margala 3",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            }
-        },
-        "BS CS": {
-            "2024": {
-                "G": [
-                    {
-                        "name": "DB [ReSch]",
-                        "location": "C-308",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
-            "2022": {
-                "A": [
-                    {
-                        "name": "AI Prod Develop [ReSch/Cancelled]",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI Prod Develop [ReSch/Cancelled]",
-                        "location": "D-301",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "AI Prod Develop [ReSch/Cancelled]",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI Prod Develop [ReSch/Cancelled]",
-                        "location": "D-301",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2025": {
-                "C": [
-                    {
-                        "name": "Exp Writing Lab C1 [ReSch]",
-                        "location": "C-Rawal 1",
                         "time": "08:30-11:20"
                     }
                 ]
