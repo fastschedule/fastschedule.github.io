@@ -1005,6 +1005,11 @@
             "2023": {
                 "A": [
                     {
+                        "name": "Deep Learn [ReSch]",
+                        "location": "D-412",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Deep Learn",
                         "location": "D-413",
                         "time": "08:30-09:50"
