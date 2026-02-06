@@ -2312,14 +2312,14 @@
                 ],
                 "F": [
                     {
-                        "name": "Entre",
-                        "location": "D-302",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "S/w Metrices",
                         "location": "D-302",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "C-110",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "G": [
@@ -2556,6 +2556,28 @@
                 ]
             },
             "2024": {
+                "B": [
+                    {
+                        "name": "COAL [ReSch]",
+                        "location": "D-413",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-501",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-503",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "TBW",
@@ -2570,28 +2592,6 @@
                     {
                         "name": "COAL",
                         "location": "D-502",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Comp Net",
-                        "location": "D-501",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-503",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "COAL [ReSch]",
-                        "location": "C-110",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-110",
                         "time": "10:00-11:20"
                     }
                 ]
