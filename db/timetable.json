@@ -2752,7 +2752,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Pak Studies [24)  Cancelled]",
+                        "name": "Pak Studies [24)]",
                         "location": "D-302",
                         "time": "02:30-04:15"
                     },
@@ -5378,24 +5378,24 @@
             "2022": {
                 "A": [
                     {
-                        "name": "AI Prod Develop [ReSch]",
+                        "name": "AI Prod Develop [ReSch/Cancelled]",
                         "location": "D-301",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI Prod Develop [ReSch]",
+                        "name": "AI Prod Develop [ReSch/Cancelled]",
                         "location": "D-301",
                         "time": "11:30-12:50"
                     }
                 ],
                 "B": [
                     {
-                        "name": "AI Prod Develop [ReSch]",
+                        "name": "AI Prod Develop [ReSch/Cancelled]",
                         "location": "D-301",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI Prod Develop [ReSch]",
+                        "name": "AI Prod Develop [ReSch/Cancelled]",
                         "location": "D-301",
                         "time": "11:30-12:50"
                     }
