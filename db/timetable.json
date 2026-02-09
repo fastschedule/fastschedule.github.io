@@ -4,7 +4,7 @@
             "2025": {
                 "A": [
                     {
-                        "name": "OOP",
+                        "name": "OOP [Cancelled]",
                         "location": "C-301",
                         "time": "08:30-09:50"
                     },
@@ -99,7 +99,7 @@
                 ],
                 "H": [
                     {
-                        "name": "Civics",
+                        "name": "Civics [Cancelled]",
                         "location": "C-305",
                         "time": "09:00-10:45"
                     },
@@ -402,7 +402,7 @@
             "2023": {
                 "E": [
                     {
-                        "name": "Comp Arch",
+                        "name": "Comp Arch [Cancelled]",
                         "location": "D-304",
                         "time": "01:00-02:20"
                     },
@@ -429,7 +429,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Comp Arch",
+                        "name": "Comp Arch [Cancelled]",
                         "location": "D-306",
                         "time": "11:30-12:50"
                     }
@@ -822,7 +822,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Info Sec",
+                        "name": "Info Sec [Cancelled]",
                         "location": "D-411",
                         "time": "03:55-05:15"
                     },
@@ -849,7 +849,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Info Sec",
+                        "name": "Info Sec [Cancelled]",
                         "location": "D-411",
                         "time": "02:30-03:50"
                     }
@@ -878,6 +878,11 @@
                         "name": "AP [ReSch]",
                         "location": "C-311",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-311",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "D": [
@@ -1159,12 +1164,12 @@
                 ],
                 "B": [
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "D-502",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Sec S/w Design",
+                        "name": "Sec S/w Design [Cancelled]",
                         "location": "D-502",
                         "time": "10:00-11:20"
                     },
@@ -2845,14 +2850,14 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "OS Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "08:30-11:20"
+                    },
+                    {
                         "name": "DB Lab",
                         "location": "D-IT Lab 1",
                         "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "D-IT Lab 4",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "G": [
@@ -3735,7 +3740,7 @@
                     },
                     {
                         "name": "AI Lab",
-                        "location": "D-IT Lab 1",
+                        "location": "D-IT Lab 4",
                         "time": "08:30-11:20"
                     },
                     {
