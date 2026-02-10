@@ -1386,7 +1386,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Tech Mgt",
+                        "name": "Tech Mgt [Cancelled]",
                         "location": "D-403",
                         "time": "01:00-02:20"
                     },
@@ -2033,11 +2033,6 @@
                         "name": "Prob & Stats",
                         "location": "D-405",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fund of S/w Engg [ReSch]",
-                        "location": "C-Margala 3",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -2076,7 +2071,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "AI Lab [Cancelled]",
+                        "name": "AI Lab [Cancelled Reserved]",
                         "location": "D-IT Lab 2",
                         "time": "11:30-02:20"
                     }
@@ -2105,7 +2100,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "NLP",
+                        "name": "NLP [Cancelled]",
                         "location": "D-416",
                         "time": "11:30-12:50"
                     },
@@ -3594,6 +3589,11 @@
                         "name": "Cloud Comp",
                         "location": "D-301",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Gen AI [ReSch]",
+                        "location": "D-401",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -3611,6 +3611,11 @@
                         "name": "PPIT",
                         "location": "C-409",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Gen AI [ReSch]",
+                        "location": "D-303",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "E": [
@@ -5613,6 +5618,32 @@
                         "name": "Prob & Stats [ReSch]",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2022": {
+                "C": [
+                    {
+                        "name": "Fin Mgt [ReSch]",
+                        "location": "D-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Fin Mgt [ReSch]",
+                        "location": "D-303",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Fin Mgt [ReSch]",
+                        "location": "D-304",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Fin Mgt [ReSch]",
+                        "location": "D-304",
+                        "time": "10:00-11:20"
                     }
                 ]
             },
