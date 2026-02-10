@@ -1201,7 +1201,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Exp Writing [Cancelled]",
+                        "name": "Exp Writing",
                         "location": "C-302",
                         "time": "11:30-01:15"
                     },
@@ -1270,16 +1270,6 @@
                         "name": "OOP",
                         "location": "C-304",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MV Calculus [ReSch]",
-                        "location": "C-308",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Pak Studies [ReSch]",
-                        "location": "C-308",
-                        "time": "02:30-04:15"
                     }
                 ],
                 "B": [
@@ -1301,11 +1291,6 @@
                 ],
                 "D": [
                     {
-                        "name": "Exp Writing Lab D2 [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-05:15"
-                    },
-                    {
                         "name": "Civics",
                         "location": "C-307",
                         "time": "09:00-10:45"
@@ -1321,11 +1306,6 @@
                         "name": "Civics",
                         "location": "C-307",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Exp Writing [ReSch]",
-                        "location": "C-307",
-                        "time": "02:00-03:45"
                     },
                     {
                         "name": "OOP Lab",
@@ -1386,7 +1366,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Tech Mgt [Cancelled]",
+                        "name": "Tech Mgt",
                         "location": "D-403",
                         "time": "01:00-02:20"
                     },
@@ -1478,11 +1458,6 @@
                     }
                 ],
                 "E": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-410",
-                        "time": "11:30-12:50"
-                    },
                     {
                         "name": "OS",
                         "location": "D-304",
@@ -1588,11 +1563,6 @@
                     }
                 ],
                 "C": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "D-401",
-                        "time": "01:00-02:20"
-                    },
                     {
                         "name": "Pak Studies [24)]",
                         "location": "D-506",
@@ -1798,20 +1768,6 @@
                         "name": "Seerah & UHQ-I",
                         "location": "C-310",
                         "time": "02:00-03:45"
-                    }
-                ]
-            },
-            "2022": {
-                "B": [
-                    {
-                        "name": "Fin Mgt [ReSch]",
-                        "location": "D-312",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Fin Mgt [ReSch]",
-                        "location": "D-404",
-                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -2071,7 +2027,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "AI Lab [Cancelled Reserved]",
+                        "name": "AI Lab",
                         "location": "D-IT Lab 2",
                         "time": "11:30-02:20"
                     }
@@ -2100,7 +2056,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "NLP [Cancelled]",
+                        "name": "NLP",
                         "location": "D-416",
                         "time": "11:30-12:50"
                     },
@@ -2146,11 +2102,6 @@
                         "name": "Exp Writing",
                         "location": "C-404",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "MV Calculus [ReSch]",
-                        "location": "C-410",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "DLD Lab",
@@ -2237,7 +2188,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Entre [Cancelled]",
+                        "name": "Entre",
                         "location": "D-301",
                         "time": "02:30-03:50"
                     },
@@ -2413,11 +2364,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AP [ReSch]",
-                        "location": "C-406",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "MV Calculus",
                         "location": "C-406",
                         "time": "01:00-02:20"
@@ -2510,28 +2456,6 @@
                 ]
             },
             "2024": {
-                "B": [
-                    {
-                        "name": "COAL [ReSch]",
-                        "location": "D-413",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-501",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-503",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-110",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "A": [
                     {
                         "name": "TBW",
@@ -2546,6 +2470,23 @@
                     {
                         "name": "COAL",
                         "location": "D-502",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Net",
+                        "location": "D-501",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-503",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-110",
                         "time": "10:00-11:20"
                     }
                 ]
