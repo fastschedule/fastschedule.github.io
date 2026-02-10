@@ -4341,14 +4341,14 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "DB Lab",
-                        "location": "D-IT Lab 1",
-                        "time": "02:30-05:15"
-                    },
-                    {
                         "name": "OS Lab",
                         "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "D": [
@@ -4397,14 +4397,14 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "OS Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "02:30-05:15"
+                    },
+                    {
                         "name": "DB Lab",
                         "location": "D-IT Lab 2",
                         "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "D-IT Lab 3",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
