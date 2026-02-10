@@ -2237,7 +2237,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Entre",
+                        "name": "Entre [Cancelled]",
                         "location": "D-301",
                         "time": "02:30-03:50"
                     },
@@ -2254,7 +2254,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Entre",
+                        "name": "Entre [Cancelled]",
                         "location": "D-301",
                         "time": "03:55-05:15"
                     },
@@ -2741,6 +2741,11 @@
                 ],
                 "H": [
                     {
+                        "name": "OOP [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Pak Studies",
                         "location": "C-307",
                         "time": "11:30-01:15"
@@ -2757,6 +2762,11 @@
                     }
                 ],
                 "G": [
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
                     {
                         "name": "Exp Writing",
                         "location": "C-407",
@@ -2851,6 +2861,11 @@
                         "name": "AI",
                         "location": "D-303",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "SDA [ReSch]",
+                        "location": "D-501",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "B": [
@@ -5516,6 +5531,13 @@
                         "name": "OOP [ReSch]",
                         "location": "C-310",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Exp Writing Lab C2 [ReSch]",
+                        "location": "D-306",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
