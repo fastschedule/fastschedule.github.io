@@ -3658,27 +3658,6 @@
                     }
                 ]
             },
-            "2022": {
-                "B": [
-                    {
-                        "name": "Fin Mgt [ReSch]",
-                        "location": "C-401",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Fin Mgt [ReSch]",
-                        "location": "C-401",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Fin Mgt [ReSch]",
-                        "location": "C-401",
-                        "time": "03:55-05:15"
-                    }
-                ]
-            },
             "2024": {
                 "B": [
                     {
