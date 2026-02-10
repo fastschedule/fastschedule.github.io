@@ -1272,9 +1272,14 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-308",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "Pak Studies [ReSch]",
                         "location": "C-308",
-                        "time": "11:30-01:15"
+                        "time": "02:30-04:15"
                     }
                 ],
                 "B": [
@@ -1306,11 +1311,6 @@
                         "time": "09:00-10:45"
                     },
                     {
-                        "name": "OOP [ReSch]",
-                        "location": "C-410",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "OOP Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
@@ -1326,11 +1326,6 @@
                         "name": "Exp Writing [ReSch]",
                         "location": "C-307",
                         "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "OOP [ReSch]",
-                        "location": "C-410",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "OOP Lab",
@@ -1881,14 +1876,9 @@
                 ],
                 "A": [
                     {
-                        "name": "OS [&B) Combined]",
-                        "location": "D-405",
+                        "name": "OS [Combined Room no.]",
+                        "location": "D-411",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "OS [&B) Combined]",
-                        "location": "D-405",
-                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Pak Studies",
@@ -1902,6 +1892,11 @@
                     }
                 ],
                 "B": [
+                    {
+                        "name": "OS [Combined Room no.]",
+                        "location": "D-404",
+                        "time": "01:00-02:20"
+                    },
                     {
                         "name": "Pak Studies",
                         "location": "D-406",
@@ -3844,6 +3839,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "OOP [ReSch]",
+                        "location": "D-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "02:30-05:15"
@@ -4004,6 +4004,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "OOP [ReSch]",
+                        "location": "D-401",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "D-IT Lab 1",
                         "time": "08:30-11:20"
@@ -4114,6 +4119,11 @@
                         "name": "MV Calculus",
                         "location": "C-307",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "D-401",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -4527,6 +4537,11 @@
                         "name": "Digital Forensics",
                         "location": "D-503",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI [ReSch]",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Sec S/w Design Lab",
@@ -5385,6 +5400,23 @@
                 ]
             },
             "2024": {
+                "A": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Fund of S/w Engg [ReSch]",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Fund of S/w Engg [ReSch]",
@@ -5428,6 +5460,34 @@
                         "name": "Comp Arch [ReSch]",
                         "location": "C-304",
                         "time": "03:55-05:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Web [ReSch]",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Web [ReSch]",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2025": {
+                "G": [
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "C-310",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
@@ -5480,6 +5540,11 @@
                 ],
                 "C": [
                     {
+                        "name": "OOP [ReSch]",
+                        "location": "D-304",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "D-IT Lab 3",
                         "time": "02:30-05:15"
@@ -5493,6 +5558,43 @@
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2022": {
+                "C": [
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-308",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "TBW [ReSch]",
+                        "location": "D-302",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-302",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
@@ -5542,6 +5644,33 @@
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:30-11:20"
+                    }
+                ]
+            }
+        },
+        "BS SE": {
+            "2022": {
+                "C": [
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "COAL [ReSch]",
+                        "location": "C-311",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "COAL [ReSch]",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
@@ -6798,6 +6927,11 @@
                         "name": "Digital Forensics",
                         "location": "D-503",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Sec S/w Design [ReSch]",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Sec S/w Design Lab",
