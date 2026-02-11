@@ -17,6 +17,11 @@
                         "name": "MV Calculus",
                         "location": "C-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Exp Writing [ReSch]",
+                        "location": "C-304",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "E": [
@@ -613,6 +618,11 @@
                         "name": "AI",
                         "location": "D-403",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Fund of S/w Engg [ReSch]",
+                        "location": "D-403",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "DB",
@@ -1499,11 +1509,6 @@
                         "name": "Prob & Stats",
                         "location": "D-305",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "D-305",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "G": [
@@ -1926,11 +1931,6 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Fin Mgt [ReSch]",
-                        "location": "D-412",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "MLOps [Gp-II]",
                         "location": "D-413",
                         "time": "10:00-11:20"
@@ -2205,7 +2205,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Entre [Cancelled]",
+                        "name": "Entre",
                         "location": "D-301",
                         "time": "03:55-05:15"
                     },
@@ -2253,7 +2253,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "SRE [ReSch]",
+                        "name": "SDA [ReSch]",
                         "location": "C-403",
                         "time": "03:55-05:15"
                     },
@@ -2826,7 +2826,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "D-304",
                         "time": "01:00-02:20"
                     },
@@ -4041,7 +4041,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Exp Writing",
+                        "name": "Exp Writing [Cancelled]",
                         "location": "C-305",
                         "time": "11:30-01:15"
                     },
@@ -4974,6 +4974,11 @@
                         "name": "Fin Mgt",
                         "location": "D-414",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "MLOps [Gp-II) ReSch]",
+                        "location": "D-415",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -4986,6 +4991,11 @@
                         "name": "MLOps [Gp-II]",
                         "location": "D-415",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MLOps [Gp-II) ReSch]",
+                        "location": "D-415",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Agentic AI [Gp-I]",
@@ -5429,95 +5439,6 @@
                 ]
             }
         },
-        "BS CS": {
-            "2023": {
-                "C": [
-                    {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "C-304",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "C-304",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "C-304",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "C-304",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Web [ReSch]",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Web [ReSch]",
-                        "location": "D-301",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2025": {
-                "G": [
-                    {
-                        "name": "OOP [ReSch]",
-                        "location": "C-310",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "H": [
-                    {
-                        "name": "OOP [ReSch]",
-                        "location": "C-310",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Civics [ReSch]",
-                        "location": "C-310",
-                        "time": "02:30-04:45"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Exp Writing Lab C2 [ReSch]",
-                        "location": "D-306",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2024": {
-                "C": [
-                    {
-                        "name": "OS [ReSch]",
-                        "location": "D-311",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OS [ReSch]",
-                        "location": "D-311",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "OS [ReSch]",
-                        "location": "D-311",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            }
-        },
         "BS CY": {
             "2025": {
                 "B": [
@@ -5684,6 +5605,78 @@
                     {
                         "name": "DLD Lab",
                         "location": "B-Digital",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2025": {
+                "G": [
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "C-310",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "C-310",
+                        "time": "02:30-04:45"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Exp Writing Lab C2 [ReSch]",
+                        "location": "D-306",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Web [ReSch]",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Web [ReSch]",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2024": {
+                "C": [
+                    {
+                        "name": "OS [ReSch]",
+                        "location": "D-311",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OS [ReSch]",
+                        "location": "D-311",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "OS [ReSch]",
+                        "location": "D-311",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "C-Rawal 1",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -6987,6 +6980,11 @@
                         "name": "AI Lab",
                         "location": "C-Margala 1",
                         "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
