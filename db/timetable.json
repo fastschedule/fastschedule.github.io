@@ -4266,6 +4266,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-412",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "OS Lab",
                         "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
@@ -4890,6 +4895,69 @@
                     }
                 ]
             },
+            "2023": {
+                "C": [
+                    {
+                        "name": "Data Mining [ReSch]",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data Mining [ReSch]",
+                        "location": "D-302",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Deep Learn [ReSch]",
+                        "location": "D-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data Mining",
+                        "location": "D-413",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Deep Learn",
+                        "location": "D-414",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-412",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-413",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-413",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-412",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-412",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-413",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
             "2022": {
                 "A": [
                     {
@@ -4983,54 +5051,6 @@
                         "name": "Fund of S/w Engg",
                         "location": "D-411",
                         "time": "01:00-02:20"
-                    }
-                ]
-            },
-            "2023": {
-                "B": [
-                    {
-                        "name": "Data Mining",
-                        "location": "D-412",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-413",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-413",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Data Mining",
-                        "location": "D-412",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-412",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-413",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Data Mining",
-                        "location": "D-413",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Deep Learn",
-                        "location": "D-414",
-                        "time": "08:30-09:50"
                     }
                 ]
             }
@@ -5465,7 +5485,7 @@
                     {
                         "name": "Civics [ReSch]",
                         "location": "C-310",
-                        "time": "09:00-10:45"
+                        "time": "02:30-04:45"
                     }
                 ],
                 "C": [
