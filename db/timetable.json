@@ -379,6 +379,13 @@
                         "time": "11:30-12:50"
                     }
                 ],
+                "F": [
+                    {
+                        "name": "Stat Modeling [ReSch]",
+                        "location": "D-313",
+                        "time": "03:55-05:15"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Agentic AI [G-I]",
@@ -2950,6 +2957,13 @@
                         "time": "10:00-11:20"
                     }
                 ],
+                "G": [
+                    {
+                        "name": "Stat Modeling [ReSch]",
+                        "location": "D-401",
+                        "time": "03:55-05:15"
+                    }
+                ],
                 "E": [
                     {
                         "name": "Stat Modeling",
@@ -4794,6 +4808,15 @@
                         "time": "08:30-11:20"
                     }
                 ]
+            },
+            "2022": {
+                "D": [
+                    {
+                        "name": "Info Sec [ReSch]",
+                        "location": "D-506",
+                        "time": "10:00-11:20"
+                    }
+                ]
             }
         },
         "BS DS": {
@@ -5916,20 +5939,6 @@
                         "name": "Agentic AI [G-I]",
                         "location": "D-403",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-313",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-313",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "H": [
