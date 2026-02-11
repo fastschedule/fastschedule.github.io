@@ -110,7 +110,7 @@
                     },
                     {
                         "name": "OOP Lab",
-                        "location": "D-IT Lab 1",
+                        "location": "C-Margala 3",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -819,7 +819,7 @@
                     },
                     {
                         "name": "Comp Net Lab",
-                        "location": "C-Margala 3",
+                        "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -2664,7 +2664,7 @@
                     },
                     {
                         "name": "OOP Lab",
-                        "location": "D-IT Lab 1",
+                        "location": "C-Margala 3",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -3531,7 +3531,7 @@
                     },
                     {
                         "name": "Comp Net Lab",
-                        "location": "C-Margala 4",
+                        "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
                     }
                 ]
@@ -4892,6 +4892,11 @@
                         "name": "Civics",
                         "location": "C-311",
                         "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "C-311",
+                        "time": "03:55-05:15"
                     }
                 ]
             },
@@ -5602,6 +5607,11 @@
                     }
                 ],
                 "A": [
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "D-312",
+                        "time": "11:30-12:50"
+                    },
                     {
                         "name": "OOP Lab",
                         "location": "D-IT Lab 1",
@@ -6434,11 +6444,6 @@
             "2025": {
                 "A": [
                     {
-                        "name": "OOP",
-                        "location": "C-310",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "DLD",
                         "location": "C-310",
                         "time": "10:00-11:20"
@@ -6459,11 +6464,6 @@
                         "name": "MV Calculus",
                         "location": "C-311",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OOP",
-                        "location": "C-311",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "DLD",
