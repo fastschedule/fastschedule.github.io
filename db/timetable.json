@@ -4925,6 +4925,11 @@
                 ],
                 "B": [
                     {
+                        "name": "Deep Learn [ReSch]",
+                        "location": "D-411",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Data Mining",
                         "location": "D-412",
                         "time": "08:30-09:50"
