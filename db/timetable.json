@@ -3995,6 +3995,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "OOP [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Exp Writing Lab D1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:20"
@@ -4745,6 +4750,11 @@
                         "name": "DLD",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DLD [ReSch]",
+                        "location": "C-402",
+                        "time": "03:55-05:15"
                     }
                 ]
             },
