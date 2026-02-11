@@ -2682,11 +2682,6 @@
                 ],
                 "H": [
                     {
-                        "name": "OOP [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Pak Studies",
                         "location": "C-307",
                         "time": "11:30-01:15"
@@ -2703,11 +2698,6 @@
                     }
                 ],
                 "G": [
-                    {
-                        "name": "OOP [ReSch]",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
                     {
                         "name": "Exp Writing",
                         "location": "C-407",
@@ -2772,11 +2762,6 @@
                         "time": "02:30-04:15"
                     },
                     {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "D-304",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "AI Lab",
                         "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
@@ -2802,16 +2787,6 @@
                         "name": "AI",
                         "location": "D-303",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "OS [ReSch]",
-                        "location": "D-303",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "SDA [ReSch]",
-                        "location": "D-501",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "B": [
@@ -2826,7 +2801,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "D-304",
                         "time": "01:00-02:20"
                     },
@@ -2975,13 +2950,6 @@
                         "time": "10:00-11:20"
                     }
                 ],
-                "K": [
-                    {
-                        "name": "Stat Modeling [ReSch]",
-                        "location": "D-401",
-                        "time": "03:55-05:15"
-                    }
-                ],
                 "E": [
                     {
                         "name": "Stat Modeling",
@@ -3119,28 +3087,6 @@
         },
         "BS AI": {
             "2025": {
-                "B": [
-                    {
-                        "name": "AP [ReSch]",
-                        "location": "C-304",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "MV Calculus",
-                        "location": "C-309",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OOP",
-                        "location": "C-309",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "C-309",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "C": [
                     {
                         "name": "AP",
@@ -3177,6 +3123,23 @@
                     {
                         "name": "MV Calculus",
                         "location": "C-308",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "MV Calculus",
+                        "location": "C-309",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-309",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-309",
                         "time": "11:30-12:50"
                     }
                 ]
@@ -3377,11 +3340,6 @@
                 ],
                 "B": [
                     {
-                        "name": "AP [ReSch]",
-                        "location": "C-311",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "OOP",
                         "location": "C-401",
                         "time": "08:30-09:50"
@@ -3557,11 +3515,18 @@
                         "name": "Cloud Comp",
                         "location": "D-301",
                         "time": "02:30-03:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-408",
+                        "time": "11:30-12:50"
                     },
                     {
-                        "name": "Gen AI [ReSch]",
-                        "location": "D-401",
-                        "time": "11:30-12:50"
+                        "name": "Entre",
+                        "location": "D-301",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
@@ -3579,11 +3544,6 @@
                         "name": "PPIT",
                         "location": "C-409",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Gen AI [ReSch]",
-                        "location": "D-303",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "E": [
@@ -3615,13 +3575,6 @@
                         "name": "Entre",
                         "location": "D-301",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Entre",
-                        "location": "D-301",
-                        "time": "03:55-05:15"
                     }
                 ]
             }
@@ -3719,7 +3672,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "AI Lab [Cancelled]",
+                        "name": "AI Lab",
                         "location": "C-Margala 1",
                         "time": "11:30-02:20"
                     }
@@ -3791,11 +3744,6 @@
                         "time": "11:30-01:15"
                     },
                     {
-                        "name": "OOP [ReSch]",
-                        "location": "D-302",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "02:30-05:15"
@@ -3813,11 +3761,6 @@
                         "name": "Prob & Stats",
                         "location": "D-502",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Pak Studies [ReSch]",
-                        "location": "D-503",
-                        "time": "02:30-04:15"
                     },
                     {
                         "name": "Comp Net Lab",
