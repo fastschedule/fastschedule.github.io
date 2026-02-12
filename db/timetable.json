@@ -4511,11 +4511,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "AP [ReSch]",
-                        "location": "C-405",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "MV Calculus",
                         "location": "C-405",
                         "time": "01:00-02:20"
@@ -4710,7 +4705,7 @@
                     },
                     {
                         "name": "DLD [ReSch]",
-                        "location": "C-402",
+                        "location": "C-403",
                         "time": "03:55-05:15"
                     }
                 ]
