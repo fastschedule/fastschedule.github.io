@@ -5469,7 +5469,7 @@
                 "C": [
                     {
                         "name": "OOP [ReSch]",
-                        "location": "D-304",
+                        "location": "C-403",
                         "time": "11:30-12:50"
                     },
                     {
@@ -5492,69 +5492,96 @@
             "2024": {
                 "A": [
                     {
-                        "name": "Comp Net [ReSch]",
-                        "location": "C-309",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "Prob & Stats [ReSch]",
-                        "location": "D-302",
+                        "location": "C-401",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "TBW [ReSch]",
-                        "location": "D-302",
-                        "time": "11:30-12:50"
+                        "name": "Comp Net [ReSch]",
+                        "location": "C-408",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
                     {
                         "name": "Prob & Stats [ReSch]",
-                        "location": "D-302",
+                        "location": "C-401",
                         "time": "10:00-11:20"
                     }
                 ]
             }
         },
-        "BS DS": {
+        "BS SE": {
             "2024": {
                 "A": [
                     {
-                        "name": "DB [ReSch]",
-                        "location": "C-309",
+                        "name": "COAL [ReSch]",
+                        "location": "C-311",
                         "time": "08:30-09:50"
                     }
                 ],
                 "B": [
                     {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-309",
-                        "time": "11:30-12:50"
+                        "name": "COAL [ReSch]",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2025": {
+                "B": [
+                    {
+                        "name": "Exp Writing [ReSch]",
+                        "location": "C-404",
+                        "time": "08:30-10:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Exp Writing [ReSch]",
+                        "location": "C-404",
+                        "time": "10:30-12:15"
                     }
                 ]
             },
             "2022": {
                 "C": [
                     {
+                        "name": "Entre [ReSch]",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-409",
+                        "time": "02:30-03:50"
+                    }
+                ]
+            }
+        },
+        "BS DS": {
+            "2022": {
+                "C": [
+                    {
                         "name": "Fin Mgt [ReSch (Audi, Block-D)]",
-                        "location": "D-303",
+                        "location": "C-402",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Fin Mgt [(Audi, Block-D)]",
-                        "location": "D-303",
+                        "location": "C-402",
                         "time": "10:00-11:20"
                     }
                 ],
                 "D": [
                     {
                         "name": "Fin Mgt [(Audi, Block-D)]",
-                        "location": "D-304",
+                        "location": "C-403",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Fin Mgt [(Audi, Block-D)]",
-                        "location": "D-304",
+                        "location": "C-403",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -5563,7 +5590,7 @@
                 "B": [
                     {
                         "name": "DLD [ReSch]",
-                        "location": "D-306",
+                        "location": "C-405",
                         "time": "11:30-12:50"
                     },
                     {
@@ -5585,7 +5612,7 @@
                 "A": [
                     {
                         "name": "OOP [ReSch]",
-                        "location": "D-312",
+                        "location": "C-407",
                         "time": "11:30-12:50"
                     },
                     {
@@ -5599,77 +5626,45 @@
                         "time": "02:30-05:15"
                     }
                 ]
-            }
-        },
-        "BS SE": {
-            "2022": {
-                "C": [
-                    {
-                        "name": "Entre [ReSch]",
-                        "location": "C-309",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Entre [ReSch]",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    }
-                ]
             },
             "2024": {
                 "A": [
                     {
-                        "name": "COAL [ReSch]",
-                        "location": "C-311",
+                        "name": "DB [ReSch]",
+                        "location": "C-408",
                         "time": "08:30-09:50"
                     }
                 ],
                 "B": [
                     {
-                        "name": "COAL [ReSch]",
-                        "location": "C-311",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
-            "2025": {
-                "B": [
-                    {
-                        "name": "Exp Writing [ReSch]",
-                        "location": "D-305",
-                        "time": "08:30-10:15"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Exp Writing [ReSch]",
-                        "location": "D-305",
-                        "time": "10:30-12:15"
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-408",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
         },
         "BS CS": {
             "2025": {
+                "C": [
+                    {
+                        "name": "Exp Writing Lab C2 [ReSch]",
+                        "location": "C-405",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "G": [
                     {
                         "name": "OOP [ReSch]",
-                        "location": "C-310",
+                        "location": "C-409",
                         "time": "08:30-09:50"
                     }
                 ],
                 "H": [
                     {
                         "name": "OOP [ReSch]",
-                        "location": "C-310",
+                        "location": "C-409",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Exp Writing Lab C2 [ReSch]",
-                        "location": "D-306",
-                        "time": "08:30-11:20"
                     }
                 ]
             },
@@ -5677,31 +5672,31 @@
                 "A": [
                     {
                         "name": "OS [ReSch]",
-                        "location": "D-311",
+                        "location": "C-406",
                         "time": "08:30-09:50"
                     }
                 ],
                 "C": [
                     {
                         "name": "OS [ReSch]",
-                        "location": "D-311",
+                        "location": "C-406",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "OS [ReSch]",
-                        "location": "D-311",
+                        "location": "C-406",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Prob & Stats [ReSch]",
-                        "location": "D-312",
+                        "location": "C-407",
                         "time": "08:30-09:50"
                     }
                 ],
                 "D": [
                     {
                         "name": "Prob & Stats [ReSch]",
-                        "location": "D-312",
+                        "location": "C-407",
                         "time": "10:00-11:20"
                     }
                 ],
