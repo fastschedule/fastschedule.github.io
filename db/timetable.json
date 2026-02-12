@@ -4499,6 +4499,11 @@
                         "time": "09:30-11:15"
                     },
                     {
+                        "name": "Seerah & UHQ-I [ReSch]",
+                        "location": "D-402",
+                        "time": "02:30-04:15"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "C-Margala 3",
                         "time": "11:30-02:20"
@@ -5389,12 +5394,12 @@
                     {
                         "name": "Prob & Stats [ReSch]",
                         "location": "C-307",
-                        "time": "10:00-11:20"
+                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Prob & Stats [ReSch]",
                         "location": "C-307",
-                        "time": "11:30-12:50"
+                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -5487,6 +5492,11 @@
             "2024": {
                 "A": [
                     {
+                        "name": "Comp Net [ReSch]",
+                        "location": "C-309",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Prob & Stats [ReSch]",
                         "location": "D-302",
                         "time": "08:30-09:50"
@@ -5513,11 +5523,6 @@
                         "name": "DB [ReSch]",
                         "location": "C-309",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-309",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
@@ -5658,11 +5663,6 @@
                         "name": "OOP [ReSch]",
                         "location": "C-310",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Civics [ReSch]",
-                        "location": "C-310",
-                        "time": "02:30-04:45"
                     }
                 ],
                 "C": [
@@ -5670,20 +5670,6 @@
                         "name": "Exp Writing Lab C2 [ReSch]",
                         "location": "D-306",
                         "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "Web [ReSch]",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Web [ReSch]",
-                        "location": "D-301",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -5839,18 +5825,6 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "B": [
-                    {
-                        "name": "Civics",
-                        "location": "C-305",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "D-IT Lab 1",
-                        "time": "11:30-02:20"
-                    }
-                ],
                 "C": [
                     {
                         "name": "Exp Writing",
@@ -5883,6 +5857,13 @@
                         "name": "MV Calculus",
                         "location": "C-307",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "11:30-02:20"
                     }
                 ]
             },
@@ -6263,6 +6244,11 @@
         "BS AI": {
             "2025": {
                 "A": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
+                    },
                     {
                         "name": "AP",
                         "location": "C-308",
@@ -6956,7 +6942,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "Sec S/w Design",
+                        "name": "Sec S/w Design [Cancelled]",
                         "location": "D-502",
                         "time": "11:30-12:50"
                     }
