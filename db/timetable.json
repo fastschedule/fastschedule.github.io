@@ -5401,6 +5401,13 @@
                         "location": "C-307",
                         "time": "10:00-11:20"
                     }
+                ],
+                "B": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "C-Rawal 4",
+                        "time": "02:30-05:15"
+                    }
                 ]
             },
             "2025": {
@@ -5974,6 +5981,28 @@
                 ]
             },
             "2024": {
+                "D": [
+                    {
+                        "name": "Pak Studies [24) ReSch]",
+                        "location": "C-410",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-304",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Pak Studies [24)]",
+                        "location": "D-311",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "E": [
                     {
                         "name": "OS",
@@ -6015,23 +6044,6 @@
                     {
                         "name": "OS Lab",
                         "location": "D-IT Lab 2",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "SDA",
-                        "location": "D-304",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Pak Studies [24)]",
-                        "location": "D-311",
-                        "time": "02:30-04:15"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "D-IT Lab 3",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -6848,7 +6860,7 @@
             "2025": {
                 "A": [
                     {
-                        "name": "Seerah & UHQ-I",
+                        "name": "Seerah & UHQ-I [Cancelled]",
                         "location": "C-404",
                         "time": "09:30-11:15"
                     },
