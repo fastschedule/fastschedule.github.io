@@ -4057,7 +4057,7 @@
                 "C": [
                     {
                         "name": "AI Prod Develop [G-II]",
-                        "location": "C-406",
+                        "location": "C-404",
                         "time": "11:30-12:50"
                     },
                     {
@@ -4705,8 +4705,8 @@
                     },
                     {
                         "name": "DLD [ReSch]",
-                        "location": "C-403",
-                        "time": "03:55-05:15"
+                        "location": "D-416",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -5378,19 +5378,9 @@
                         "name": "Prob & Stats [ReSch]",
                         "location": "C-303",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fund of S/w Engg [ReSch]",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
-                    {
-                        "name": "Fund of S/w Engg [ReSch]",
-                        "location": "C-307",
-                        "time": "08:30-09:50"
-                    },
                     {
                         "name": "Prob & Stats [ReSch]",
                         "location": "C-307",
@@ -5515,6 +5505,11 @@
             "2024": {
                 "A": [
                     {
+                        "name": "DB [ReSch]",
+                        "location": "C-309",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Prob & Stats [ReSch]",
                         "location": "C-309",
                         "time": "10:00-11:20"
@@ -5531,7 +5526,7 @@
             "2022": {
                 "C": [
                     {
-                        "name": "Fin Mgt [ReSch]",
+                        "name": "Fin Mgt [ReSch Audi]",
                         "location": "D-303",
                         "time": "08:30-09:50"
                     },
@@ -5592,6 +5587,54 @@
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "02:30-05:15"
+                    }
+                ]
+            }
+        },
+        "BS SE": {
+            "2022": {
+                "C": [
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "COAL [ReSch]",
+                        "location": "C-311",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "COAL [ReSch]",
+                        "location": "C-311",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2025": {
+                "B": [
+                    {
+                        "name": "Exp Writing [ReSch]",
+                        "location": "D-305",
+                        "time": "08:30-10:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Exp Writing [ReSch]",
+                        "location": "D-305",
+                        "time": "10:30-12:15"
                     }
                 ]
             }
@@ -5664,49 +5707,6 @@
                         "name": "AI Lab [ReSch]",
                         "location": "C-Rawal 1",
                         "time": "02:30-05:15"
-                    }
-                ]
-            }
-        },
-        "BS SE": {
-            "2022": {
-                "C": [
-                    {
-                        "name": "Entre [ReSch]",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "COAL [ReSch]",
-                        "location": "C-311",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "COAL [ReSch]",
-                        "location": "C-311",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
-            "2025": {
-                "B": [
-                    {
-                        "name": "Exp Writing [ReSch]",
-                        "location": "D-305",
-                        "time": "08:30-10:15"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Exp Writing [ReSch]",
-                        "location": "D-305",
-                        "time": "10:30-12:15"
                     }
                 ]
             }
@@ -6937,16 +6937,6 @@
                         "name": "Sec S/w Design",
                         "location": "D-502",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "C-Margala 1",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "AI Lab [ReSch]",
-                        "location": "A-Mehran 1",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
