@@ -194,6 +194,11 @@
                         "name": "AI",
                         "location": "C-409",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-302",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
@@ -5526,24 +5531,24 @@
             "2022": {
                 "C": [
                     {
-                        "name": "Fin Mgt [ReSch Audi]",
+                        "name": "Fin Mgt [ReSch (Audi, Block-D)]",
                         "location": "D-303",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Fin Mgt [ReSch]",
+                        "name": "Fin Mgt [(Audi, Block-D)]",
                         "location": "D-303",
                         "time": "10:00-11:20"
                     }
                 ],
                 "D": [
                     {
-                        "name": "Fin Mgt [ReSch]",
+                        "name": "Fin Mgt [(Audi, Block-D)]",
                         "location": "D-304",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Fin Mgt [ReSch]",
+                        "name": "Fin Mgt [(Audi, Block-D)]",
                         "location": "D-304",
                         "time": "10:00-11:20"
                     }
@@ -5683,23 +5688,35 @@
                 ]
             },
             "2024": {
-                "C": [
-                    {
-                        "name": "OS [ReSch]",
-                        "location": "D-311",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OS [ReSch]",
-                        "location": "D-311",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "A": [
                     {
                         "name": "OS [ReSch]",
                         "location": "D-311",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "OS [ReSch]",
+                        "location": "D-311",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OS [ReSch]",
+                        "location": "D-311",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-312",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-312",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
@@ -6878,6 +6895,11 @@
                     }
                 ],
                 "C": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    },
                     {
                         "name": "OOP",
                         "location": "C-406",
