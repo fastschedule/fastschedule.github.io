@@ -5428,6 +5428,27 @@
             }
         },
         "BS CY": {
+            "2024": {
+                "A": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-304",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net [ReSch]",
+                        "location": "C-408",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-401",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2025": {
                 "B": [
                     {
@@ -5493,27 +5514,6 @@
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-401",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Net [ReSch]",
-                        "location": "C-408",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-401",
-                        "time": "10:00-11:20"
                     }
                 ]
             }
@@ -5662,14 +5662,14 @@
                 ],
                 "G": [
                     {
-                        "name": "OOP [ReSch]",
+                        "name": "OOP [ReSch Cancelled]",
                         "location": "C-409",
                         "time": "08:30-09:50"
                     }
                 ],
                 "H": [
                     {
-                        "name": "OOP [ReSch]",
+                        "name": "OOP [ReSch Cancelled]",
                         "location": "C-409",
                         "time": "10:00-11:20"
                     }
