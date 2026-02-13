@@ -760,6 +760,28 @@
                         "time": "10:00-11:20"
                     }
                 ],
+                "D": [
+                    {
+                        "name": "DLD [ReSch]",
+                        "location": "C-311",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-402",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "AP",
+                        "location": "C-403",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "02:30-05:15"
+                    }
+                ],
                 "B": [
                     {
                         "name": "OOP",
@@ -780,23 +802,6 @@
                         "name": "Seerah & UHQ-I",
                         "location": "C-401",
                         "time": "02:00-03:45"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-402",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "AP",
-                        "location": "C-403",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
@@ -6593,7 +6598,7 @@
             "2025": {
                 "C": [
                     {
-                        "name": "DLD",
+                        "name": "DLD [Cancelled]",
                         "location": "C-401",
                         "time": "08:30-09:50"
                     },
@@ -6615,7 +6620,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DLD",
+                        "name": "DLD [Cancelled]",
                         "location": "C-402",
                         "time": "10:00-11:20"
                     },
