@@ -1504,6 +1504,11 @@
                         "name": "AI",
                         "location": "D-304",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "AI [ReSch]",
+                        "location": "D-304",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "F": [
@@ -2804,6 +2809,11 @@
                         "name": "AI",
                         "location": "D-303",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "AI [ReSch]",
+                        "location": "D-303",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
@@ -5783,11 +5793,6 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "MV Calculus",
-                        "location": "C-303",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "Discrete",
                         "location": "C-304",
                         "time": "01:00-02:20"
@@ -5832,23 +5837,6 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-305",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab C1",
-                        "location": "A-CALL-2",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab C2",
-                        "location": "A-CALL-3",
-                        "time": "02:30-05:15"
-                    }
-                ],
                 "J": [
                     {
                         "name": "OOP",
@@ -5859,11 +5847,6 @@
                         "name": "Discrete",
                         "location": "C-307",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MV Calculus",
-                        "location": "C-307",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -5871,6 +5854,18 @@
                         "name": "OOP Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Exp Writing Lab C1",
+                        "location": "A-CALL-2",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab C2",
+                        "location": "A-CALL-3",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -5915,11 +5910,6 @@
                     }
                 ],
                 "A": [
-                    {
-                        "name": "Robo Tech",
-                        "location": "C-410",
-                        "time": "01:00-02:20"
-                    },
                     {
                         "name": "Big Data",
                         "location": "D-303",
@@ -6378,36 +6368,16 @@
                 ],
                 "A": [
                     {
-                        "name": "OS",
-                        "location": "D-405",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "AI Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "C-Margala 4",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
                     {
-                        "name": "OS",
-                        "location": "D-405",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "DB Lab",
                         "location": "C-Margala 3",
                         "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "C-Margala 4",
-                        "time": "08:30-11:20"
                     }
                 ]
             }
@@ -6421,22 +6391,12 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MV Calculus",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Pak Studies",
                         "location": "C-310",
                         "time": "02:00-03:45"
                     }
                 ],
                 "B": [
-                    {
-                        "name": "MV Calculus",
-                        "location": "C-311",
-                        "time": "08:30-09:50"
-                    },
                     {
                         "name": "DLD",
                         "location": "C-311",
@@ -6457,11 +6417,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MLOps [Gp-I]",
-                        "location": "D-414",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Fin Mgt",
                         "location": "D-414",
                         "time": "01:00-02:20"
@@ -6472,11 +6427,6 @@
                         "name": "Fin Mgt",
                         "location": "D-414",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "MLOps [Gp-II]",
-                        "location": "D-415",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Agentic AI [Gp-I]",
@@ -6582,11 +6532,6 @@
                 ],
                 "C": [
                     {
-                        "name": "Data Mining",
-                        "location": "D-413",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "Deep Learn",
                         "location": "D-414",
                         "time": "08:30-09:50"
@@ -6628,11 +6573,6 @@
                         "name": "MV Calculus",
                         "location": "C-402",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Seerah & UHQ-I",
-                        "location": "C-402",
-                        "time": "02:00-03:45"
                     }
                 ],
                 "A": [
@@ -6676,11 +6616,6 @@
                         "name": "S/w Metrices",
                         "location": "C-401",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "C-404",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
@@ -6688,18 +6623,6 @@
                         "name": "S/w Metrices",
                         "location": "C-404",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "C-404",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Entre",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "A": [
@@ -6756,59 +6679,8 @@
                     }
                 ]
             },
-            "2023": {
-                "A": [
-                    {
-                        "name": "AI",
-                        "location": "C-403",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Process Mining",
-                        "location": "C-403",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Formal Meth in SE",
-                        "location": "C-409",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "C-409",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Comp Net",
-                        "location": "C-409",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Process Mining",
-                        "location": "C-409",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "C-409",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Formal Meth in SE",
-                        "location": "C-410",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
             "2024": {
                 "C": [
-                    {
-                        "name": "SDA",
-                        "location": "C-407",
-                        "time": "08:30-09:50"
-                    },
                     {
                         "name": "COAL",
                         "location": "C-407",
@@ -6857,6 +6729,32 @@
                         "name": "COAL Lab",
                         "location": "C-Rawal 1",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-409",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-409",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Net",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-410",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
