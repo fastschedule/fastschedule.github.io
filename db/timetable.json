@@ -5909,12 +5909,21 @@
                         "time": "10:00-11:20"
                     }
                 ],
-                "A": [
+                "H": [
                     {
-                        "name": "Big Data",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
-                    },
+                        "name": "Stat Modeling",
+                        "location": "D-314",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "J": [
+                    {
+                        "name": "Stat Modeling",
+                        "location": "D-314",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "A": [
                     {
                         "name": "Fund of SPM [G-I]",
                         "location": "D-315",
@@ -5929,20 +5938,6 @@
                         "name": "Agentic AI [G-I]",
                         "location": "D-403",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "H": [
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-314",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "J": [
-                    {
-                        "name": "Stat Modeling",
-                        "location": "D-314",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
@@ -6474,11 +6469,6 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "NLP",
-                        "location": "D-413",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "AI",
                         "location": "D-413",
                         "time": "11:30-12:50"
@@ -6489,11 +6479,6 @@
                         "name": "Data Mining",
                         "location": "D-412",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-412",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "AI",
@@ -6864,6 +6849,33 @@
                 ]
             },
             "2022": {
+                "B": [
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "D-503",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "D-505",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-505",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Blockchain",
+                        "location": "D-505",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cloud Security",
+                        "location": "D-505",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Blockchain",
@@ -6903,28 +6915,6 @@
                         "name": "PPIT",
                         "location": "D-505",
                         "time": "02:30-03:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Entre",
-                        "location": "D-505",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-505",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Blockchain",
-                        "location": "D-505",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cloud Security",
-                        "location": "D-505",
-                        "time": "01:00-02:20"
                     }
                 ]
             }
