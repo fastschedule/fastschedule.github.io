@@ -6449,6 +6449,59 @@
                     }
                 ]
             },
+            "2023": {
+                "C": [
+                    {
+                        "name": "Data Mining [ReSch]",
+                        "location": "D-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data Mining [ReSch]",
+                        "location": "D-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Deep Learn",
+                        "location": "D-414",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-412",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-413",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-413",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-412",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-412",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-413",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
@@ -6494,59 +6547,11 @@
                         "time": "01:00-02:20"
                     }
                 ]
-            },
-            "2023": {
-                "B": [
-                    {
-                        "name": "Data Mining",
-                        "location": "D-412",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-413",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-413",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Data Mining",
-                        "location": "D-412",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-412",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-413",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Deep Learn",
-                        "location": "D-414",
-                        "time": "08:30-09:50"
-                    }
-                ]
             }
         },
         "BS SE": {
             "2025": {
                 "C": [
-                    {
-                        "name": "DLD [Cancelled]",
-                        "location": "C-401",
-                        "time": "08:30-09:50"
-                    },
                     {
                         "name": "OOP",
                         "location": "C-401",
@@ -6563,11 +6568,6 @@
                         "name": "OOP",
                         "location": "C-402",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DLD [Cancelled]",
-                        "location": "C-402",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "MV Calculus",
@@ -6761,18 +6761,6 @@
         },
         "BS CY": {
             "2025": {
-                "A": [
-                    {
-                        "name": "Seerah & UHQ-I [Cancelled]",
-                        "location": "C-404",
-                        "time": "09:30-11:15"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "C-Margala 3",
-                        "time": "11:30-02:20"
-                    }
-                ],
                 "B": [
                     {
                         "name": "AP",
@@ -6811,6 +6799,13 @@
                         "location": "C-406",
                         "time": "01:00-02:20"
                     }
+                ],
+                "A": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 3",
+                        "time": "11:30-02:20"
+                    }
                 ]
             },
             "2024": {
@@ -6838,25 +6833,18 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "TBW",
+                        "location": "D-506",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "COAL",
                         "location": "D-506",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-110",
-                        "time": "10:00-11:20"
                     }
                 ]
             },
             "2023": {
-                "A": [
-                    {
-                        "name": "Sec S/w Design [Cancelled]",
-                        "location": "D-502",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Digital Forensics",
