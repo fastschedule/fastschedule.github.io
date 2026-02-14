@@ -5995,6 +5995,11 @@
                 ],
                 "E": [
                     {
+                        "name": "OS [ReSch]",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "OS",
                         "location": "D-304",
                         "time": "08:30-09:50"
@@ -6013,11 +6018,6 @@
                         "name": "AI",
                         "location": "D-305",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "OS [ReSch]",
-                        "location": "D-305",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
