@@ -901,7 +901,7 @@
                 "C": [
                     {
                         "name": "OS",
-                        "location": "C-405",
+                        "location": "C-407",
                         "time": "11:30-12:50"
                     },
                     {
@@ -1171,7 +1171,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Comp Net Lab",
+                        "name": "Comp Net Lab [Cancelled]",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
                     }
@@ -3487,7 +3487,7 @@
                     },
                     {
                         "name": "OS",
-                        "location": "C-406",
+                        "location": "C-409",
                         "time": "11:30-12:50"
                     },
                     {
