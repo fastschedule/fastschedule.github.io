@@ -223,6 +223,28 @@
                         "time": "02:30-03:50"
                     }
                 ],
+                "G": [
+                    {
+                        "name": "Pak Studies [24)  ReSch]",
+                        "location": "C-410",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-303",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "D-IT Lab 2",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "OS",
@@ -281,23 +303,6 @@
                     {
                         "name": "AI Lab",
                         "location": "D-IT Lab 3",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "SDA",
-                        "location": "D-303",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "D-IT Lab 1",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -2756,6 +2761,11 @@
                     }
                 ],
                 "F": [
+                    {
+                        "name": "Pak Studies [24)  ReSch]",
+                        "location": "C-410",
+                        "time": "11:30-01:15"
+                    },
                     {
                         "name": "SDA",
                         "location": "D-302",
