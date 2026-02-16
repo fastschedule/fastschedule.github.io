@@ -1331,6 +1331,23 @@
                         "time": "08:30-11:20"
                     }
                 ],
+                "C": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "C-307",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "D-IT Lab 2",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "D": [
                     {
                         "name": "Civics",
@@ -1341,18 +1358,6 @@
                         "name": "OOP Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Civics",
-                        "location": "C-307",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "D-IT Lab 2",
-                        "time": "08:30-11:20"
                     }
                 ]
             },
@@ -3654,6 +3659,11 @@
                         "name": "Exp Writing",
                         "location": "C-311",
                         "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Exp Writing [ReSch]",
+                        "location": "C-406",
+                        "time": "02:30-04:15"
                     },
                     {
                         "name": "Exp Writing Lab A1",
