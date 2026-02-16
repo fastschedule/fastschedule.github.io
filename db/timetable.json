@@ -53,7 +53,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled]",
                         "location": "C-303",
                         "time": "10:00-11:20"
                     },
@@ -1302,6 +1302,11 @@
                         "name": "OOP",
                         "location": "C-304",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "C-307",
+                        "time": "02:00-03:45"
                     }
                 ],
                 "B": [
@@ -1321,6 +1326,23 @@
                         "time": "08:30-11:20"
                     }
                 ],
+                "C": [
+                    {
+                        "name": "MV Calculus [Cancelled]",
+                        "location": "C-305",
+                        "time": "N/A"
+                    },
+                    {
+                        "name": "Civics",
+                        "location": "C-307",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "D-IT Lab 2",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "D": [
                     {
                         "name": "Civics",
@@ -1331,18 +1353,6 @@
                         "name": "OOP Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Civics",
-                        "location": "C-307",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "D-IT Lab 2",
-                        "time": "08:30-11:20"
                     }
                 ]
             },
