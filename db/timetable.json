@@ -1100,62 +1100,16 @@
             }
         },
         "BS CY": {
-            "2023": {
-                "A": [
-                    {
-                        "name": "Digital Forensics",
-                        "location": "D-501",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-501",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-501",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Malware Analysis",
-                        "location": "D-502",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Ethical Hack",
-                        "location": "Cyber (D-514)",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "AI",
-                        "location": "D-502",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Sec S/w Design",
-                        "location": "D-502",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-502",
-                        "time": "01:00-02:20"
-                    }
-                ]
-            },
             "2024": {
                 "A": [
                     {
                         "name": "Comp Net",
-                        "location": "D-503",
+                        "location": "D-501",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Prob & Stats",
-                        "location": "D-503",
+                        "location": "D-501",
                         "time": "10:00-11:20"
                     },
                     {
@@ -1184,6 +1138,52 @@
                         "name": "Comp Net Lab [Cancelled]",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "AI",
+                        "location": "D-501",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Malware Analysis",
+                        "location": "D-502",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Digital Forensics",
+                        "location": "D-503",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Ethical Hack",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "AI",
+                        "location": "D-502",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Sec S/w Design",
+                        "location": "D-502",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-502",
+                        "time": "01:00-02:20"
                     }
                 ]
             }
@@ -1551,6 +1551,11 @@
                         "name": "Prob & Stats",
                         "location": "D-305",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "D-305",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "G": [
@@ -2035,6 +2040,11 @@
                         "name": "Fund of S/w Engg",
                         "location": "D-404",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Fund of S/w Engg [ReSch]",
+                        "location": "D-404",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "DB",
@@ -2790,11 +2800,6 @@
                     }
                 ],
                 "F": [
-                    {
-                        "name": "Pak Studies [24)  ReSch]",
-                        "location": "C-410",
-                        "time": "11:30-01:15"
-                    },
                     {
                         "name": "SDA",
                         "location": "D-302",
@@ -3744,6 +3749,11 @@
                     }
                 ],
                 "B": [
+                    {
+                        "name": "Deep Learn [ReSch]",
+                        "location": "D-416",
+                        "time": "08:30-09:50"
+                    },
                     {
                         "name": "Deep Learn",
                         "location": "D-416",
