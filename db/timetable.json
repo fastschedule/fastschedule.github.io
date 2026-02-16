@@ -1893,8 +1893,8 @@
                 ],
                 "A": [
                     {
-                        "name": "OS [Combined Room no.]",
-                        "location": "D-411",
+                        "name": "OS",
+                        "location": "D-405",
                         "time": "11:30-12:50"
                     },
                     {
@@ -1910,8 +1910,8 @@
                 ],
                 "B": [
                     {
-                        "name": "OS [Combined Room no.]",
-                        "location": "D-404",
+                        "name": "OS",
+                        "location": "D-405",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3101,7 +3101,7 @@
                     },
                     {
                         "name": "Web",
-                        "location": "D-314",
+                        "location": "C-110",
                         "time": "11:30-12:50"
                     },
                     {
