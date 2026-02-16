@@ -622,11 +622,6 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Fund of S/w Engg [ReSch]",
-                        "location": "D-403",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "DB",
                         "location": "D-403",
                         "time": "11:30-12:50"
@@ -722,11 +717,6 @@
                         "name": "Fin Mgt",
                         "location": "D-411",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fin Mgt [ReSch]",
-                        "location": "D-411",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Info Sec",
@@ -1115,7 +1105,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Comp Net Lab [Cancelled]",
+                        "name": "Comp Net Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
                     }
@@ -3682,6 +3672,11 @@
             "2024": {
                 "B": [
                     {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-303",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "AI",
                         "location": "D-406",
                         "time": "11:30-12:50"
@@ -3698,6 +3693,11 @@
                     }
                 ],
                 "A": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-304",
+                        "time": "11:30-12:50"
+                    },
                     {
                         "name": "AI",
                         "location": "D-406",
