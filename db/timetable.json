@@ -1868,8 +1868,8 @@
                 ],
                 "A": [
                     {
-                        "name": "OS",
-                        "location": "D-405",
+                        "name": "OS [Combined with (DS-B)]",
+                        "location": "D-411",
                         "time": "11:30-12:50"
                     },
                     {
@@ -1885,8 +1885,8 @@
                 ],
                 "B": [
                     {
-                        "name": "OS",
-                        "location": "D-405",
+                        "name": "OS [Combined with (DS-A)]",
+                        "location": "D-404",
                         "time": "01:00-02:20"
                     },
                     {
