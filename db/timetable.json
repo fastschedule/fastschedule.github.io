@@ -2012,11 +2012,6 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Fund of S/w Engg [ReSch]",
-                        "location": "D-404",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "DB",
                         "location": "D-405",
                         "time": "08:30-09:50"
@@ -3134,6 +3129,74 @@
             }
         },
         "BS AI": {
+            "2024": {
+                "C": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-304",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "C-Margala 1",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "DB",
+                        "location": "D-403",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-403",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Fund of S/w Engg",
+                        "location": "D-404",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "D-404",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "AI",
+                        "location": "D-404",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "D-404",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "D-405",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Fund of S/w Engg",
+                        "location": "D-405",
+                        "time": "02:30-03:50"
+                    }
+                ]
+            },
             "2025": {
                 "C": [
                     {
@@ -3194,69 +3257,6 @@
                         "name": "DLD",
                         "location": "C-309",
                         "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "DB",
-                        "location": "D-403",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-403",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Fund of S/w Engg",
-                        "location": "D-404",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "D-404",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "AI",
-                        "location": "D-404",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "D-404",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "D-405",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Fund of S/w Engg",
-                        "location": "D-405",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "OS",
-                        "location": "D-405",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "C-Margala 1",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "C-Margala 1",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
