@@ -382,6 +382,30 @@ button:hover {
     z-index: 9999;
 }
 
+body.modal-open {
+    overflow: hidden;
+}
+
+body.modal-open > *:not(#noteModal) {
+    filter: blur(4px);
+    pointer-events: none;
+    user-select: none;
+}
+
+.note-modal-overlay {
+    background: rgba(0, 0, 0, 0.78);
+}
+
+.note-modal-content {
+    max-width: 560px;
+    width: 92%;
+    border: 2px solid #FFD700;
+}
+
+.note-modal-content p {
+    margin-bottom: 0;
+}
+
 .modal-content {
     background: #181818;
     border: 2px solid #FFD700;
@@ -470,6 +494,10 @@ button:hover {
     }
     .footer-privacy-link-row {
         margin-top: 1.5rem;
+    }
+
+    .note-modal-content {
+        width: 94%;
     }
 }
 

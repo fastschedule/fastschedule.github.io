@@ -16,7 +16,7 @@
     <meta name="author" content="Abdul Moiz">
     <meta name="google-adsense-account" content="ca-pub-9484979318543356">
 </head>
-<body>
+<body class="modal-open">
     <!-- <div id="ddosOverlay">
         <span class="ddosOverlayText">under maintenance...</span>
     </div> -->
@@ -30,6 +30,18 @@
             </svg> <span id="viewCount"><span id="loadingAnim">-</span></span>
         </div> -->
     </nav>
+
+    <div id="noteModal" class="modal-overlay note-modal-overlay" role="dialog" aria-modal="true" aria-labelledby="noteModalTitle">
+        <div class="modal-content note-modal-content">
+            <span class="close-modal" id="closeNoteModal" aria-label="Close">&times;</span>
+            <h2 id="noteModalTitle">Note</h2>
+            <p>
+                For today plz view your timetable from the official excel sheet
+                <a href="https://docs.google.com/spreadsheets/d/1ZQJqdArlwCS965uw4sbJrB6j8rEPfZerMT7X8qkXSzY" target="_blank" rel="noopener noreferrer" style="color:#FFD700;text-decoration:underline;">here</a>,
+                this one shows ramadan timings.
+            </p>
+        </div>
+    </div>
 
     <!-- <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
@@ -166,6 +178,14 @@
      <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b2084f472fc94217a7ae3992fa5803a1"}'></script><!-- End Cloudflare Web Analytics -->
 
     <script>
+        const noteModal = document.getElementById('noteModal');
+        const closeNoteModal = document.getElementById('closeNoteModal');
+
+        closeNoteModal.addEventListener('click', function() {
+            noteModal.style.display = 'none';
+            document.body.classList.remove('modal-open');
+        });
+
         // Privacy Policy Modal logic
         const privacyLink = document.getElementById('footer-privacy-link');
         const modal = document.getElementById('privacyModal');
