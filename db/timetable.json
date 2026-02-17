@@ -3572,6 +3572,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "PPIT [ReSch]",
+                        "location": "C-410",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "Entre",
                         "location": "D-301",
                         "time": "03:55-05:15"
