@@ -3142,6 +3142,11 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "OOP",
                         "location": "D-IT Lab 4",
                         "time": "02:30-05:15"
