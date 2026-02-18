@@ -4159,6 +4159,11 @@
                         "time": "10:10-11:10"
                     },
                     {
+                        "name": "AI [ReSch]",
+                        "location": "D-401",
+                        "time": "11:15-12:15"
+                    },
+                    {
                         "name": "OS Lab",
                         "location": "D-IT Lab 2",
                         "time": "08:00-10:05"
@@ -5287,24 +5292,6 @@
                 ]
             }
         },
-        "BS CS": {
-            "2024": {
-                "B": [
-                    {
-                        "name": "AI [ReSch]",
-                        "location": "C-301",
-                        "time": "11:15-12:15"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "DB Lab [ReSch]",
-                        "location": "C-Rawal 1",
-                        "time": "08:00-10:05"
-                    }
-                ]
-            }
-        },
         "BS CY": {
             "2025": {
                 "B": [
@@ -5424,6 +5411,17 @@
                     {
                         "name": "DLD Lab",
                         "location": "B-Digital",
+                        "time": "08:00-10:05"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2024": {
+                "G": [
+                    {
+                        "name": "DB Lab [ReSch]",
+                        "location": "C-Rawal 1",
                         "time": "08:00-10:05"
                     }
                 ]
