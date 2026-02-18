@@ -5266,13 +5266,23 @@
                         "name": "Fund of S/w Engg [ReSch]",
                         "location": "C-304",
                         "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "Fund of S/w Engg [ReSch]",
+                        "location": "C-304",
+                        "time": "09:05-10:05"
                     }
                 ],
                 "C": [
                     {
                         "name": "Fund of S/w Engg [ReSch]",
-                        "location": "C-304",
-                        "time": "09:05-10:05"
+                        "location": "C-309",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "Fund of S/w Engg [ReSch]",
+                        "location": "C-309",
+                        "time": "11:15-12:15"
                     }
                 ]
             }
