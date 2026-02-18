@@ -4602,59 +4602,6 @@
                     }
                 ]
             },
-            "2023": {
-                "C": [
-                    {
-                        "name": "Data Mining [ReSch]",
-                        "location": "C-410",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "Data Mining",
-                        "location": "D-413",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "Deep Learn",
-                        "location": "D-414",
-                        "time": "08:00-09:00"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Data Mining",
-                        "location": "D-412",
-                        "time": "08:00-09:00"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-413",
-                        "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-413",
-                        "time": "10:10-11:10"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Data Mining",
-                        "location": "D-412",
-                        "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-412",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-413",
-                        "time": "08:00-09:00"
-                    }
-                ]
-            },
             "2022": {
                 "A": [
                     {
@@ -4748,6 +4695,54 @@
                         "name": "Fund of S/w Engg",
                         "location": "D-411",
                         "time": "11:15-12:15"
+                    }
+                ]
+            },
+            "2023": {
+                "B": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-412",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-413",
+                        "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-413",
+                        "time": "10:10-11:10"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-412",
+                        "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-412",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-413",
+                        "time": "08:00-09:00"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-413",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "Deep Learn",
+                        "location": "D-414",
+                        "time": "08:00-09:00"
                     }
                 ]
             }
@@ -5264,6 +5259,40 @@
                         "time": "11:15-01:20"
                     }
                 ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Fund of S/w Engg [ReSch]",
+                        "location": "C-304",
+                        "time": "08:00-09:00"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Fund of S/w Engg [ReSch]",
+                        "location": "C-304",
+                        "time": "09:05-10:05"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2024": {
+                "B": [
+                    {
+                        "name": "AI [ReSch]",
+                        "location": "C-301",
+                        "time": "11:15-12:15"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "DB Lab [ReSch]",
+                        "location": "C-Rawal 1",
+                        "time": "08:00-10:05"
+                    }
+                ]
             }
         },
         "BS CY": {
@@ -5385,17 +5414,6 @@
                     {
                         "name": "DLD Lab",
                         "location": "B-Digital",
-                        "time": "08:00-10:05"
-                    }
-                ]
-            }
-        },
-        "BS CS": {
-            "2024": {
-                "G": [
-                    {
-                        "name": "DB Lab [ReSch]",
-                        "location": "C-Rawal 1",
                         "time": "08:00-10:05"
                     }
                 ]
