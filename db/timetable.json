@@ -5384,6 +5384,15 @@
                     }
                 ]
             },
+            "2024": {
+                "B": [
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2025": {
                 "A": [
                     {
@@ -5418,6 +5427,13 @@
         },
         "BS CS": {
             "2024": {
+                "B": [
+                    {
+                        "name": "DB Lab [ReSch]",
+                        "location": "C-Margala 4",
+                        "time": "11:15-01:20"
+                    }
+                ],
                 "G": [
                     {
                         "name": "DB Lab [ReSch]",
