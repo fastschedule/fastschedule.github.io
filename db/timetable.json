@@ -5439,6 +5439,11 @@
                         "name": "DB Lab [ReSch]",
                         "location": "C-Rawal 1",
                         "time": "08:00-10:05"
+                    },
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "C-Rawal 1",
+                        "time": "11:15-01:20"
                     }
                 ]
             }
