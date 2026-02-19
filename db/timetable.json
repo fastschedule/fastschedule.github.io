@@ -4805,7 +4805,7 @@
                     {
                         "name": "Exp Writing [ReSch]",
                         "location": "C-402",
-                        "time": "01:40-02:40"
+                        "time": "N/A"
                     }
                 ],
                 "B": [
@@ -5392,6 +5392,20 @@
         },
         "BS CS": {
             "2024": {
+                "E": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-309",
+                        "time": "11:15-12:15"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-309",
+                        "time": "12:20-01:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "DB Lab [ReSch]",
