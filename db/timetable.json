@@ -5294,18 +5294,6 @@
         },
         "BS DS": {
             "2022": {
-                "C": [
-                    {
-                        "name": "Fin Mgt [ReSch]",
-                        "location": "C-307",
-                        "time": "08:00-09:00"
-                    },
-                    {
-                        "name": "Fin Mgt [ReSch]",
-                        "location": "C-307",
-                        "time": "09:05-10:05"
-                    }
-                ],
                 "D": [
                     {
                         "name": "Fin Mgt [ReSch]",
@@ -5347,43 +5335,6 @@
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:00-10:05"
-                    }
-                ]
-            }
-        },
-        "BS CS": {
-            "2024": {
-                "E": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-309",
-                        "time": "11:15-12:15"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-309",
-                        "time": "12:20-01:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "DB Lab [ReSch]",
-                        "location": "C-Margala 4",
-                        "time": "11:15-01:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "DB Lab [ReSch]",
-                        "location": "C-Rawal 1",
-                        "time": "08:00-10:05"
-                    },
-                    {
-                        "name": "AI Lab [ReSch]",
-                        "location": "C-Rawal 1",
-                        "time": "11:15-01:20"
                     }
                 ]
             }
