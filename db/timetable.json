@@ -4820,6 +4820,16 @@
                         "name": "Cloud Comp",
                         "location": "C-404",
                         "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "D-506",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "D-506",
+                        "time": "09:05-10:05"
                     }
                 ],
                 "D": [
