@@ -444,6 +444,11 @@
                         "name": "AI",
                         "location": "D-311",
                         "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "D-311",
+                        "time": "10:10-11:10"
                     }
                 ],
                 "C": [
@@ -3962,6 +3967,11 @@
                         "name": "OOP Lab",
                         "location": "D-IT Lab 1",
                         "time": "10:10-12:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab B1 [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "12:20-02:40"
                     }
                 ],
                 "C": [
@@ -5232,7 +5242,7 @@
                     {
                         "name": "Comp Vision",
                         "location": "D-IT Lab 2",
-                        "time": "11:15-01:20"
+                        "time": "N/A"
                     }
                 ]
             }
@@ -5287,7 +5297,7 @@
                     {
                         "name": "OOP Lab",
                         "location": "D-IT Lab 3",
-                        "time": "11:15-01:20"
+                        "time": "N/A"
                     },
                     {
                         "name": "Exp Writing Lab C1",
@@ -5345,6 +5355,33 @@
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:00-10:05"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "DB Lab [ReSch]",
+                        "location": "C-Rawal 1",
+                        "time": "08:00-10:05"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2024": {
+                "C": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "C-Margala 4",
+                        "time": "11:15-01:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "C-Rawal 1",
+                        "time": "11:15-01:20"
                     }
                 ]
             }
