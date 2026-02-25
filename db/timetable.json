@@ -2940,13 +2940,6 @@
                         "time": "09:05-10:05"
                     }
                 ],
-                "K": [
-                    {
-                        "name": "Stat Modeling [ReSch]",
-                        "location": "D-401",
-                        "time": "01:40-02:40"
-                    }
-                ],
                 "E": [
                     {
                         "name": "Stat Modeling",
@@ -3884,6 +3877,28 @@
                         "time": "09:05-10:05"
                     }
                 ],
+                "D": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-301",
+                        "time": "12:20-01:20"
+                    },
+                    {
+                        "name": "Pak Studies",
+                        "location": "C-303",
+                        "time": "10:10-11:30"
+                    },
+                    {
+                        "name": "Exp Writing Lab D1",
+                        "location": "A-Mehran 2",
+                        "time": "08:00-10:05"
+                    },
+                    {
+                        "name": "Exp Writing Lab D2",
+                        "location": "A-CALL-3",
+                        "time": "08:00-10:05"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Civics",
@@ -3918,23 +3933,6 @@
                         "time": "11:15-12:15"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "Pak Studies",
-                        "location": "C-303",
-                        "time": "10:10-11:30"
-                    },
-                    {
-                        "name": "Exp Writing Lab D1",
-                        "location": "A-Mehran 2",
-                        "time": "08:00-10:05"
-                    },
-                    {
-                        "name": "Exp Writing Lab D2",
-                        "location": "A-CALL-3",
-                        "time": "08:00-10:05"
-                    }
-                ],
                 "H": [
                     {
                         "name": "Exp Writing",
@@ -3958,6 +3956,11 @@
                     }
                 ],
                 "B": [
+                    {
+                        "name": "Exp Writing Lab B2 [ReSch]",
+                        "location": "C-304",
+                        "time": "12:20-02:25"
+                    },
                     {
                         "name": "Civics",
                         "location": "C-305",
@@ -5243,6 +5246,22 @@
                         "name": "Comp Vision",
                         "location": "D-IT Lab 2",
                         "time": "N/A"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Fund of S/w Engg [ReSch]",
+                        "location": "C-304",
+                        "time": "08:00-10:05"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Fund of S/w Engg [ReSch]",
+                        "location": "C-309",
+                        "time": "10:10-12:15"
                     }
                 ]
             }
