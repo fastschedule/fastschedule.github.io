@@ -116,6 +116,11 @@
                         "time": "10:10-11:30"
                     },
                     {
+                        "name": "Exp Writing Lab G1 [ReSch]",
+                        "location": "C-305",
+                        "time": "12:20-02:25"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "C-Margala 4",
                         "time": "08:00-10:05"
@@ -2446,6 +2451,28 @@
                 ]
             },
             "2024": {
+                "B": [
+                    {
+                        "name": "TBW [ReSch]",
+                        "location": "D-413",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-501",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-503",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-110",
+                        "time": "09:05-10:05"
+                    }
+                ],
                 "A": [
                     {
                         "name": "TBW",
@@ -2460,23 +2487,6 @@
                     {
                         "name": "COAL",
                         "location": "D-502",
-                        "time": "09:05-10:05"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Comp Net",
-                        "location": "D-501",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-503",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-110",
                         "time": "09:05-10:05"
                     }
                 ]
@@ -2578,6 +2588,11 @@
                         "name": "Exp Writing",
                         "location": "C-301",
                         "time": "10:55-12:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab J1 [ReSch]",
+                        "location": "C-308",
+                        "time": "12:20-02:25"
                     },
                     {
                         "name": "Exp Writing Lab J1",
@@ -3131,6 +3146,11 @@
                         "name": "DLD",
                         "location": "C-309",
                         "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2 [ReSch]",
+                        "location": "C-309",
+                        "time": "11:30-01:30"
                     }
                 ]
             },
@@ -4426,7 +4446,7 @@
                         "time": "08:00-10:05"
                     },
                     {
-                        "name": "Exp Writing Lab B1",
+                        "name": "Exp Writing Lab B1 [Cancelled]",
                         "location": "A-Mehran 2",
                         "time": "12:20-02:40"
                     },
@@ -4794,7 +4814,7 @@
                         "time": "10:10-12:15"
                     },
                     {
-                        "name": "DLD Lab",
+                        "name": "DLD Lab [Cancelled]",
                         "location": "B-Digital",
                         "time": "12:20-02:40"
                     }
@@ -5112,7 +5132,7 @@
                         "time": "10:10-11:10"
                     },
                     {
-                        "name": "TBW",
+                        "name": "TBW [Cancelled]",
                         "location": "C-110",
                         "time": "09:05-10:05"
                     }
@@ -5264,6 +5284,20 @@
                         "time": "10:10-12:15"
                     }
                 ]
+            },
+            "2025": {
+                "C": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-410",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-410",
+                        "time": "11:15-12:15"
+                    }
+                ]
             }
         },
         "BS CY": {
@@ -5329,6 +5363,52 @@
                         "time": "08:00-10:05"
                     }
                 ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "C-Rawal 4",
+                        "time": "11:15-01:20"
+                    }
+                ]
+            }
+        },
+        "BS SE": {
+            "2025": {
+                "C": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-307",
+                        "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "Exp Writing Lab C1 [ReSch]",
+                        "location": "D-302",
+                        "time": "10:10-12:10"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-307",
+                        "time": "10:10-11:10"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "D-302",
+                        "time": "09:05-10:05"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "D-302",
+                        "time": "10:10-11:10"
+                    }
+                ]
             }
         },
         "BS DS": {
@@ -5361,7 +5441,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Exp Writing Lab B1",
+                        "name": "Exp Writing Lab B1 [Cancelled]",
                         "location": "A-Mehran 2",
                         "time": "11:15-01:20"
                     },
@@ -5388,18 +5468,39 @@
             }
         },
         "BS CS": {
+            "2025": {
+                "A": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-310",
+                        "time": "10:10-11:10"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-310",
+                        "time": "11:15-12:15"
+                    }
+                ]
+            },
             "2024": {
+                "E": [
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "D-303",
+                        "time": "08:00-10:05"
+                    },
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "C-Rawal 1",
+                        "time": "11:15-01:20"
+                    }
+                ],
                 "C": [
                     {
                         "name": "OS Lab [ReSch]",
                         "location": "C-Margala 4",
-                        "time": "11:15-01:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "OS Lab [ReSch]",
-                        "location": "C-Rawal 1",
                         "time": "11:15-01:20"
                     }
                 ]
