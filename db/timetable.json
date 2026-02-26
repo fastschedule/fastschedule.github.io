@@ -4802,7 +4802,7 @@
                         "time": "10:10-11:10"
                     },
                     {
-                        "name": "Seerah & UHQ-I",
+                        "name": "Seerah & UHQ-I [Cancelled]",
                         "location": "C-402",
                         "time": "12:00-01:20"
                     }
@@ -5275,7 +5275,7 @@
                 ]
             },
             "2024": {
-                "A": [
+                "B": [
                     {
                         "name": "Fund of S/w Engg [ReSch]",
                         "location": "C-304",
@@ -5477,6 +5477,13 @@
                         "name": "MV Calculus [ReSch]",
                         "location": "C-310",
                         "time": "11:15-12:15"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Exp Writing Lab F1 [ReSch]",
+                        "location": "D-301",
+                        "time": "11:15-01:20"
                     }
                 ]
             },
