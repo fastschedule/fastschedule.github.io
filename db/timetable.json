@@ -1301,6 +1301,11 @@
                 ],
                 "D": [
                     {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-305",
+                        "time": "12:20-01:20"
+                    },
+                    {
                         "name": "Civics",
                         "location": "C-307",
                         "time": "08:30-09:50"
@@ -3982,11 +3987,6 @@
                 ],
                 "B": [
                     {
-                        "name": "Exp Writing Lab B2 [ReSch]",
-                        "location": "C-304",
-                        "time": "12:20-02:25"
-                    },
-                    {
                         "name": "Civics",
                         "location": "C-305",
                         "time": "08:00-09:20"
@@ -4045,7 +4045,7 @@
                         "time": "11:15-12:15"
                     },
                     {
-                        "name": "Digital Mktg",
+                        "name": "Digital Mktg [Cancelled]",
                         "location": "D-316",
                         "time": "01:40-02:40"
                     }
@@ -4067,7 +4067,7 @@
                         "time": "11:15-12:15"
                     },
                     {
-                        "name": "Digital Mktg",
+                        "name": "Digital Mktg [Cancelled]",
                         "location": "D-316",
                         "time": "12:20-01:20"
                     },
@@ -4896,7 +4896,7 @@
                         "time": "10:10-11:10"
                     },
                     {
-                        "name": "Entre",
+                        "name": "Entre [Cancelled]",
                         "location": "D-301",
                         "time": "12:20-01:20"
                     },
@@ -4918,7 +4918,7 @@
                         "time": "11:15-12:15"
                     },
                     {
-                        "name": "Entre",
+                        "name": "Entre [Cancelled]",
                         "location": "D-302",
                         "time": "01:40-02:40"
                     }
@@ -5381,7 +5381,7 @@
                     {
                         "name": "Exp Writing Lab C1 [ReSch]",
                         "location": "D-302",
-                        "time": "10:10-12:10"
+                        "time": "11:10-01:10"
                     }
                 ],
                 "D": [
@@ -5483,6 +5483,13 @@
                     {
                         "name": "Exp Writing Lab F1 [ReSch]",
                         "location": "D-301",
+                        "time": "11:15-01:20"
+                    }
+                ],
+                "J": [
+                    {
+                        "name": "OOP Lab [ReSch]",
+                        "location": "C-Rawal 4",
                         "time": "11:15-01:20"
                     }
                 ]
