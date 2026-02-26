@@ -3176,11 +3176,6 @@
                         "name": "DLD",
                         "location": "C-309",
                         "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "Exp Writing Lab B2 [ReSch]",
-                        "location": "C-309",
-                        "time": "11:30-01:30"
                     }
                 ]
             },
@@ -5393,23 +5388,23 @@
         },
         "BS SE": {
             "2025": {
-                "C": [
-                    {
-                        "name": "AP [ReSch]",
-                        "location": "C-307",
-                        "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "Exp Writing Lab C1 [ReSch]",
-                        "location": "D-302",
-                        "time": "11:10-01:10"
-                    }
-                ],
                 "D": [
                     {
                         "name": "AP [ReSch]",
                         "location": "C-307",
+                        "time": "09:05-10:05"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-307",
                         "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab C1 [ReSch]",
+                        "location": "C-308",
+                        "time": "08:00-10:05"
                     }
                 ],
                 "A": [
