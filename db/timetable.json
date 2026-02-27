@@ -73,6 +73,11 @@
                         "name": "MV Calculus",
                         "location": "C-302",
                         "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2 [ReSch]",
+                        "location": "C-307",
+                        "time": "12:20-02:25"
                     }
                 ],
                 "D": [
@@ -134,7 +139,7 @@
                     },
                     {
                         "name": "OOP Lab",
-                        "location": "D-IT Lab 2",
+                        "location": "C-Rawal 1",
                         "time": "10:10-12:15"
                     }
                 ],
@@ -1138,7 +1143,7 @@
                     },
                     {
                         "name": "COAL Lab",
-                        "location": "C-Rawal 1",
+                        "location": "D-IT Lab 2",
                         "time": "10:10-12:15"
                     }
                 ],
