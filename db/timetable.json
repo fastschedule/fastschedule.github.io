@@ -21,7 +21,7 @@
                 ],
                 "E": [
                     {
-                        "name": "Pak Studies",
+                        "name": "Pak Studies [Cancelled]",
                         "location": "C-301",
                         "time": "10:10-11:30"
                     },
@@ -3144,9 +3144,14 @@
             "2025": {
                 "C": [
                     {
-                        "name": "AP",
+                        "name": "AP [Cancelled]",
                         "location": "C-307",
                         "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-307",
+                        "time": "09:05-10:05"
                     },
                     {
                         "name": "OOP",
