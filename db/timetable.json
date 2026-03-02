@@ -1473,7 +1473,7 @@
                     },
                     {
                         "name": "AI Lab",
-                        "location": "D-IT Lab 1",
+                        "location": "C-Rawal 4",
                         "time": "12:20-02:40"
                     }
                 ],
@@ -2489,14 +2489,14 @@
                         "time": "08:00-09:00"
                     },
                     {
+                        "name": "Digital Forensics Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "12:20-02:40"
+                    },
+                    {
                         "name": "AI Lab",
                         "location": "C-Rawal 1",
                         "time": "10:10-12:15"
-                    },
-                    {
-                        "name": "Digital Forensics Lab",
-                        "location": "C-Rawal 4",
-                        "time": "12:20-02:40"
                     }
                 ]
             },
