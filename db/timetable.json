@@ -1162,7 +1162,7 @@
             "2025": {
                 "E": [
                     {
-                        "name": "OOP [Cancelled]",
+                        "name": "OOP",
                         "location": "C-301",
                         "time": "08:00-09:00"
                     },
@@ -1295,11 +1295,6 @@
                     }
                 ],
                 "D": [
-                    {
-                        "name": "MV Calculus [ReSch]",
-                        "location": "C-305",
-                        "time": "12:20-01:20"
-                    },
                     {
                         "name": "Civics",
                         "location": "C-307",
@@ -1773,11 +1768,6 @@
                         "name": "Seerah & UHQ-I",
                         "location": "C-310",
                         "time": "12:00-01:20"
-                    },
-                    {
-                        "name": "AP [ReSch]",
-                        "location": "C-310",
-                        "time": "01:40-02:40"
                     }
                 ]
             },
@@ -2074,67 +2064,6 @@
             }
         },
         "BS SE": {
-            "2023": {
-                "A": [
-                    {
-                        "name": "Formal Meth in SE [ReSch]",
-                        "location": "C-405",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "AI [Cancelled Reserved]",
-                        "location": "C-405",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "Process Mining",
-                        "location": "C-405",
-                        "time": "12:20-01:20"
-                    },
-                    {
-                        "name": "Formal Meth in SE",
-                        "location": "C-408",
-                        "time": "08:00-09:00"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "C-408",
-                        "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "AI [MEDC  ReSch]",
-                        "location": "A- 117",
-                        "time": "08:00-09:00"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Comp Net",
-                        "location": "C-408",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "Process Mining",
-                        "location": "C-408",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "AI [Cancelled]",
-                        "location": "C-408",
-                        "time": "12:20-01:20"
-                    },
-                    {
-                        "name": "AI [MEDC  ReSch]",
-                        "location": "A- 117",
-                        "time": "08:00-09:00"
-                    },
-                    {
-                        "name": "Formal Meth in SE",
-                        "location": "C-410",
-                        "time": "09:05-10:05"
-                    }
-                ]
-            },
             "2025": {
                 "B": [
                     {
@@ -2226,16 +2155,6 @@
                         "name": "Cloud Comp",
                         "location": "D-303",
                         "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "Entre [ReSch]",
-                        "location": "D-401",
-                        "time": "08:00-09:00"
-                    },
-                    {
-                        "name": "Entre [ReSch]",
-                        "location": "D-404",
-                        "time": "09:05-10:05"
                     }
                 ],
                 "D": [
@@ -2346,11 +2265,6 @@
                         "time": "10:10-11:10"
                     },
                     {
-                        "name": "SDA [ReSch]",
-                        "location": "D-401",
-                        "time": "11:15-12:15"
-                    },
-                    {
                         "name": "COAL Lab",
                         "location": "C-Margala 1",
                         "time": "08:00-10:05"
@@ -2376,6 +2290,52 @@
                         "name": "DB Lab",
                         "location": "C-Rawal 1",
                         "time": "12:20-02:40"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "AI",
+                        "location": "C-405",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "Process Mining",
+                        "location": "C-405",
+                        "time": "12:20-01:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-408",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-408",
+                        "time": "09:05-10:05"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Net",
+                        "location": "C-408",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "Process Mining",
+                        "location": "C-408",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-408",
+                        "time": "12:20-01:20"
+                    },
+                    {
+                        "name": "Formal Meth in SE",
+                        "location": "C-410",
+                        "time": "09:05-10:05"
                     }
                 ]
             }
@@ -2446,18 +2406,13 @@
                         "name": "MV Calculus",
                         "location": "C-407",
                         "time": "12:20-01:20"
-                    },
-                    {
-                        "name": "AP [ReSch]",
-                        "location": "C-407",
-                        "time": "01:40-02:40"
                     }
                 ]
             },
             "2023": {
                 "A": [
                     {
-                        "name": "Sec S/w Design [Cancelled]",
+                        "name": "Sec S/w Design",
                         "location": "C-405",
                         "time": "10:10-11:10"
                     },
@@ -2491,28 +2446,6 @@
                 ]
             },
             "2024": {
-                "B": [
-                    {
-                        "name": "TBW [ReSch]",
-                        "location": "D-413",
-                        "time": "08:00-09:00"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-501",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-503",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-110",
-                        "time": "09:05-10:05"
-                    }
-                ],
                 "A": [
                     {
                         "name": "TBW",
@@ -2527,6 +2460,23 @@
                     {
                         "name": "COAL",
                         "location": "D-502",
+                        "time": "09:05-10:05"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Net",
+                        "location": "D-501",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-503",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-110",
                         "time": "09:05-10:05"
                     }
                 ]
@@ -2544,7 +2494,7 @@
                         "time": "09:05-10:05"
                     },
                     {
-                        "name": "Cloud Security [Cancelled]",
+                        "name": "Cloud Security",
                         "location": "D-504",
                         "time": "10:10-11:10"
                     },
