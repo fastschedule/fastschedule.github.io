@@ -73,11 +73,6 @@
                         "name": "MV Calculus",
                         "location": "C-302",
                         "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "Exp Writing Lab B2 [ReSch]",
-                        "location": "C-307",
-                        "time": "12:20-02:25"
                     }
                 ],
                 "D": [
@@ -119,11 +114,6 @@
                         "name": "Civics",
                         "location": "C-305",
                         "time": "10:10-11:30"
-                    },
-                    {
-                        "name": "Exp Writing Lab G1 [ReSch]",
-                        "location": "C-305",
-                        "time": "12:20-02:25"
                     },
                     {
                         "name": "OOP Lab",
@@ -454,11 +444,6 @@
                         "name": "AI",
                         "location": "D-311",
                         "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "D-311",
-                        "time": "10:10-11:10"
                     }
                 ],
                 "C": [
@@ -1172,7 +1157,7 @@
             "2025": {
                 "E": [
                     {
-                        "name": "OOP",
+                        "name": "OOP [Cancelled]",
                         "location": "C-301",
                         "time": "08:00-09:00"
                     },
@@ -2467,7 +2452,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "Sec S/w Design",
+                        "name": "Sec S/w Design [Cancelled]",
                         "location": "C-405",
                         "time": "10:10-11:10"
                     },
@@ -2554,7 +2539,7 @@
                         "time": "09:05-10:05"
                     },
                     {
-                        "name": "Cloud Security",
+                        "name": "Cloud Security [Cancelled]",
                         "location": "D-504",
                         "time": "10:10-11:10"
                     },
