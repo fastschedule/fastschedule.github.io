@@ -3531,6 +3531,11 @@
                         "time": "08:00-09:00"
                     },
                     {
+                        "name": "Formal Meth in SE [ReSch]",
+                        "location": "D-404",
+                        "time": "09:05-10:05"
+                    },
+                    {
                         "name": "AI Lab",
                         "location": "C-Rawal 1",
                         "time": "10:10-12:15"
@@ -4511,6 +4516,11 @@
                         "time": "12:20-01:20"
                     },
                     {
+                        "name": "Formal Meth in SE [ReSch]",
+                        "location": "C-409",
+                        "time": "01:40-02:40"
+                    },
+                    {
                         "name": "AI [MEDC  ReSch]",
                         "location": "A- 117",
                         "time": "08:00-09:00"
@@ -4790,6 +4800,11 @@
                 ],
                 "C": [
                     {
+                        "name": "Exp Writing Lab C2 [ReSch]",
+                        "location": "C-308",
+                        "time": "12:20-02:40"
+                    },
+                    {
                         "name": "OOP",
                         "location": "C-309",
                         "time": "08:00-09:00"
@@ -4803,6 +4818,11 @@
                         "name": "DLD",
                         "location": "C-309",
                         "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab C1 [ReSch]",
+                        "location": "C-309",
+                        "time": "12:20-02:40"
                     }
                 ]
             },
@@ -5334,6 +5354,22 @@
                         "time": "11:15-01:20"
                     }
                 ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "C-304",
+                        "time": "08:00-09:00"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "C-304",
+                        "time": "09:05-10:05"
+                    }
+                ]
             }
         },
         "BS CY": {
@@ -5413,6 +5449,15 @@
                         "name": "SPM [ReSch]",
                         "location": "C-307",
                         "time": "11:15-12:15"
+                    }
+                ]
+            },
+            "2025": {
+                "D": [
+                    {
+                        "name": "Exp Writing Lab D2 [ReSch]",
+                        "location": "C-309",
+                        "time": "10:10-12:15"
                     }
                 ]
             }
