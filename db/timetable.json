@@ -758,6 +758,11 @@
                         "name": "Seerah & UHQ-I",
                         "location": "C-401",
                         "time": "12:00-01:20"
+                    },
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-401",
+                        "time": "01:40-02:40"
                     }
                 ],
                 "D": [
@@ -3408,6 +3413,11 @@
                         "name": "DLD",
                         "location": "C-401",
                         "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2 [ReSch]",
+                        "location": "C-401",
+                        "time": "11:15-01:20"
                     }
                 ],
                 "D": [
@@ -3768,6 +3778,11 @@
                         "name": "MV Calculus",
                         "location": "C-402",
                         "time": "12:20-01:20"
+                    },
+                    {
+                        "name": "Exp Writing Lab A1 [ReSch]",
+                        "location": "C-402",
+                        "time": "01:40-02:40"
                     },
                     {
                         "name": "DLD",
@@ -5120,6 +5135,11 @@
                         "name": "Seerah & UHQ-I",
                         "location": "C-404",
                         "time": "08:45-10:05"
+                    },
+                    {
+                        "name": "Exp Writing Lab A1 [ReSch]",
+                        "location": "C-405",
+                        "time": "12:20-02:40"
                     },
                     {
                         "name": "OOP Lab",
