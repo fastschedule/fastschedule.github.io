@@ -242,6 +242,11 @@
                 ],
                 "C": [
                     {
+                        "name": "DB",
+                        "location": "D-301",
+                        "time": "10:10-11:10"
+                    },
+                    {
                         "name": "AI",
                         "location": "D-302",
                         "time": "08:00-09:00"
@@ -250,11 +255,6 @@
                         "name": "Prob & Stats",
                         "location": "D-302",
                         "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "D-302",
-                        "time": "10:10-11:10"
                     },
                     {
                         "name": "OS",
@@ -1073,6 +1073,15 @@
             }
         },
         "BS CY": {
+            "2025": {
+                "A": [
+                    {
+                        "name": "Exp Writing Lab A2 [ReSch]",
+                        "location": "D-416",
+                        "time": "10:10-12:15"
+                    }
+                ]
+            },
             "2023": {
                 "A": [
                     {
@@ -2823,6 +2832,11 @@
                 ],
                 "C": [
                     {
+                        "name": "DB",
+                        "location": "D-304",
+                        "time": "10:10-11:10"
+                    },
+                    {
                         "name": "AI",
                         "location": "D-305",
                         "time": "08:00-09:00"
@@ -2831,11 +2845,6 @@
                         "name": "Prob & Stats",
                         "location": "D-305",
                         "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "D-305",
-                        "time": "10:10-11:10"
                     },
                     {
                         "name": "OS",
@@ -4617,14 +4626,34 @@
                         "time": "01:40-02:40"
                     }
                 ],
-                "E": [
+                "B": [
+                    {
+                        "name": "S/w Metrices [ReSch]",
+                        "location": "C-410",
+                        "time": "12:20-01:20"
+                    },
+                    {
+                        "name": "User Exp Engg",
+                        "location": "D-301",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-302",
+                        "time": "11:15-12:15"
+                    },
                     {
                         "name": "Entre",
-                        "location": "D-301",
-                        "time": "09:05-10:05"
+                        "location": "D-302",
+                        "time": "01:40-02:40"
                     }
                 ],
                 "A": [
+                    {
+                        "name": "S/w Metrices [ReSch]",
+                        "location": "C-410",
+                        "time": "01:40-02:40"
+                    },
                     {
                         "name": "User Exp Engg",
                         "location": "D-301",
@@ -4641,21 +4670,16 @@
                         "time": "10:10-11:10"
                     }
                 ],
-                "B": [
+                "E": [
                     {
-                        "name": "User Exp Engg",
+                        "name": "S/w Metrices [ReSch]",
                         "location": "D-301",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-302",
-                        "time": "11:15-12:15"
+                        "time": "08:00-09:00"
                     },
                     {
                         "name": "Entre",
-                        "location": "D-302",
-                        "time": "01:40-02:40"
+                        "location": "D-301",
+                        "time": "09:05-10:05"
                     }
                 ],
                 "F": [
