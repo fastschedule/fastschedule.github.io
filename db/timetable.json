@@ -4071,6 +4071,152 @@
                     }
                 ]
             },
+            "2024": {
+                "B": [
+                    {
+                        "name": "AI [ReSch]",
+                        "location": "C-308",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "D-304",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "D-IT Lab 2",
+                        "time": "08:00-10:05"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "12:20-02:40"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "OS",
+                        "location": "D-304",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "D-304",
+                        "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "D-305",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-305",
+                        "time": "12:20-01:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "SDA",
+                        "location": "D-304",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "Pak Studies [24)]",
+                        "location": "D-311",
+                        "time": "12:20-01:40"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-311",
+                        "time": "01:40-02:40"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "08:00-10:05"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Prob & Stats",
+                        "location": "D-304",
+                        "time": "12:20-01:20"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "D-305",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-305",
+                        "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-306",
+                        "time": "11:15-12:15"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "DB",
+                        "location": "D-306",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-306",
+                        "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-306",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "Prob & Stats",
+                        "location": "D-306",
+                        "time": "12:20-01:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "SDA",
+                        "location": "D-311",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "12:20-02:40"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "D-IT Lab 2",
+                        "time": "10:10-12:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "SDA",
+                        "location": "D-311",
+                        "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "D-IT Lab 2",
+                        "time": "12:20-02:40"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "D-IT Lab 3",
+                        "time": "10:10-12:15"
+                    }
+                ]
+            },
             "2022": {
                 "D": [
                     {
@@ -4193,147 +4339,6 @@
                         "name": "Stat Modeling",
                         "location": "D-315",
                         "time": "01:40-02:40"
-                    }
-                ]
-            },
-            "2024": {
-                "E": [
-                    {
-                        "name": "OS",
-                        "location": "D-304",
-                        "time": "08:00-09:00"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "D-304",
-                        "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "D-305",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-305",
-                        "time": "12:20-01:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "SDA",
-                        "location": "D-304",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "D-IT Lab 2",
-                        "time": "08:00-10:05"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "D-IT Lab 3",
-                        "time": "12:20-02:40"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "SDA",
-                        "location": "D-304",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "Pak Studies [24)]",
-                        "location": "D-311",
-                        "time": "12:20-01:40"
-                    },
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "D-311",
-                        "time": "01:40-02:40"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "D-IT Lab 3",
-                        "time": "08:00-10:05"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "Prob & Stats",
-                        "location": "D-304",
-                        "time": "12:20-01:20"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "D-305",
-                        "time": "08:00-09:00"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-305",
-                        "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-306",
-                        "time": "11:15-12:15"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "DB",
-                        "location": "D-306",
-                        "time": "08:00-09:00"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-306",
-                        "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-306",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "D-306",
-                        "time": "12:20-01:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "SDA",
-                        "location": "D-311",
-                        "time": "08:00-09:00"
-                    },
-                    {
-                        "name": "OS Lab",
-                        "location": "D-IT Lab 1",
-                        "time": "12:20-02:40"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "D-IT Lab 2",
-                        "time": "10:10-12:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "SDA",
-                        "location": "D-311",
-                        "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "DB Lab",
-                        "location": "D-IT Lab 2",
-                        "time": "12:20-02:40"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "D-IT Lab 3",
-                        "time": "10:10-12:15"
                     }
                 ]
             },
