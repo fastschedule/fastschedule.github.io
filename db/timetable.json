@@ -5384,6 +5384,15 @@
                         "time": "09:05-10:05"
                     }
                 ]
+            },
+            "2024": {
+                "E": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "C-Rawal 1",
+                        "time": "08:00-10:05"
+                    }
+                ]
             }
         },
         "BS CY": {
@@ -5472,6 +5481,18 @@
                         "name": "Exp Writing Lab D2 [ReSch]",
                         "location": "C-309",
                         "time": "10:10-12:15"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-410",
+                        "time": "09:05-10:05"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-410",
+                        "time": "10:10-11:10"
                     }
                 ]
             },
