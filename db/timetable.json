@@ -3909,7 +3909,7 @@
                         "time": "08:00-09:00"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled]",
                         "location": "C-301",
                         "time": "09:05-10:05"
                     },
@@ -3917,6 +3917,11 @@
                         "name": "Discrete",
                         "location": "C-301",
                         "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "C-301",
+                        "time": "12:20-01:20"
                     }
                 ],
                 "F": [
@@ -5467,6 +5472,22 @@
                         "name": "Exp Writing Lab D2 [ReSch]",
                         "location": "C-309",
                         "time": "10:10-12:15"
+                    }
+                ]
+            },
+            "2022": {
+                "A": [
+                    {
+                        "name": "User Exp Engg [ReSch]",
+                        "location": "C-310",
+                        "time": "10:10-11:10"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "User Exp Engg [ReSch]",
+                        "location": "C-310",
+                        "time": "11:15-12:15"
                     }
                 ]
             }
