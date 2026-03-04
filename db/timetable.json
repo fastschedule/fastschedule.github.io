@@ -1846,8 +1846,8 @@
                 ],
                 "A": [
                     {
-                        "name": "OS [Combined in Room no. Reserved]",
-                        "location": "D-411",
+                        "name": "OS",
+                        "location": "D-405",
                         "time": "10:10-11:10"
                     },
                     {
@@ -1863,8 +1863,8 @@
                 ],
                 "B": [
                     {
-                        "name": "OS [Combined in Room no. Reserved]",
-                        "location": "D-404",
+                        "name": "OS",
+                        "location": "D-405",
                         "time": "11:15-12:15"
                     },
                     {
@@ -4896,8 +4896,8 @@
                 ],
                 "A": [
                     {
-                        "name": "OS",
-                        "location": "D-405",
+                        "name": "OS [Combined in Room no.]",
+                        "location": "D-411",
                         "time": "10:10-11:10"
                     },
                     {
@@ -4913,8 +4913,8 @@
                 ],
                 "B": [
                     {
-                        "name": "OS",
-                        "location": "D-405",
+                        "name": "OS [Combined in Room no.]",
+                        "location": "D-406",
                         "time": "11:15-12:15"
                     },
                     {
