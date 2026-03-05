@@ -1371,18 +1371,6 @@
                         "time": "10:10-11:10"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "AI Prod Develop [G-II]",
-                        "location": "C-410",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "Digital Mktg",
-                        "location": "D-403",
-                        "time": "01:40-02:40"
-                    }
-                ],
                 "C": [
                     {
                         "name": "AI Prod Develop [G-II]",
@@ -1443,6 +1431,18 @@
                     {
                         "name": "Stat Modeling",
                         "location": "D-316",
+                        "time": "01:40-02:40"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "AI Prod Develop [G-II]",
+                        "location": "D-401",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "D-403",
                         "time": "01:40-02:40"
                     }
                 ],
@@ -2358,7 +2358,7 @@
                     },
                     {
                         "name": "Formal Meth in SE",
-                        "location": "C-410",
+                        "location": "D-404",
                         "time": "09:05-10:05"
                     }
                 ]
@@ -3574,14 +3574,14 @@
                 ],
                 "C": [
                     {
-                        "name": "PPIT",
-                        "location": "C-410",
-                        "time": "09:05-10:05"
-                    },
-                    {
                         "name": "Entre",
                         "location": "D-301",
                         "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-404",
+                        "time": "09:05-10:05"
                     }
                 ],
                 "D": [
@@ -4224,11 +4224,6 @@
                 ],
                 "A": [
                     {
-                        "name": "Robo Tech",
-                        "location": "C-410",
-                        "time": "11:15-12:15"
-                    },
-                    {
                         "name": "Big Data [Cancelled ReServed]",
                         "location": "D-303",
                         "time": "10:10-11:10"
@@ -4242,6 +4237,11 @@
                         "name": "MLOPs [G-I]",
                         "location": "D-401",
                         "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "Robo Tech",
+                        "location": "D-401",
+                        "time": "11:15-12:15"
                     },
                     {
                         "name": "Agentic AI [G-I]",
@@ -4456,11 +4456,6 @@
                         "name": "Comp Net",
                         "location": "C-409",
                         "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "AI [MEDC  ReSch]",
-                        "location": "A- 117",
-                        "time": "08:00-09:00"
                     }
                 ],
                 "B": [
@@ -4485,13 +4480,8 @@
                         "time": "01:40-02:40"
                     },
                     {
-                        "name": "AI [MEDC  ReSch]",
-                        "location": "A- 117",
-                        "time": "08:00-09:00"
-                    },
-                    {
                         "name": "Formal Meth in SE",
-                        "location": "C-410",
+                        "location": "D-404",
                         "time": "09:05-10:05"
                     }
                 ]
@@ -4601,28 +4591,6 @@
                         "time": "01:40-02:40"
                     }
                 ],
-                "B": [
-                    {
-                        "name": "S/w Metrices [ReSch]",
-                        "location": "C-410",
-                        "time": "12:20-01:20"
-                    },
-                    {
-                        "name": "User Exp Engg",
-                        "location": "D-301",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-302",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "Entre",
-                        "location": "D-302",
-                        "time": "01:40-02:40"
-                    }
-                ],
                 "A": [
                     {
                         "name": "S/w Metrices [ReSch]",
@@ -4655,6 +4623,23 @@
                         "name": "Entre",
                         "location": "D-301",
                         "time": "09:05-10:05"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "User Exp Engg",
+                        "location": "D-301",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-302",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "Entre",
+                        "location": "D-302",
+                        "time": "01:40-02:40"
                     }
                 ],
                 "F": [
@@ -4947,59 +4932,6 @@
                     }
                 ]
             },
-            "2023": {
-                "C": [
-                    {
-                        "name": "Data Mining [ReSch]",
-                        "location": "C-410",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "Data Mining",
-                        "location": "D-413",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "Deep Learn",
-                        "location": "D-414",
-                        "time": "08:00-09:00"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Data Mining",
-                        "location": "D-412",
-                        "time": "08:00-09:00"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-413",
-                        "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-413",
-                        "time": "10:10-11:10"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Data Mining",
-                        "location": "D-412",
-                        "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "D-412",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-413",
-                        "time": "08:00-09:00"
-                    }
-                ]
-            },
             "2022": {
                 "A": [
                     {
@@ -5093,6 +5025,54 @@
                         "name": "Fund of S/w Engg",
                         "location": "D-411",
                         "time": "11:15-12:15"
+                    }
+                ]
+            },
+            "2023": {
+                "B": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-412",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-413",
+                        "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-413",
+                        "time": "10:10-11:10"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-412",
+                        "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-412",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-413",
+                        "time": "08:00-09:00"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Data Mining",
+                        "location": "D-413",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "Deep Learn",
+                        "location": "D-414",
+                        "time": "08:00-09:00"
                     }
                 ]
             }
@@ -5466,14 +5446,14 @@
                     },
                     {
                         "name": "AP [ReSch]",
-                        "location": "C-410",
+                        "location": "D-302",
                         "time": "09:05-10:05"
                     }
                 ],
                 "C": [
                     {
                         "name": "AP [ReSch]",
-                        "location": "C-410",
+                        "location": "D-302",
                         "time": "10:10-11:10"
                     }
                 ]
