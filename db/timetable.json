@@ -1250,6 +1250,11 @@
                         "time": "10:10-11:30"
                     },
                     {
+                        "name": "Discrete [ReSch]",
+                        "location": "D-401",
+                        "time": "08:00-09:00"
+                    },
+                    {
                         "name": "Exp Writing Lab A1",
                         "location": "A-CALL-2",
                         "time": "12:20-02:40"
@@ -2710,6 +2715,11 @@
                         "name": "MV Calculus",
                         "location": "C-304",
                         "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "Discrete [ReSch]",
+                        "location": "C-304",
+                        "time": "11:15-12:15"
                     }
                 ],
                 "F": [
@@ -3978,6 +3988,11 @@
                         "name": "MV Calculus",
                         "location": "C-303",
                         "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "Discrete [ReSch]",
+                        "location": "C-303",
+                        "time": "01:40-02:40"
                     },
                     {
                         "name": "Discrete",
