@@ -1689,6 +1689,11 @@
                         "name": "Comp Arch",
                         "location": "D-314",
                         "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "PDC [ReSch]",
+                        "location": "D-414",
+                        "time": "11:15-12:15"
                     }
                 ],
                 "D": [
@@ -1701,6 +1706,11 @@
                         "name": "SE",
                         "location": "D-311",
                         "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "PDC [ReSch]",
+                        "location": "D-314",
+                        "time": "01:40-02:40"
                     },
                     {
                         "name": "Comp Arch",
@@ -1752,6 +1762,11 @@
                         "name": "Comp Arch",
                         "location": "D-314",
                         "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "PDC [ReSch]",
+                        "location": "D-314",
+                        "time": "12:20-01:20"
                     }
                 ],
                 "C": [
@@ -2099,6 +2114,11 @@
                         "name": "DB",
                         "location": "D-412",
                         "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "Fund of S/w Engg [ReSch]",
+                        "location": "D-414",
+                        "time": "12:20-01:20"
                     }
                 ]
             },
@@ -2113,6 +2133,11 @@
                         "name": "Data Mining",
                         "location": "D-416",
                         "time": "12:20-01:20"
+                    },
+                    {
+                        "name": "Data Mining [ReSch]",
+                        "location": "D-416",
+                        "time": "01:40-02:40"
                     },
                     {
                         "name": "AI Lab",
@@ -2796,6 +2821,11 @@
                         "name": "Civics",
                         "location": "C-305",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-305",
+                        "time": "12:20-01:20"
                     },
                     {
                         "name": "OOP Lab",
@@ -4116,6 +4146,11 @@
                         "name": "Pak Studies",
                         "location": "C-303",
                         "time": "10:10-11:30"
+                    },
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-304",
+                        "time": "12:20-01:20"
                     },
                     {
                         "name": "Exp Writing Lab D1",
