@@ -674,7 +674,7 @@
                 ],
                 "C": [
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "D-404",
                         "time": "08:00-09:00"
                     },
@@ -775,14 +775,14 @@
                         "time": "10:10-11:10"
                     },
                     {
+                        "name": "AP [ReSch]",
+                        "location": "C-310",
+                        "time": "11:15-12:15"
+                    },
+                    {
                         "name": "OOP",
                         "location": "C-311",
                         "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "AP [ReSch]",
-                        "location": "C-311",
-                        "time": "01:40-02:40"
                     }
                 ],
                 "D": [
@@ -1215,7 +1215,12 @@
                         "time": "11:15-12:15"
                     },
                     {
-                        "name": "Comp Net Lab",
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "C-Margala 1",
+                        "time": "12:20-02:40"
+                    },
+                    {
+                        "name": "Comp Net Lab [Cancelled]",
                         "location": "C-Margala 3",
                         "time": "08:00-10:05"
                     }
@@ -3518,7 +3523,7 @@
                     {
                         "name": "AP [ReSch]",
                         "location": "C-401",
-                        "time": "01:40-02:40"
+                        "time": "12:20-01:20"
                     }
                 ],
                 "C": [
@@ -5417,29 +5422,6 @@
                 ]
             }
         },
-        "BS CS": {
-            "2025": {
-                "E": [
-                    {
-                        "name": "Exp Writing Lab E1 [ReSch]",
-                        "location": "C-301",
-                        "time": "11:15-01:20"
-                    }
-                ],
-                "Z": [
-                    {
-                        "name": "Functional English [International Students]",
-                        "location": "C-309",
-                        "time": "N/A"
-                    },
-                    {
-                        "name": "IICT Lab [International Students]",
-                        "location": "C-Margala 4",
-                        "time": "11:15-01:20"
-                    }
-                ]
-            }
-        },
         "BS CY": {
             "2025": {
                 "B": [
@@ -5505,30 +5487,17 @@
                 ]
             }
         },
-        "BS SE": {
-            "2023": {
-                "A": [
-                    {
-                        "name": "SPM [ReSch]",
-                        "location": "C-307",
-                        "time": "11:15-12:15"
-                    }
-                ]
-            },
-            "2022": {
-                "B": [
-                    {
-                        "name": "User Exp Engg [ReSch]",
-                        "location": "C-310",
-                        "time": "11:15-12:15"
-                    }
-                ]
-            },
+        "BS CS": {
             "2025": {
-                "C": [
+                "Z": [
                     {
-                        "name": "OOP Lab [ReSch]",
-                        "location": "C-Rawal 4",
+                        "name": "Functional English [International Students]",
+                        "location": "C-309",
+                        "time": "N/A"
+                    },
+                    {
+                        "name": "IICT Lab [International Students]",
+                        "location": "C-Margala 4",
                         "time": "11:15-01:20"
                     }
                 ]
@@ -5541,6 +5510,31 @@
                         "name": "OOP Lab",
                         "location": "D-IT Lab 1",
                         "time": "08:00-10:05"
+                    },
+                    {
+                        "name": "DLD Lab [B,C|DS-A,B) Sessionals]",
+                        "location": "D-IT Lab 1",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "DLD Lab [B,C|DS-A,B) Sessionals]",
+                        "location": "D-IT Lab 2",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "DLD Lab [B,C|DS-A,B) Sessionals]",
+                        "location": "D-IT Lab 3",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "DLD Lab [B,C|DS-A,B) Sessionals]",
+                        "location": "D-IT Lab 4",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "DLD Lab [B,C|DS-A,B) Sessionals]",
+                        "location": "C-Margala 1",
+                        "time": "10:10-11:10"
                     },
                     {
                         "name": "DLD Lab",
@@ -5565,13 +5559,30 @@
                         "time": "08:00-10:05"
                     }
                 ]
-            },
-            "2023": {
-                "C": [
+            }
+        },
+        "BS SE": {
+            "2025": {
+                "A": [
                     {
-                        "name": "AI Lab [ReSch]",
-                        "location": "C-GPU Lab",
-                        "time": "11:15-01:20"
+                        "name": "DLD Lab [B,C,D) Sessional]",
+                        "location": "C-Rawal 1",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "DLD Lab [B,C,D) Sessional]",
+                        "location": "C-Rawal 4",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "DLD Lab [B,C,D) Sessional]",
+                        "location": "A-Mehran 1",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "DLD Lab [B,C,D) Sessional]",
+                        "location": "A-Mehran 2",
+                        "time": "10:10-11:10"
                     }
                 ]
             }
