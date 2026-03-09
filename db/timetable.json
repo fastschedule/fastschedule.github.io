@@ -199,17 +199,17 @@
                 "A": [
                     {
                         "name": "DB",
-                        "location": "C-409",
+                        "location": "C-408",
                         "time": "08:00-09:00"
                     },
                     {
                         "name": "Prob & Stats",
-                        "location": "C-409",
+                        "location": "C-408",
                         "time": "09:05-10:05"
                     },
                     {
                         "name": "OS",
-                        "location": "C-409",
+                        "location": "C-408",
                         "time": "10:10-11:10"
                     },
                     {
@@ -221,7 +221,7 @@
                 "D": [
                     {
                         "name": "OS",
-                        "location": "C-409",
+                        "location": "C-408",
                         "time": "11:15-12:15"
                     },
                     {
@@ -1005,13 +1005,6 @@
                         "time": "12:20-01:20"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "PPIT",
-                        "location": "C-408",
-                        "time": "09:05-10:05"
-                    }
-                ],
                 "F": [
                     {
                         "name": "Entre",
@@ -1024,6 +1017,13 @@
                         "name": "Entre",
                         "location": "C-408",
                         "time": "01:40-02:40"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "PPIT",
+                        "location": "C-409",
+                        "time": "09:05-10:05"
                     }
                 ]
             }
