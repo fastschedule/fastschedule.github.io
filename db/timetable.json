@@ -1866,6 +1866,11 @@
                         "name": "Seerah & UHQ-I",
                         "location": "C-310",
                         "time": "12:00-01:20"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "C-310",
+                        "time": "01:40-02:40"
                     }
                 ]
             },
@@ -3209,9 +3214,14 @@
             "2025": {
                 "C": [
                     {
-                        "name": "AP",
+                        "name": "AP [Cancelled]",
                         "location": "C-307",
                         "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "B-020",
+                        "time": "09:05-10:05"
                     },
                     {
                         "name": "OOP",
@@ -5420,6 +5430,15 @@
                         "time": "11:15-01:20"
                     }
                 ]
+            },
+            "2024": {
+                "B": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-303",
+                        "time": "09:05-10:05"
+                    }
+                ]
             }
         },
         "BS CY": {
@@ -5485,6 +5504,32 @@
                         "time": "08:00-10:05"
                     }
                 ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-310",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-310",
+                        "time": "09:05-10:05"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-310",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-310",
+                        "time": "11:15-12:15"
+                    }
+                ]
             }
         },
         "BS CS": {
@@ -5499,6 +5544,58 @@
                         "name": "IICT Lab [International Students]",
                         "location": "C-Margala 4",
                         "time": "11:15-01:20"
+                    }
+                ]
+            }
+        },
+        "BS SE": {
+            "2023": {
+                "B": [
+                    {
+                        "name": "SPM [ReSch]",
+                        "location": "D-301",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "SPM [ReSch]",
+                        "location": "D-301",
+                        "time": "11:15-12:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Comp Net Lab [B) Sessionals]",
+                        "location": "C-Rawal 1",
+                        "time": "12:20-01:20"
+                    },
+                    {
+                        "name": "Comp Net Lab [B) Sessionals]",
+                        "location": "C-Rawal 4",
+                        "time": "12:20-01:20"
+                    }
+                ]
+            },
+            "2025": {
+                "A": [
+                    {
+                        "name": "DLD Lab [B,C,D) Sessionals]",
+                        "location": "C-Rawal 1",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "DLD Lab [B,C,D) Sessionals]",
+                        "location": "C-Rawal 4",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "DLD Lab [B,C,D) Sessionals]",
+                        "location": "A-Mehran 1",
+                        "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "DLD Lab [B,C,D) Sessionals]",
+                        "location": "A-Mehran 2",
+                        "time": "10:10-11:10"
                     }
                 ]
             }
@@ -5532,9 +5629,29 @@
                         "time": "10:10-11:10"
                     },
                     {
+                        "name": "OOP Lab [B AI-A,B,C) Sessionals]",
+                        "location": "C-Margala 1",
+                        "time": "08:00-09:00"
+                    },
+                    {
                         "name": "DLD Lab [B,C|DS-A,B) Sessionals]",
                         "location": "C-Margala 1",
                         "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "OOP Lab [B AI-A,B,C) Sessionals]",
+                        "location": "C-Margala 3",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "OOP Lab [B AI-A,B,C) Sessionals]",
+                        "location": "C-Margala 4",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "OOP Lab [B AI-A,B,C) Sessionals]",
+                        "location": "C-Rawal 1",
+                        "time": "08:00-09:00"
                     },
                     {
                         "name": "DLD Lab",
@@ -5557,32 +5674,6 @@
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:00-10:05"
-                    }
-                ]
-            }
-        },
-        "BS SE": {
-            "2025": {
-                "A": [
-                    {
-                        "name": "DLD Lab [B,C,D) Sessional]",
-                        "location": "C-Rawal 1",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "DLD Lab [B,C,D) Sessional]",
-                        "location": "C-Rawal 4",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "DLD Lab [B,C,D) Sessional]",
-                        "location": "A-Mehran 1",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "DLD Lab [B,C,D) Sessional]",
-                        "location": "A-Mehran 2",
-                        "time": "10:10-11:10"
                     }
                 ]
             }
