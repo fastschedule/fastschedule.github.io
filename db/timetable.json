@@ -2357,6 +2357,11 @@
                         "name": "Gen AI",
                         "location": "D-302",
                         "time": "10:10-11:10"
+                    },
+                    {
+                        "name": "S/w Metrices [ReSch]",
+                        "location": "D-303",
+                        "time": "01:40-02:40"
                     }
                 ],
                 "B": [
@@ -2374,6 +2379,11 @@
                         "name": "Gen AI",
                         "location": "D-302",
                         "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "S/w Metrices [ReSch]",
+                        "location": "D-303",
+                        "time": "12:20-01:20"
                     }
                 ],
                 "F": [
@@ -2688,6 +2698,11 @@
                         "time": "10:55-12:15"
                     },
                     {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-303",
+                        "time": "N/A"
+                    },
+                    {
                         "name": "Exp Writing Lab J1",
                         "location": "A-Mehran 2",
                         "time": "08:00-10:05"
@@ -2805,19 +2820,12 @@
                         "time": "08:00-10:05"
                     }
                 ],
-                "Z": [
-                    {
-                        "name": "AP [International Students]",
-                        "location": "C-311",
-                        "time": "12:20-01:20"
-                    },
-                    {
-                        "name": "Functional English Lab [International Students]",
-                        "location": "A-Mehran 1",
-                        "time": "08:00-10:05"
-                    }
-                ],
                 "G": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-311",
+                        "time": "N/A"
+                    },
                     {
                         "name": "Exp Writing",
                         "location": "C-407",
@@ -2832,6 +2840,18 @@
                         "name": "Exp Writing Lab G2",
                         "location": "A-CALL-3",
                         "time": "12:20-02:40"
+                    }
+                ],
+                "Z": [
+                    {
+                        "name": "AP [International Students]",
+                        "location": "C-311",
+                        "time": "12:20-01:20"
+                    },
+                    {
+                        "name": "Functional English Lab [International Students]",
+                        "location": "A-Mehran 1",
+                        "time": "08:00-10:05"
                     }
                 ]
             },
@@ -4049,6 +4069,11 @@
                 ],
                 "A": [
                     {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-301",
+                        "time": "12:20-01:20"
+                    },
+                    {
                         "name": "Civics",
                         "location": "C-302",
                         "time": "10:10-11:30"
@@ -4130,6 +4155,11 @@
                         "name": "Civics",
                         "location": "C-305",
                         "time": "08:00-09:20"
+                    },
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-305",
+                        "time": "N/A"
                     },
                     {
                         "name": "OOP Lab",
@@ -5311,6 +5341,11 @@
                         "name": "AI Lab",
                         "location": "C-Margala 1",
                         "time": "08:00-10:05"
+                    },
+                    {
+                        "name": "Ethical Hack [ReSch]",
+                        "location": "Cyber (D-514)",
+                        "time": "12:20-02:40"
                     }
                 ],
                 "B": [
