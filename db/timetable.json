@@ -5628,6 +5628,29 @@
                         "time": "11:15-01:20"
                     }
                 ]
+            },
+            "2023": {
+                "C": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "D-303",
+                        "time": "09:05-10:05"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "D-303",
+                        "time": "10:10-11:10"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "D-303",
+                        "time": "11:15-12:15"
+                    }
+                ]
             }
         },
         "BS SE": {
