@@ -3751,6 +3751,11 @@
                         "time": "10:10-11:30"
                     },
                     {
+                        "name": "Exp Writing Lab B2 [ReSch]",
+                        "location": "D-414",
+                        "time": "12:20-02:40"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "C-Margala 3",
                         "time": "08:00-10:05"
@@ -3804,6 +3809,11 @@
                         "name": "PDC",
                         "location": "D-415",
                         "time": "09:05-10:05"
+                    },
+                    {
+                        "name": "PDC [ReSch]",
+                        "location": "D-501",
+                        "time": "11:15-12:15"
                     }
                 ],
                 "B": [
