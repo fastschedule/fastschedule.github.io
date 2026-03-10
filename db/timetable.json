@@ -1355,14 +1355,14 @@
                         "time": "08:00-10:05"
                     },
                     {
-                        "name": "Exp Writing Lab B2",
+                        "name": "Exp Writing Lab B2 [Cancelled]",
                         "location": "A-CALL-3",
                         "time": "08:00-10:05"
                     }
                 ],
                 "D": [
                     {
-                        "name": "Exp Writing Lab D1 [ReSch]",
+                        "name": "Exp Writing Lab D1 [ReSch Cancelled]",
                         "location": "C-305",
                         "time": "12:20-02:40"
                     },
@@ -1846,7 +1846,7 @@
                         "time": "12:20-01:40"
                     },
                     {
-                        "name": "Exp Writing Lab A1",
+                        "name": "Exp Writing Lab A1 [Cancelled]",
                         "location": "A-CALL-1",
                         "time": "10:10-12:15"
                     },
@@ -1945,8 +1945,8 @@
                 ],
                 "A": [
                     {
-                        "name": "OS",
-                        "location": "D-405",
+                        "name": "OS [in Room no.]",
+                        "location": "D-411",
                         "time": "10:10-11:10"
                     },
                     {
@@ -1962,8 +1962,8 @@
                 ],
                 "B": [
                     {
-                        "name": "OS",
-                        "location": "D-405",
+                        "name": "OS [in Room no.]",
+                        "location": "D-404",
                         "time": "11:15-12:15"
                     },
                     {
@@ -2145,7 +2145,7 @@
                         "time": "01:40-02:40"
                     },
                     {
-                        "name": "AI Lab",
+                        "name": "AI Lab [Cancelled]",
                         "location": "D-IT Lab 2",
                         "time": "10:10-12:15"
                     }
@@ -2623,7 +2623,7 @@
                         "time": "10:10-11:10"
                     },
                     {
-                        "name": "TBW",
+                        "name": "TBW [Cancelled]",
                         "location": "C-110",
                         "time": "09:05-10:05"
                     }
