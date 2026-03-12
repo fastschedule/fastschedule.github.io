@@ -4563,6 +4563,11 @@
             "2025": {
                 "C": [
                     {
+                        "name": "DLD Lab [ReSch]",
+                        "location": "C-309",
+                        "time": "12:20-02:40"
+                    },
+                    {
                         "name": "DLD",
                         "location": "C-401",
                         "time": "08:00-09:00"
@@ -5245,6 +5250,11 @@
             "2022": {
                 "A": [
                     {
+                        "name": "Entre [ReSch]",
+                        "location": "D-503",
+                        "time": "01:40-02:40"
+                    },
+                    {
                         "name": "Blockchain",
                         "location": "D-504",
                         "time": "08:00-09:00"
@@ -5590,6 +5600,24 @@
             }
         },
         "BS DS": {
+            "2023": {
+                "C": [
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "D-305",
+                        "time": "09:05-11:10"
+                    }
+                ]
+            },
+            "2024": {
+                "B": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "D-306",
+                        "time": "11:15-01:20"
+                    }
+                ]
+            },
             "2025": {
                 "A": [
                     {
