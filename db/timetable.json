@@ -5525,6 +5525,64 @@
                 ]
             }
         },
+        "BS DS": {
+            "2023": {
+                "B": [
+                    {
+                        "name": "PDC [ReSch]",
+                        "location": "C-304",
+                        "time": "09:05-10:05"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "D-305",
+                        "time": "09:05-11:10"
+                    }
+                ]
+            },
+            "2024": {
+                "B": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "D-306",
+                        "time": "11:15-01:20"
+                    }
+                ]
+            },
+            "2025": {
+                "A": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "08:00-10:05"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "11:15-01:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Exp Writing Lab B1",
+                        "location": "A-Mehran 2",
+                        "time": "11:15-01:20"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2",
+                        "location": "A-CALL-3",
+                        "time": "11:15-01:20"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:00-10:05"
+                    }
+                ]
+            }
+        },
         "BS CY": {
             "2025": {
                 "B": [
@@ -5612,57 +5670,6 @@
                         "name": "Prob & Stats [ReSch]",
                         "location": "C-310",
                         "time": "11:15-12:15"
-                    }
-                ]
-            }
-        },
-        "BS DS": {
-            "2023": {
-                "C": [
-                    {
-                        "name": "AI Lab [ReSch]",
-                        "location": "D-305",
-                        "time": "09:05-11:10"
-                    }
-                ]
-            },
-            "2024": {
-                "B": [
-                    {
-                        "name": "OS Lab [ReSch]",
-                        "location": "D-306",
-                        "time": "11:15-01:20"
-                    }
-                ]
-            },
-            "2025": {
-                "A": [
-                    {
-                        "name": "OOP Lab",
-                        "location": "D-IT Lab 1",
-                        "time": "08:00-10:05"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "11:15-01:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Exp Writing Lab B1",
-                        "location": "A-Mehran 2",
-                        "time": "11:15-01:20"
-                    },
-                    {
-                        "name": "Exp Writing Lab B2",
-                        "location": "A-CALL-3",
-                        "time": "11:15-01:20"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "08:00-10:05"
                     }
                 ]
             }
