@@ -5385,6 +5385,11 @@
                 ],
                 "B": [
                     {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-302",
+                        "time": "11:15-12:15"
+                    },
+                    {
                         "name": "OOP [ReSch]",
                         "location": "C-302",
                         "time": "12:20-01:20"
@@ -5402,6 +5407,32 @@
                         "name": "DLD Lab [ReSch]",
                         "location": "D-311",
                         "time": "11:15-01:20"
+                    }
+                ]
+            },
+            "2022": {
+                "B": [
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-307",
+                        "time": "11:15-12:15"
+                    },
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-307",
+                        "time": "12:20-01:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-311",
+                        "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-311",
+                        "time": "09:05-10:05"
                     }
                 ]
             },
@@ -5428,6 +5459,68 @@
                         "name": "Process Mining [ReSch]",
                         "location": "D-302",
                         "time": "10:10-11:10"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2022": {
+                "A": [
+                    {
+                        "name": "Big Data [G-I) ReSch]",
+                        "location": "C-303",
+                        "time": "12:20-01:20"
+                    }
+                ]
+            },
+            "2025": {
+                "Z": [
+                    {
+                        "name": "Functional English [International Students]",
+                        "location": "C-309",
+                        "time": "N/A"
+                    },
+                    {
+                        "name": "IICT Lab [International Students]",
+                        "location": "C-Margala 4",
+                        "time": "11:15-01:20"
+                    }
+                ]
+            },
+            "2023": {
+                "C": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "D-303",
+                        "time": "09:05-10:05"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "D-303",
+                        "time": "10:10-11:10"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "D-303",
+                        "time": "11:15-12:15"
+                    }
+                ]
+            },
+            "2024": {
+                "G": [
+                    {
+                        "name": "DB Lab [ReSch]",
+                        "location": "D-304",
+                        "time": "09:05-11:10"
+                    },
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "D-304",
+                        "time": "11:15-01:20"
                     }
                 ]
             }
@@ -5519,59 +5612,6 @@
                         "name": "Prob & Stats [ReSch]",
                         "location": "C-310",
                         "time": "11:15-12:15"
-                    }
-                ]
-            }
-        },
-        "BS CS": {
-            "2025": {
-                "Z": [
-                    {
-                        "name": "Functional English [International Students]",
-                        "location": "C-309",
-                        "time": "N/A"
-                    },
-                    {
-                        "name": "IICT Lab [International Students]",
-                        "location": "C-Margala 4",
-                        "time": "11:15-01:20"
-                    }
-                ]
-            },
-            "2023": {
-                "C": [
-                    {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "D-303",
-                        "time": "09:05-10:05"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "D-303",
-                        "time": "10:10-11:10"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "D-303",
-                        "time": "11:15-12:15"
-                    }
-                ]
-            },
-            "2024": {
-                "G": [
-                    {
-                        "name": "DB Lab [ReSch]",
-                        "location": "D-304",
-                        "time": "09:05-11:10"
-                    },
-                    {
-                        "name": "OS Lab [ReSch]",
-                        "location": "D-304",
-                        "time": "11:15-01:20"
                     }
                 ]
             }
