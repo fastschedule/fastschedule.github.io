@@ -1200,6 +1200,13 @@
                         "location": "D-506",
                         "time": "10:10-12:15"
                     }
+                ],
+                "B": [
+                    {
+                        "name": "Exp Writing Lab B2 [ReSch]",
+                        "location": "D-506",
+                        "time": "12:20-02:40"
+                    }
                 ]
             }
         }
