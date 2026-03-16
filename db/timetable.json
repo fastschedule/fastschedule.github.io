@@ -5132,6 +5132,11 @@
                         "time": "08:45-10:05"
                     },
                     {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-405",
+                        "time": "12:20-01:20"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "C-Margala 3",
                         "time": "10:10-12:15"
