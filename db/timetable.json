@@ -689,6 +689,11 @@
                         "name": "Seerah & UHQ-I",
                         "location": "C-309",
                         "time": "12:00-01:20"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2 [ReSch]",
+                        "location": "D-315",
+                        "time": "12:20-02:40"
                     }
                 ],
                 "C": [
@@ -2593,6 +2598,11 @@
                     }
                 ],
                 "B": [
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "D-504",
+                        "time": "01:40-02:40"
+                    },
                     {
                         "name": "Entre",
                         "location": "D-505",
@@ -5328,238 +5338,6 @@
                         "time": "11:15-01:20"
                     }
                 ]
-            },
-            "2024": {
-                "B": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-303",
-                        "time": "09:05-10:05"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-307",
-                        "time": "10:10-11:10"
-                    }
-                ]
-            }
-        },
-        "BS SE": {
-            "2025": {
-                "A": [
-                    {
-                        "name": "OOP [ReSch]",
-                        "location": "C-301",
-                        "time": "12:20-01:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "MV Calculus [ReSch]",
-                        "location": "C-302",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "OOP [ReSch]",
-                        "location": "C-302",
-                        "time": "12:20-01:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "OOP Lab [ReSch]",
-                        "location": "D-305",
-                        "time": "11:15-01:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "DLD Lab [ReSch]",
-                        "location": "D-311",
-                        "time": "11:15-01:20"
-                    }
-                ]
-            },
-            "2022": {
-                "B": [
-                    {
-                        "name": "Entre [ReSch]",
-                        "location": "C-307",
-                        "time": "11:15-12:15"
-                    },
-                    {
-                        "name": "Entre [ReSch]",
-                        "location": "C-307",
-                        "time": "12:20-01:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Entre [ReSch]",
-                        "location": "C-311",
-                        "time": "08:00-09:00"
-                    },
-                    {
-                        "name": "Entre [ReSch]",
-                        "location": "C-311",
-                        "time": "09:05-10:05"
-                    }
-                ]
-            },
-            "2023": {
-                "B": [
-                    {
-                        "name": "SPM [ReSch]",
-                        "location": "D-301",
-                        "time": "09:05-10:05"
-                    },
-                    {
-                        "name": "SPM [ReSch]",
-                        "location": "D-301",
-                        "time": "10:10-11:10"
-                    },
-                    {
-                        "name": "Process Mining [ReSch]",
-                        "location": "D-302",
-                        "time": "11:15-12:15"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Process Mining [ReSch]",
-                        "location": "D-302",
-                        "time": "10:10-11:10"
-                    }
-                ]
-            }
-        },
-        "BS CS": {
-            "2022": {
-                "A": [
-                    {
-                        "name": "Big Data [G-I) ReSch]",
-                        "location": "C-303",
-                        "time": "12:20-01:20"
-                    }
-                ]
-            },
-            "2025": {
-                "Z": [
-                    {
-                        "name": "Functional English [International Students]",
-                        "location": "C-309",
-                        "time": "N/A"
-                    },
-                    {
-                        "name": "IICT Lab [International Students]",
-                        "location": "C-Margala 4",
-                        "time": "11:15-01:20"
-                    }
-                ],
-                "H": [
-                    {
-                        "name": "Exp Writing Lab H2 [ReSch]",
-                        "location": "D-301",
-                        "time": "11:15-01:20"
-                    }
-                ]
-            },
-            "2023": {
-                "C": [
-                    {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "D-303",
-                        "time": "09:05-10:05"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "D-303",
-                        "time": "10:10-11:10"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "Comp Arch [ReSch]",
-                        "location": "D-303",
-                        "time": "11:15-12:15"
-                    }
-                ]
-            },
-            "2024": {
-                "G": [
-                    {
-                        "name": "DB Lab [ReSch]",
-                        "location": "D-304",
-                        "time": "09:05-11:10"
-                    },
-                    {
-                        "name": "OS Lab [ReSch]",
-                        "location": "D-304",
-                        "time": "11:15-01:20"
-                    }
-                ]
-            }
-        },
-        "BS DS": {
-            "2023": {
-                "B": [
-                    {
-                        "name": "PDC [ReSch]",
-                        "location": "C-304",
-                        "time": "09:05-10:05"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "AI Lab [ReSch]",
-                        "location": "D-305",
-                        "time": "09:05-11:10"
-                    }
-                ]
-            },
-            "2024": {
-                "B": [
-                    {
-                        "name": "OS Lab [ReSch]",
-                        "location": "D-306",
-                        "time": "11:15-01:20"
-                    }
-                ]
-            },
-            "2025": {
-                "A": [
-                    {
-                        "name": "OOP Lab",
-                        "location": "D-IT Lab 1",
-                        "time": "08:00-10:05"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "11:15-01:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Exp Writing Lab B1",
-                        "location": "A-Mehran 2",
-                        "time": "11:15-01:20"
-                    },
-                    {
-                        "name": "Exp Writing Lab B2",
-                        "location": "A-CALL-3",
-                        "time": "11:15-01:20"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "08:00-10:05"
-                    }
-                ]
             }
         },
         "BS CY": {
@@ -5625,30 +5403,53 @@
                         "time": "08:00-10:05"
                     }
                 ]
-            },
-            "2024": {
-                "A": [
+            }
+        },
+        "BS CS": {
+            "2025": {
+                "Z": [
                     {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-310",
-                        "time": "08:00-09:00"
+                        "name": "Functional English [International Students]",
+                        "location": "C-309",
+                        "time": "N/A"
                     },
                     {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-310",
-                        "time": "09:05-10:05"
+                        "name": "IICT Lab [International Students]",
+                        "location": "C-Margala 4",
+                        "time": "11:15-01:20"
+                    }
+                ]
+            }
+        },
+        "BS DS": {
+            "2025": {
+                "A": [
+                    {
+                        "name": "OOP Lab",
+                        "location": "D-IT Lab 1",
+                        "time": "08:00-10:05"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "11:15-01:20"
                     }
                 ],
                 "B": [
                     {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-310",
-                        "time": "10:10-11:10"
+                        "name": "Exp Writing Lab B1",
+                        "location": "A-Mehran 2",
+                        "time": "11:15-01:20"
                     },
                     {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-310",
-                        "time": "11:15-12:15"
+                        "name": "Exp Writing Lab B2",
+                        "location": "A-CALL-3",
+                        "time": "11:15-01:20"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:00-10:05"
                     }
                 ]
             }
