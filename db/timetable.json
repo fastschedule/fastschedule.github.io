@@ -2542,11 +2542,6 @@
                 ],
                 "B": [
                     {
-                        "name": "Entre [ReSch]",
-                        "location": "D-504",
-                        "time": "01:40-02:40"
-                    },
-                    {
                         "name": "Entre",
                         "location": "D-505",
                         "time": "08:00-09:00"
