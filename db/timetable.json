@@ -4785,6 +4785,11 @@
                         "name": "Deep Learn",
                         "location": "D-414",
                         "time": "08:00-09:00"
+                    },
+                    {
+                        "name": "Data Mining [ReSch]",
+                        "location": "D-503",
+                        "time": "09:05-10:05"
                     }
                 ]
             }
