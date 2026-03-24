@@ -149,6 +149,18 @@
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
                     }
+                ],
+                "Z": [
+                    {
+                        "name": "PF [International Students]",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AP [International Students]",
+                        "location": "C-311",
+                        "time": "02:30-03:50"
+                    }
                 ]
             },
             "2024": {
@@ -1316,6 +1328,23 @@
                         "name": "OOP Lab",
                         "location": "D-IT Lab 2",
                         "time": "08:30-11:20"
+                    }
+                ],
+                "Z": [
+                    {
+                        "name": "Calculus [International Students]",
+                        "location": "C-404",
+                        "time": "N/A"
+                    },
+                    {
+                        "name": "PF [International Students]",
+                        "location": "D-312",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Islamic Studies [International Students]",
+                        "location": "D-313",
+                        "time": "N/A"
                     }
                 ]
             },
@@ -2687,6 +2716,18 @@
                         "time": "08:30-11:20"
                     }
                 ],
+                "Z": [
+                    {
+                        "name": "AP [International Students]",
+                        "location": "C-311",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Functional English Lab [International Students]",
+                        "location": "A-Mehran 1",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "G": [
                     {
                         "name": "Exp Writing",
@@ -4002,6 +4043,18 @@
                         "location": "C-307",
                         "time": "11:30-12:50"
                     }
+                ],
+                "Z": [
+                    {
+                        "name": "Calculus [International Students]",
+                        "location": "C-404",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PF Lab [International Students]",
+                        "location": "C-Rawal 4",
+                        "time": "08:30-11:20"
+                    }
                 ]
             },
             "2022": {
@@ -4020,7 +4073,7 @@
                 "C": [
                     {
                         "name": "AI Prod Develop [G-II]",
-                        "location": "C-404",
+                        "location": "C-406",
                         "time": "11:30-12:50"
                     },
                     {
@@ -5293,6 +5346,22 @@
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2025": {
+                "Z": [
+                    {
+                        "name": "Functional English [International Students]",
+                        "location": "C-309",
+                        "time": "N/A"
+                    },
+                    {
+                        "name": "IICT Lab [International Students]",
+                        "location": "C-Margala 4",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
