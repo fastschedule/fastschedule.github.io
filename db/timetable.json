@@ -3633,9 +3633,14 @@
                 ],
                 "B": [
                     {
-                        "name": "Exp Writing [Extended till 02:15]",
+                        "name": "Exp Writing",
                         "location": "C-311",
                         "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2 [ReSch]",
+                        "location": "D-503",
+                        "time": "02:30-05:15"
                     },
                     {
                         "name": "OOP Lab",
@@ -5362,6 +5367,15 @@
                         "name": "IICT Lab [International Students]",
                         "location": "C-Margala 4",
                         "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2023": {
+                "G": [
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
