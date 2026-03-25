@@ -4359,6 +4359,11 @@
                         "name": "Comp Arch",
                         "location": "D-313",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI [ReSch]",
+                        "location": "D-401",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
@@ -4799,6 +4804,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "Data Mining [ReSch]",
+                        "location": "D-413",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Deep Learn",
                         "location": "D-414",
                         "time": "08:30-09:50"
@@ -4903,6 +4913,11 @@
                         "name": "Cloud Comp",
                         "location": "C-404",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-410",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "D": [
@@ -5308,6 +5323,91 @@
                         "time": "02:30-05:15"
                     }
                 ]
+            },
+            "2025": {
+                "C": [
+                    {
+                        "name": "Exp Writing Lab C1 [ReSch]",
+                        "location": "C-GPU Lab",
+                        "time": "10:00-12:50"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2024": {
+                "A": [
+                    {
+                        "name": "Pak Studies [24)  ReSch]",
+                        "location": "C-301",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Pak Studies [24)  ReSch]",
+                        "location": "C-308",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2025": {
+                "B": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-302",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "Z": [
+                    {
+                        "name": "Functional English [International Students]",
+                        "location": "C-309",
+                        "time": "N/A"
+                    },
+                    {
+                        "name": "IICT Lab [International Students]",
+                        "location": "C-Margala 4",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2023": {
+                "B": [
+                    {
+                        "name": "AI [ReSch]",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Comp Const [&D) ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:20"
+                    }
+                ]
             }
         },
         "BS CY": {
@@ -5368,33 +5468,13 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Exp Writing Lab C2",
-                        "location": "A-CALL-3",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            }
-        },
-        "BS CS": {
-            "2025": {
-                "Z": [
-                    {
-                        "name": "Functional English [International Students]",
-                        "location": "C-309",
-                        "time": "N/A"
+                        "name": "Exp Writing Lab C1 [ReSch]",
+                        "location": "A-Mehran 2",
+                        "time": "11:30-12:50"
                     },
                     {
-                        "name": "IICT Lab [International Students]",
-                        "location": "C-Margala 4",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2023": {
-                "G": [
-                    {
-                        "name": "AI Lab [ReSch]",
-                        "location": "C-Margala 1",
+                        "name": "Exp Writing Lab C2",
+                        "location": "A-CALL-3",
                         "time": "08:30-11:20"
                     }
                 ]
