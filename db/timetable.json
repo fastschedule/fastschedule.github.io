@@ -1361,6 +1361,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Tech Mgt [ReSch]",
+                        "location": "C-410",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Fund of SPM [G-I]",
                         "location": "D-316",
                         "time": "11:30-12:50"
@@ -1435,6 +1440,11 @@
                         "name": "Agentic AI [G-I]",
                         "location": "D-402",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Tech Mgt [ReSch]",
+                        "location": "D-404",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "F": [
@@ -3986,11 +3996,6 @@
                         "time": "11:30-01:15"
                     },
                     {
-                        "name": "Civics [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-04:15"
-                    },
-                    {
                         "name": "Exp Writing Lab D1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:20"
@@ -4006,6 +4011,11 @@
                         "name": "Exp Writing",
                         "location": "C-303",
                         "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "C-303",
+                        "time": "03:55-05:30"
                     },
                     {
                         "name": "MV Calculus",
