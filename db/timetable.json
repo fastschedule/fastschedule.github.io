@@ -160,6 +160,11 @@
                         "name": "AP [International Students]",
                         "location": "C-311",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Functional English [International Students  ReSch]",
+                        "location": "D-504",
+                        "time": "08:30-10:15"
                     }
                 ]
             },
@@ -4879,7 +4884,7 @@
                 ],
                 "B": [
                     {
-                        "name": "AP",
+                        "name": "AP [Cancelled]",
                         "location": "C-403",
                         "time": "08:30-09:50"
                     },
@@ -4896,7 +4901,7 @@
                 ],
                 "A": [
                     {
-                        "name": "AP",
+                        "name": "AP [Cancelled]",
                         "location": "C-403",
                         "time": "10:00-11:20"
                     },
@@ -5426,6 +5431,15 @@
             }
         },
         "BS CY": {
+            "2024": {
+                "A": [
+                    {
+                        "name": "Comp Net [ReSch]",
+                        "location": "C-304",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
             "2025": {
                 "B": [
                     {
