@@ -3953,11 +3953,6 @@
                         "name": "OOP",
                         "location": "C-302",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Exp Writing [ReSch]",
-                        "location": "C-304",
-                        "time": "02:30-04:15"
                     }
                 ],
                 "A": [
@@ -4016,11 +4011,6 @@
                         "name": "Exp Writing",
                         "location": "C-303",
                         "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "Civics [ReSch]",
-                        "location": "C-303",
-                        "time": "03:55-05:30"
                     },
                     {
                         "name": "MV Calculus",
@@ -4379,11 +4369,6 @@
                         "name": "Comp Arch",
                         "location": "D-313",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI [ReSch]",
-                        "location": "D-401",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
@@ -4824,11 +4809,6 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Data Mining [ReSch]",
-                        "location": "D-413",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Deep Learn",
                         "location": "D-414",
                         "time": "08:30-09:50"
@@ -4875,16 +4855,11 @@
                         "name": "Seerah & UHQ-I",
                         "location": "C-402",
                         "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "Exp Writing [ReSch]",
-                        "location": "C-402",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-403",
                         "time": "08:30-09:50"
                     },
@@ -4901,7 +4876,7 @@
                 ],
                 "A": [
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-403",
                         "time": "10:00-11:20"
                     },
@@ -4933,11 +4908,6 @@
                         "name": "Cloud Comp",
                         "location": "C-404",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Entre [ReSch]",
-                        "location": "C-410",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "D": [
@@ -5361,6 +5331,13 @@
                 ]
             },
             "2025": {
+                "A": [
+                    {
+                        "name": "DLD [ReSch]",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Exp Writing Lab C2 [ReSch]",
@@ -5371,6 +5348,13 @@
                         "name": "Exp Writing Lab C1 [ReSch]",
                         "location": "C-GPU Lab",
                         "time": "10:00-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "DLD [ReSch]",
+                        "location": "D-501",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
@@ -5421,6 +5405,30 @@
                         "time": "02:30-03:50"
                     }
                 ],
+                "D": [
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "C-304",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Discrete [ReSch]",
+                        "location": "C-308",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "C-304",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-04:15"
+                    }
+                ],
                 "F": [
                     {
                         "name": "Exp Writing Lab F1 [ReSch]",
@@ -5440,13 +5448,6 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "Discrete [ReSch]",
-                        "location": "C-308",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "Z": [
                     {
                         "name": "Functional English [International Students]",
@@ -5457,6 +5458,20 @@
                         "name": "IICT Lab [International Students]",
                         "location": "C-Margala 4",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "D-502",
+                        "time": "10:00-11:45"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "D-503",
+                        "time": "10:00-11:45"
                     }
                 ]
             },
@@ -5576,6 +5591,22 @@
             }
         },
         "BS DS": {
+            "2024": {
+                "A": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-310",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-310",
+                        "time": "03:55-05:15"
+                    }
+                ]
+            },
             "2025": {
                 "A": [
                     {
