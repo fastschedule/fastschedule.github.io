@@ -5344,6 +5344,22 @@
                     }
                 ]
             },
+            "2022": {
+                "C": [
+                    {
+                        "name": "Info Sec [ReSch]",
+                        "location": "C-308",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Info Sec [ReSch]",
+                        "location": "C-308",
+                        "time": "03:55-05:15"
+                    }
+                ]
+            },
             "2025": {
                 "C": [
                     {
@@ -5375,6 +5391,20 @@
                         "time": "11:30-12:50"
                     }
                 ],
+                "G": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "D-501",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "D-501",
+                        "time": "02:30-05:15"
+                    }
+                ],
                 "D": [
                     {
                         "name": "OS Lab [ReSch]",
@@ -5398,6 +5428,25 @@
                         "time": "02:30-05:15"
                     }
                 ],
+                "A": [
+                    {
+                        "name": "Discrete [ReSch]",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Discrete [ReSch]",
+                        "location": "C-308",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "Z": [
                     {
                         "name": "Functional English [International Students]",
@@ -5408,13 +5457,6 @@
                         "name": "IICT Lab [International Students]",
                         "location": "C-Margala 4",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "MV Calculus [ReSch]",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
