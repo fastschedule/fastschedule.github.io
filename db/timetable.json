@@ -5347,6 +5347,11 @@
             "2025": {
                 "C": [
                     {
+                        "name": "Exp Writing Lab C2 [ReSch]",
+                        "location": "C-410",
+                        "time": "10:00-12:50"
+                    },
+                    {
                         "name": "Exp Writing Lab C1 [ReSch]",
                         "location": "C-GPU Lab",
                         "time": "10:00-12:50"
@@ -5384,6 +5389,13 @@
                         "name": "MV Calculus [ReSch]",
                         "location": "C-302",
                         "time": "02:30-03:50"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Exp Writing Lab F1 [ReSch]",
+                        "location": "C-307",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "Z": [
@@ -5431,15 +5443,6 @@
             }
         },
         "BS CY": {
-            "2024": {
-                "A": [
-                    {
-                        "name": "Comp Net [ReSch]",
-                        "location": "C-304",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
             "2025": {
                 "B": [
                     {
@@ -5505,6 +5508,27 @@
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2024": {
+                "B": [
+                    {
+                        "name": "COAL Lab [ReSch]",
+                        "location": "C-304",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "COAL Lab [ReSch]",
+                        "location": "C-307",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Comp Net [ReSch]",
+                        "location": "D-IT Lab 1",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
