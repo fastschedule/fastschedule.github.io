@@ -111,7 +111,7 @@
                 ],
                 "G": [
                     {
-                        "name": "Civics",
+                        "name": "Civics [Extended till 2:30]",
                         "location": "C-305",
                         "time": "11:30-01:15"
                     },
@@ -123,7 +123,7 @@
                 ],
                 "J": [
                     {
-                        "name": "Civics",
+                        "name": "Civics [Extednded till 11:30]",
                         "location": "C-307",
                         "time": "08:30-10:15"
                     },
@@ -430,6 +430,11 @@
                     }
                 ],
                 "F": [
+                    {
+                        "name": "AI [ReSch]",
+                        "location": "D-305",
+                        "time": "01:00-02:20"
+                    },
                     {
                         "name": "AI",
                         "location": "D-306",
@@ -775,6 +780,11 @@
                         "name": "Seerah & UHQ-I",
                         "location": "C-401",
                         "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-401",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "D": [
@@ -1313,7 +1323,12 @@
                 ],
                 "D": [
                     {
-                        "name": "Civics",
+                        "name": "Exp Writing [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "Civics [Extended till 11:30]",
                         "location": "C-307",
                         "time": "09:00-10:45"
                     },
@@ -1325,7 +1340,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Civics",
+                        "name": "Civics [Extended tiil 02:30]",
                         "location": "C-307",
                         "time": "11:30-01:15"
                     },
@@ -3613,11 +3628,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Entre [ReSch]",
-                        "location": "C-410",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Entre",
                         "location": "D-301",
                         "time": "01:00-02:20"
@@ -3656,16 +3666,6 @@
                         "name": "Exp Writing",
                         "location": "C-311",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab B2 [ReSch]",
-                        "location": "D-503",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab B1 [ReSch]",
-                        "location": "D-504",
-                        "time": "02:30-05:15"
                     },
                     {
                         "name": "OOP Lab",
