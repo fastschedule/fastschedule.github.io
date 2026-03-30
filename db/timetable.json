@@ -1181,6 +1181,22 @@
                         "time": "01:00-02:20"
                     }
                 ]
+            },
+            "2025": {
+                "C": [
+                    {
+                        "name": "Exp Writing Lab C2 [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Exp Writing Lab B1 [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "02:30-05:15"
+                    }
+                ]
             }
         }
     },
