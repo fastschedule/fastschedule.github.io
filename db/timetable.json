@@ -1070,7 +1070,7 @@
                         "time": "09:30-11:15"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [Cancelled]",
                         "location": "C-Margala 3",
                         "time": "02:30-05:15"
                     }
@@ -5462,6 +5462,15 @@
                     }
                 ]
             },
+            "2024": {
+                "C": [
+                    {
+                        "name": "SDA [ReSch]",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
             "2025": {
                 "Z": [
                     {
@@ -5506,6 +5515,15 @@
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2024": {
+                "B": [
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "C-Rawal 1",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
