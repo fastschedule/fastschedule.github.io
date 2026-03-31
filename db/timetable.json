@@ -150,7 +150,7 @@
                         "time": "08:30-11:20"
                     }
                 ],
-                "Z": [
+                "M": [
                     {
                         "name": "PF [International Students]",
                         "location": "C-311",
@@ -160,6 +160,16 @@
                         "name": "AP [International Students]",
                         "location": "C-311",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Math-1 [Pre-MedicalInternational Students]",
+                        "location": "D-403",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Math-1 [Pre-Medical International Students]",
+                        "location": "D-506",
+                        "time": "09:30-11:15"
                     }
                 ]
             },
@@ -1335,7 +1345,7 @@
                         "time": "08:30-11:20"
                     }
                 ],
-                "Z": [
+                "M": [
                     {
                         "name": "Calculus [International Students]",
                         "location": "C-404",
@@ -2462,7 +2472,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "MV Calculus [Cancelled]",
+                        "name": "MV Calculus",
                         "location": "C-407",
                         "time": "02:30-03:50"
                     }
@@ -2746,11 +2756,21 @@
                         "time": "08:30-11:20"
                     }
                 ],
-                "Z": [
+                "M": [
                     {
                         "name": "AP [International Students]",
                         "location": "C-311",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Math-1 [Pre-Medical International Students]",
+                        "location": "C-311",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Math-1 [Pre-Medical International Students]",
+                        "location": "D-506",
+                        "time": "09:30-11:15"
                     },
                     {
                         "name": "Functional English Lab [International Students]",
@@ -3830,6 +3850,22 @@
                     }
                 ]
             },
+            "2022": {
+                "D": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-404",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-506",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
@@ -3914,22 +3950,6 @@
                         "name": "Ethical Hack",
                         "location": "Cyber (D-514)",
                         "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2022": {
-                "D": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-506",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "PPIT",
-                        "location": "D-506",
-                        "time": "01:00-02:20"
                     }
                 ]
             }
@@ -4096,11 +4116,21 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "Z": [
+                "M": [
+                    {
+                        "name": "Math-1 [Pre-Medical International Students]",
+                        "location": "C-307",
+                        "time": "01:00-02:45"
+                    },
                     {
                         "name": "Calculus [International Students]",
                         "location": "C-404",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Math-1 [Pre-Medical International Students]",
+                        "location": "D-506",
+                        "time": "09:30-11:15"
                     },
                     {
                         "name": "PF Lab [International Students]",
@@ -5393,7 +5423,7 @@
                 ]
             },
             "2025": {
-                "Z": [
+                "M": [
                     {
                         "name": "Functional English [International Students]",
                         "location": "C-309",
