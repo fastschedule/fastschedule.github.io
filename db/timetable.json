@@ -111,7 +111,7 @@
                 ],
                 "G": [
                     {
-                        "name": "Civics [Extended till 2:30]",
+                        "name": "Civics",
                         "location": "C-305",
                         "time": "11:30-01:15"
                     },
@@ -123,7 +123,7 @@
                 ],
                 "J": [
                     {
-                        "name": "Civics [Extednded till 11:30]",
+                        "name": "Civics",
                         "location": "C-307",
                         "time": "08:30-10:15"
                     },
@@ -160,11 +160,6 @@
                         "name": "AP [International Students]",
                         "location": "C-311",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Functional English [International Students  ReSch]",
-                        "location": "D-504",
-                        "time": "08:30-10:15"
                     }
                 ]
             },
@@ -430,11 +425,6 @@
                     }
                 ],
                 "F": [
-                    {
-                        "name": "AI [ReSch]",
-                        "location": "D-305",
-                        "time": "01:00-02:20"
-                    },
                     {
                         "name": "AI",
                         "location": "D-306",
@@ -780,11 +770,6 @@
                         "name": "Seerah & UHQ-I",
                         "location": "C-401",
                         "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "MV Calculus [ReSch]",
-                        "location": "C-401",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "D": [
@@ -1070,7 +1055,7 @@
                         "time": "09:30-11:15"
                     },
                     {
-                        "name": "OS Lab [Cancelled]",
+                        "name": "OS Lab",
                         "location": "C-Margala 3",
                         "time": "02:30-05:15"
                     }
@@ -1179,22 +1164,6 @@
                         "name": "Info Sec",
                         "location": "D-502",
                         "time": "01:00-02:20"
-                    }
-                ]
-            },
-            "2025": {
-                "C": [
-                    {
-                        "name": "Exp Writing Lab C2 [ReSch]",
-                        "location": "A-Mehran 1",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Exp Writing Lab B1 [ReSch]",
-                        "location": "A-Mehran 1",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
