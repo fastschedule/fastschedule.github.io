@@ -2809,6 +2809,11 @@
                         "name": "DB Lab",
                         "location": "D-IT Lab 1",
                         "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "Cyber (D-514)",
+                        "time": "08:30-11:20"
                     }
                 ],
                 "G": [
@@ -5356,6 +5361,52 @@
                 ]
             }
         },
+        "BS CS": {
+            "2024": {
+                "E": [
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "SDA [ReSch]",
+                        "location": "C-308",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
+            "2023": {
+                "E": [
+                    {
+                        "name": "AI [ReSch]",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AI [ReSch]",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    }
+                ]
+            },
+            "2025": {
+                "Z": [
+                    {
+                        "name": "Functional English [International Students]",
+                        "location": "C-309",
+                        "time": "N/A"
+                    },
+                    {
+                        "name": "IICT Lab [International Students]",
+                        "location": "C-Margala 4",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            }
+        },
         "BS CY": {
             "2025": {
                 "B": [
@@ -5417,45 +5468,6 @@
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
-                    }
-                ]
-            }
-        },
-        "BS CS": {
-            "2023": {
-                "E": [
-                    {
-                        "name": "AI [ReSch]",
-                        "location": "C-307",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI [ReSch]",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    }
-                ]
-            },
-            "2024": {
-                "C": [
-                    {
-                        "name": "SDA [ReSch]",
-                        "location": "C-308",
-                        "time": "08:30-09:50"
-                    }
-                ]
-            },
-            "2025": {
-                "Z": [
-                    {
-                        "name": "Functional English [International Students]",
-                        "location": "C-309",
-                        "time": "N/A"
-                    },
-                    {
-                        "name": "IICT Lab [International Students]",
-                        "location": "C-Margala 4",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
