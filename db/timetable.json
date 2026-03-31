@@ -1623,7 +1623,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [Cancelled]",
                         "location": "D-IT Lab 2",
                         "time": "02:30-05:15"
                     }
@@ -2413,7 +2413,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled]",
                         "location": "C-406",
                         "time": "01:00-02:20"
                     },
@@ -2462,7 +2462,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled]",
                         "location": "C-407",
                         "time": "02:30-03:50"
                     }
@@ -2789,7 +2789,7 @@
                         "time": "11:30-02:20"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [Cancelled]",
                         "location": "D-IT Lab 2",
                         "time": "02:30-05:15"
                     }
@@ -2801,7 +2801,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [Cancelled]",
                         "location": "D-IT Lab 1",
                         "time": "08:30-11:20"
                     },
@@ -3780,7 +3780,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled]",
                         "location": "C-402",
                         "time": "02:30-03:50"
                     },
@@ -5146,7 +5146,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled]",
                         "location": "C-405",
                         "time": "01:00-02:20"
                     },
@@ -5173,7 +5173,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled]",
                         "location": "C-406",
                         "time": "02:30-03:50"
                     }
@@ -5392,7 +5392,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled]",
                         "location": "C-305",
                         "time": "11:30-12:50"
                     },
