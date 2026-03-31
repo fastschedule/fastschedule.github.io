@@ -4791,6 +4791,11 @@
                         "name": "Fund of S/w Engg",
                         "location": "D-411",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "D-506",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
