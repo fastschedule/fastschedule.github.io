@@ -5484,6 +5484,11 @@
                         "name": "AI [ReSch]",
                         "location": "C-307",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "SE [&F) ReSch]",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
