@@ -4573,6 +4573,11 @@
                         "name": "DLD",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -5428,6 +5433,13 @@
                         "name": "Exp Writing Lab D2 [ReSch]",
                         "location": "C-302",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-308",
+                        "time": "02:30-03:50"
                     }
                 ]
             }
