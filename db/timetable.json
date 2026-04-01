@@ -4625,6 +4625,11 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "DB [ReSch]",
+                        "location": "D-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Prob & Stats",
                         "location": "D-404",
                         "time": "11:30-12:50"
