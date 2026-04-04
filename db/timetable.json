@@ -5390,143 +5390,6 @@
                         "time": "02:30-05:15"
                     }
                 ]
-            },
-            "2024": {
-                "B": [
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-304",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OS Lab [ReSch]",
-                        "location": "C-310",
-                        "time": "10:00-12:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "OS Lab [ReSch]",
-                        "location": "C-307",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-410",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "C-410",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2025": {
-                "C": [
-                    {
-                        "name": "Exp Writing Lab C1 [ReSch]",
-                        "location": "C-308",
-                        "time": "10:00-12:50"
-                    }
-                ]
-            }
-        },
-        "BS SE": {
-            "2024": {
-                "B": [
-                    {
-                        "name": "DB Lab [ReSch]",
-                        "location": "C-301",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2025": {
-                "D": [
-                    {
-                        "name": "Exp Writing Lab D2 [ReSch]",
-                        "location": "C-302",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "MV Calculus [ReSch]",
-                        "location": "C-308",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "AP [/C) ReSch]",
-                        "location": "C-308",
-                        "time": "03:55-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "AP [/C) ReSch]",
-                        "location": "C-308",
-                        "time": "03:55-05:15"
-                    }
-                ]
-            }
-        },
-        "BS CS": {
-            "2024": {
-                "E": [
-                    {
-                        "name": "AI Lab [ReSch]",
-                        "location": "C-303",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "SDA [ReSch]",
-                        "location": "C-308",
-                        "time": "08:30-09:50"
-                    }
-                ]
-            },
-            "2023": {
-                "B": [
-                    {
-                        "name": "AI Lab [ReSch]",
-                        "location": "C-304",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "AI [ReSch]",
-                        "location": "C-307",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AI [ReSch]",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "SE [&F) ReSch]",
-                        "location": "D-301",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2025": {
-                "M": [
-                    {
-                        "name": "Functional English [International Students]",
-                        "location": "C-309",
-                        "time": "N/A"
-                    },
-                    {
-                        "name": "IICT Lab [International Students]",
-                        "location": "C-Margala 4",
-                        "time": "02:30-05:15"
-                    }
-                ]
             }
         },
         "BS CY": {
@@ -5565,7 +5428,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MV Calculus [Cancelled]",
+                        "name": "MV Calculus",
                         "location": "C-305",
                         "time": "11:30-12:50"
                     },
@@ -5593,12 +5456,51 @@
                     }
                 ]
             },
-            "2024": {
+            "2023": {
                 "A": [
                     {
-                        "name": "Comp Net [ReSch]",
-                        "location": "D-302",
-                        "time": "10:30-11:50"
+                        "name": "Sec S/w Design Lab [April 17, 2026 Sessional]",
+                        "location": "C-Rawal 1",
+                        "time": "N/A"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Sec S/w Design Lab [April 17, 2026 Sessional]",
+                        "location": "C-Rawal 4",
+                        "time": "N/A"
+                    }
+                ]
+            },
+            "2024": {
+                "B": [
+                    {
+                        "name": "Comp Net Lab [Sessional Exam April 17, 2026]",
+                        "location": "C-Rawal 1",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Comp Net Lab [Sessional Exam April 17, 2026]",
+                        "location": "C-Rawal 4",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2025": {
+                "M": [
+                    {
+                        "name": "Functional English [International Students]",
+                        "location": "C-309",
+                        "time": "N/A"
+                    },
+                    {
+                        "name": "IICT Lab [International Students]",
+                        "location": "C-Margala 4",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -5610,13 +5512,6 @@
                         "name": "Fund of S/w Engg [ReSch]",
                         "location": "D-501",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "OS Lab [ReSch]",
-                        "location": "C-Rawal 1",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
