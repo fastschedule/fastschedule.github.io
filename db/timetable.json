@@ -1396,18 +1396,6 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "AI Prod Develop [G-II]",
-                        "location": "C-410",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Digital Mktg",
-                        "location": "D-403",
-                        "time": "03:55-05:15"
-                    }
-                ],
                 "C": [
                     {
                         "name": "AI Prod Develop [G-II]",
@@ -1468,6 +1456,18 @@
                     {
                         "name": "Stat Modeling",
                         "location": "D-316",
+                        "time": "03:55-05:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "AI Prod Develop [G-II]",
+                        "location": "D-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Digital Mktg",
+                        "location": "D-403",
                         "time": "03:55-05:15"
                     }
                 ],
@@ -2388,7 +2388,7 @@
                     },
                     {
                         "name": "Formal Meth in SE",
-                        "location": "C-410",
+                        "location": "D-404",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -2702,7 +2702,7 @@
                 ],
                 "F": [
                     {
-                        "name": "Civics [Cancelled]",
+                        "name": "Civics",
                         "location": "C-305",
                         "time": "09:00-10:45"
                     },
@@ -2794,7 +2794,7 @@
                         "time": "11:30-02:20"
                     },
                     {
-                        "name": "OS Lab [Cancelled]",
+                        "name": "OS Lab",
                         "location": "D-IT Lab 2",
                         "time": "02:30-05:15"
                     }
@@ -2806,7 +2806,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "OS Lab [Cancelled]",
+                        "name": "OS Lab",
                         "location": "D-IT Lab 1",
                         "time": "08:30-11:20"
                     },
@@ -2814,11 +2814,6 @@
                         "name": "DB Lab",
                         "location": "D-IT Lab 1",
                         "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "AI Lab [ReSch]",
-                        "location": "Cyber (D-514)",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "G": [
@@ -3023,21 +3018,9 @@
                 ],
                 "E": [
                     {
-                        "name": "Stat Modeling [ReSch]",
-                        "location": "D-401",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "Stat Modeling",
                         "location": "D-402",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "Stat Modeling [ReSch]",
-                        "location": "D-403",
-                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -3455,7 +3438,7 @@
                         "time": "11:30-02:20"
                     },
                     {
-                        "name": "Exp Writing Lab D2 [Cancelled]",
+                        "name": "Exp Writing Lab D2",
                         "location": "A-CALL-3",
                         "time": "11:30-02:20"
                     }
@@ -3790,7 +3773,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "MV Calculus [Cancelled]",
+                        "name": "MV Calculus",
                         "location": "C-402",
                         "time": "02:30-03:50"
                     },
@@ -4753,7 +4736,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MV Calculus [Cancelled]",
+                        "name": "MV Calculus",
                         "location": "C-405",
                         "time": "01:00-02:20"
                     },
@@ -4780,7 +4763,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "MV Calculus [Cancelled]",
+                        "name": "MV Calculus",
                         "location": "C-406",
                         "time": "02:30-03:50"
                     }
@@ -5506,15 +5489,6 @@
             }
         },
         "BS DS": {
-            "2024": {
-                "A": [
-                    {
-                        "name": "Fund of S/w Engg [ReSch]",
-                        "location": "D-501",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
             "2025": {
                 "A": [
                     {
