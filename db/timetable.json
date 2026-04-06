@@ -1406,6 +1406,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Tech Mgt [ReSch]",
+                        "location": "D-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "MLOPs [G-I]",
                         "location": "D-401",
                         "time": "11:30-12:50"
@@ -2080,6 +2085,11 @@
                         "name": "DB",
                         "location": "D-412",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "D-413",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
