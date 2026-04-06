@@ -2280,6 +2280,11 @@
                         "name": "Gen AI",
                         "location": "D-302",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "NLP [ReSch]",
+                        "location": "C-Rawal 4",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
