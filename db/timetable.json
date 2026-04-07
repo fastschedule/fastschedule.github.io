@@ -2015,7 +2015,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Fin Mgt",
+                        "name": "Fin Mgt [Cancelled]",
                         "location": "D-412",
                         "time": "02:30-03:50"
                     },
@@ -2032,7 +2032,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Fin Mgt",
+                        "name": "Fin Mgt [Cancelled]",
                         "location": "D-412",
                         "time": "01:00-02:20"
                     },
@@ -3230,9 +3230,14 @@
             "2025": {
                 "C": [
                     {
-                        "name": "AP",
+                        "name": "AP [Cancelled]",
                         "location": "C-307",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "D-506",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "OOP",
