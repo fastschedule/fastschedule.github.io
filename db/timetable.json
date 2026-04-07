@@ -1856,6 +1856,33 @@
                 ]
             },
             "2023": {
+                "B": [
+                    {
+                        "name": "NLP [ReSch]",
+                        "location": "C-308",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "NLP [ReSch]",
+                        "location": "C-308",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "NLP",
+                        "location": "D-402",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "D-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Vision",
+                        "location": "D-406",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Comp Vision",
@@ -1871,23 +1898,6 @@
                         "name": "PDC",
                         "location": "D-411",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "NLP",
-                        "location": "D-402",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Vision",
-                        "location": "D-406",
-                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -2811,6 +2821,11 @@
                         "name": "Math-1 [Pre-Medical International Students]",
                         "location": "C-311",
                         "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "PF [International Students ReSch]",
+                        "location": "C-406",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Functional English Lab [International Students]",
