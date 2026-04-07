@@ -152,6 +152,11 @@
                 ],
                 "M": [
                     {
+                        "name": "Calculus [International Students ReSch]",
+                        "location": "C-110",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "PF [International Students]",
                         "location": "C-311",
                         "time": "11:30-12:50"
@@ -1595,6 +1600,11 @@
                         "name": "Prob & Stats",
                         "location": "D-306",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "DB [ReSch]",
+                        "location": "D-414",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
@@ -2501,7 +2511,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Sec S/w Design Lab",
+                        "name": "Sec S/w Design Lab [Cancelled]",
                         "location": "C-Margala 3",
                         "time": "02:30-05:15"
                     },
