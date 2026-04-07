@@ -2290,11 +2290,6 @@
                         "name": "Gen AI",
                         "location": "D-302",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "NLP [ReSch]",
-                        "location": "C-Rawal 4",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -2521,7 +2516,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Sec S/w Design Lab [Cancelled]",
+                        "name": "Sec S/w Design Lab [Lab Exam April 14, 2026]",
                         "location": "C-Margala 3",
                         "time": "02:30-05:15"
                     },
@@ -2548,13 +2543,8 @@
                         "time": "11:30-02:20"
                     },
                     {
-                        "name": "Digital Forensics Lab",
+                        "name": "Digital Forensics Lab [CancelledSec S/w Design Lab (CY-B) Lab Exam April 14, 2026]",
                         "location": "C-Rawal 4",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Digital Forensics Lab [Lab Exam]",
-                        "location": "Cyber (D-514)",
                         "time": "02:30-05:15"
                     }
                 ]
