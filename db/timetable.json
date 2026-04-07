@@ -87,7 +87,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OOP [Cancelled]",
+                        "name": "OOP",
                         "location": "C-304",
                         "time": "10:00-11:20"
                     },
@@ -591,12 +591,12 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Exp Writing [Cancelled]",
+                        "name": "Exp Writing",
                         "location": "C-310",
                         "time": "02:30-04:15"
                     },
                     {
-                        "name": "Exp Writing Lab C1 [Cancelled]",
+                        "name": "Exp Writing Lab C1",
                         "location": "A-Mehran 2",
                         "time": "11:30-02:20"
                     },
@@ -666,7 +666,7 @@
                     {
                         "name": "DB Lab",
                         "location": "C-Margala 1",
-                        "time": "11:50-02:30"
+                        "time": "11:30-02:20"
                     }
                 ]
             },
@@ -869,11 +869,6 @@
                         "name": "COAL",
                         "location": "C-404",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "OS [ReSch]",
-                        "location": "C-404",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
@@ -924,7 +919,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "S/w Metrices [Cancelled]",
+                        "name": "S/w Metrices",
                         "location": "C-406",
                         "time": "10:00-11:20"
                     },
@@ -946,7 +941,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "S/w Metrices [Cancelled]",
+                        "name": "S/w Metrices",
                         "location": "C-407",
                         "time": "08:30-09:50"
                     },
@@ -963,7 +958,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "S/w Metrices [Cancelled]",
+                        "name": "S/w Metrices",
                         "location": "C-406",
                         "time": "03:55-05:15"
                     }
@@ -1130,12 +1125,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Comp Net Lab [ReSch]",
-                        "location": "C-Margala 1",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Comp Net Lab [Cancelled]",
+                        "name": "Comp Net Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
                     }
@@ -2010,14 +2000,14 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "MLOps [Gp-II]",
+                        "name": "MLOps [Gp-II) Cancelled]",
                         "location": "D-413",
                         "time": "10:00-11:20"
                     }
                 ],
                 "A": [
                     {
-                        "name": "MLOps [Gp-I]",
+                        "name": "MLOps [Gp-I) Cancelled]",
                         "location": "D-412",
                         "time": "11:30-12:50"
                     },
@@ -2465,7 +2455,7 @@
                         "time": "09:00-10:45"
                     },
                     {
-                        "name": "Exp Writing Lab A1",
+                        "name": "Exp Writing Lab A1 [Cancelled]",
                         "location": "A-Mehran 2",
                         "time": "02:30-05:15"
                     },
@@ -3584,7 +3574,7 @@
                         "time": "11:30-02:20"
                     },
                     {
-                        "name": "Exp Writing Lab D2",
+                        "name": "Exp Writing Lab D2 [Cancelled]",
                         "location": "A-CALL-3",
                         "time": "11:30-02:20"
                     }
