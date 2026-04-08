@@ -2894,7 +2894,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Prob & Stats",
+                        "name": "Prob & Stats [Cancelled]",
                         "location": "D-305",
                         "time": "10:00-11:20"
                     },
@@ -2921,7 +2921,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Prob & Stats",
+                        "name": "Prob & Stats [Cancelled]",
                         "location": "D-306",
                         "time": "08:30-09:50"
                     },
@@ -3500,7 +3500,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Seerah & UHQ-I",
+                        "name": "Seerah & UHQ-I [Cancelled]",
                         "location": "C-310",
                         "time": "02:00-03:45"
                     }
@@ -3805,7 +3805,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Seerah & UHQ-I",
+                        "name": "Seerah & UHQ-I [Cancelled]",
                         "location": "C-403",
                         "time": "11:30-01:15"
                     },
