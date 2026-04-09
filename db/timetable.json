@@ -5390,11 +5390,32 @@
                 ]
             },
             "2025": {
+                "B": [
+                    {
+                        "name": "Exp Writing [ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Exp Writing [ReSch]",
+                        "location": "C-303",
+                        "time": "03:55-05:15"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Exp Writing Lab C2 [ReSch]",
                         "location": "C-307",
                         "time": "08:30-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Exp Writing [ReSch]",
+                        "location": "C-308",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "M": [
@@ -5486,6 +5507,11 @@
             },
             "2023": {
                 "A": [
+                    {
+                        "name": "Sec S/w Design Lab [ReSch]",
+                        "location": "C-310",
+                        "time": "10:00-12:50"
+                    },
                     {
                         "name": "Sec S/w Design Lab [April 17, 2026 Sessional]",
                         "location": "C-Rawal 1",
