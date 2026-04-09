@@ -2649,11 +2649,6 @@
                         "time": "12:30-02:15"
                     },
                     {
-                        "name": "Civics [ReSch]",
-                        "location": "C-302",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "Exp Writing Lab J1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:20"
@@ -2718,11 +2713,6 @@
                         "name": "MV Calculus",
                         "location": "C-304",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "OOP [ReSch]",
-                        "location": "C-304",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "F": [
@@ -2776,11 +2766,6 @@
                         "name": "Math-1 [Pre-Medical International Students]",
                         "location": "C-311",
                         "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "PF [International Students ReSch]",
-                        "location": "C-406",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Functional English Lab [International Students]",
@@ -2878,11 +2863,6 @@
                         "name": "AI",
                         "location": "D-303",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Prob & Stats [ReSch]",
-                        "location": "D-304",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
@@ -2914,7 +2894,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Prob & Stats [Cancelled]",
+                        "name": "Prob & Stats",
                         "location": "D-305",
                         "time": "10:00-11:20"
                     },
@@ -2941,7 +2921,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Prob & Stats [Cancelled]",
+                        "name": "Prob & Stats",
                         "location": "D-306",
                         "time": "08:30-09:50"
                     },
@@ -3185,14 +3165,9 @@
             "2025": {
                 "C": [
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-307",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "AP [ReSch]",
-                        "location": "D-506",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "OOP",
@@ -3369,7 +3344,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Fin Mgt [Cancelled]",
+                        "name": "Fin Mgt",
                         "location": "D-412",
                         "time": "08:30-09:50"
                     },
@@ -3403,7 +3378,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Fin Mgt [Cancelled]",
+                        "name": "Fin Mgt",
                         "location": "D-413",
                         "time": "10:00-11:20"
                     },
@@ -3520,7 +3495,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Seerah & UHQ-I [Cancelled]",
+                        "name": "Seerah & UHQ-I",
                         "location": "C-310",
                         "time": "02:00-03:45"
                     }
@@ -3554,12 +3529,12 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Exp Writing Lab D1 [Cancelled]",
+                        "name": "Exp Writing Lab D1",
                         "location": "A-Khyber-2",
                         "time": "11:30-02:20"
                     },
                     {
-                        "name": "Exp Writing Lab D2 [Cancelled]",
+                        "name": "Exp Writing Lab D2",
                         "location": "A-CALL-3",
                         "time": "11:30-02:20"
                     }
@@ -3686,7 +3661,7 @@
             "2025": {
                 "A": [
                     {
-                        "name": "Exp Writing [Cancelled]",
+                        "name": "Exp Writing",
                         "location": "C-311",
                         "time": "08:30-10:15"
                     },
@@ -3703,7 +3678,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Exp Writing [Cancelled]",
+                        "name": "Exp Writing",
                         "location": "C-311",
                         "time": "11:30-01:15"
                     },
@@ -3825,7 +3800,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Seerah & UHQ-I [Cancelled]",
+                        "name": "Seerah & UHQ-I",
                         "location": "C-403",
                         "time": "11:30-01:15"
                     },
@@ -5165,6 +5140,11 @@
                         "name": "OOP Lab Sessional [/C]",
                         "location": "C-Rawal 4",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Exp Writing Lab A1 [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
@@ -5388,6 +5368,56 @@
                         "time": "02:30-05:15"
                     }
                 ]
+            },
+            "2025": {
+                "A": [
+                    {
+                        "name": "Exp Writing Lab A2 [ReSch]",
+                        "location": "C-301",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2024": {
+                "F": [
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "C-302",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2025": {
+                "C": [
+                    {
+                        "name": "Exp Writing Lab C2 [ReSch]",
+                        "location": "C-307",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "M": [
+                    {
+                        "name": "Functional English [International Students]",
+                        "location": "C-309",
+                        "time": "N/A"
+                    },
+                    {
+                        "name": "IICT Lab [International Students]",
+                        "location": "C-Margala 4",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2023": {
+                "E": [
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "C-Rawal 1",
+                        "time": "08:30-11:20"
+                    }
+                ]
             }
         },
         "BS CY": {
@@ -5487,18 +5517,13 @@
                 ]
             }
         },
-        "BS CS": {
+        "BS SE": {
             "2025": {
-                "M": [
+                "D": [
                     {
-                        "name": "Functional English [International Students]",
-                        "location": "C-309",
-                        "time": "N/A"
-                    },
-                    {
-                        "name": "IICT Lab [International Students]",
-                        "location": "C-Margala 4",
-                        "time": "02:30-05:15"
+                        "name": "Exp Writing Lab D2 [ReSch]",
+                        "location": "C-410",
+                        "time": "10:00-12:50"
                     }
                 ]
             }
