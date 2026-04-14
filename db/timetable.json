@@ -152,11 +152,6 @@
                 ],
                 "M": [
                     {
-                        "name": "Calculus [International Students ReSch]",
-                        "location": "C-110",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "PF [International Students]",
                         "location": "C-311",
                         "time": "11:30-12:50"
@@ -170,11 +165,6 @@
                         "name": "Math-1 [Pre-MedicalInternational Students]",
                         "location": "D-403",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Math-1 [Pre-Medical International Students]",
-                        "location": "D-506",
-                        "time": "09:30-11:15"
                     }
                 ]
             },
