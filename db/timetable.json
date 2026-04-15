@@ -5407,6 +5407,22 @@
             }
         },
         "BS CY": {
+            "2023": {
+                "A": [
+                    {
+                        "name": "Digital Forensics Lab [ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Digital Forensics Lab [ReSch]",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            },
             "2025": {
                 "B": [
                     {
@@ -5466,15 +5482,6 @@
                     {
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2023": {
-                "B": [
-                    {
-                        "name": "Digital Forensics Lab [ReSch]",
-                        "location": "C-Margala 1",
                         "time": "08:30-11:20"
                     }
                 ]
