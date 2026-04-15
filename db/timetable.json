@@ -1275,6 +1275,11 @@
                         "name": "Discrete",
                         "location": "C-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-04:15"
                     }
                 ],
                 "H": [
@@ -2471,7 +2476,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Sec S/w Design Lab [Lab Exam April 14, 2026]",
+                        "name": "Sec S/w Design Lab [Lab Exam April 21, 2026]",
                         "location": "C-Margala 3",
                         "time": "02:30-05:15"
                     },
@@ -2498,7 +2503,7 @@
                         "time": "11:30-02:20"
                     },
                     {
-                        "name": "Digital Forensics Lab [CancelledSec S/w Design Lab (CY-B) Lab Exam April 14, 2026]",
+                        "name": "Digital Forensics Lab [CancelledSec S/w Design Lab (CY-B) Lab Exam April 21, 2026]",
                         "location": "C-Rawal 4",
                         "time": "02:30-05:15"
                     }
@@ -3847,19 +3852,19 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Comp Net Lab [Lab Exam April 14, 2026]",
+                        "name": "Comp Net Lab [Lab Exam April 22, 2026]",
                         "location": "C-Rawal 4",
                         "time": "11:30-02:20"
                     }
                 ],
                 "B": [
                     {
-                        "name": "Prob & Stats",
+                        "name": "Prob & Stats [Cancelled]",
                         "location": "D-502",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Algo",
+                        "name": "Algo [Cancelled]",
                         "location": "D-502",
                         "time": "01:00-02:20"
                     },
@@ -3869,7 +3874,7 @@
                         "time": "02:30-04:15"
                     },
                     {
-                        "name": "Comp Net Lab [Lab Exam April 14, 2026]",
+                        "name": "Comp Net Lab [Lab Exam April 22, 2026]",
                         "location": "C-Margala 4",
                         "time": "11:30-02:20"
                     },
@@ -4038,6 +4043,28 @@
                         "time": "11:30-12:50"
                     }
                 ],
+                "J": [
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "C-304",
+                        "time": "02:30-04:15"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Calculus",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Civics",
@@ -4065,23 +4092,6 @@
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "J": [
-                    {
-                        "name": "OOP",
-                        "location": "C-307",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MV Calculus",
-                        "location": "C-307",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "M": [
@@ -5355,6 +5365,26 @@
                 ]
             }
         },
+        "BS SE": {
+            "2023": {
+                "A": [
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "C-301",
+                        "time": "03:30-05:15"
+                    }
+                ]
+            },
+            "2022": {
+                "E": [
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-308",
+                        "time": "02:30-03:50"
+                    }
+                ]
+            }
+        },
         "BS CY": {
             "2025": {
                 "B": [
@@ -5420,39 +5450,34 @@
                 ]
             },
             "2023": {
-                "A": [
-                    {
-                        "name": "Sec S/w Design Lab [April 17, 2026 Sessional]",
-                        "location": "C-Rawal 1",
-                        "time": "N/A"
-                    }
-                ],
                 "B": [
                     {
-                        "name": "Sec S/w Design Lab [April 17, 2026 Sessional]",
-                        "location": "C-Rawal 4",
-                        "time": "N/A"
+                        "name": "Digital Forensics Lab [ReSch]",
+                        "location": "C-Margala 1",
+                        "time": "08:30-11:20"
                     }
                 ]
             },
             "2024": {
-                "B": [
-                    {
-                        "name": "Comp Net Lab [Sessional Exam April 17, 2026]",
-                        "location": "C-Rawal 1",
-                        "time": "02:30-05:15"
-                    }
-                ],
                 "A": [
                     {
-                        "name": "Comp Net Lab [Sessional Exam April 17, 2026]",
-                        "location": "C-Rawal 4",
+                        "name": "COAL Lab [ReSch]",
+                        "location": "C-Rawal 1",
                         "time": "02:30-05:15"
                     }
                 ]
             }
         },
         "BS CS": {
+            "2022": {
+                "A": [
+                    {
+                        "name": "Entre [ReSch]",
+                        "location": "C-308",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2025": {
                 "M": [
                     {
