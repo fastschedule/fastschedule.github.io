@@ -43,6 +43,11 @@
                         "time": "02:00-03:45"
                     },
                     {
+                        "name": "Civics [ReSch]",
+                        "location": "C-301",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "OOP",
                         "location": "C-303",
                         "time": "08:30-09:50"
@@ -4011,6 +4016,11 @@
                         "time": "11:30-01:15"
                     },
                     {
+                        "name": "Civics [ReSch]",
+                        "location": "C-305",
+                        "time": "03:30-05:15"
+                    },
+                    {
                         "name": "Exp Writing Lab D1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:20"
@@ -4043,28 +4053,6 @@
                         "time": "11:30-12:50"
                     }
                 ],
-                "J": [
-                    {
-                        "name": "Civics [ReSch]",
-                        "location": "C-304",
-                        "time": "02:30-04:15"
-                    },
-                    {
-                        "name": "OOP",
-                        "location": "C-307",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Discrete",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MV Calculus",
-                        "location": "C-307",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Civics",
@@ -4092,6 +4080,28 @@
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "J": [
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "C-305",
+                        "time": "01:30-03:15"
+                    },
+                    {
+                        "name": "OOP",
+                        "location": "C-307",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Discrete",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MV Calculus",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "M": [
@@ -5373,6 +5383,13 @@
                         "location": "C-301",
                         "time": "03:30-05:15"
                     }
+                ],
+                "B": [
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "C-302",
+                        "time": "02:30-04:15"
+                    }
                 ]
             },
             "2022": {
@@ -5381,6 +5398,15 @@
                         "name": "Entre [ReSch]",
                         "location": "C-308",
                         "time": "02:30-03:50"
+                    }
+                ]
+            },
+            "2025": {
+                "D": [
+                    {
+                        "name": "Exp Writing Lab D2 [ReSch]",
+                        "location": "C-311",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
