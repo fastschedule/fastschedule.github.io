@@ -5419,6 +5419,18 @@
                 ]
             },
             "2025": {
+                "B": [
+                    {
+                        "name": "Exp Writing Lab B1 [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2 [ReSch]",
+                        "location": "C-310",
+                        "time": "02:30-05:15"
+                    }
+                ],
                 "D": [
                     {
                         "name": "Exp Writing Lab D2 [ReSch]",
@@ -5429,22 +5441,6 @@
             }
         },
         "BS CY": {
-            "2023": {
-                "A": [
-                    {
-                        "name": "Digital Forensics Lab [ReSch]",
-                        "location": "C-303",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Digital Forensics Lab [ReSch]",
-                        "location": "C-Margala 1",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            },
             "2025": {
                 "B": [
                     {
@@ -5504,6 +5500,15 @@
                     {
                         "name": "Exp Writing Lab C2",
                         "location": "A-CALL-3",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2023": {
+                "B": [
+                    {
+                        "name": "Digital Forensics Lab [ReSch]",
+                        "location": "C-Margala 1",
                         "time": "08:30-11:20"
                     }
                 ]
