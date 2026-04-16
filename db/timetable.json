@@ -1338,7 +1338,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Civics",
+                        "name": "Civics [Extended till 11:15]",
                         "location": "C-307",
                         "time": "09:00-10:45"
                     },
@@ -1350,7 +1350,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Civics",
+                        "name": "Civics [Extended till 02:15]",
                         "location": "C-307",
                         "time": "11:30-01:15"
                     },
