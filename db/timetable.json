@@ -3539,6 +3539,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "Exp Writing Lab D2 [ReSch]",
+                        "location": "D-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "C-Margala 4",
                         "time": "02:30-05:15"
@@ -4581,6 +4586,11 @@
                         "name": "DLD",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Exp Writing Lab C1 [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -5388,6 +5398,15 @@
                         "time": "02:30-05:15"
                     }
                 ]
+            },
+            "2025": {
+                "B": [
+                    {
+                        "name": "Exp Writing Lab B2 [ReSch]",
+                        "location": "C-307",
+                        "time": "08:30-11:20"
+                    }
+                ]
             }
         },
         "BS CS": {
@@ -5401,6 +5420,27 @@
                 ]
             },
             "2025": {
+                "A": [
+                    {
+                        "name": "Exp Writing Lab A2 [ReSch]",
+                        "location": "C-302",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "J": [
+                    {
+                        "name": "Exp Writing Lab J1 [ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Civics [ReSch]",
+                        "location": "C-304",
+                        "time": "09:30-11:30"
+                    }
+                ],
                 "M": [
                     {
                         "name": "Functional English [International Students]",
@@ -5481,6 +5521,15 @@
             }
         },
         "BS SE": {
+            "2025": {
+                "A": [
+                    {
+                        "name": "Exp Writing Lab A2 [ReSch]",
+                        "location": "C-304",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
             "2022": {
                 "E": [
                     {
@@ -5525,7 +5574,7 @@
             }
         }
     },
-    "Saturday": {
+    "Saturday (25 Apr)": {
         "BS CS": {
             "2025": {
                 "A": [
@@ -6035,7 +6084,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "AI Lab [Lab Exam April 20, 2026]",
+                        "name": "AI Lab",
                         "location": "D-IT Lab 1",
                         "time": "08:30-11:20"
                     }
@@ -6057,7 +6106,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "AI Lab [Lab Exam April 20, 2026]",
+                        "name": "AI Lab",
                         "location": "D-IT Lab 2",
                         "time": "02:30-05:15"
                     }
