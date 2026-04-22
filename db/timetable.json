@@ -4703,6 +4703,15 @@
                         "time": "08:30-11:20"
                     }
                 ]
+            },
+            "2022": {
+                "B": [
+                    {
+                        "name": "Fin Mgt [ReSch]",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
+                    }
+                ]
             }
         },
         "BS DS": {
@@ -5191,6 +5200,11 @@
                         "name": "OOP Lab Sessional [/C]",
                         "location": "C-Rawal 4",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Exp Writing Lab A1 [ReSch]",
+                        "location": "A-Mehran 1",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
@@ -5425,6 +5439,13 @@
                     {
                         "name": "Exp Writing Lab B2 [ReSch]",
                         "location": "C-307",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Exp Writing Lab A1 [ReSch]",
+                        "location": "B-229",
                         "time": "08:30-11:20"
                     }
                 ]
