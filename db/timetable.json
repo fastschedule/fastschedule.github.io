@@ -1275,11 +1275,6 @@
                         "name": "Discrete",
                         "location": "C-303",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Civics [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-04:15"
                     }
                 ],
                 "H": [
@@ -1486,7 +1481,7 @@
             "2024": {
                 "B": [
                     {
-                        "name": "Pak Studies [24)  Cancelled]",
+                        "name": "Pak Studies [24)]",
                         "location": "C-404",
                         "time": "08:30-10:15"
                     },
@@ -5278,6 +5273,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "D-503",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "COAL",
                         "location": "D-506",
                         "time": "11:30-12:50"
@@ -5428,6 +5428,22 @@
                         "time": "08:30-11:20"
                     }
                 ]
+            },
+            "2024": {
+                "B": [
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "D-502",
+                        "time": "10:00-11:20"
+                    }
+                ]
             }
         },
         "BS CS": {
@@ -5451,6 +5467,11 @@
                         "name": "Pak Studies [ReSch]",
                         "location": "C-310",
                         "time": "11:30-01:30"
+                    },
+                    {
+                        "name": "Exp Writing Lab A1 [ReSch]",
+                        "location": "C-311",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "G": [
@@ -5458,6 +5479,11 @@
                         "name": "Discrete [ReSch]",
                         "location": "C-303",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "C-310",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "J": [
@@ -5491,6 +5517,25 @@
                         "name": "IICT Lab [International Students]",
                         "location": "C-Margala 4",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "C-310",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Exp Writing Lab B1 [ReSch]",
+                        "location": "D-503",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "OOP Lab [ReSch]",
+                        "location": "D-504",
+                        "time": "08:30-11:20"
                     }
                 ]
             },
@@ -5613,7 +5658,7 @@
                 ]
             },
             "2024": {
-                "A": [
+                "B": [
                     {
                         "name": "COAL Lab [ReSch]",
                         "location": "C-Rawal 4",
