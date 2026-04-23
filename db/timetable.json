@@ -5445,13 +5445,30 @@
                         "name": "Exp Writing Lab B2 [ReSch]",
                         "location": "C-307",
                         "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "AP [ReSch]",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "A": [
                     {
+                        "name": "AP [ReSch]",
+                        "location": "D-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Exp Writing Lab A1 [ReSch]",
-                        "location": "B-229",
-                        "time": "08:30-11:20"
+                        "location": "D-302",
+                        "time": "10:00-12:50"
                     }
                 ]
             },
@@ -5461,6 +5478,11 @@
                         "name": "Pak Studies [ReSch]",
                         "location": "C-309",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "B-230",
+                        "time": "10:00-12:50"
                     }
                 ],
                 "A": [
@@ -5468,6 +5490,32 @@
                         "name": "Pak Studies [ReSch]",
                         "location": "D-502",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-502",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "B-230",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2022": {
+                "C": [
+                    {
+                        "name": "Fin Mgt [ReSch]",
+                        "location": "D-301",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Fin Mgt [ReSch]",
+                        "location": "D-301",
+                        "time": "03:55-05:15"
                     }
                 ]
             }
@@ -5479,6 +5527,18 @@
                         "name": "Entre [ReSch]",
                         "location": "C-301",
                         "time": "02:30-03:50"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Stat Modeling [ReSch]",
+                        "location": "D-305",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Stat Modeling [ReSch]",
+                        "location": "D-305",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -5524,6 +5584,11 @@
                         "name": "Civics [ReSch]",
                         "location": "C-304",
                         "time": "09:30-11:30"
+                    },
+                    {
+                        "name": "OOP [ReSch]",
+                        "location": "C-410",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -5603,6 +5668,13 @@
                 ]
             },
             "2023": {
+                "D": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "D-304",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "C": [
                     {
                         "name": "SE [ReSch]",
@@ -5613,6 +5685,11 @@
                         "name": "SE [ReSch]",
                         "location": "D-505",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "D-505",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "G": [
@@ -5726,6 +5803,25 @@
                         "name": "Exp Writing Lab A2 [ReSch]",
                         "location": "C-304",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-410",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Exp Writing Lab C2 [ReSch]",
+                        "location": "D-303",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-410",
+                        "time": "03:55-05:15"
                     }
                 ]
             },
