@@ -5833,8 +5833,13 @@
                     },
                     {
                         "name": "AP [ReSch]",
-                        "location": "D-306",
-                        "time": "10:00-11:20"
+                        "location": "D-305",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Exp Writing Lab D1 [ReSch]",
+                        "location": "D-305",
+                        "time": "10:00-12:50"
                     }
                 ],
                 "B": [
