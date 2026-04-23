@@ -5861,6 +5861,22 @@
             }
         },
         "BS DS": {
+            "2024": {
+                "A": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-305",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "D-305",
+                        "time": "03:55-05:15"
+                    }
+                ]
+            },
             "2022": {
                 "D": [
                     {
