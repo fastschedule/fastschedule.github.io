@@ -128,14 +128,14 @@
                         "time": "08:30-10:15"
                     },
                     {
-                        "name": "OOP Lab",
+                        "name": "OOP Lab [Cancelled]",
                         "location": "D-IT Lab 2",
                         "time": "11:30-02:20"
                     }
                 ],
                 "F": [
                     {
-                        "name": "Exp Writing",
+                        "name": "Exp Writing [Cancelled]",
                         "location": "C-307",
                         "time": "11:30-01:15"
                     },
@@ -186,6 +186,33 @@
                         "time": "11:30-02:20"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "D-301",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-301",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Prob & Stats [Cancelled]",
+                        "location": "D-301",
+                        "time": "02:30-03:50"
+                    }
+                ],
                 "A": [
                     {
                         "name": "DB",
@@ -227,28 +254,6 @@
                     {
                         "name": "DB",
                         "location": "D-303",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "OS",
-                        "location": "D-301",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "D-301",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-301",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Prob & Stats",
-                        "location": "D-301",
                         "time": "02:30-03:50"
                     }
                 ],
@@ -552,14 +557,14 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled]",
                         "location": "C-308",
                         "time": "11:30-12:50"
                     }
                 ],
                 "B": [
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled]",
                         "location": "C-309",
                         "time": "08:30-09:50"
                     },
@@ -620,7 +625,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Prob & Stats",
+                        "name": "Prob & Stats [Cancelled]",
                         "location": "D-402",
                         "time": "02:30-03:50"
                     }
@@ -762,7 +767,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled]",
                         "location": "C-401",
                         "time": "10:00-11:20"
                     },
@@ -914,7 +919,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "S/w Metrices",
+                        "name": "S/w Metrices [Cancelled]",
                         "location": "C-406",
                         "time": "10:00-11:20"
                     },
@@ -936,7 +941,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "S/w Metrices",
+                        "name": "S/w Metrices [Cancelled]",
                         "location": "C-407",
                         "time": "08:30-09:50"
                     },
@@ -1120,7 +1125,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Comp Net Lab",
+                        "name": "Comp Net Lab [Cancelled]",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
                     }
@@ -1502,6 +1507,11 @@
                     }
                 ],
                 "E": [
+                    {
+                        "name": "AI [ReSch]",
+                        "location": "C-406",
+                        "time": "11:30-12:50"
+                    },
                     {
                         "name": "OS",
                         "location": "D-304",
@@ -2724,11 +2734,6 @@
                         "time": "11:30-01:15"
                     },
                     {
-                        "name": "Exp Writing Lab E2 [ReSch]",
-                        "location": "C-308",
-                        "time": "02:30-05:15"
-                    },
-                    {
                         "name": "OOP Lab",
                         "location": "C-Rawal 4",
                         "time": "08:30-11:20"
@@ -2770,7 +2775,7 @@
                 ],
                 "G": [
                     {
-                        "name": "Exp Writing",
+                        "name": "Exp Writing [Extended till 2 pm]",
                         "location": "C-407",
                         "time": "11:30-01:15"
                     },
@@ -3217,6 +3222,16 @@
                         "name": "DLD",
                         "location": "C-309",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-309",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -3628,7 +3643,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "SPM",
+                        "name": "SPM [Audi (G-Flr, Blk-D)]",
                         "location": "C-407",
                         "time": "08:30-09:50"
                     },
@@ -3645,7 +3660,7 @@
                         "time": "02:30-04:15"
                     },
                     {
-                        "name": "SPM",
+                        "name": "SPM [Audi (G-Flr, Blk-D)]",
                         "location": "D-301",
                         "time": "08:30-09:50"
                     },
@@ -4062,7 +4077,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Exp Writing",
+                        "name": "Exp Writing [Extended till 2 pm]",
                         "location": "C-305",
                         "time": "11:30-01:15"
                     },
@@ -4921,6 +4936,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "D-301",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "OOP Lab",
                         "location": "C-Rawal 1",
                         "time": "02:30-05:15"
@@ -5026,7 +5046,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "C-403",
                         "time": "01:00-02:20"
                     },
@@ -5058,7 +5078,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "C-409",
                         "time": "02:30-03:50"
                     },
