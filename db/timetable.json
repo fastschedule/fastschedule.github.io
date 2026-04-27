@@ -542,7 +542,7 @@
             "2025": {
                 "A": [
                     {
-                        "name": "OOP",
+                        "name": "OOP [Cancelled]",
                         "location": "C-308",
                         "time": "08:30-09:50"
                     },
@@ -832,7 +832,7 @@
                 ],
                 "B": [
                     {
-                        "name": "SPM",
+                        "name": "SPM [Cancelled]",
                         "location": "C-403",
                         "time": "08:30-09:50"
                     },
