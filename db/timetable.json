@@ -58,6 +58,28 @@
                         "time": "11:30-12:50"
                     }
                 ],
+                "M": [
+                    {
+                        "name": "Functional English [International Students]",
+                        "location": "C-301",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "PF [International Students]",
+                        "location": "C-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AP [International Students]",
+                        "location": "C-311",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Math-1 [Pre-MedicalInternational Students]",
+                        "location": "D-403",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Discrete",
@@ -148,23 +170,6 @@
                         "name": "Exp Writing Lab F2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
-                    }
-                ],
-                "M": [
-                    {
-                        "name": "PF [International Students]",
-                        "location": "C-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AP [International Students]",
-                        "location": "C-311",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Math-1 [Pre-MedicalInternational Students]",
-                        "location": "D-403",
-                        "time": "10:00-11:20"
                     }
                 ]
             },
@@ -1908,6 +1913,11 @@
                         "time": "02:30-04:15"
                     },
                     {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "AI Lab",
                         "location": "D-IT Lab 4",
                         "time": "08:30-11:20"
@@ -3173,6 +3183,11 @@
                         "name": "AP",
                         "location": "C-307",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "MV Calculus [ReSch]",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "OOP",
