@@ -1306,24 +1306,19 @@
                         "time": "11:30-01:15"
                     },
                     {
-                        "name": "Pak Studies [ReSch]",
-                        "location": "C-308",
-                        "time": "02:00-03:45"
-                    },
-                    {
                         "name": "Exp Writing Lab B1",
                         "location": "A-Mehran 2",
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Exp Writing Lab B2 [Cancelled]",
+                        "name": "Exp Writing Lab B2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
                     }
                 ],
                 "D": [
                     {
-                        "name": "Civics [Extended till 11:15]",
+                        "name": "Civics",
                         "location": "C-307",
                         "time": "09:00-10:45"
                     },
@@ -1335,7 +1330,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Civics [Extended till 02:15]",
+                        "name": "Civics",
                         "location": "C-307",
                         "time": "11:30-01:15"
                     },
@@ -1508,11 +1503,6 @@
                 ],
                 "E": [
                     {
-                        "name": "AI [ReSch]",
-                        "location": "C-406",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "OS",
                         "location": "D-304",
                         "time": "08:30-09:50"
@@ -1632,7 +1622,7 @@
             "2023": {
                 "B": [
                     {
-                        "name": "DIP [Cancelled]",
+                        "name": "DIP",
                         "location": "D-305",
                         "time": "11:30-12:50"
                     },
@@ -1956,7 +1946,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Civics [Extended till 04:50]",
+                        "name": "Civics",
                         "location": "C-311",
                         "time": "02:00-03:45"
                     }
@@ -2227,7 +2217,7 @@
                 ],
                 "A": [
                     {
-                        "name": "User Exp Engg [Cancelled]",
+                        "name": "User Exp Engg",
                         "location": "D-301",
                         "time": "11:30-12:50"
                     },
@@ -2244,7 +2234,7 @@
                 ],
                 "B": [
                     {
-                        "name": "User Exp Engg [Cancelled]",
+                        "name": "User Exp Engg",
                         "location": "D-301",
                         "time": "01:00-02:20"
                     },
@@ -2393,7 +2383,7 @@
             "2025": {
                 "B": [
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-405",
                         "time": "08:30-09:50"
                     },
@@ -2411,16 +2401,6 @@
                         "name": "DLD",
                         "location": "C-406",
                         "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "DLD Lab Sessional [/C]",
-                        "location": "C-Margala 3",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DLD Lab Sessional [/C]",
-                        "location": "C-Margala 4",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "A": [
@@ -2428,16 +2408,6 @@
                         "name": "Exp Writing",
                         "location": "C-406",
                         "time": "09:00-10:45"
-                    },
-                    {
-                        "name": "DLD Lab Sessional [/C]",
-                        "location": "C-Margala 3",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "DLD Lab Sessional [/C]",
-                        "location": "C-Margala 4",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Exp Writing Lab A1",
@@ -2462,7 +2432,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-407",
                         "time": "10:00-11:20"
                     },
@@ -2553,7 +2523,7 @@
             "2022": {
                 "A": [
                     {
-                        "name": "Blockchain [Cancelled]",
+                        "name": "Blockchain",
                         "location": "D-504",
                         "time": "08:30-09:50"
                     },
@@ -2597,7 +2567,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Blockchain [Cancelled]",
+                        "name": "Blockchain",
                         "location": "D-505",
                         "time": "11:30-12:50"
                     },
@@ -3302,7 +3272,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [Cancelled]",
                         "location": "C-Margala 1",
                         "time": "02:30-05:15"
                     }
@@ -3754,7 +3724,7 @@
                         "time": "09:30-11:15"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [Cancelled]",
                         "location": "C-Rawal 1",
                         "time": "02:30-05:15"
                     }
@@ -3785,7 +3755,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "AI Lab",
+                        "name": "AI Lab [Cancelled]",
                         "location": "C-Margala 1",
                         "time": "11:30-02:20"
                     }
@@ -4680,7 +4650,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [Cancelled]",
                         "location": "C-Margala 4",
                         "time": "02:30-05:15"
                     }
@@ -4697,7 +4667,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [Cancelled]",
                         "location": "C-Margala 4",
                         "time": "08:30-11:20"
                     }
@@ -4889,7 +4859,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Data Mining",
+                        "name": "Data Mining [Cancelled]",
                         "location": "D-413",
                         "time": "01:00-02:20"
                     },
@@ -4897,6 +4867,11 @@
                         "name": "Deep Learn",
                         "location": "D-414",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Data Mining [ReSch]",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
                     }
                 ]
             }
