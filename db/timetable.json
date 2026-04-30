@@ -434,6 +434,50 @@
                         "time": "10:00-11:20"
                     }
                 ],
+                "A": [
+                    {
+                        "name": "Web [on for May 04]",
+                        "location": "D-305",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DIP",
+                        "location": "D-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Const",
+                        "location": "D-312",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "D-312",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Web [on for May 04]",
+                        "location": "D-305",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "PDC",
+                        "location": "D-313",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Const",
+                        "location": "D-313",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "AI Lab",
+                        "location": "D-IT Lab 2",
+                        "time": "02:30-05:15"
+                    }
+                ],
                 "F": [
                     {
                         "name": "AI",
@@ -480,28 +524,6 @@
                         "time": "03:55-05:15"
                     }
                 ],
-                "A": [
-                    {
-                        "name": "DIP",
-                        "location": "D-311",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Comp Const",
-                        "location": "D-312",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PDC",
-                        "location": "D-312",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Web",
-                        "location": "C-110",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "D": [
                     {
                         "name": "Comp Const",
@@ -517,28 +539,6 @@
                         "name": "AI Lab",
                         "location": "D-IT Lab 1",
                         "time": "08:30-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "PDC",
-                        "location": "D-313",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Const",
-                        "location": "D-313",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Web",
-                        "location": "C-110",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI Lab",
-                        "location": "D-IT Lab 2",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
