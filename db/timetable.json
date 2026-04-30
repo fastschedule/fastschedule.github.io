@@ -1087,6 +1087,15 @@
                         "time": "02:30-05:15"
                     }
                 ]
+            },
+            "2025": {
+                "A": [
+                    {
+                        "name": "DLD Lab [ReSch]",
+                        "location": "B-Digital",
+                        "time": "11:30-02:20"
+                    }
+                ]
             }
         },
         "BS CY": {
