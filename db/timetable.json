@@ -4055,11 +4055,6 @@
                         "time": "08:30-10:15"
                     },
                     {
-                        "name": "Exp Writ [ReSch]",
-                        "location": "C-305",
-                        "time": "10:30-11:15"
-                    },
-                    {
                         "name": "OOP Lab",
                         "location": "D-IT Lab 1",
                         "time": "11:30-02:20"
@@ -4182,11 +4177,6 @@
                         "name": "Agentic AI [G-I]",
                         "location": "D-403",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI Prod Develop [G-II) ReSch]",
-                        "location": "D-506",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "F": [
@@ -4509,11 +4499,6 @@
             "2025": {
                 "A": [
                     {
-                        "name": "MV Calculus [ReSch]",
-                        "location": "C-308",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "AP",
                         "location": "C-308",
                         "time": "10:00-11:20"
@@ -4640,7 +4625,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "OS Lab [Cancelled]",
+                        "name": "OS Lab",
                         "location": "C-Margala 4",
                         "time": "02:30-05:15"
                     }
@@ -4657,7 +4642,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "OS Lab [Cancelled]",
+                        "name": "OS Lab",
                         "location": "C-Margala 4",
                         "time": "08:30-11:20"
                     }
@@ -4708,11 +4693,6 @@
                         "name": "Civics",
                         "location": "C-311",
                         "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "Civics [ReSch]",
-                        "location": "C-311",
-                        "time": "03:55-05:15"
                     }
                 ]
             },
@@ -4849,7 +4829,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Data Mining [Cancelled]",
+                        "name": "Data Mining",
                         "location": "D-413",
                         "time": "01:00-02:20"
                     },
@@ -4857,11 +4837,6 @@
                         "name": "Deep Learn",
                         "location": "D-414",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Data Mining [ReSch]",
-                        "location": "D-503",
-                        "time": "10:00-11:20"
                     }
                 ]
             }
@@ -4929,11 +4904,6 @@
                         "name": "AP",
                         "location": "C-403",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MV Calculus [ReSch]",
-                        "location": "D-301",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "OOP Lab",
@@ -5041,7 +5011,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "C-403",
                         "time": "01:00-02:20"
                     },
@@ -5073,7 +5043,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "C-409",
                         "time": "02:30-03:50"
                     },
@@ -5159,7 +5129,7 @@
                 ],
                 "B": [
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-405",
                         "time": "08:30-09:50"
                     },
@@ -5186,7 +5156,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "AP [Cancelled]",
+                        "name": "AP",
                         "location": "C-406",
                         "time": "10:00-11:20"
                     },
@@ -5261,11 +5231,6 @@
                         "name": "Sec S/w Design Lab",
                         "location": "C-Rawal 1",
                         "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "AI Lab [ReSch]",
-                        "location": "Cyber (D-514)",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
