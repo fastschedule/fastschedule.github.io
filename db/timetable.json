@@ -899,7 +899,7 @@
                     },
                     {
                         "name": "SDA",
-                        "location": "C-304",
+                        "location": "C-405",
                         "time": "02:30-03:50"
                     }
                 ],
@@ -1325,6 +1325,11 @@
                         "name": "Discrete",
                         "location": "C-303",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "C-305",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "H": [
@@ -2009,6 +2014,13 @@
                         "location": "C-311",
                         "time": "02:00-03:45"
                     }
+                ],
+                "C": [
+                    {
+                        "name": "Data Mining [ReSch]",
+                        "location": "C-Rawal 1",
+                        "time": "10:00-11:20"
+                    }
                 ]
             },
             "2022": {
@@ -2549,6 +2561,28 @@
                 ]
             },
             "2024": {
+                "B": [
+                    {
+                        "name": "TBW [ReSch]",
+                        "location": "D-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-501",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-503",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-110",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "TBW",
@@ -2563,23 +2597,6 @@
                     {
                         "name": "COAL",
                         "location": "D-502",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Comp Net",
-                        "location": "D-501",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-503",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-110",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -5276,6 +5293,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "TBW [ReSch]",
+                        "location": "C-110",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "TBW",
                         "location": "C-110",
                         "time": "10:00-11:20"
@@ -5465,9 +5487,16 @@
                 ]
             },
             "2025": {
-                "J": [
+                "G": [
                     {
-                        "name": "OOP Lab [ReSch]",
+                        "name": "Exp Writing Lab G1 [ReSch]",
+                        "location": "C-303",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Exp Writing Lab C1 [ReSch]",
                         "location": "C-307",
                         "time": "08:30-11:20"
                     }
