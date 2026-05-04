@@ -2764,6 +2764,11 @@
                         "name": "MV Calculus",
                         "location": "C-304",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Pak Studies [02:30-0415 ReSch]",
+                        "location": "C-309",
+                        "time": "N/A"
                     }
                 ],
                 "F": [
@@ -3737,6 +3742,11 @@
                         "time": "08:30-10:15"
                     },
                     {
+                        "name": "OOP Lab [ReSch]",
+                        "location": "C-406",
+                        "time": "02:30-05:15"
+                    },
+                    {
                         "name": "Exp Writing Lab A1",
                         "location": "A-Mehran 2",
                         "time": "11:30-02:20"
@@ -4092,7 +4102,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Pak Studies",
+                        "name": "Pak Studies [Cancelled]",
                         "location": "C-303",
                         "time": "11:30-01:15"
                     },
