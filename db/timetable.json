@@ -225,7 +225,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "D-303",
                         "time": "10:00-11:20"
                     },
@@ -259,7 +259,7 @@
                 ],
                 "C": [
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "D-302",
                         "time": "08:30-09:50"
                     },
@@ -1134,7 +1134,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Comp Net Lab",
+                        "name": "Comp Net Lab [Cancelled]",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
                     }
@@ -1143,7 +1143,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "D-501",
                         "time": "01:00-02:20"
                     },
