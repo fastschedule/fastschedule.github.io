@@ -17,11 +17,6 @@
                         "name": "MV Calculus",
                         "location": "C-303",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Exp Writing [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "E": [
@@ -230,7 +225,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "D-303",
                         "time": "10:00-11:20"
                     },
@@ -264,7 +259,7 @@
                 ],
                 "C": [
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "D-302",
                         "time": "08:30-09:50"
                     },
@@ -446,7 +441,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "DIP [Cancelled]",
+                        "name": "DIP",
                         "location": "D-311",
                         "time": "01:00-02:20"
                     },
@@ -565,11 +560,6 @@
                         "name": "MV Calculus",
                         "location": "C-308",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "OOP [ReSch]",
-                        "location": "C-308",
-                        "time": "01:00-02:00"
                     }
                 ],
                 "B": [
@@ -1097,15 +1087,6 @@
                         "time": "02:30-05:15"
                     }
                 ]
-            },
-            "2025": {
-                "A": [
-                    {
-                        "name": "DLD Lab [ReSch]",
-                        "location": "B-Digital",
-                        "time": "11:30-02:20"
-                    }
-                ]
             }
         },
         "BS CY": {
@@ -1144,7 +1125,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Comp Net Lab [Cancelled]",
+                        "name": "Comp Net Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
                     }
@@ -1153,7 +1134,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "D-501",
                         "time": "01:00-02:20"
                     },
@@ -3735,6 +3716,28 @@
         },
         "BS DS": {
             "2025": {
+                "B": [
+                    {
+                        "name": "Exp Writing Lab B1 [ReSch]",
+                        "location": "C-308",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Exp Writing",
+                        "location": "C-311",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab B2 [ReSch]",
+                        "location": "C-401",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "OOP Lab",
+                        "location": "C-Margala 3",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Exp Writing",
@@ -3755,23 +3758,6 @@
                         "name": "Exp Writing Lab A2",
                         "location": "A-Khyber-1",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-311",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab B2 [ReSch]",
-                        "location": "C-401",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "OOP Lab",
-                        "location": "C-Margala 3",
-                        "time": "08:30-11:20"
                     }
                 ]
             },
