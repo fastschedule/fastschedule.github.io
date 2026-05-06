@@ -100,11 +100,6 @@
                         "name": "Discrete",
                         "location": "C-303",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Pak Studies [ReSch]",
-                        "location": "C-305",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "H": [
@@ -635,20 +630,6 @@
                     }
                 ]
             },
-            "2022": {
-                "B": [
-                    {
-                        "name": "Fin Mgt [ReSch]",
-                        "location": "C-406",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Fin Mgt [ReSch]",
-                        "location": "D-413",
-                        "time": "08:30-09:50"
-                    }
-                ]
-            },
             "2023": {
                 "A": [
                     {
@@ -789,13 +770,6 @@
                         "location": "C-311",
                         "time": "02:00-03:45"
                     }
-                ],
-                "C": [
-                    {
-                        "name": "Data Mining [ReSch]",
-                        "location": "C-Rawal 1",
-                        "time": "10:00-11:20"
-                    }
                 ]
             },
             "2022": {
@@ -907,7 +881,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "AI Lab [Cancelled]",
+                        "name": "AI Lab",
                         "location": "D-IT Lab 2",
                         "time": "11:30-02:20"
                     }
@@ -982,11 +956,6 @@
                         "name": "Exp Writing",
                         "location": "C-404",
                         "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "MV Calculus [ReSch]",
-                        "location": "D-302",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "DLD Lab",
@@ -1336,28 +1305,6 @@
                 ]
             },
             "2024": {
-                "B": [
-                    {
-                        "name": "TBW [ReSch]",
-                        "location": "D-401",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-501",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-503",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-110",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "A": [
                     {
                         "name": "TBW",
@@ -1372,6 +1319,23 @@
                     {
                         "name": "COAL",
                         "location": "D-502",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Net",
+                        "location": "D-501",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-503",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-110",
                         "time": "10:00-11:20"
                     }
                 ]
@@ -2431,7 +2395,7 @@
             "2024": {
                 "A": [
                     {
-                        "name": "DB",
+                        "name": "DB [Cancelled]",
                         "location": "C-404",
                         "time": "08:30-09:50"
                     },
@@ -3422,7 +3386,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Exp Writing Lab B2",
+                        "name": "Exp Writing Lab B2 [Cancelled]",
                         "location": "A-CALL-1",
                         "time": "02:30-05:15"
                     }
@@ -3478,6 +3442,11 @@
                         "name": "Comp Vision",
                         "location": "D-405",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Art Neural Net [ReSch]",
+                        "location": "D-416",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
