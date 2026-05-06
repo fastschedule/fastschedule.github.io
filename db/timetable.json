@@ -3480,6 +3480,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "AI Lab",
                         "location": "C-Margala 3",
                         "time": "08:30-11:20"
@@ -3495,6 +3500,11 @@
                         "name": "OS",
                         "location": "D-405",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "DB Lab",
@@ -3523,7 +3533,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled Reserved]",
                         "location": "C-310",
                         "time": "11:30-12:50"
                     },
@@ -3720,9 +3730,9 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "MV Calculus",
+                        "name": "MV Calculus [Cancelled Reserved]",
                         "location": "C-401",
-                        "time": "01:00-02:20"
+                        "time": "N/A"
                     },
                     {
                         "name": "MV Calculus [ReSch]",
@@ -4055,6 +4065,11 @@
             "2024": {
                 "A": [
                     {
+                        "name": "TBW [ReSch]",
+                        "location": "D-501",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "Algo",
                         "location": "D-502",
                         "time": "08:30-09:50"
@@ -4068,6 +4083,11 @@
                         "name": "TBW",
                         "location": "D-502",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "TBW [ReSch]",
+                        "location": "D-502",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -4145,6 +4165,11 @@
                         "name": "PPIT",
                         "location": "D-504",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-505",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
@@ -4161,9 +4186,9 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [ReSch]",
                         "location": "D-505",
-                        "time": "02:30-03:50"
+                        "time": "03:55-05:15"
                     }
                 ],
                 "B": [
@@ -4238,8 +4263,8 @@
                     },
                     {
                         "name": "Prob & Stats [ReSch]",
-                        "location": "C-301",
-                        "time": "03:55-05:15"
+                        "location": "D-501",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -4252,6 +4277,18 @@
                         "name": "Prob & Stats [ReSch]",
                         "location": "C-304",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Prob & Stats [ReSch]",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -4928,6 +4965,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "Comp Net [ReSch]",
+                        "location": "D-403",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "PDC",
                         "location": "D-403",
                         "time": "01:00-02:20"
@@ -4938,6 +4980,11 @@
                         "name": "NLP",
                         "location": "D-402",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Net [ReSch]",
+                        "location": "D-402",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "PDC",
@@ -5014,11 +5061,6 @@
             "2025": {
                 "A": [
                     {
-                        "name": "OOP",
-                        "location": "C-310",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "DLD",
                         "location": "C-310",
                         "time": "10:00-11:20"
@@ -5039,11 +5081,6 @@
                         "name": "MV Calculus",
                         "location": "C-311",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "OOP",
-                        "location": "C-311",
-                        "time": "10:00-11:20"
                     },
                     {
                         "name": "DLD",
@@ -5186,11 +5223,6 @@
                         "name": "MV Calculus",
                         "location": "C-402",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Seerah & UHQ-I",
-                        "location": "C-402",
-                        "time": "02:00-03:45"
                     }
                 ],
                 "B": [
@@ -5867,11 +5899,6 @@
             "2025": {
                 "A": [
                     {
-                        "name": "OOP",
-                        "location": "C-308",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "DLD",
                         "location": "C-308",
                         "time": "10:00-11:20"
@@ -6025,11 +6052,6 @@
                         "name": "DLD",
                         "location": "C-401",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Seerah & UHQ-I",
-                        "location": "C-401",
-                        "time": "02:00-03:45"
                     }
                 ],
                 "D": [
