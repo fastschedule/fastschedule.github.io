@@ -1827,23 +1827,6 @@
                         "time": "08:30-10:15"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "Exp Writing",
-                        "location": "C-305",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab C1",
-                        "location": "A-CALL-2",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Exp Writing Lab C2",
-                        "location": "A-CALL-3",
-                        "time": "02:30-05:15"
-                    }
-                ],
                 "J": [
                     {
                         "name": "OOP",
@@ -1888,6 +1871,18 @@
                         "name": "Exp Writing Lab D2",
                         "location": "A-CALL-3",
                         "time": "08:30-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Exp Writing Lab C1",
+                        "location": "A-CALL-2",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Exp Writing Lab C2",
+                        "location": "A-CALL-3",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
