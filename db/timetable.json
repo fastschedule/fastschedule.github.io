@@ -659,7 +659,7 @@
                 ],
                 "B": [
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "D-405",
                         "time": "01:00-02:20"
                     },
@@ -716,7 +716,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "OS",
+                        "name": "OS [Cancelled]",
                         "location": "D-406",
                         "time": "01:00-02:20"
                     },
@@ -739,7 +739,7 @@
                     },
                     {
                         "name": "OS",
-                        "location": "D-411",
+                        "location": "D-405",
                         "time": "11:30-12:50"
                     },
                     {
@@ -1435,7 +1435,7 @@
             "2023": {
                 "A": [
                     {
-                        "name": "SPM [Auditorium]",
+                        "name": "SPM [Auditorium (D-Block)]",
                         "location": "C-402",
                         "time": "08:30-09:50"
                     },
@@ -1452,7 +1452,7 @@
                 ],
                 "B": [
                     {
-                        "name": "SPM [Auditorium]",
+                        "name": "SPM [Auditorium (D-Block)]",
                         "location": "C-403",
                         "time": "08:30-09:50"
                     },
