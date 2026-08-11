@@ -788,12 +788,12 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Prog for AI",
+                        "name": "Data St",
                         "location": "D-303",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Data St",
+                        "name": "Prog for AI",
                         "location": "D-303",
                         "time": "01:00-02:20"
                     }
@@ -3266,7 +3266,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Prog for AI",
+                        "name": "Data St",
                         "location": "D-304",
                         "time": "10:00-11:20"
                     },
@@ -3276,7 +3276,7 @@
                         "time": "12:00-12:55"
                     },
                     {
-                        "name": "Data St",
+                        "name": "Prog for AI",
                         "location": "D-304",
                         "time": "01:00-02:20"
                     }
