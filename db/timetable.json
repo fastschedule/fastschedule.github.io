@@ -302,6 +302,11 @@
                         "time": "05:20-06:40"
                     },
                     {
+                        "name": "Math Foundations of AI",
+                        "location": "C-402",
+                        "time": "05:20-06:40"
+                    },
+                    {
                         "name": "App HCI",
                         "location": "D-404",
                         "time": "08:30-09:50"
@@ -327,6 +332,11 @@
                         "name": "Research Methodology",
                         "location": "C-401",
                         "time": "05:20-06:40"
+                    },
+                    {
+                        "name": "Math Foundations of AI",
+                        "location": "C-402",
+                        "time": "06:45-08:05"
                     },
                     {
                         "name": "App HCI",
@@ -2766,6 +2776,11 @@
                         "time": "05:20-06:40"
                     },
                     {
+                        "name": "Math Foundations of AI",
+                        "location": "C-402",
+                        "time": "05:20-06:40"
+                    },
+                    {
                         "name": "App HCI",
                         "location": "D-405",
                         "time": "08:30-09:50"
@@ -2791,6 +2806,11 @@
                         "name": "Research Methodology",
                         "location": "C-401",
                         "time": "05:20-06:40"
+                    },
+                    {
+                        "name": "Math Foundations of AI",
+                        "location": "C-402",
+                        "time": "06:45-08:05"
                     },
                     {
                         "name": "App HCI",
