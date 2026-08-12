@@ -899,16 +899,6 @@
             "2023": {
                 "A": [
                     {
-                        "name": "Blockchain",
-                        "location": "D-315",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI Prod Dev",
-                        "location": "D-315",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "Business Research",
                         "location": "D-316",
                         "time": "08:30-09:50"
@@ -924,8 +914,18 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Multiagent Sys",
+                        "name": "AI Prod Dev",
                         "location": "D-316",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Blockchain",
+                        "location": "D-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Multiagent Sys",
+                        "location": "D-401",
                         "time": "02:30-03:50"
                     }
                 ],
@@ -2127,7 +2127,7 @@
                     },
                     {
                         "name": "Data Ware & BI",
-                        "location": "D-315",
+                        "location": "D-314",
                         "time": "08:30-09:50"
                     },
                     {
@@ -2196,6 +2196,23 @@
                 ]
             },
             "2025": {
+                "B": [
+                    {
+                        "name": "Data St",
+                        "location": "D-312",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Intro to DS",
+                        "location": "D-313",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-313",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "COAL",
@@ -2211,23 +2228,6 @@
                         "name": "Data St",
                         "location": "D-314",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Intro to DS",
-                        "location": "D-313",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-313",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-314",
-                        "time": "08:30-09:50"
                     }
                 ]
             },
@@ -3409,7 +3409,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Blockchain",
+                        "name": "Edge Comp [23]",
                         "location": "D-402",
                         "time": "01:00-02:20"
                     },
@@ -3429,9 +3429,9 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Edge Comp [23]",
+                        "name": "Blockchain",
                         "location": "D-403",
-                        "time": "01:00-02:20"
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Multiagent Sys",
@@ -4843,7 +4843,7 @@
                     },
                     {
                         "name": "Data Ware & BI",
-                        "location": "D-316",
+                        "location": "D-315",
                         "time": "08:30-09:50"
                     },
                     {
@@ -4871,6 +4871,23 @@
                 ]
             },
             "2025": {
+                "B": [
+                    {
+                        "name": "Data St",
+                        "location": "D-313",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Intro to DS",
+                        "location": "D-314",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-315",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "COAL",
@@ -4885,23 +4902,6 @@
                     {
                         "name": "Data St",
                         "location": "D-314",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Intro to DS",
-                        "location": "D-314",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-315",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-315",
                         "time": "01:00-02:20"
                     }
                 ]
