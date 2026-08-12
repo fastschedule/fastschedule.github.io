@@ -2234,14 +2234,14 @@
             "2023": {
                 "A": [
                     {
-                        "name": "Comp Net",
-                        "location": "D-316",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Multiagent Sys",
                         "location": "D-316",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-316",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Agentic AI",
@@ -3838,7 +3838,7 @@
                     {
                         "name": "Islamic",
                         "location": "C-301",
-                        "time": "12:30-02:15"
+                        "time": "01:00-02:45"
                     }
                 ],
                 "A": [
@@ -3872,7 +3872,7 @@
                     {
                         "name": "Ideology of Pak",
                         "location": "C-302",
-                        "time": "12:30-02:15"
+                        "time": "01:00-02:45"
                     }
                 ],
                 "H": [
@@ -4932,8 +4932,8 @@
                     },
                     {
                         "name": "Comp Net",
-                        "location": "D-401",
-                        "time": "08:30-09:50"
+                        "location": "D-316",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Agentic AI",
