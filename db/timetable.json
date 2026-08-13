@@ -153,7 +153,7 @@
                     },
                     {
                         "name": "Data St Lab",
-                        "location": "C-Margala 1",
+                        "location": "Margala 1 (C-209)",
                         "time": "02:30-05:15"
                     }
                 ],
@@ -289,7 +289,7 @@
                     },
                     {
                         "name": "Data St Lab",
-                        "location": "C-Margala 4",
+                        "location": "Margala 4 (C-212",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -504,7 +504,7 @@
                     },
                     {
                         "name": "Comp Net Lab",
-                        "location": "C-Rawal 1",
+                        "location": "Rawal 1 (C-509)",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -521,7 +521,7 @@
                     },
                     {
                         "name": "Comp Net Lab",
-                        "location": "C-Rawal 1",
+                        "location": "Rawal 1 (C-509)",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -576,7 +576,7 @@
                     },
                     {
                         "name": "AI Lab",
-                        "location": "C-Margala 3",
+                        "location": "Margala 3 (C-211)",
                         "time": "11:30-02:20"
                     }
                 ]
@@ -629,7 +629,7 @@
                     },
                     {
                         "name": "IICT",
-                        "location": "C-Margala 3",
+                        "location": "Margala 3 (C-211)",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -704,7 +704,7 @@
                     },
                     {
                         "name": "Data St Lab",
-                        "location": "C-Margala 4",
+                        "location": "Margala 4 (C-212",
                         "time": "02:30-05:15"
                     }
                 ],
@@ -721,7 +721,7 @@
                     },
                     {
                         "name": "COAL Lab",
-                        "location": "C-Margala 4",
+                        "location": "Margala 4 (C-212",
                         "time": "11:30-02:20"
                     }
                 ]
@@ -874,7 +874,7 @@
                     },
                     {
                         "name": "Comp Net Lab",
-                        "location": "C-Rawal 4",
+                        "location": "C-Rawal 4 (C-512)",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -891,7 +891,7 @@
                     },
                     {
                         "name": "ML Lab",
-                        "location": "C-Rawal 3 (GPU)",
+                        "location": "Rawal 3-GPU (C-511)",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -953,7 +953,7 @@
                     },
                     {
                         "name": "IICT Lab",
-                        "location": "C-Margala 1",
+                        "location": "Margala 1 (C-209)",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -965,7 +965,7 @@
                     },
                     {
                         "name": "PF Lab",
-                        "location": "C-Margala 1",
+                        "location": "Margala 1 (C-209)",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -984,7 +984,7 @@
                     },
                     {
                         "name": "Data St Lab",
-                        "location": "C-Margala 3",
+                        "location": "Margala 3 (C-211)",
                         "time": "02:30-05:15"
                     }
                 ],
@@ -1020,7 +1020,7 @@
                     },
                     {
                         "name": "DAV Lab",
-                        "location": "C-Rawal 3 (GPU)",
+                        "location": "Rawal 3-GPU (C-511)",
                         "time": "02:30-05:15"
                     }
                 ],
@@ -1037,7 +1037,7 @@
                     },
                     {
                         "name": "Data Ware & BI Lab",
-                        "location": "C-Rawal 4",
+                        "location": "C-Rawal 4 (C-512)",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -1075,7 +1075,7 @@
                     },
                     {
                         "name": "Comp Net Lab",
-                        "location": "C-Rawal 4",
+                        "location": "C-Rawal 4 (C-512)",
                         "time": "08:30-11:20"
                     }
                 ]
