@@ -459,7 +459,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Comp Net",
+                        "name": "Comp Net [Cancelled]",
                         "location": "C-404",
                         "time": "08:30-09:50"
                     },
@@ -476,7 +476,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Comp Net",
+                        "name": "Comp Net [Cancelled]",
                         "location": "C-404",
                         "time": "10:00-11:20"
                     },
@@ -1085,7 +1085,7 @@
             "2025": {
                 "A": [
                     {
-                        "name": "Cy Sec",
+                        "name": "Data St",
                         "location": "D-414",
                         "time": "08:30-09:50"
                     },
@@ -1095,14 +1095,14 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Data St",
+                        "name": "Cy Sec",
                         "location": "D-414",
                         "time": "01:00-02:20"
                     }
                 ],
                 "B": [
                     {
-                        "name": "Cy Sec",
+                        "name": "Data St",
                         "location": "D-415",
                         "time": "10:00-11:20"
                     },
@@ -1112,7 +1112,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Data St",
+                        "name": "Cy Sec",
                         "location": "D-415",
                         "time": "02:30-03:50"
                     }
@@ -3690,19 +3690,19 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Cy Sec",
+                        "name": "Data St",
                         "location": "D-501",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Data St",
+                        "name": "Cy Sec",
                         "location": "D-502",
                         "time": "02:30-03:50"
                     }
                 ],
                 "A": [
                     {
-                        "name": "Cy Sec",
+                        "name": "Data St",
                         "location": "D-501",
                         "time": "08:30-09:50"
                     },
@@ -3712,7 +3712,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Data St",
+                        "name": "Cy Sec",
                         "location": "D-501",
                         "time": "01:00-02:20"
                     }
