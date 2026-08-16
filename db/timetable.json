@@ -295,6 +295,33 @@
                 ]
             },
             "2023": {
+                "Electives": [
+                    {
+                        "name": "App Comp Vision",
+                        "location": "C-305",
+                        "time": "05:20-06:40"
+                    },
+                    {
+                        "name": "Agentic AI",
+                        "location": "C-305",
+                        "time": "06:45-08:05"
+                    },
+                    {
+                        "name": "Fund of SPM",
+                        "location": "D-404",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "D-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Embed Robo [(CS-Robo)]",
+                        "location": "D-413",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Research Methodology",
@@ -930,6 +957,13 @@
                         "location": "D-401",
                         "time": "10:00-11:20"
                     }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "11:30-02:20"
+                    }
                 ]
             }
         },
@@ -1068,6 +1102,13 @@
                         "location": "C-Rawal 4 (C-512)",
                         "time": "08:30-11:20"
                     }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "11:30-02:20"
+                    }
                 ]
             }
         },
@@ -1187,6 +1228,18 @@
                         "name": "Cloud Comp",
                         "location": "D-504",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -1455,6 +1508,13 @@
                         "name": "App HCI",
                         "location": "D-412",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Fund of Data Vis",
+                        "location": "D-412",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "F": [
@@ -2110,6 +2170,25 @@
                         "time": "11:30-02:20"
                     }
                 ]
+            },
+            "2023": {
+                "Electives": [
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "02:30-05:15"
+                    }
+                ]
             }
         },
         "BS DS": {
@@ -2271,6 +2350,23 @@
                         "name": "Comp Net Lab",
                         "location": "Margala 3 (C-211)",
                         "time": "11:30-02:20"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -2463,6 +2559,18 @@
                         "name": "Info Assur",
                         "location": "D-506",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "03:55-05:15"
                     }
                 ]
             }
@@ -2764,6 +2872,33 @@
                 ]
             },
             "2023": {
+                "Electives": [
+                    {
+                        "name": "App Comp Vision",
+                        "location": "C-305",
+                        "time": "05:20-06:40"
+                    },
+                    {
+                        "name": "Agentic AI",
+                        "location": "C-305",
+                        "time": "06:45-08:05"
+                    },
+                    {
+                        "name": "Fund of SPM",
+                        "location": "D-404",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "D-405",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Embed Robo [(CS-Robo)]",
+                        "location": "D-413",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Research Methodology",
@@ -3423,6 +3558,23 @@
                         "location": "D-403",
                         "time": "02:30-03:50"
                     }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "08:30-11:20"
+                    }
                 ]
             }
         },
@@ -3592,6 +3744,23 @@
                         "name": "Business Research",
                         "location": "D-401",
                         "time": "01:00-02:20"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
@@ -3806,6 +3975,18 @@
                         "name": "Security Ops",
                         "location": "Cyber (D-514)",
                         "time": "01:00-02:20"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -4067,6 +4248,13 @@
                         "name": "App HCI",
                         "location": "D-412",
                         "time": "08:30-09:50"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Fund of Data Vis",
+                        "location": "D-412",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "F": [
@@ -4768,6 +4956,40 @@
                         "time": "11:30-02:20"
                     }
                 ]
+            },
+            "2023": {
+                "Electives": [
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "02:30-05:15"
+                    }
+                ]
             }
         },
         "BS DS": {
@@ -4936,6 +5158,38 @@
                         "name": "Business Research",
                         "location": "D-401",
                         "time": "02:30-03:50"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -5156,6 +5410,18 @@
                         "location": "D-506",
                         "time": "11:30-12:50"
                     }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "03:55-05:15"
+                    }
                 ]
             }
         }
@@ -5319,6 +5585,30 @@
                         "time": "02:30-05:15"
                     }
                 ]
+            },
+            "2023": {
+                "Electives": [
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "02:30-05:15"
+                    }
+                ]
             }
         },
         "BS AI": {
@@ -5338,6 +5628,30 @@
                         "name": "Islamic",
                         "location": "C-309",
                         "time": "02:00-03:45"
+                    }
+                ]
+            },
+            "2023": {
+                "Electives": [
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "D-IT Lab 4 (GPU)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Project [(AI/DS)]",
+                        "location": "Rawal 3-GPU (C-511)",
+                        "time": "02:30-05:15"
                     }
                 ]
             }

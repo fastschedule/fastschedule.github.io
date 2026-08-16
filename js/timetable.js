@@ -3,15 +3,11 @@ let isLoading = false;
 
 function showLoading() {
     isLoading = true;
-    getTimetableBtn.innerHTML = '<span class="spinner"></span> Loading...';
-    getTimetableBtn.disabled = true;
     timetableDisplay.innerHTML = '<div class="loading-container"><div class="spinner"></div><p>Loading timetable data...</p></div>';
 }
 
 function hideLoading() {
     isLoading = false;
-    getTimetableBtn.innerHTML = 'Get Timetable';
-    getTimetableBtn.disabled = false;
 }
 
 async function loadTimetableData() {
@@ -37,7 +33,7 @@ const batchYearSelect = document.getElementById("batchYear");
 const daySelect = document.getElementById("day");
 const sectionSelect = document.getElementById("section");
 const timetableDisplay = document.getElementById("timetableDisplay");
-const getTimetableBtn = document.getElementById("getTimetableBtn");
+const electivesToggle = document.getElementById("electivesToggle");
 
 function loadDays() {
     daySelect.innerHTML = "<option>Select Day</option>";
@@ -150,10 +146,12 @@ function loadSections() {
 
         const sortedSections = [...allSections].sort();
         sortedSections.forEach(section => {
-            const option = document.createElement("option");
-            option.value = section;
-            option.textContent = section;
-            sectionSelect.appendChild(option);
+            if (section.toLowerCase() !== "electives") {
+                const option = document.createElement("option");
+                option.value = section;
+                option.textContent = section;
+                sectionSelect.appendChild(option);
+            }
         });
 
         const savedSection = localStorage.getItem("selectedSection");
@@ -178,6 +176,13 @@ function loadTimetable() {
     // No conversion needed - use day value as-is since dropdown now contains actual JSON keys
 
     let dayData = timetableData[day]?.[department]?.[batchYear]?.[section] || [];
+    dayData = [...dayData];
+
+    if (electivesToggle.checked) {
+        let electivesData = timetableData[day]?.[department]?.[batchYear]?.["Electives"] || [];
+        electivesData = electivesData.map(course => ({ ...course, isElective: true }));
+        dayData = dayData.concat(electivesData);
+    }
 
     if (dayData.length > 0) {
         const validEntries = [];
@@ -212,6 +217,9 @@ function loadTimetable() {
         const tbody = document.createElement("tbody");
         finalEntries.forEach(course => {
             const row = document.createElement("tr");
+            if (course.isElective) {
+                row.classList.add("elective-row");
+            }
             const tdName = document.createElement("td");
             tdName.textContent = course.name;
             // if (day === "Wednesday") {
@@ -239,6 +247,7 @@ function saveSelection() {
     localStorage.setItem("selectedDepartment", departmentSelect.value);
     localStorage.setItem("selectedBatchYear", batchYearSelect.value);
     localStorage.setItem("selectedSection", sectionSelect.value);
+    localStorage.setItem("electivesEnabled", electivesToggle.checked);
 }
 
 function setDefaultDay() {
@@ -259,7 +268,17 @@ function setDefaultDay() {
     }
 }
 
-// getTimetableBtn.addEventListener("click", loadTimetableData);      //TOO MANY REQUESTS SO BUTTON IS JUST FOR DECORATION (:
+// Load saved toggle state
+const savedElectivesState = localStorage.getItem("electivesEnabled");
+if (savedElectivesState !== null) {
+    electivesToggle.checked = savedElectivesState === "true";
+}
+
+electivesToggle.addEventListener("change", () => {
+    saveSelection();
+    loadTimetable();
+});
+
 departmentSelect.addEventListener("change", () => {
     saveSelection();
     loadSections();
