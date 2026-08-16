@@ -1,4 +1,9 @@
 {
+	"LRC": "1st Floor, Block-C",
+	"One Stop": "Ground Floor, Block-A",
+	"Academic Office": "2nd Floor, Block-C",
+	"A-Auditorium": "Ground Floor, Block-A",
+	"D-Auditorium": "Ground Floor, Block-D",
     "IT Labs (1 to 4)": "2nd Floor, Block-D",
     "Margala Labs (1 to 4)": "2nd Floor, Block-C",
     "Rawal Labs (1 & 4)": "5th Floor, Block-C",
@@ -9,6 +14,6 @@
     "Call Labs (1 & 2)": "2nd Floor, Block-A",
     "Call Lab 3": "3rd Floor, Block A",
     "Khyber Labs": "2nd Floor, Block-A",
-    "A-Auditorium": "Ground Floor, Block-A",
-    "D-Auditorium": "Ground Floor, Block-D"
+    "Protect Lab": "6th Floor, Block-D",
+    "Cyber Lab": "5th Floor, Block-D (D-514)"
 }
