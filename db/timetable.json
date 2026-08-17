@@ -559,7 +559,7 @@
                     },
                     {
                         "name": "S/w Const",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -646,7 +646,7 @@
                     },
                     {
                         "name": "IICT",
-                        "location": "Margala 3 (C-211)",
+                        "location": "Margala 1 (C-209)",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -728,12 +728,12 @@
                 "D": [
                     {
                         "name": "LA",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "UHQ-II",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "10:00-10:55"
                     },
                     {
@@ -747,7 +747,7 @@
                 "A": [
                     {
                         "name": "Info Sec",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "11:30-12:50"
                     }
                 ],
@@ -810,11 +810,6 @@
             "2025": {
                 "A": [
                     {
-                        "name": "Prog for AI",
-                        "location": "D-302",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "COAL",
                         "location": "D-303",
                         "time": "08:30-09:50"
@@ -823,6 +818,11 @@
                         "name": "Data St",
                         "location": "D-303",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Prog for AI",
+                        "location": "D-311",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -967,6 +967,138 @@
                 ]
             }
         },
+        "BS CY": {
+            "2023": {
+                "A": [
+                    {
+                        "name": "Blockchain",
+                        "location": "D-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Security Ops [CY Lab]",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Cloud Comp [Cancelled]",
+                        "location": "D-504",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Security Ops",
+                        "location": "Cyber (D-514)",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Blockchain",
+                        "location": "D-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Security Ops",
+                        "location": "D-503",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cloud Comp [Cancelled]",
+                        "location": "D-504",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2025": {
+                "A": [
+                    {
+                        "name": "Data St",
+                        "location": "D-414",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-414",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cy Sec",
+                        "location": "D-414",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Data St",
+                        "location": "D-415",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-415",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Cy Sec",
+                        "location": "D-415",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "UHQ-II",
+                        "location": "D-416",
+                        "time": "08:30-09:25"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-416",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "Cyber (D-514)",
+                        "time": "11:30-02:20"
+                    }
+                ]
+            },
+            "2024": {
+                "C": [
+                    {
+                        "name": "AI",
+                        "location": "D-501",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-501",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Web Prog",
+                        "location": "D-501",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-501",
+                        "time": "02:30-03:50"
+                    }
+                ]
+            }
+        },
         "BS DS": {
             "2026": {
                 "A": [
@@ -989,7 +1121,7 @@
                     },
                     {
                         "name": "PF Lab",
-                        "location": "Margala 1 (C-209)",
+                        "location": "Margala 3 (C-211)",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -1108,138 +1240,6 @@
                         "name": "Project [(AI/DS)]",
                         "location": "Rawal 3-GPU (C-511)",
                         "time": "11:30-02:20"
-                    }
-                ]
-            }
-        },
-        "BS CY": {
-            "2025": {
-                "A": [
-                    {
-                        "name": "Data St",
-                        "location": "D-414",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-414",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cy Sec",
-                        "location": "D-414",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Data St",
-                        "location": "D-415",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-415",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Cy Sec",
-                        "location": "D-415",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "UHQ-II",
-                        "location": "D-416",
-                        "time": "08:30-09:25"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "D-416",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "Cyber (D-514)",
-                        "time": "11:30-02:20"
-                    }
-                ]
-            },
-            "2024": {
-                "C": [
-                    {
-                        "name": "AI",
-                        "location": "D-501",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-501",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Web Prog",
-                        "location": "D-501",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-501",
-                        "time": "02:30-03:50"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "Blockchain",
-                        "location": "D-502",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Security Ops [CY Lab]",
-                        "location": "D-503",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Cloud Comp [Cancelled]",
-                        "location": "D-504",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Security Ops",
-                        "location": "Cyber (D-514)",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Blockchain",
-                        "location": "D-502",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Security Ops",
-                        "location": "D-503",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cloud Comp [Cancelled]",
-                        "location": "D-504",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "Electives": [
-                    {
-                        "name": "Project",
-                        "location": "Cyber (D-514)",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Project",
-                        "location": "Cyber (D-514)",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -1971,12 +1971,12 @@
                 "B": [
                     {
                         "name": "S/w Quality Engg",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "TBW",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "10:00-11:20"
                     },
                     {
@@ -2000,7 +2000,7 @@
                     },
                     {
                         "name": "Gen AI",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "11:30-12:50"
                     },
                     {
@@ -2017,7 +2017,7 @@
                     },
                     {
                         "name": "Gen AI",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3138,12 +3138,12 @@
                     },
                     {
                         "name": "Algo",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "AI",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "10:00-11:20"
                     }
                 ],
@@ -3322,7 +3322,7 @@
                     },
                     {
                         "name": "Intro to SE",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "01:00-02:20"
                     }
                 ]
@@ -3331,7 +3331,7 @@
                 "A": [
                     {
                         "name": "Info Sec",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "11:30-12:50"
                     }
                 ],
@@ -4631,12 +4631,12 @@
                 "A": [
                     {
                         "name": "TBW",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "S/w Quality Engg",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "10:00-11:20"
                     },
                     {
@@ -4764,7 +4764,7 @@
                     },
                     {
                         "name": "Gen AI",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "11:30-12:50"
                     },
                     {
@@ -4781,7 +4781,7 @@
                     },
                     {
                         "name": "Gen AI",
-                        "location": "C-608",
+                        "location": "C-607",
                         "time": "01:00-02:20"
                     },
                     {
