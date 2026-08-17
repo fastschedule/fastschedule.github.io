@@ -1450,7 +1450,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Audi-Grd Flr, Block-D]",
                         "location": "D-405",
                         "time": "10:00-11:20"
                     },
@@ -1489,7 +1489,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Audi-Grd Flr, Block-D]",
                         "location": "D-411",
                         "time": "10:00-11:20"
                     }
@@ -1809,6 +1809,11 @@
                         "name": "Info Sec",
                         "location": "D-503",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "DB",
@@ -2773,6 +2778,23 @@
                         "time": "01:00-02:20"
                     }
                 ],
+                "E": [
+                    {
+                        "name": "SDA",
+                        "location": "C-308",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-310",
+                        "time": "02:30-03:50"
+                    }
+                ],
                 "C": [
                     {
                         "name": "SDA",
@@ -2805,23 +2827,6 @@
                         "name": "SDA",
                         "location": "C-310",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Data St",
-                        "location": "C-310",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "C-310",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "SDA",
-                        "location": "C-311",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "G": [
