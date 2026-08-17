@@ -1201,6 +1201,11 @@
             "2023": {
                 "C": [
                     {
+                        "name": "Multiagent Sys",
+                        "location": "D-316",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Comp Net",
                         "location": "D-402",
                         "time": "01:00-02:20"
@@ -3715,6 +3720,11 @@
                         "name": "Comp Net",
                         "location": "D-315",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Multiagent Sys",
+                        "location": "D-402",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
