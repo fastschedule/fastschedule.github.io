@@ -373,7 +373,7 @@
                 ],
                 "C": [
                     {
-                        "name": "App HCI",
+                        "name": "App HCI [Cancelled]",
                         "location": "D-405",
                         "time": "08:30-09:50"
                     },
@@ -385,7 +385,7 @@
                 ],
                 "D": [
                     {
-                        "name": "App HCI",
+                        "name": "App HCI [Cancelled]",
                         "location": "D-405",
                         "time": "10:00-11:20"
                     }
@@ -481,7 +481,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "App HCI [Cancelled]",
+                        "name": "App HCI",
                         "location": "C-405",
                         "time": "11:30-12:50"
                     },
@@ -503,7 +503,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "App HCI [Cancelled]",
+                        "name": "App HCI",
                         "location": "C-404",
                         "time": "01:00-02:20"
                     }
@@ -1203,7 +1203,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Cloud Comp",
+                        "name": "Cloud Comp [Cancelled]",
                         "location": "D-504",
                         "time": "11:30-12:50"
                     },
@@ -1225,7 +1225,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Cloud Comp",
+                        "name": "Cloud Comp [Cancelled]",
                         "location": "D-504",
                         "time": "10:00-11:20"
                     }
