@@ -2112,8 +2112,8 @@
                 ],
                 "A": [
                     {
-                        "name": "Pak Studies",
-                        "location": "C-602",
+                        "name": "Pak Studies [Room]",
+                        "location": "B-129",
                         "time": "11:30-01:15"
                     },
                     {
@@ -4578,11 +4578,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DB",
-                        "location": "D-301",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Info Sec",
                         "location": "D-503",
                         "time": "08:30-09:50"
@@ -4594,13 +4589,40 @@
                     },
                     {
                         "name": "DB",
-                        "location": "D-301",
+                        "location": "D-503",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "AI",
                         "location": "D-503",
                         "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "DB",
+                        "location": "D-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-504",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DB",
+                        "location": "D-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-504",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "D-504",
+                        "time": "03:55-05:15"
                     }
                 ],
                 "C": [
@@ -4618,28 +4640,6 @@
                         "name": "OS Lab",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Info Sec",
-                        "location": "D-504",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DB",
-                        "location": "D-504",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-504",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "D-504",
-                        "time": "03:55-05:15"
                     }
                 ]
             },
