@@ -1351,12 +1351,12 @@
                     },
                     {
                         "name": "Func Eng Lab A1",
-                        "location": "Kybher-3",
+                        "location": "Kybher-2",
                         "time": "11:30-02:20"
                     },
                     {
                         "name": "Func Eng Lab A2",
-                        "location": "Kybher-4",
+                        "location": "Kybher-3",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -3393,23 +3393,6 @@
                         "time": "01:00-02:45"
                     }
                 ],
-                "B": [
-                    {
-                        "name": "Ideology of Pak",
-                        "location": "D-302",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "PF",
-                        "location": "D-302",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Calculus",
-                        "location": "D-302",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "C": [
                     {
                         "name": "Func Eng",
@@ -3420,6 +3403,23 @@
                         "name": "IICT Lab",
                         "location": "IT Lab 3 (D-213)",
                         "time": "11:30-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "D-311",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "PF",
+                        "location": "D-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Calculus",
+                        "location": "D-311",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -3487,23 +3487,6 @@
                 ]
             },
             "2024": {
-                "A": [
-                    {
-                        "name": "Knowl Rep",
-                        "location": "D-311",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "D-311",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-311",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Algo",
@@ -3536,6 +3519,23 @@
                         "name": "Comp Net Lab",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "08:30-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Algo",
+                        "location": "D-314",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-314",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Knowl Rep",
+                        "location": "D-315",
+                        "time": "08:30-09:50"
                     }
                 ]
             },
@@ -3796,6 +3796,69 @@
             }
         },
         "BS CY": {
+            "2023": {
+                "A": [
+                    {
+                        "name": "Blockchain",
+                        "location": "D-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Blockchain [Room]",
+                        "location": "D-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Security Ops",
+                        "location": "D-505",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-506",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Blockchain",
+                        "location": "D-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Blockchain [Room]",
+                        "location": "D-302",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Security Ops [CY Lab]",
+                        "location": "D-505",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-506",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Security Ops",
+                        "location": "Cyber (D-514)",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
             "2026": {
                 "B": [
                     {
@@ -3964,59 +4027,6 @@
                         "name": "AI Lab",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "11:30-02:20"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "Blockchain",
-                        "location": "D-504",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Security Ops",
-                        "location": "D-505",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-506",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Blockchain",
-                        "location": "D-504",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Security Ops [CY Lab]",
-                        "location": "D-505",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-506",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Security Ops",
-                        "location": "Cyber (D-514)",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "Electives": [
-                    {
-                        "name": "Project",
-                        "location": "Cyber (D-514)",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Project",
-                        "location": "Cyber (D-514)",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
