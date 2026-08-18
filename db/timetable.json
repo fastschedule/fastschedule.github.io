@@ -313,12 +313,17 @@
                     },
                     {
                         "name": "SMD",
-                        "location": "D-405",
+                        "location": "C-110",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Embed Robo [(CS-Robo)]",
                         "location": "D-413",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "C-110",
                         "time": "11:30-12:50"
                     }
                 ],
@@ -1826,27 +1831,20 @@
                         "time": "02:30-03:50"
                     }
                 ],
-                "C": [
+                "B": [
                     {
                         "name": "DB",
-                        "location": "D-503",
-                        "time": "01:00-02:20"
+                        "location": "D-302",
+                        "time": "11:30-12:50"
                     },
-                    {
-                        "name": "DB Lab",
-                        "location": "Cyber (D-514)",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "B": [
                     {
                         "name": "Info Sec",
                         "location": "D-504",
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DB",
-                        "location": "D-504",
+                        "name": "DB [Room]",
+                        "location": "D-302",
                         "time": "11:30-12:50"
                     },
                     {
@@ -1858,6 +1856,18 @@
                         "name": "AI",
                         "location": "D-504",
                         "time": "03:55-05:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "DB",
+                        "location": "D-503",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DB Lab",
+                        "location": "Cyber (D-514)",
+                        "time": "08:30-11:20"
                     }
                 ]
             },
@@ -2900,12 +2910,17 @@
                     },
                     {
                         "name": "SMD",
-                        "location": "D-405",
+                        "location": "C-110",
                         "time": "01:00-02:20"
                     },
                     {
                         "name": "Embed Robo [(CS-Robo)]",
                         "location": "D-413",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "SMD",
+                        "location": "N/A",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -5111,7 +5126,7 @@
                     },
                     {
                         "name": "LA",
-                        "location": "D-402",
+                        "location": "D-311",
                         "time": "01:00-02:20"
                     },
                     {
@@ -5144,14 +5159,14 @@
                 ],
                 "B": [
                     {
+                        "name": "LA",
+                        "location": "D-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Pak Studies",
                         "location": "D-402",
                         "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "D-402",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Data St Lab",
@@ -5249,13 +5264,44 @@
             }
         },
         "BS DS": {
+            "2024": {
+                "A": [
+                    {
+                        "name": "Adv Stats",
+                        "location": "D-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data Ware & BI",
+                        "location": "D-315",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "DAV",
+                        "location": "D-401",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Adv Stats",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Data Ware & BI",
+                        "location": "D-315",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "DAV",
+                        "location": "D-316",
+                        "time": "02:30-03:50"
+                    }
+                ]
+            },
             "2026": {
                 "C": [
-                    {
-                        "name": "Ideology of Pak",
-                        "location": "D-302",
-                        "time": "10:30-12:15"
-                    },
                     {
                         "name": "Seerah",
                         "location": "D-306",
@@ -5263,8 +5309,13 @@
                     },
                     {
                         "name": "PF",
-                        "location": "D-311",
+                        "location": "D-306",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "D-402",
+                        "time": "10:30-12:15"
                     }
                 ],
                 "A": [
@@ -5299,42 +5350,6 @@
                         "name": "Ideology of Pak",
                         "location": "D-313",
                         "time": "02:00-03:45"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "Adv Stats",
-                        "location": "D-303",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Data Ware & BI",
-                        "location": "D-315",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DAV",
-                        "location": "D-401",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Adv Stats",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data Ware & BI",
-                        "location": "D-315",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DAV",
-                        "location": "D-316",
-                        "time": "02:30-03:50"
                     }
                 ]
             },
