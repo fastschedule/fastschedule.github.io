@@ -1396,10 +1396,52 @@
                 ]
             },
             "2023": {
-                "B": [
+                "A": [
+                    {
+                        "name": "Adv AI",
+                        "location": "C-303",
+                        "time": "05:20-06:40"
+                    },
                     {
                         "name": "App Prog",
                         "location": "C-303",
+                        "time": "06:45-08:05"
+                    },
+                    {
+                        "name": "Research Methodology",
+                        "location": "C-310",
+                        "time": "06:45-08:05"
+                    },
+                    {
+                        "name": "PPIT",
+                        "location": "D-404",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "MLOps",
+                        "location": "D-404",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Agentic AI",
+                        "location": "D-406",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "App Prog",
+                        "location": "C-304",
                         "time": "05:20-06:40"
                     },
                     {
@@ -1431,48 +1473,6 @@
                         "name": "MLOps",
                         "location": "D-413",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "App Prog",
-                        "location": "C-303",
-                        "time": "06:45-08:05"
-                    },
-                    {
-                        "name": "Adv AI",
-                        "location": "C-304",
-                        "time": "05:20-06:40"
-                    },
-                    {
-                        "name": "Research Methodology",
-                        "location": "C-310",
-                        "time": "06:45-08:05"
-                    },
-                    {
-                        "name": "PPIT",
-                        "location": "D-404",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-404",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "MLOps",
-                        "location": "D-404",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-405",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-406",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
