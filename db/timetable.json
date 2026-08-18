@@ -1811,7 +1811,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS",
+                        "name": "OS [Room]",
                         "location": "C-307",
                         "time": "10:00-11:20"
                     },
@@ -1909,7 +1909,7 @@
                     },
                     {
                         "name": "PF Lab",
-                        "location": "Margala 3 (C-211)",
+                        "location": "Margala 1 (C-209)",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -2327,7 +2327,7 @@
                     },
                     {
                         "name": "COAL Lab",
-                        "location": "Margala 1 (C-209)",
+                        "location": "Margala 3 (C-211)",
                         "time": "08:30-11:20"
                     }
                 ]
