@@ -445,7 +445,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Comp Net [Cancelled]",
+                        "name": "Comp Net",
                         "location": "C-402",
                         "time": "01:00-02:20"
                     }
@@ -462,7 +462,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Comp Net [Cancelled]",
+                        "name": "Comp Net",
                         "location": "C-403",
                         "time": "02:30-03:50"
                     }
@@ -3030,6 +3030,23 @@
                 ]
             },
             "2024": {
+                "D": [
+                    {
+                        "name": "App HCI",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Arch",
+                        "location": "C-405",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    }
+                ],
                 "B": [
                     {
                         "name": "App HCI",
@@ -3079,23 +3096,6 @@
                         "name": "Comp Net",
                         "location": "C-405",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "App HCI",
-                        "location": "C-405",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Comp Arch",
-                        "location": "C-405",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "C-406",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "E": [
@@ -3759,7 +3759,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Comp Net Lab",
+                        "name": "Comp Net Lab [Cancelled]",
                         "location": "Rawal 1 (C-509)",
                         "time": "11:30-02:20"
                     }
