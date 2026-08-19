@@ -2744,7 +2744,7 @@
                         "time": "10:30-11:25"
                     },
                     {
-                        "name": "LA",
+                        "name": "LA [Cancelled]",
                         "location": "C-305",
                         "time": "11:30-12:50"
                     },
@@ -2841,7 +2841,7 @@
                 ],
                 "G": [
                     {
-                        "name": "LA",
+                        "name": "LA [Cancelled]",
                         "location": "C-311",
                         "time": "01:00-02:20"
                     },
@@ -2920,7 +2920,7 @@
                     },
                     {
                         "name": "SMD",
-                        "location": "N/A",
+                        "location": "C-110",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -3232,14 +3232,14 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AP",
-                        "location": "C-603",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Ideology of Pak",
                         "location": "C-603",
                         "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "AP",
+                        "location": "C-604",
+                        "time": "08:30-09:50"
                     }
                 ],
                 "C": [
@@ -3300,6 +3300,23 @@
                         "time": "11:30-02:20"
                     }
                 ],
+                "A": [
+                    {
+                        "name": "Data St",
+                        "location": "C-603",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Intro to SE [Cancelled]",
+                        "location": "C-604",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "C-604",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "D": [
                     {
                         "name": "Pak Studies",
@@ -3315,23 +3332,6 @@
                         "name": "Data St Lab",
                         "location": "Margala 4 (C-212",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Data St",
-                        "location": "C-604",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Intro to SE [Cancelled]",
-                        "location": "C-604",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "C-604",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "B": [
@@ -3400,7 +3400,7 @@
                         "time": "08:30-10:15"
                     },
                     {
-                        "name": "IICT Lab",
+                        "name": "IICT Lab [Cancelled]",
                         "location": "IT Lab 3 (D-213)",
                         "time": "11:30-02:20"
                     }
@@ -3639,7 +3639,7 @@
                         "time": "12:30-01:25"
                     },
                     {
-                        "name": "IICT Lab",
+                        "name": "IICT Lab [Cancelled]",
                         "location": "IT Lab 1 (D-210)",
                         "time": "02:30-05:15"
                     }
@@ -3692,7 +3692,7 @@
                         "time": "03:10-05:00"
                     },
                     {
-                        "name": "Intro to DS Lab",
+                        "name": "Intro to DS Lab [Cancelled]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "11:30-02:20"
                     }
@@ -4354,7 +4354,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "LA",
+                        "name": "LA [Cancelled]",
                         "location": "C-311",
                         "time": "11:30-12:50"
                     },
@@ -4393,7 +4393,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "LA",
+                        "name": "LA [Cancelled]",
                         "location": "C-310",
                         "time": "01:00-02:20"
                     }
@@ -5633,6 +5633,18 @@
                         "name": "PF Lab",
                         "location": "IT Lab 1 (D-210)",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Reserved for CS",
+                        "location": "C-110",
+                        "time": "N/A"
+                    },
+                    {
+                        "name": "Reserved for CS",
+                        "location": "C-110",
+                        "time": "N/A"
                     }
                 ]
             },
