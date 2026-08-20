@@ -1816,7 +1816,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS [Room]",
+                        "name": "OS",
                         "location": "C-307",
                         "time": "10:00-11:20"
                     },
@@ -1843,7 +1843,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DB [Room]",
+                        "name": "DB",
                         "location": "D-302",
                         "time": "11:30-12:50"
                     },
@@ -2112,7 +2112,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Pak Studies [Room]",
+                        "name": "Pak Studies",
                         "location": "B-129",
                         "time": "11:30-01:15"
                     },
@@ -3804,7 +3804,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Blockchain [Room]",
+                        "name": "Blockchain",
                         "location": "D-302",
                         "time": "08:30-09:50"
                     },
@@ -3826,7 +3826,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Blockchain [Room]",
+                        "name": "Blockchain",
                         "location": "D-302",
                         "time": "01:00-02:20"
                     },
