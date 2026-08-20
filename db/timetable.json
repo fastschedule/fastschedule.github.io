@@ -837,14 +837,14 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Data St Lab",
-                        "location": "IT Lab 4-GPU (D-203)",
-                        "time": "08:30-11:20"
-                    },
-                    {
                         "name": "Prof for AI Lab",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "Cyber (D-514)",
+                        "time": "08:30-11:20"
                     }
                 ],
                 "B": [
@@ -913,7 +913,7 @@
                     },
                     {
                         "name": "ML Lab",
-                        "location": "Rawal 3-GPU (C-511)",
+                        "location": "IT Lab 4-GPU (D-203)",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -962,13 +962,6 @@
                         "location": "D-401",
                         "time": "10:00-11:20"
                     }
-                ],
-                "Electives": [
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "11:30-02:20"
-                    }
                 ]
             }
         },
@@ -981,7 +974,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Security Ops [CY Lab]",
+                        "name": "Security Ops",
                         "location": "D-503",
                         "time": "10:00-11:20"
                     },
@@ -989,11 +982,6 @@
                         "name": "Cloud Comp",
                         "location": "D-504",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Security Ops",
-                        "location": "Cyber (D-514)",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
@@ -1014,11 +1002,6 @@
                     }
                 ],
                 "Electives": [
-                    {
-                        "name": "Project",
-                        "location": "Cyber (D-514)",
-                        "time": "08:30-09:50"
-                    },
                     {
                         "name": "Project",
                         "location": "Cyber (D-514)",
@@ -1195,7 +1178,7 @@
                     },
                     {
                         "name": "DAV Lab",
-                        "location": "Rawal 3-GPU (C-511)",
+                        "location": "IT Lab 3 (D-213)",
                         "time": "02:30-05:15"
                     }
                 ],
@@ -1252,13 +1235,6 @@
                         "name": "Comp Net Lab",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "08:30-11:20"
-                    }
-                ],
-                "Electives": [
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "11:30-02:20"
                     }
                 ]
             }
@@ -1448,11 +1424,6 @@
                     }
                 ],
                 "B": [
-                    {
-                        "name": "App Prog",
-                        "location": "C-304",
-                        "time": "05:20-06:40"
-                    },
                     {
                         "name": "Adv AI",
                         "location": "C-304",
@@ -2399,7 +2370,7 @@
                     },
                     {
                         "name": "ML Lab",
-                        "location": "Rawal 3-GPU (C-511)",
+                        "location": "IT Lab 2 (D-211)",
                         "time": "11:30-02:20"
                     }
                 ]
@@ -2410,16 +2381,6 @@
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -2595,16 +2556,6 @@
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -3514,7 +3465,7 @@
                     },
                     {
                         "name": "ML Lab",
-                        "location": "Rawal 3-GPU (C-511)",
+                        "location": "C-Rawal 4 (C-512)",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -3608,11 +3559,6 @@
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "08:30-11:20"
                     }
                 ]
             }
@@ -3743,7 +3689,7 @@
                     },
                     {
                         "name": "DAV Lab",
-                        "location": "Rawal 3-GPU (C-511)",
+                        "location": "Rawal 1 (C-509)",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -3795,11 +3741,6 @@
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "08:30-11:20"
                     }
                 ]
             }
@@ -3840,7 +3781,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Security Ops [CY Lab]",
+                        "name": "Security Ops",
                         "location": "D-505",
                         "time": "01:00-02:20"
                     },
@@ -3848,19 +3789,9 @@
                         "name": "Cloud Comp",
                         "location": "D-506",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Security Ops",
-                        "location": "Cyber (D-514)",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "Electives": [
-                    {
-                        "name": "Project",
-                        "location": "Cyber (D-514)",
-                        "time": "11:30-12:50"
-                    },
                     {
                         "name": "Project",
                         "location": "Cyber (D-514)",
@@ -4034,7 +3965,7 @@
                     },
                     {
                         "name": "AI Lab",
-                        "location": "C-Rawal 4 (C-512)",
+                        "location": "Cyber (D-514)",
                         "time": "11:30-02:20"
                     }
                 ]
@@ -4182,43 +4113,6 @@
                 ]
             },
             "2023": {
-                "B": [
-                    {
-                        "name": "App Prog",
-                        "location": "C-303",
-                        "time": "05:20-06:40"
-                    },
-                    {
-                        "name": "Adv AI",
-                        "location": "C-304",
-                        "time": "06:45-08:05"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-405",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PPIT [Audi, Grd Flr, Block-A]",
-                        "location": "D-405",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "D-405",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-406",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "MLOps",
-                        "location": "D-412",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "A": [
                     {
                         "name": "App Prog",
@@ -4259,6 +4153,38 @@
                         "name": "Agentic AI",
                         "location": "D-406",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Adv AI",
+                        "location": "C-304",
+                        "time": "06:45-08:05"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-405",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PPIT [Audi, Grd Flr, Block-A]",
+                        "location": "D-405",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Gen AI",
+                        "location": "D-405",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Agentic AI",
+                        "location": "D-406",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "MLOps",
+                        "location": "D-412",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "C": [
@@ -5258,21 +5184,6 @@
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -5465,21 +5376,6 @@
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -5668,16 +5564,17 @@
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "02:30-05:15"
-                    },
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2023": {
+                "B": [
                     {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "02:30-05:15"
+                        "name": "App Prog",
+                        "location": "C-305",
+                        "time": "05:20-08:05"
                     }
                 ]
             }
@@ -5712,16 +5609,6 @@
                     {
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "Rawal 3-GPU (C-511)",
                         "time": "02:30-05:15"
                     }
                 ]
