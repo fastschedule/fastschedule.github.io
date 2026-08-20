@@ -931,11 +931,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Edge Comp [23]",
-                        "location": "D-316",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "AI Prod Dev",
                         "location": "D-316",
                         "time": "03:55-05:15"
@@ -944,6 +939,11 @@
                         "name": "Blockchain",
                         "location": "D-401",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Edge Comp [23]",
+                        "location": "D-401",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Multiagent Sys",
