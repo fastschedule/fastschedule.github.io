@@ -1080,6 +1080,13 @@
                 ]
             },
             "2024": {
+                "B": [
+                    {
+                        "name": "DB [ReSch]",
+                        "location": "D-414",
+                        "time": "02:30-03:50"
+                    }
+                ],
                 "C": [
                     {
                         "name": "AI",
@@ -1099,6 +1106,13 @@
                     {
                         "name": "OS",
                         "location": "D-501",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "DB [ReSch]",
+                        "location": "D-414",
                         "time": "02:30-03:50"
                     }
                 ]
@@ -1205,11 +1219,6 @@
             },
             "2023": {
                 "C": [
-                    {
-                        "name": "Multiagent Sys",
-                        "location": "D-316",
-                        "time": "02:30-03:50"
-                    },
                     {
                         "name": "Comp Net",
                         "location": "D-402",
@@ -2530,6 +2539,23 @@
                 ]
             },
             "2023": {
+                "B": [
+                    {
+                        "name": "Multiagent Sys",
+                        "location": "D-316",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-401",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Agentic AI",
+                        "location": "D-401",
+                        "time": "11:30-12:50"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Multiagent Sys",
@@ -2547,24 +2573,12 @@
                         "time": "08:30-09:50"
                     }
                 ],
-                "B": [
+                "C": [
                     {
                         "name": "Multiagent Sys",
                         "location": "D-316",
                         "time": "11:30-12:50"
                     },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-401",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-401",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
                     {
                         "name": "Business Research",
                         "location": "D-316",
@@ -4190,7 +4204,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Audi, Grd Flr, Block-A]",
                         "location": "D-405",
                         "time": "10:00-11:20"
                     },
@@ -4271,7 +4285,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [Audi, Grd Flr, Block-A]",
                         "location": "D-411",
                         "time": "10:00-11:20"
                     }
@@ -4400,7 +4414,7 @@
                 ],
                 "C": [
                     {
-                        "name": "DLD",
+                        "name": "DLD [Cancelled]",
                         "location": "C-310",
                         "time": "10:00-11:20"
                     },
@@ -4598,7 +4612,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DB",
+                        "name": "DB [Cancelled]",
                         "location": "D-503",
                         "time": "11:30-12:50"
                     },
@@ -4610,7 +4624,7 @@
                 ],
                 "B": [
                     {
-                        "name": "DB",
+                        "name": "DB [Cancelled]",
                         "location": "D-302",
                         "time": "11:30-12:50"
                     },
@@ -4620,8 +4634,8 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DB",
-                        "location": "D-302",
+                        "name": "DB [Cancelled]",
+                        "location": "D-504",
                         "time": "11:30-12:50"
                     },
                     {
