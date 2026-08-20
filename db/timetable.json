@@ -4078,6 +4078,23 @@
                         "time": "08:30-11:20"
                     }
                 ],
+                "D": [
+                    {
+                        "name": "Seerah",
+                        "location": "C-301",
+                        "time": "02:50-03:45"
+                    },
+                    {
+                        "name": "Func Eng",
+                        "location": "C-305",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "PF Lab",
+                        "location": "IT Lab 1 (D-210)",
+                        "time": "11:30-02:20"
+                    }
+                ],
                 "G": [
                     {
                         "name": "Calculus",
@@ -4127,23 +4144,6 @@
                         "name": "PF",
                         "location": "C-304",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Func Eng",
-                        "location": "C-305",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "Seerah [Cancelled]",
-                        "location": "C-307",
-                        "time": "02:30-03:25"
-                    },
-                    {
-                        "name": "PF Lab",
-                        "location": "IT Lab 1 (D-210)",
-                        "time": "11:30-02:20"
                     }
                 ],
                 "C": [
@@ -4726,7 +4726,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab C2",
+                        "name": "Func Eng Lab C2 [Cancelled]",
                         "location": "CALL-2 (A-214)",
                         "time": "02:30-05:15"
                     }
