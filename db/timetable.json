@@ -986,7 +986,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Cloud Comp [Cancelled]",
+                        "name": "Cloud Comp",
                         "location": "D-504",
                         "time": "11:30-12:50"
                     },
@@ -1008,7 +1008,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Cloud Comp [Cancelled]",
+                        "name": "Cloud Comp",
                         "location": "D-504",
                         "time": "10:00-11:20"
                     }
@@ -2518,6 +2518,11 @@
                         "name": "COAL",
                         "location": "D-313",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "D-313",
+                        "time": "03:00-03:55"
                     }
                 ],
                 "A": [
@@ -2683,7 +2688,7 @@
                 ],
                 "H": [
                     {
-                        "name": "Seerah [Cancelled]",
+                        "name": "Seerah",
                         "location": "C-304",
                         "time": "11:30-12:25"
                     },
@@ -2758,7 +2763,7 @@
                         "time": "10:30-11:25"
                     },
                     {
-                        "name": "LA [Cancelled]",
+                        "name": "LA",
                         "location": "C-305",
                         "time": "11:30-12:50"
                     },
@@ -2855,7 +2860,7 @@
                 ],
                 "G": [
                     {
-                        "name": "LA [Cancelled]",
+                        "name": "LA",
                         "location": "C-311",
                         "time": "01:00-02:20"
                     },
@@ -3143,7 +3148,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Algo [Cancelled]",
+                        "name": "Algo",
                         "location": "C-407",
                         "time": "01:00-02:20"
                     },
@@ -3321,7 +3326,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Intro to SE [Cancelled]",
+                        "name": "Intro to SE",
                         "location": "C-604",
                         "time": "11:30-12:50"
                     },
@@ -3360,7 +3365,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "Intro to SE [Cancelled]",
+                        "name": "Intro to SE",
                         "location": "C-607",
                         "time": "01:00-02:20"
                     }
@@ -3414,7 +3419,7 @@
                         "time": "08:30-10:15"
                     },
                     {
-                        "name": "IICT Lab [Cancelled]",
+                        "name": "IICT Lab",
                         "location": "IT Lab 3 (D-213)",
                         "time": "11:30-02:20"
                     }
@@ -3653,7 +3658,7 @@
                         "time": "12:30-01:25"
                     },
                     {
-                        "name": "IICT Lab [Cancelled]",
+                        "name": "IICT Lab",
                         "location": "IT Lab 1 (D-210)",
                         "time": "02:30-05:15"
                     }
@@ -3706,7 +3711,7 @@
                         "time": "03:10-05:00"
                     },
                     {
-                        "name": "Intro to DS Lab [Cancelled]",
+                        "name": "Intro to DS Lab",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "11:30-02:20"
                     }
@@ -3754,11 +3759,6 @@
                         "name": "Comp Net",
                         "location": "D-315",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Multiagent Sys",
-                        "location": "D-402",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -3773,7 +3773,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Comp Net Lab [Cancelled]",
+                        "name": "Comp Net Lab",
                         "location": "Rawal 1 (C-509)",
                         "time": "11:30-02:20"
                     }
@@ -5301,7 +5301,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DAV",
+                        "name": "DAV [Cancelled]",
                         "location": "D-401",
                         "time": "11:30-12:50"
                     }
@@ -5318,7 +5318,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DAV",
+                        "name": "DAV [Cancelled]",
                         "location": "D-316",
                         "time": "02:30-03:50"
                     }
@@ -5410,6 +5410,11 @@
                         "name": "Data St",
                         "location": "D-314",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "D-314",
+                        "time": "03:00-03:55"
                     }
                 ]
             },
