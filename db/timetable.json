@@ -5426,23 +5426,28 @@
                         "time": "01:00-02:20"
                     }
                 ],
-                "B": [
+                "C": [
                     {
                         "name": "Multiagent Sys",
                         "location": "D-316",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Comp Net",
-                        "location": "D-401",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "C": [
-                    {
                         "name": "Business Research",
                         "location": "D-401",
                         "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Multiagent Sys",
+                        "location": "D-401",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-401",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "Electives": [
