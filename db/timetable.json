@@ -83,7 +83,7 @@
                     },
                     {
                         "name": "PF Lab",
-                        "location": "IT Lab 1 (D-210)",
+                        "location": "Margala 1 (C-209)",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -133,7 +133,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab E2",
+                        "name": "Func Eng Lab E2 [Cancelled]",
                         "location": "CALL-2 (A-214)",
                         "time": "02:30-05:15"
                     }
@@ -645,14 +645,14 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "IICT",
+                        "location": "IT Lab 1 (D-210)",
+                        "time": "08:30-11:20"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "IT Lab 1 (D-210)",
                         "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "IICT",
-                        "location": "Margala 1 (C-209)",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "D": [
@@ -1352,23 +1352,6 @@
                         "time": "11:30-02:20"
                     }
                 ],
-                "A": [
-                    {
-                        "name": "PF Lab",
-                        "location": "IT Lab 1 (D-210)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab A1",
-                        "location": "Kybher-2",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab A2",
-                        "location": "Kybher-3",
-                        "time": "11:30-02:20"
-                    }
-                ],
                 "C": [
                     {
                         "name": "IICT Lab",
@@ -1386,10 +1369,27 @@
                         "time": "11:30-02:20"
                     }
                 ],
+                "A": [
+                    {
+                        "name": "PF Lab",
+                        "location": "Margala 1 (C-209)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab A1",
+                        "location": "Kybher-2",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab A2",
+                        "location": "Kybher-3",
+                        "time": "11:30-02:20"
+                    }
+                ],
                 "D": [
                     {
                         "name": "IICT Lab",
-                        "location": "Rawal 1 (C-509)",
+                        "location": "Margala 4 (C-212",
                         "time": "08:30-11:20"
                     },
                     {
@@ -1928,7 +1928,7 @@
                     },
                     {
                         "name": "PF Lab",
-                        "location": "Margala 1 (C-209)",
+                        "location": "IT Lab 1 (D-210)",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -2057,7 +2057,7 @@
                     },
                     {
                         "name": "IICT",
-                        "location": "Margala 4 (C-212",
+                        "location": "Rawal 1 (C-509)",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -2306,14 +2306,14 @@
                         "time": "08:30-09:50"
                     },
                     {
+                        "name": "COAL",
+                        "location": "D-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
                         "name": "Prog for AI",
                         "location": "D-304",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-315",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "A": [
@@ -2433,14 +2433,14 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "DAV",
+                        "location": "D-311",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Data Ware & BI",
                         "location": "D-314",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "DAV",
-                        "location": "D-315",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -2503,28 +2503,6 @@
                 ]
             },
             "2025": {
-                "B": [
-                    {
-                        "name": "Data St",
-                        "location": "D-312",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Intro to DS",
-                        "location": "D-313",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-313",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "D-313",
-                        "time": "03:00-03:55"
-                    }
-                ],
                 "A": [
                     {
                         "name": "COAL",
@@ -2540,6 +2518,28 @@
                         "name": "Data St",
                         "location": "D-314",
                         "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "COAL",
+                        "location": "D-313",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "D-313",
+                        "time": "03:00-03:55"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-315",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Intro to DS",
+                        "location": "D-315",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -2699,7 +2699,7 @@
                     },
                     {
                         "name": "PF Lab",
-                        "location": "IT Lab 1 (D-210)",
+                        "location": "Margala 1 (C-209)",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -2716,7 +2716,7 @@
                     },
                     {
                         "name": "PF Lab",
-                        "location": "IT Lab 1 (D-210)",
+                        "location": "Margala 1 (C-209)",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -3296,7 +3296,7 @@
                     },
                     {
                         "name": "PF Lab",
-                        "location": "Margala 3 (C-211)",
+                        "location": "IT Lab 3 (D-213)",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -3632,7 +3632,7 @@
                     },
                     {
                         "name": "PF Lab",
-                        "location": "IT Lab 3 (D-213)",
+                        "location": "Margala 3 (C-211)",
                         "time": "08:30-11:20"
                     },
                     {
@@ -3887,7 +3887,7 @@
                     },
                     {
                         "name": "IICT Lab",
-                        "location": "Margala 1 (C-209)",
+                        "location": "IT Lab 1 (D-210)",
                         "time": "11:30-02:20"
                     }
                 ],
@@ -3921,7 +3921,7 @@
                     },
                     {
                         "name": "PF Lab",
-                        "location": "Margala 1 (C-209)",
+                        "location": "IT Lab 1 (D-210)",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -4612,7 +4612,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DB [Cancelled]",
+                        "name": "DB",
                         "location": "D-503",
                         "time": "11:30-12:50"
                     },
@@ -4632,11 +4632,6 @@
                         "name": "Info Sec",
                         "location": "D-504",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "DB [Cancelled]",
-                        "location": "D-504",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "OS",
@@ -4989,7 +4984,7 @@
                     },
                     {
                         "name": "PF Lab",
-                        "location": "Margala 1 (C-209)",
+                        "location": "IT Lab 1 (D-210)",
                         "time": "08:30-11:20"
                     }
                 ],
@@ -5378,23 +5373,6 @@
                 ]
             },
             "2025": {
-                "B": [
-                    {
-                        "name": "Data St",
-                        "location": "D-313",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Intro to DS",
-                        "location": "D-314",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-315",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "A": [
                     {
                         "name": "COAL",
@@ -5415,6 +5393,23 @@
                         "name": "Seerah",
                         "location": "D-314",
                         "time": "03:00-03:55"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "COAL",
+                        "location": "D-315",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-403",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Intro to DS",
+                        "location": "D-403",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -5511,7 +5506,7 @@
                     },
                     {
                         "name": "IICT Lab",
-                        "location": "C-Rawal 4 (C-512)",
+                        "location": "IT Lab 2 (D-211)",
                         "time": "10:00-12:45"
                     }
                 ]
@@ -5587,7 +5582,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Func Eng Lab A1",
+                        "name": "Func Eng Lab A1 [Cancelled]",
                         "location": "CALL-1 (A-213)",
                         "time": "02:30-05:15"
                     },
@@ -5754,12 +5749,12 @@
                     },
                     {
                         "name": "Func Eng Lab E1",
-                        "location": "CALL-1 (A-213)",
+                        "location": "Margala 3 (C-211)",
                         "time": "11:30-02:20"
                     },
                     {
                         "name": "Func Eng Lab E2",
-                        "location": "CALL-2 (A-214)",
+                        "location": "Margala 4 (C-212",
                         "time": "11:30-02:20"
                     }
                 ]
@@ -5780,12 +5775,12 @@
                     },
                     {
                         "name": "Func Eng Lab D1",
-                        "location": "CALL-1 (A-213)",
+                        "location": "Margala 3 (C-211)",
                         "time": "08:30-11:20"
                     },
                     {
                         "name": "Func Eng Lab D2",
-                        "location": "CALL-2 (A-214)",
+                        "location": "Margala 4 (C-212",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -5801,12 +5796,12 @@
                     },
                     {
                         "name": "Func Eng Lab C1",
-                        "location": "CALL-1 (A-213)",
+                        "location": "Margala 3 (C-211)",
                         "time": "02:30-05:15"
                     },
                     {
                         "name": "Func Eng Lab C2",
-                        "location": "CALL-2 (A-214)",
+                        "location": "Margala 4 (C-212",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -5822,12 +5817,12 @@
                     },
                     {
                         "name": "Func Eng Lab B2",
-                        "location": "C-Rawal 4 (C-512)",
+                        "location": "Margala 1 (C-209)",
                         "time": "11:30-02:20"
                     },
                     {
                         "name": "Func Eng Lab B1",
-                        "location": "CALL-3 (A-308)",
+                        "location": "C-Rawal 4 (C-512)",
                         "time": "11:30-02:20"
                     }
                 ]
