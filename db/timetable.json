@@ -553,14 +553,14 @@
             "2024": {
                 "A": [
                     {
-                        "name": "Algo",
-                        "location": "C-408",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "AI",
                         "location": "C-408",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "S/w Const",
@@ -2554,11 +2554,6 @@
                         "name": "Comp Net",
                         "location": "D-401",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-401",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "A": [
@@ -2575,7 +2570,7 @@
                     {
                         "name": "Agentic AI",
                         "location": "D-401",
-                        "time": "08:30-09:50"
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -2707,7 +2702,7 @@
                     {
                         "name": "Seerah",
                         "location": "C-304",
-                        "time": "02:30-03:25"
+                        "time": "02:50-03:45"
                     },
                     {
                         "name": "Func Eng",
@@ -3182,8 +3177,8 @@
                     },
                     {
                         "name": "Algo",
-                        "location": "C-607",
-                        "time": "08:30-09:50"
+                        "location": "C-409",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "AI",
@@ -4518,7 +4513,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Algo",
+                        "name": "Algo [Cancelled]",
                         "location": "C-403",
                         "time": "11:30-12:50"
                     },
@@ -5373,6 +5368,23 @@
                 ]
             },
             "2025": {
+                "B": [
+                    {
+                        "name": "Intro to DS",
+                        "location": "D-312",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-315",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-403",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "COAL",
@@ -5394,32 +5406,27 @@
                         "location": "D-314",
                         "time": "03:00-03:55"
                     }
-                ],
-                "B": [
-                    {
-                        "name": "COAL",
-                        "location": "D-315",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-403",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Intro to DS",
-                        "location": "D-403",
-                        "time": "11:30-12:50"
-                    }
                 ]
             },
             "2023": {
-                "B": [
+                "A": [
                     {
                         "name": "Agentic AI",
                         "location": "D-315",
                         "time": "11:30-12:50"
                     },
+                    {
+                        "name": "Multiagent Sys",
+                        "location": "D-316",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Net [Cancelled]",
+                        "location": "D-316",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
                     {
                         "name": "Multiagent Sys",
                         "location": "D-316",
@@ -5429,23 +5436,6 @@
                         "name": "Comp Net",
                         "location": "D-401",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Multiagent Sys",
-                        "location": "D-316",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-316",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-403",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "C": [
