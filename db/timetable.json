@@ -623,7 +623,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Arts & Humanities",
+                        "name": "Psychology",
                         "location": "C-601",
                         "time": "01:00-02:45"
                     },
@@ -1910,7 +1910,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Arts & Hum",
+                        "name": "Psychology",
                         "location": "D-415",
                         "time": "02:00-03:45"
                     }
@@ -2570,7 +2570,7 @@
                     {
                         "name": "Agentic AI",
                         "location": "D-401",
-                        "time": "11:30-12:50"
+                        "time": "08:30-09:50"
                     }
                 ],
                 "C": [
@@ -3217,7 +3217,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Arts & Humanities",
+                        "name": "Psychology",
                         "location": "C-409",
                         "time": "01:00-02:45"
                     }
@@ -3285,7 +3285,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Arts & Humanities",
+                        "name": "Psychology",
                         "location": "C-602",
                         "time": "03:00-04:45"
                     },
@@ -3888,7 +3888,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Arts & Hum",
+                        "name": "Psychology",
                         "location": "D-414",
                         "time": "01:00-02:45"
                     },
@@ -4670,7 +4670,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Arts & Hum",
+                        "name": "Psychology",
                         "location": "D-414",
                         "time": "01:00-02:45"
                     }
@@ -4694,7 +4694,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Elective",
+                        "name": "Psychology",
                         "location": "D-416",
                         "time": "08:30-10:15"
                     },
@@ -4995,7 +4995,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Arts & Humanities",
+                        "name": "Psychology",
                         "location": "C-601",
                         "time": "01:00-02:45"
                     }
@@ -5019,7 +5019,7 @@
                 ],
                 "E": [
                     {
-                        "name": "Arts & Humanities",
+                        "name": "Psychology",
                         "location": "C-603",
                         "time": "08:30-10:15"
                     },
@@ -5412,8 +5412,8 @@
                 "A": [
                     {
                         "name": "Agentic AI",
-                        "location": "D-315",
-                        "time": "11:30-12:50"
+                        "location": "D-316",
+                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Multiagent Sys",
