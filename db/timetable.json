@@ -347,11 +347,6 @@
                         "name": "Cloud Comp",
                         "location": "D-411",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Deep Learn",
-                        "location": "D-412",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "A": [
@@ -2505,16 +2500,21 @@
                 ]
             },
             "2023": {
-                "B": [
+                "C": [
                     {
                         "name": "Multiagent Sys",
                         "location": "D-316",
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Comp Net",
-                        "location": "D-401",
-                        "time": "10:00-11:20"
+                        "name": "Business Research",
+                        "location": "D-316",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Comp Net Lab",
+                        "location": "Margala 3 (C-211)",
+                        "time": "11:30-02:20"
                     }
                 ],
                 "A": [
@@ -2534,21 +2534,16 @@
                         "time": "08:30-09:50"
                     }
                 ],
-                "C": [
+                "B": [
                     {
                         "name": "Multiagent Sys",
                         "location": "D-316",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Business Research",
-                        "location": "D-316",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Comp Net Lab",
-                        "location": "Margala 3 (C-211)",
-                        "time": "11:30-02:20"
+                        "name": "Comp Net",
+                        "location": "D-401",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "Electives": [
@@ -2908,11 +2903,6 @@
                     {
                         "name": "Cloud Comp",
                         "location": "D-411",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "Deep Learn",
-                        "location": "D-412",
                         "time": "02:30-03:50"
                     }
                 ],
@@ -3424,25 +3414,25 @@
                     },
                     {
                         "name": "COAL",
-                        "location": "D-305",
+                        "location": "D-306",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "Prog for AI",
-                        "location": "D-305",
+                        "location": "D-306",
                         "time": "01:00-02:20"
                     }
                 ],
                 "C": [
                     {
+                        "name": "Pak Studies",
+                        "location": "D-305",
+                        "time": "11:15-01:00"
+                    },
+                    {
                         "name": "LA",
                         "location": "D-306",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Pak Studies",
-                        "location": "D-306",
-                        "time": "11:30-01:15"
                     },
                     {
                         "name": "COAL Lab",
@@ -5318,12 +5308,19 @@
                 ]
             },
             "2023": {
-                "A": [
+                "C": [
                     {
-                        "name": "Agentic AI",
+                        "name": "Multiagent Sys",
                         "location": "D-316",
                         "time": "08:30-09:50"
                     },
+                    {
+                        "name": "Business Research",
+                        "location": "D-401",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "A": [
                     {
                         "name": "Multiagent Sys",
                         "location": "D-316",
@@ -5333,25 +5330,18 @@
                         "name": "Comp Net",
                         "location": "D-316",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Multiagent Sys",
-                        "location": "D-316",
-                        "time": "11:30-12:50"
                     },
                     {
-                        "name": "Business Research",
+                        "name": "Agentic AI",
                         "location": "D-401",
-                        "time": "02:30-03:50"
+                        "time": "08:30-09:50"
                     }
                 ],
                 "B": [
                     {
                         "name": "Multiagent Sys",
-                        "location": "D-401",
-                        "time": "08:30-09:50"
+                        "location": "D-316",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Comp Net",
