@@ -3790,13 +3790,6 @@
                         "location": "D-506",
                         "time": "10:00-11:20"
                     }
-                ],
-                "Electives": [
-                    {
-                        "name": "Project",
-                        "location": "Cyber (D-514)",
-                        "time": "02:30-05:15"
-                    }
                 ]
             },
             "2026": {
@@ -3955,6 +3948,11 @@
                         "name": "DB Lab",
                         "location": "Cyber (D-514)",
                         "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "OS Lab",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "A": [
