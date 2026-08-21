@@ -133,7 +133,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab E2 [Cancelled]",
+                        "name": "Func Eng Lab E2",
                         "location": "CALL-2 (A-214)",
                         "time": "02:30-05:15"
                     }
@@ -1495,18 +1495,18 @@
                         "time": "10:00-11:20"
                     }
                 ],
-                "Electives": [
-                    {
-                        "name": "Fund of Data Vis",
-                        "location": "D-412",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "F": [
                     {
                         "name": "App HCI",
                         "location": "D-412",
                         "time": "01:00-02:20"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Fund of Data Vis",
+                        "location": "C-110",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -1986,7 +1986,7 @@
                     {
                         "name": "Project",
                         "location": "Cyber (D-514)",
-                        "time": "03:55-05:15"
+                        "time": "N/A"
                     }
                 ]
             }
@@ -4213,13 +4213,6 @@
                         "time": "08:30-09:50"
                     }
                 ],
-                "Electives": [
-                    {
-                        "name": "Fund of Data Vis",
-                        "location": "D-412",
-                        "time": "11:30-12:50"
-                    }
-                ],
                 "F": [
                     {
                         "name": "App HCI",
@@ -4232,6 +4225,13 @@
                         "name": "App HCI",
                         "location": "D-413",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Fund of Data Vis",
+                        "location": "C-110",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -5521,18 +5521,6 @@
                         "name": "PF Lab",
                         "location": "IT Lab 1 (D-210)",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "Electives": [
-                    {
-                        "name": "Reserved for CS",
-                        "location": "C-110",
-                        "time": "N/A"
-                    },
-                    {
-                        "name": "Reserved for CS",
-                        "location": "C-110",
-                        "time": "N/A"
                     }
                 ]
             },
