@@ -3994,7 +3994,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Seerah [Cancelled]",
+                        "name": "Seerah",
                         "location": "C-301",
                         "time": "11:30-12:25"
                     },
@@ -4289,7 +4289,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "LA [Cancelled]",
+                        "name": "LA",
                         "location": "C-311",
                         "time": "11:30-12:50"
                     },
@@ -4328,14 +4328,14 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "LA [Cancelled]",
+                        "name": "LA",
                         "location": "C-310",
                         "time": "01:00-02:20"
                     }
                 ],
                 "C": [
                     {
-                        "name": "DLD [Cancelled]",
+                        "name": "DLD",
                         "location": "C-310",
                         "time": "10:00-11:20"
                     },
@@ -4439,7 +4439,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Algo [Cancelled]",
+                        "name": "Algo",
                         "location": "C-403",
                         "time": "11:30-12:50"
                     },
@@ -4545,7 +4545,7 @@
                 ],
                 "B": [
                     {
-                        "name": "DB [Cancelled]",
+                        "name": "DB",
                         "location": "D-302",
                         "time": "11:30-12:50"
                     },
@@ -4652,7 +4652,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab C2 [Cancelled]",
+                        "name": "Func Eng Lab C2",
                         "location": "CALL-2 (A-214)",
                         "time": "02:30-05:15"
                     }
@@ -5202,7 +5202,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DAV [Cancelled]",
+                        "name": "DAV",
                         "location": "D-401",
                         "time": "11:30-12:50"
                     }
@@ -5219,7 +5219,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DAV [Cancelled]",
+                        "name": "DAV",
                         "location": "D-316",
                         "time": "02:30-03:50"
                     }
@@ -5332,7 +5332,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Comp Net [Cancelled]",
+                        "name": "Comp Net",
                         "location": "D-316",
                         "time": "01:00-02:20"
                     }
