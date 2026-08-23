@@ -907,7 +907,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "ML Lab",
+                        "name": "ML Lab [Cancelled]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "08:30-11:20"
                     }
@@ -1153,7 +1153,7 @@
                         "time": "03:10-05:00"
                     },
                     {
-                        "name": "Intro to DS Lab",
+                        "name": "Intro to DS Lab [Cancelled]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "11:30-02:20"
                     }
@@ -1227,7 +1227,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Comp Net Lab",
+                        "name": "Comp Net Lab [Cancelled]",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "08:30-11:20"
                     }
@@ -2364,7 +2364,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "ML Lab",
+                        "name": "ML Lab [Cancelled]",
                         "location": "IT Lab 2 (D-211)",
                         "time": "11:30-02:20"
                     }
