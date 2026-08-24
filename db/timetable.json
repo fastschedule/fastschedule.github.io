@@ -476,7 +476,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Comp Net",
+                        "name": "Comp Net [Cancelled]",
                         "location": "C-404",
                         "time": "08:30-09:50"
                     },
@@ -710,7 +710,7 @@
                 ],
                 "C": [
                     {
-                        "name": "LA",
+                        "name": "LA [Cancelled]",
                         "location": "C-604",
                         "time": "10:00-11:20"
                     },
@@ -727,7 +727,7 @@
                 ],
                 "D": [
                     {
-                        "name": "LA",
+                        "name": "LA [Cancelled]",
                         "location": "C-607",
                         "time": "08:30-09:50"
                     },
