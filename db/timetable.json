@@ -1311,23 +1311,6 @@
                         "time": "11:30-02:20"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "IICT Lab",
-                        "location": "IT Lab 2 (D-211)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab C1",
-                        "location": "CALL-3 (A-308)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab C2",
-                        "location": "Mehran-2 (A-306)",
-                        "time": "11:30-02:20"
-                    }
-                ],
                 "A": [
                     {
                         "name": "PF Lab",
@@ -1359,6 +1342,23 @@
                     {
                         "name": "Func Eng Lab D2",
                         "location": "CALL-2 (A-214)",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "IICT Lab",
+                        "location": "Rawal 1 (C-509)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab C1",
+                        "location": "CALL-3 (A-308)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab C2",
+                        "location": "Mehran-2 (A-306)",
                         "time": "11:30-02:20"
                     }
                 ]
@@ -2075,14 +2075,14 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "IICT",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "08:30-11:20"
+                    },
+                    {
                         "name": "PF Lab",
                         "location": "IT Lab 2 (D-211)",
                         "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "IICT",
-                        "location": "Rawal 1 (C-509)",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "B": [
@@ -5449,7 +5449,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Func Eng Lab A1 [Cancelled]",
+                        "name": "Func Eng Lab A1",
                         "location": "CALL-1 (A-213)",
                         "time": "02:30-05:15"
                     },
