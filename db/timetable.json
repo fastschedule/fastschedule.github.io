@@ -4623,13 +4623,13 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Func Eng Lab C1",
-                        "location": "CALL-1 (A-213)",
+                        "name": "Func Eng Lab C2",
+                        "location": "CALL-2 (A-214)",
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab C2",
-                        "location": "CALL-2 (A-214)",
+                        "name": "Func Eng Lab C1",
+                        "location": "CALL-3 (A-308)",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -4859,7 +4859,7 @@
                     },
                     {
                         "name": "Func Eng Lab A1",
-                        "location": "CALL-3 (A-308)",
+                        "location": "CALL-1 (A-213)",
                         "time": "02:30-05:15"
                     },
                     {
