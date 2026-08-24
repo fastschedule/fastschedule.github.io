@@ -94,11 +94,6 @@
                         "time": "08:30-10:15"
                     },
                     {
-                        "name": "Seerah",
-                        "location": "C-307",
-                        "time": "02:30-03:25"
-                    },
-                    {
                         "name": "PF Lab",
                         "location": "IT Lab 1 (D-210)",
                         "time": "11:30-02:20"
@@ -704,7 +699,7 @@
                     },
                     {
                         "name": "Intro to SE",
-                        "location": "C-605",
+                        "location": "C-609",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -2654,6 +2649,28 @@
                         "time": "11:30-02:20"
                     }
                 ],
+                "G": [
+                    {
+                        "name": "Seerah",
+                        "location": "C-305",
+                        "time": "02:50-03:45"
+                    },
+                    {
+                        "name": "IICT Lab",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab G1",
+                        "location": "CALL-1 (A-213)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab G2",
+                        "location": "CALL-2 (A-214)",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "F": [
                     {
                         "name": "IICT Lab",
@@ -2669,23 +2686,6 @@
                         "name": "Func Eng Lab F2",
                         "location": "Mehran-2 (A-306)",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "IICT Lab",
-                        "location": "IT Lab 2 (D-211)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab G1",
-                        "location": "CALL-1 (A-213)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab G2",
-                        "location": "CALL-2 (A-214)",
-                        "time": "08:30-11:20"
                     }
                 ]
             },
@@ -4509,11 +4509,6 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "OS",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    },
-                    {
                         "name": "DB",
                         "location": "D-503",
                         "time": "11:30-12:50"
@@ -5209,19 +5204,19 @@
             "2026": {
                 "C": [
                     {
-                        "name": "Seerah",
-                        "location": "D-306",
-                        "time": "08:30-09:25"
-                    },
-                    {
                         "name": "PF",
                         "location": "D-306",
                         "time": "01:00-02:20"
                     },
                     {
                         "name": "Ideology of Pak",
-                        "location": "D-402",
-                        "time": "10:30-12:15"
+                        "location": "D-403",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "D-403",
+                        "time": "10:30-11:25"
                     }
                 ],
                 "A": [
@@ -5273,7 +5268,7 @@
                     },
                     {
                         "name": "Data St",
-                        "location": "D-403",
+                        "location": "D-503",
                         "time": "10:00-11:20"
                     }
                 ],
