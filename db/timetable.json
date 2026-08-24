@@ -462,18 +462,6 @@
                         "time": "02:30-03:50"
                     }
                 ],
-                "G": [
-                    {
-                        "name": "TBW",
-                        "location": "C-403",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "C-407",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "D": [
                     {
                         "name": "Comp Net [Cancelled]",
@@ -540,6 +528,18 @@
                         "name": "Comp Net Lab",
                         "location": "Rawal 1 (C-509)",
                         "time": "08:30-11:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "TBW",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-407",
+                        "time": "01:00-02:20"
                     }
                 ]
             }
