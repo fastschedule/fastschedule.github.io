@@ -459,7 +459,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Comp Net [Cancelled]",
+                        "name": "Comp Net",
                         "location": "C-404",
                         "time": "08:30-09:50"
                     },
@@ -705,7 +705,7 @@
                 ],
                 "C": [
                     {
-                        "name": "LA [Cancelled]",
+                        "name": "LA",
                         "location": "C-604",
                         "time": "10:00-11:20"
                     },
@@ -722,7 +722,7 @@
                 ],
                 "D": [
                     {
-                        "name": "LA [Cancelled]",
+                        "name": "LA",
                         "location": "C-607",
                         "time": "08:30-09:50"
                     },
@@ -832,7 +832,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Data St Lab [Cancelled]",
+                        "name": "Data St Lab",
                         "location": "Cyber (D-514)",
                         "time": "08:30-11:20"
                     }
@@ -902,7 +902,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "ML Lab [Cancelled]",
+                        "name": "ML Lab",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "08:30-11:20"
                     }
@@ -1141,7 +1141,7 @@
                         "time": "03:10-05:00"
                     },
                     {
-                        "name": "Intro to DS Lab [Cancelled]",
+                        "name": "Intro to DS Lab",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "11:30-02:20"
                     }
@@ -1215,7 +1215,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Comp Net Lab [Cancelled]",
+                        "name": "Comp Net Lab",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "08:30-11:20"
                     }
@@ -1250,7 +1250,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PF",
+                        "name": "PF [Cancelled]",
                         "location": "C-302",
                         "time": "10:00-11:20"
                     },
@@ -2517,7 +2517,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Agentic AI",
+                        "name": "Agentic AI [Cancelled]",
                         "location": "D-401",
                         "time": "08:30-09:50"
                     }
