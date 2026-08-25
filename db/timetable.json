@@ -764,14 +764,14 @@
             "2026": {
                 "A": [
                     {
-                        "name": "PF",
-                        "location": "D-301",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Calculus",
                         "location": "D-301",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "PF",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Ideology of Pak",
@@ -782,7 +782,7 @@
                 "C": [
                     {
                         "name": "Seerah",
-                        "location": "D-301",
+                        "location": "D-312",
                         "time": "11:30-12:25"
                     },
                     {
@@ -1101,7 +1101,7 @@
                 "B": [
                     {
                         "name": "Islamic",
-                        "location": "D-312",
+                        "location": "D-316",
                         "time": "12:30-02:15"
                     },
                     {
@@ -3326,11 +3326,6 @@
             "2026": {
                 "A": [
                     {
-                        "name": "PF",
-                        "location": "D-301",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Calculus",
                         "location": "D-301",
                         "time": "10:00-11:20"
@@ -5016,6 +5011,11 @@
                     }
                 ],
                 "A": [
+                    {
+                        "name": "PF",
+                        "location": "D-301",
+                        "time": "11:30-12:50"
+                    },
                     {
                         "name": "Func Eng",
                         "location": "D-302",
