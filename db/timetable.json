@@ -1864,7 +1864,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Psychology",
+                        "name": "Arts & Humanities",
                         "location": "D-415",
                         "time": "02:00-03:45"
                     }
@@ -3795,7 +3795,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Psychology",
+                        "name": "Arts & Humanities",
                         "location": "D-414",
                         "time": "01:00-02:45"
                     },
@@ -4572,7 +4572,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Psychology",
+                        "name": "Arts & Humanities",
                         "location": "D-414",
                         "time": "01:00-02:45"
                     }
@@ -4596,7 +4596,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Psychology",
+                        "name": "Arts & Humanities",
                         "location": "D-416",
                         "time": "08:30-10:15"
                     },
