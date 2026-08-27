@@ -45,7 +45,7 @@
                     {
                         "name": "PF",
                         "location": "C-303",
-                        "time": "11:30-12:50"
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "Ideology of Pak",
@@ -54,6 +54,11 @@
                     }
                 ],
                 "D": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-303",
+                        "time": "11:30-12:50"
+                    },
                     {
                         "name": "PF",
                         "location": "C-304",
@@ -1250,9 +1255,14 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PF [Cancelled]",
+                        "name": "PF",
                         "location": "C-302",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-302",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Islamic",
@@ -1673,53 +1683,53 @@
                 ],
                 "E": [
                     {
-                        "name": "Comp Net",
-                        "location": "C-402",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "App HCI",
                         "location": "C-402",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Comp Arch",
-                        "location": "C-403",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "Comp Net",
-                        "location": "C-403",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "App HCI",
-                        "location": "C-403",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Comp Arch",
                         "location": "C-404",
-                        "time": "01:00-02:20"
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-404",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "A": [
                     {
                         "name": "Algo",
-                        "location": "C-404",
+                        "location": "C-403",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "TBW",
-                        "location": "C-404",
+                        "location": "C-403",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "Comp Net Lab",
                         "location": "Rawal 1 (C-509)",
                         "time": "11:30-02:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "App HCI",
+                        "location": "C-403",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Arch",
+                        "location": "C-404",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
@@ -2282,7 +2292,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "COAL Lab [Cancelled]",
+                        "name": "COAL Lab",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "02:30-05:15"
                     }
@@ -2299,7 +2309,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "COAL Lab [Cancelled]",
+                        "name": "COAL Lab",
                         "location": "Margala 3 (C-211)",
                         "time": "08:30-11:20"
                     }
@@ -2352,7 +2362,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "ML Lab [Cancelled]",
+                        "name": "ML Lab",
                         "location": "IT Lab 2 (D-211)",
                         "time": "11:30-02:20"
                     }
@@ -2488,6 +2498,23 @@
                 ]
             },
             "2023": {
+                "A": [
+                    {
+                        "name": "Agentic AI",
+                        "location": "D-315",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Multiagent Sys",
+                        "location": "D-316",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-316",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Multiagent Sys",
@@ -2503,23 +2530,6 @@
                         "name": "Comp Net Lab",
                         "location": "Margala 3 (C-211)",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Multiagent Sys",
-                        "location": "D-316",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-316",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Agentic AI [Cancelled]",
-                        "location": "D-401",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "B": [
@@ -2586,6 +2596,11 @@
                         "name": "Calculus",
                         "location": "C-303",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
                     },
                     {
                         "name": "PF",
@@ -3269,7 +3284,7 @@
                     {
                         "name": "Pak Studies",
                         "location": "C-603",
-                        "time": "11:00-12:45"
+                        "time": "10:00-11:45"
                     },
                     {
                         "name": "LA",
@@ -4447,19 +4462,12 @@
                         "time": "01:00-02:20"
                     }
                 ],
-                "A": [
-                    {
-                        "name": "Algo",
-                        "location": "C-405",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-405",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "G": [
+                    {
+                        "name": "Comp Net",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
+                    },
                     {
                         "name": "App HCI",
                         "location": "C-405",
@@ -4469,10 +4477,17 @@
                         "name": "Comp Arch",
                         "location": "C-405",
                         "time": "01:00-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Algo",
+                        "location": "C-405",
+                        "time": "08:30-09:50"
                     },
                     {
-                        "name": "Comp Net",
-                        "location": "C-407",
+                        "name": "TBW",
+                        "location": "C-405",
                         "time": "10:00-11:20"
                     }
                 ],
@@ -4887,13 +4902,13 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "AP",
+                        "name": "AP [Cancelled]",
                         "location": "C-601",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "Psychology",
-                        "location": "C-601",
+                        "location": "D-402",
                         "time": "01:00-02:45"
                     }
                 ],
@@ -4904,7 +4919,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AP",
+                        "name": "AP [Cancelled]",
                         "location": "C-602",
                         "time": "08:30-09:50"
                     },
@@ -5128,7 +5143,7 @@
                 ],
                 "A": [
                     {
-                        "name": "TBW",
+                        "name": "TBW [Cancelled]",
                         "location": "D-311",
                         "time": "08:30-09:50"
                     },
@@ -5138,7 +5153,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Comp Net Lab",
+                        "name": "Comp Net Lab [Cancelled]",
                         "location": "Rawal 1 (C-509)",
                         "time": "11:30-02:20"
                     }
@@ -5296,6 +5311,23 @@
                 ]
             },
             "2023": {
+                "A": [
+                    {
+                        "name": "Agentic AI",
+                        "location": "D-313",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Multiagent Sys",
+                        "location": "D-316",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Net",
+                        "location": "D-316",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "C": [
                     {
                         "name": "Multiagent Sys",
@@ -5306,23 +5338,6 @@
                         "name": "Business Research",
                         "location": "D-401",
                         "time": "02:30-03:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Multiagent Sys",
-                        "location": "D-316",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Net",
-                        "location": "D-316",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-401",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "B": [
@@ -5496,14 +5511,14 @@
             "2026": {
                 "C": [
                     {
-                        "name": "Islamic",
-                        "location": "C-304",
-                        "time": "09:30-11:15"
-                    },
-                    {
                         "name": "Calculus",
                         "location": "C-304",
-                        "time": "11:30-12:50"
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Islamic",
+                        "location": "C-304",
+                        "time": "10:00-11:45"
                     },
                     {
                         "name": "PF Lab",
@@ -5534,6 +5549,29 @@
                         "name": "App Prog",
                         "location": "C-305",
                         "time": "05:20-08:05"
+                    }
+                ]
+            },
+            "2025": {
+                "F": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-310",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "DLD Lab [ReSch]",
+                        "location": "B-Digital",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
