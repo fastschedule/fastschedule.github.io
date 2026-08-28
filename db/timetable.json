@@ -14,6 +14,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "PF [ReSch]",
+                        "location": "C-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Ideology of Pak",
                         "location": "C-301",
                         "time": "01:00-02:45"
@@ -269,6 +274,11 @@
                         "name": "UHQ-I&II",
                         "location": "C-311",
                         "time": "02:30-04:20"
+                    },
+                    {
+                        "name": "Data St [ReSch]",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "DLD Lab",
@@ -813,6 +823,28 @@
                 ]
             },
             "2025": {
+                "C": [
+                    {
+                        "name": "Prof for AI Lab [( )]",
+                        "location": "D-302",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Prof for AI Lab [( )]",
+                        "location": "D-302",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "Cyber (D-514)",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "COAL",
@@ -828,23 +860,6 @@
                         "name": "Prog for AI",
                         "location": "D-311",
                         "time": "11:30-12:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "LA",
-                        "location": "D-303",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Prof for AI Lab",
-                        "location": "IT Lab 4-GPU (D-203)",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "Cyber (D-514)",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "B": [
@@ -1173,6 +1188,11 @@
                         "name": "Algo",
                         "location": "D-314",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "DAV [ReSch]",
+                        "location": "D-404",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "DAV Lab",
@@ -2060,7 +2080,7 @@
                 "A": [
                     {
                         "name": "Pak Studies",
-                        "location": "B-129",
+                        "location": "C-602",
                         "time": "11:30-01:15"
                     },
                     {
@@ -2302,8 +2322,13 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Prof for AI Lab",
-                        "location": "IT Lab 4-GPU (D-203)",
+                        "name": "Prof for AI Lab [( )]",
+                        "location": "D-416",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Prof for AI Lab [( )]",
+                        "location": "D-416",
                         "time": "08:30-11:20"
                     },
                     {
@@ -2314,13 +2339,18 @@
                 ],
                 "B": [
                     {
+                        "name": "Prof for AI Lab [( )]",
+                        "location": "D-302",
+                        "time": "02:30-05:15"
+                    },
+                    {
                         "name": "LA",
                         "location": "D-314",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Prof for AI Lab",
-                        "location": "IT Lab 4-GPU (D-203)",
+                        "name": "Prof for AI Lab [( )]",
+                        "location": "D-302",
                         "time": "02:30-05:15"
                     },
                     {
@@ -5516,8 +5546,8 @@
                     },
                     {
                         "name": "AI Lab",
-                        "location": "Margala 3 (C-211)",
-                        "time": "02:30-05:15"
+                        "location": "Margala 1 (C-209)",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
@@ -5637,11 +5667,6 @@
                         "time": "09:30-10:50"
                     },
                     {
-                        "name": "PF Lab",
-                        "location": "IT Lab 2 (D-211)",
-                        "time": "02:30-05:15"
-                    },
-                    {
                         "name": "Func Eng Lab E1",
                         "location": "Margala 3 (C-211)",
                         "time": "11:30-02:20"
@@ -5650,6 +5675,11 @@
                         "name": "Func Eng Lab E2",
                         "location": "Margala 4 (C-212",
                         "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "PF Lab",
+                        "location": "Rawal 1 (C-509)",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
