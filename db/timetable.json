@@ -2297,6 +2297,11 @@
                         "name": "Ideology of Pak",
                         "location": "D-301",
                         "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "Rawal 1 (C-509)",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "A": [
@@ -5595,15 +5600,17 @@
                         "location": "IT Lab 1 (D-210)",
                         "time": "02:30-05:15"
                     }
+                ],
+                "B": [
+                    {
+                        "name": "IICT [ReSch]",
+                        "location": "IT Lab 4-GPU (D-203)",
+                        "time": "08:30-11:20"
+                    }
                 ]
             },
             "2023": {
                 "Electives": [
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "IT Lab 4-GPU (D-203)",
-                        "time": "08:30-11:20"
-                    },
                     {
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
@@ -5668,11 +5675,6 @@
             },
             "2023": {
                 "Electives": [
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "IT Lab 4-GPU (D-203)",
-                        "time": "08:30-11:20"
-                    },
                     {
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
