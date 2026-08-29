@@ -41,27 +41,10 @@
                         "time": "01:00-02:45"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "Calculus",
-                        "location": "C-303",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "PF",
-                        "location": "C-303",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Ideology of Pak",
-                        "location": "C-303",
-                        "time": "01:00-02:45"
-                    }
-                ],
                 "D": [
                     {
                         "name": "PF [ReSch]",
-                        "location": "C-303",
+                        "location": "C-302",
                         "time": "11:30-12:50"
                     },
                     {
@@ -77,6 +60,28 @@
                     {
                         "name": "Islamic",
                         "location": "C-304",
+                        "time": "01:00-02:45"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Calculus",
+                        "location": "C-303",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "PF",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-303",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-303",
                         "time": "01:00-02:45"
                     }
                 ],
@@ -194,6 +199,11 @@
                         "name": "LA",
                         "location": "C-309",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St [ReSch]",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
@@ -1076,6 +1086,11 @@
                         "time": "02:30-03:50"
                     },
                     {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "D-416",
+                        "time": "03:55-05:15"
+                    },
+                    {
                         "name": "COAL Lab",
                         "location": "Cyber (D-514)",
                         "time": "11:30-02:20"
@@ -1210,6 +1225,11 @@
                         "name": "TBW",
                         "location": "D-315",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW [ReSch]",
+                        "location": "D-315",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Data Ware & BI Lab",
@@ -2801,6 +2821,28 @@
                         "time": "01:00-02:20"
                     }
                 ],
+                "C": [
+                    {
+                        "name": "DLD [ReSch]",
+                        "location": "C-307",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "SDA",
+                        "location": "C-309",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "C-309",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "C-309",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "E": [
                     {
                         "name": "SDA",
@@ -2816,23 +2858,6 @@
                         "name": "DLD",
                         "location": "C-310",
                         "time": "02:30-03:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "SDA",
-                        "location": "C-309",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "C-309",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "C-309",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
