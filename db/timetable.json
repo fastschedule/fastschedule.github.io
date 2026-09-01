@@ -7201,5 +7201,101 @@
                 ]
             }
         }
+    },
+    "Saturday": {
+        "BS SE": {
+            "2026": {
+                "E": [
+                    {
+                        "name": "PF",
+                        "location": "C-301",
+                        "time": "09:30-10:50"
+                    },
+                    {
+                        "name": "Func Eng Lab E1",
+                        "location": "Margala 3 (C-211)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab E2",
+                        "location": "Margala 4 (C-212",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "PF Lab",
+                        "location": "Rawal 1 (C-509)",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            }
+        },
+        "BS CY": {
+            "2026": {
+                "D": [
+                    {
+                        "name": "PF",
+                        "location": "C-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "IICT Lab",
+                        "location": "IT Lab 1 (D-210)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Func Eng Lab D1",
+                        "location": "Margala 3 (C-211)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab D2",
+                        "location": "Margala 4 (C-212",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            }
+        },
+        "BS DS": {
+            "2026": {
+                "C": [
+                    {
+                        "name": "IICT Lab",
+                        "location": "IT Lab 1 (D-210)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab C1",
+                        "location": "Margala 3 (C-211)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Func Eng Lab C2",
+                        "location": "Margala 4 (C-212",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            }
+        },
+        "BS AI": {
+            "2026": {
+                "B": [
+                    {
+                        "name": "PF Lab",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B2",
+                        "location": "Margala 1 (C-209)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B1",
+                        "location": "C-Rawal 4 (C-512)",
+                        "time": "11:30-02:20"
+                    }
+                ]
+            }
+        }
     }
 }
