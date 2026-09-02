@@ -2030,83 +2030,44 @@
             }
         },
         "BS SE": {
-            "2025": {
-                "C": [
+            "2023": {
+                "A": [
                     {
-                        "name": "LA [ReSch]",
+                        "name": "SMD",
                         "location": "C-407",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Data St",
-                        "location": "C-407",
-                        "time": "01:00-02:20"
+                        "name": "PDC",
+                        "location": "C-603",
+                        "time": "02:30-03:50"
                     },
                     {
-                        "name": "COAL",
-                        "location": "C-603",
-                        "time": "08:30-09:50"
+                        "name": "Gen AI",
+                        "location": "C-607",
+                        "time": "11:30-12:50"
                     },
                     {
-                        "name": "Intro to SE",
-                        "location": "C-603",
-                        "time": "10:00-11:20"
+                        "name": "NLP",
+                        "location": "C-609",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
                     {
-                        "name": "LA",
-                        "location": "C-602",
-                        "time": "08:30-09:50"
+                        "name": "SMD",
+                        "location": "C-407",
+                        "time": "01:00-02:20"
                     },
                     {
-                        "name": "UHQ-II",
-                        "location": "C-602",
-                        "time": "10:20-11:15"
+                        "name": "Gen AI",
+                        "location": "C-607",
+                        "time": "01:00-02:20"
                     },
                     {
-                        "name": "COAL Lab",
-                        "location": "Margala 4 (C-212",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Pak Studies",
-                        "location": "C-602",
-                        "time": "11:30-01:15"
-                    },
-                    {
-                        "name": "Intro to SE [ReSch]",
-                        "location": "C-604",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "C-605",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "Margala 4 (C-212",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Data St",
-                        "location": "C-602",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "C-604",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Intro to SE",
-                        "location": "C-604",
-                        "time": "11:30-12:50"
+                        "name": "NLP",
+                        "location": "C-609",
+                        "time": "01:00-02:20"
                     }
                 ]
             },
@@ -2192,6 +2153,81 @@
                     }
                 ]
             },
+            "2025": {
+                "B": [
+                    {
+                        "name": "LA",
+                        "location": "C-602",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "UHQ-II",
+                        "location": "C-602",
+                        "time": "10:20-11:15"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "Margala 4 (C-212",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "Pak Studies",
+                        "location": "C-602",
+                        "time": "11:30-01:15"
+                    },
+                    {
+                        "name": "Intro to SE [ReSch]",
+                        "location": "C-604",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "C-605",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "Margala 4 (C-212",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Data St",
+                        "location": "C-602",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "C-604",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Intro to SE",
+                        "location": "C-604",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "COAL",
+                        "location": "C-603",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Intro to SE",
+                        "location": "C-603",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "C-605",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            },
             "2024": {
                 "A": [
                     {
@@ -2242,47 +2278,6 @@
                         "name": "AI Lab",
                         "location": "Margala 1 (C-209)",
                         "time": "11:30-02:20"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "PDC",
-                        "location": "C-603",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "SMD",
-                        "location": "C-605",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "C-607",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "C-609",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "SMD",
-                        "location": "C-605",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Gen AI",
-                        "location": "C-607",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "NLP",
-                        "location": "C-609",
-                        "time": "01:00-02:20"
                     }
                 ]
             }
