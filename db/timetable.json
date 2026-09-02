@@ -184,6 +184,11 @@
                         "name": "LA",
                         "location": "C-309",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DLD [ReSch]",
+                        "location": "C-310",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "B": [
@@ -535,6 +540,149 @@
                         "name": "Comp Net Lab",
                         "location": "Rawal 1 (C-509)",
                         "time": "08:30-11:20"
+                    }
+                ]
+            }
+        },
+        "BS CY": {
+            "2026": {
+                "A": [
+                    {
+                        "name": "Func Eng Lab A1 [ReSch]",
+                        "location": "C-406",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Func Eng Lab C2 [ReSch]",
+                        "location": "D-502",
+                        "time": "11:30-02:20"
+                    }
+                ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Blockchain",
+                        "location": "D-302",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Security Ops",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-504",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Blockchain",
+                        "location": "D-302",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Security Ops",
+                        "location": "D-503",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cloud Comp",
+                        "location": "D-504",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "Electives": [
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2025": {
+                "A": [
+                    {
+                        "name": "Data St",
+                        "location": "D-414",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-414",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Cy Sec",
+                        "location": "D-414",
+                        "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Data St",
+                        "location": "D-415",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-415",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Cy Sec",
+                        "location": "D-415",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "UHQ-II",
+                        "location": "D-416",
+                        "time": "09:00-09:55"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-416",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Pak Studies [ReSch]",
+                        "location": "D-416",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "Cyber (D-514)",
+                        "time": "11:30-02:20"
+                    }
+                ]
+            },
+            "2024": {
+                "C": [
+                    {
+                        "name": "AI",
+                        "location": "D-501",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-501",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Web Prog",
+                        "location": "D-501",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "OS",
+                        "location": "D-501",
+                        "time": "02:30-03:50"
                     }
                 ]
             }
@@ -962,133 +1110,6 @@
                 ]
             }
         },
-        "BS CY": {
-            "2023": {
-                "A": [
-                    {
-                        "name": "Blockchain",
-                        "location": "D-302",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Security Ops",
-                        "location": "D-503",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-504",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Blockchain",
-                        "location": "D-302",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Security Ops",
-                        "location": "D-503",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cloud Comp",
-                        "location": "D-504",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "Electives": [
-                    {
-                        "name": "Project",
-                        "location": "Cyber (D-514)",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2025": {
-                "A": [
-                    {
-                        "name": "Data St",
-                        "location": "D-414",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-414",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Cy Sec",
-                        "location": "D-414",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Data St",
-                        "location": "D-415",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-415",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Cy Sec",
-                        "location": "D-415",
-                        "time": "02:30-03:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "UHQ-II",
-                        "location": "D-416",
-                        "time": "09:00-09:55"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "D-416",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Pak Studies [ReSch]",
-                        "location": "D-416",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "Cyber (D-514)",
-                        "time": "11:30-02:20"
-                    }
-                ]
-            },
-            "2024": {
-                "C": [
-                    {
-                        "name": "AI",
-                        "location": "D-501",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-501",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Web Prog",
-                        "location": "D-501",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "OS",
-                        "location": "D-501",
-                        "time": "02:30-03:50"
-                    }
-                ]
-            }
-        },
         "BS DS": {
             "2026": {
                 "A": [
@@ -1297,6 +1318,11 @@
                         "name": "PF",
                         "location": "C-304",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab E2 [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
@@ -1974,11 +2000,6 @@
                     {
                         "name": "Project",
                         "location": "Cyber (D-514)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Project",
-                        "location": "Cyber (D-514)",
                         "time": "N/A"
                     }
                 ]
@@ -2105,6 +2126,13 @@
                         "name": "PF Lab",
                         "location": "Rawal 1 (C-509)",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "PF Lab [ReSch]",
+                        "location": "Cyber (D-514)",
+                        "time": "11:30-02:20"
                     }
                 ]
             },
@@ -4166,40 +4194,6 @@
                 ]
             },
             "2023": {
-                "C": [
-                    {
-                        "name": "App HCI [ReSch]",
-                        "location": "C-303",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "App HCI [ReSch]",
-                        "location": "D-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-406",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "App HCI [ReSch]",
-                        "location": "C-303",
-                        "time": "03:55-05:15"
-                    },
-                    {
-                        "name": "Info Sec",
-                        "location": "D-411",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "App HCI [ReSch]",
-                        "location": "D-411",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "B": [
                     {
                         "name": "App Prog",
@@ -4272,6 +4266,35 @@
                         "name": "Agentic AI",
                         "location": "D-406",
                         "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "PPIT",
+                        "location": "D-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Info Sec",
+                        "location": "D-406",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "App HCI [ReSch]",
+                        "location": "D-406",
+                        "time": "02:30-03:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Info Sec",
+                        "location": "D-411",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "App HCI [ReSch]",
+                        "location": "D-411",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "H": [
@@ -4435,6 +4458,11 @@
                         "name": "UHQ-I&II",
                         "location": "C-311",
                         "time": "09:30-11:20"
+                    },
+                    {
+                        "name": "SDA [ReSch]",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "DLD",
@@ -4833,6 +4861,11 @@
                     }
                 ],
                 "B": [
+                    {
+                        "name": "Intro to SE [ReSch]",
+                        "location": "C-409",
+                        "time": "10:15-11:30"
+                    },
                     {
                         "name": "Pak Studies",
                         "location": "C-602",
@@ -5306,7 +5339,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Ideology of Pak",
+                        "name": "Ideology of Pak [Shifted at 11:30]",
                         "location": "D-403",
                         "time": "08:30-10:15"
                     },
@@ -5314,6 +5347,11 @@
                         "name": "Seerah",
                         "location": "D-403",
                         "time": "10:30-11:25"
+                    },
+                    {
+                        "name": "Ideology of Pak [ReSch]",
+                        "location": "D-403",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "A": [
@@ -5744,9 +5782,14 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Ideology of Pak",
+                        "name": "Ideology of Pak [ReSch]",
                         "location": "C-302",
-                        "time": "01:00-02:45"
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Func Eng Lab B2 [ReSch]",
+                        "location": "C-406",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
@@ -5764,6 +5807,23 @@
                         "name": "Islamic",
                         "location": "C-303",
                         "time": "01:00-02:45"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Seerah",
+                        "location": "C-303",
+                        "time": "10:20-11:15"
+                    },
+                    {
+                        "name": "Func Eng",
+                        "location": "C-305",
+                        "time": "08:30-10:15"
+                    },
+                    {
+                        "name": "PF Lab",
+                        "location": "Margala 1 (C-209)",
+                        "time": "11:30-02:20"
                     }
                 ],
                 "D": [
@@ -5798,23 +5858,6 @@
                         "name": "PF Lab",
                         "location": "Margala 1 (C-209)",
                         "time": "08:30-11:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Seerah",
-                        "location": "C-304",
-                        "time": "02:50-03:45"
-                    },
-                    {
-                        "name": "Func Eng",
-                        "location": "C-305",
-                        "time": "08:30-10:15"
-                    },
-                    {
-                        "name": "PF Lab",
-                        "location": "Margala 1 (C-209)",
-                        "time": "11:30-02:20"
                     }
                 ],
                 "G": [
@@ -5991,7 +6034,7 @@
                     {
                         "name": "DLD Lab",
                         "location": "B-Digital",
-                        "time": "02:30-05:15"
+                        "time": "11:30-02:20"
                     }
                 ],
                 "H": [
@@ -6348,6 +6391,11 @@
                         "time": "01:00-02:45"
                     },
                     {
+                        "name": "PF",
+                        "location": "C-603",
+                        "time": "03:30-04:50"
+                    },
+                    {
                         "name": "AP",
                         "location": "C-604",
                         "time": "08:30-09:50"
@@ -6363,6 +6411,11 @@
                         "name": "Calculus",
                         "location": "C-602",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PF",
+                        "location": "C-607",
+                        "time": "08:30-09:25"
                     },
                     {
                         "name": "Func Eng Lab C1",
