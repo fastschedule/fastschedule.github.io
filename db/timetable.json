@@ -5478,6 +5478,11 @@
                 ],
                 "A": [
                     {
+                        "name": "Func Eng Lab A2 [Resch]",
+                        "location": "C-310",
+                        "time": "02:30-05:15"
+                    },
+                    {
                         "name": "Arts & Humanities [ReSch]",
                         "location": "C-401",
                         "time": "10:30-12:15"
