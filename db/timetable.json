@@ -5985,11 +5985,11 @@
                     },
                     {
                         "name": "UHQ-I&II",
-                        "location": "C-402",
-                        "time": "02:30-04:20"
+                        "location": "D-404",
+                        "time": "08:30-10:20"
                     },
                     {
-                        "name": "DLD Lab",
+                        "name": "DLD Lab [Cancelled]",
                         "location": "B-Digital",
                         "time": "08:30-11:20"
                     }
