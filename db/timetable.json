@@ -4678,12 +4678,12 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Func Eng Lab C2",
+                        "name": "Func Eng Lab C2 [Cancelled]",
                         "location": "CALL-2 (A-214)",
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab C1",
+                        "name": "Func Eng Lab C1 [Cancelled]",
                         "location": "CALL-3 (A-308)",
                         "time": "02:30-05:15"
                     }
@@ -4959,12 +4959,12 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Func Eng Lab A1",
+                        "name": "Func Eng Lab A1 [Cancelled]",
                         "location": "CALL-1 (A-213)",
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab A2",
+                        "name": "Func Eng Lab A2 [Cancelled]",
                         "location": "Mehran-2 (A-306)",
                         "time": "02:30-05:15"
                     }
@@ -5279,7 +5279,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Ideology of Pak [Shifted at 11:30]",
+                        "name": "Ideology of Pak",
                         "location": "D-403",
                         "time": "08:30-10:15"
                     },
@@ -5287,11 +5287,6 @@
                         "name": "Seerah",
                         "location": "D-403",
                         "time": "10:30-11:25"
-                    },
-                    {
-                        "name": "Ideology of Pak [ReSch]",
-                        "location": "D-403",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "A": [
@@ -5630,20 +5625,6 @@
                     }
                 ]
             },
-            "2023": {
-                "Electives": [
-                    {
-                        "name": "App Prog [(AI &DS)]",
-                        "location": "C-305",
-                        "time": "05:20-08:05"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "IT Lab 4-GPU (D-203)",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            },
             "2025": {
                 "A": [
                     {
@@ -5652,23 +5633,87 @@
                         "time": "02:30-05:15"
                     }
                 ]
-            }
-        },
-        "BS AI": {
+            },
             "2023": {
                 "Electives": [
-                    {
-                        "name": "App Prog [(AI &DS)]",
-                        "location": "C-305",
-                        "time": "05:20-08:05"
-                    },
                     {
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "02:30-05:15"
                     }
                 ]
+            }
+        },
+        "BS CS": {
+            "2023": {
+                "Electives": [
+                    {
+                        "name": "App Comp Vision [(AI) ReSch]",
+                        "location": "C-307",
+                        "time": "05:20-06:40"
+                    }
+                ]
             },
+            "2026": {
+                "A": [
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-402",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-403",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-404",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-406",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-408",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "H": [
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            }
+        },
+        "BS AI": {
             "2026": {
                 "B": [
                     {
@@ -5687,15 +5732,13 @@
                         "time": "02:30-03:45"
                     }
                 ]
-            }
-        },
-        "BS CS": {
+            },
             "2023": {
                 "Electives": [
                     {
-                        "name": "App Comp Vision [(AI) ReSch]",
-                        "location": "C-307",
-                        "time": "05:20-06:40"
+                        "name": "Project [(AI/DS)]",
+                        "location": "IT Lab 4-GPU (D-203)",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -6837,7 +6880,7 @@
                         "time": "03:10-05:00"
                     },
                     {
-                        "name": "Intro to DS Lab [Cancelled]",
+                        "name": "Intro to DS Lab [Cancelled Reserved]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "11:30-02:20"
                     }
