@@ -794,11 +794,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Pak Studies [ReSch]",
-                        "location": "D-416",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "COAL Lab",
                         "location": "Cyber (D-514)",
                         "time": "11:30-02:20"
@@ -4054,11 +4049,6 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-302",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "Ideology of Pak",
                         "location": "C-302",
                         "time": "01:00-02:45"
@@ -4213,11 +4203,6 @@
                         "name": "Info Sec",
                         "location": "D-406",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "App HCI [ReSch]",
-                        "location": "D-406",
-                        "time": "02:30-03:50"
                     }
                 ],
                 "D": [
@@ -4227,7 +4212,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "App HCI [ReSch]",
+                        "name": "PPIT [Audi, Grd Flr, Block-A]",
                         "location": "D-411",
                         "time": "10:00-11:20"
                     }
@@ -4383,11 +4368,6 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Data St [ReSch]",
-                        "location": "D-303",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:30-11:20"
@@ -4398,11 +4378,6 @@
                         "name": "UHQ-I&II",
                         "location": "C-311",
                         "time": "09:30-11:20"
-                    },
-                    {
-                        "name": "SDA [ReSch]",
-                        "location": "C-401",
-                        "time": "11:30-12:50"
                     },
                     {
                         "name": "DLD",
@@ -4603,7 +4578,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "OS Lab [Cancelled]",
+                        "name": "OS Lab",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "02:30-05:15"
                     }
@@ -4659,11 +4634,6 @@
                         "name": "Ideology of Pak",
                         "location": "D-501",
                         "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "D-501",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "C": [
@@ -4678,12 +4648,12 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Func Eng Lab C2 [Cancelled]",
+                        "name": "Func Eng Lab C2",
                         "location": "CALL-2 (A-214)",
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab C1 [Cancelled]",
+                        "name": "Func Eng Lab C1",
                         "location": "CALL-3 (A-308)",
                         "time": "02:30-05:15"
                     }
@@ -4801,11 +4771,6 @@
                     }
                 ],
                 "B": [
-                    {
-                        "name": "Intro to SE [ReSch]",
-                        "location": "C-409",
-                        "time": "10:15-11:30"
-                    },
                     {
                         "name": "Pak Studies",
                         "location": "C-602",
@@ -4959,12 +4924,12 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Func Eng Lab A1 [Cancelled]",
+                        "name": "Func Eng Lab A1",
                         "location": "CALL-1 (A-213)",
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab A2 [Cancelled]",
+                        "name": "Func Eng Lab A2",
                         "location": "Mehran-2 (A-306)",
                         "time": "02:30-05:15"
                     }
@@ -5046,11 +5011,6 @@
                         "name": "Seerah",
                         "location": "C-609",
                         "time": "03:00-03:55"
-                    },
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "C-609",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Func Eng",
@@ -5734,7 +5694,7 @@
                     {
                         "name": "Islamic",
                         "location": "C-309",
-                        "time": "02:30-03:45"
+                        "time": "02:30-04:15"
                     }
                 ]
             },
