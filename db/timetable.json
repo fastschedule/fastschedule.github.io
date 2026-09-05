@@ -6154,7 +6154,7 @@
                 ],
                 "E": [
                     {
-                        "name": "PPIT",
+                        "name": "PPIT [NC]",
                         "location": "D-411",
                         "time": "08:30-09:50"
                     },
@@ -6392,7 +6392,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Ideology of Pak",
+                        "name": "Ideology of Pak [Cancelled]",
                         "location": "C-603",
                         "time": "01:00-02:45"
                     },
@@ -6409,7 +6409,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Ideology of Pak",
+                        "name": "Ideology of Pak [Cancelled]",
                         "location": "C-602",
                         "time": "09:30-11:15"
                     },
@@ -6924,7 +6924,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Business Research",
+                        "name": "Business Research [Cancelled]",
                         "location": "D-401",
                         "time": "08:30-09:50"
                     },
