@@ -68,6 +68,11 @@
                         "name": "Islamic",
                         "location": "C-304",
                         "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "Seerah [ReSch]",
+                        "location": "C-304",
+                        "time": "03:00-04:45"
                     }
                 ],
                 "F": [
@@ -240,6 +245,11 @@
                         "name": "DLD",
                         "location": "C-310",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "UHQ-I&II [ReSch]",
+                        "location": "D-303",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "F": [
@@ -3540,28 +3550,16 @@
                 ]
             },
             "2023": {
-                "B": [
-                    {
-                        "name": "Agentic AI",
-                        "location": "D-402",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Business Research",
-                        "location": "D-402",
-                        "time": "10:00-11:20"
-                    }
-                ],
                 "A": [
+                    {
+                        "name": "AI Prod Dev",
+                        "location": "D-311",
+                        "time": "03:55-05:15"
+                    },
                     {
                         "name": "Edge Comp [23]",
                         "location": "D-402",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "AI Prod Dev",
-                        "location": "D-402",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Business Research",
@@ -3582,6 +3580,18 @@
                         "name": "Multiagent Sys",
                         "location": "D-403",
                         "time": "02:30-03:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Agentic AI",
+                        "location": "D-402",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Business Research",
+                        "location": "D-402",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "Electives": [
@@ -6297,55 +6307,39 @@
             }
         },
         "BS SE": {
-            "2024": {
+            "2026": {
                 "C": [
                     {
-                        "name": "TBW [Cancelled]",
-                        "location": "C-408",
-                        "time": "08:30-09:50"
+                        "name": "Func Eng Lab C1",
+                        "location": "C-302",
+                        "time": "02:30-05:15"
                     },
                     {
-                        "name": "S/w Quality Engg",
-                        "location": "C-408",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "S/w Const",
-                        "location": "C-408",
-                        "time": "01:00-02:20"
+                        "name": "Ideology of Pak [Cancelled]",
+                        "location": "C-602",
+                        "time": "09:30-11:15"
                     },
                     {
-                        "name": "Algo",
-                        "location": "C-409",
+                        "name": "Calculus [Cancelled]",
+                        "location": "C-602",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AI",
+                        "name": "PF",
                         "location": "C-607",
-                        "time": "10:00-11:20"
+                        "time": "08:30-09:25"
+                    },
+                    {
+                        "name": "Func Eng Lab C1",
+                        "location": "C-302",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Func Eng Lab C2",
+                        "location": "Mehran-2 (A-306)",
+                        "time": "02:30-05:15"
                     }
                 ],
-                "B": [
-                    {
-                        "name": "AI",
-                        "location": "C-605",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "C-605",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "S/w Const",
-                        "location": "C-609",
-                        "time": "08:30-09:50"
-                    }
-                ]
-            },
-            "2026": {
                 "A": [
                     {
                         "name": "PF",
@@ -6402,33 +6396,6 @@
                         "time": "08:30-09:50"
                     }
                 ],
-                "C": [
-                    {
-                        "name": "Ideology of Pak [Cancelled]",
-                        "location": "C-602",
-                        "time": "09:30-11:15"
-                    },
-                    {
-                        "name": "Calculus [Cancelled]",
-                        "location": "C-602",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "PF",
-                        "location": "C-607",
-                        "time": "08:30-09:25"
-                    },
-                    {
-                        "name": "Func Eng Lab C1 [Cancelled]",
-                        "location": "CALL-3 (A-308)",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Func Eng Lab C2",
-                        "location": "Mehran-2 (A-306)",
-                        "time": "02:30-05:15"
-                    }
-                ],
                 "D": [
                     {
                         "name": "Calculus [Cancelled]",
@@ -6444,6 +6411,54 @@
                         "name": "PF Lab",
                         "location": "IT Lab 3 (D-213)",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2024": {
+                "C": [
+                    {
+                        "name": "TBW [Cancelled]",
+                        "location": "C-408",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "S/w Quality Engg",
+                        "location": "C-408",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-408",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-607",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "AI",
+                        "location": "C-605",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-605",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-609",
+                        "time": "08:30-09:50"
                     }
                 ]
             },
