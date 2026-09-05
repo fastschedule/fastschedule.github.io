@@ -5202,11 +5202,6 @@
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "IT Lab 4-GPU (D-203)",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -5264,6 +5259,11 @@
                         "name": "Seerah",
                         "location": "D-403",
                         "time": "10:30-11:25"
+                    },
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "IT Lab 4-GPU (D-203)",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "A": [
@@ -5394,11 +5394,6 @@
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "IT Lab 4-GPU (D-203)",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -6091,7 +6086,7 @@
                 ],
                 "B": [
                     {
-                        "name": "Research Methodology",
+                        "name": "Research Methodology [Cancelled]",
                         "location": "C-401",
                         "time": "05:20-06:40"
                     },
@@ -6399,7 +6394,7 @@
                     {
                         "name": "PF",
                         "location": "C-603",
-                        "time": "03:30-04:50"
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "AP",
@@ -6521,14 +6516,19 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "COAL",
-                        "location": "C-605",
-                        "time": "02:30-03:50"
+                        "name": "COAL [()]",
+                        "location": "D-302",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Intro to SE [Cancelled]",
                         "location": "C-607",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-302",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -6929,7 +6929,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Fund of CV",
+                        "name": "Fund of CV [Cancelled]",
                         "location": "D-401",
                         "time": "10:00-11:20"
                     },
@@ -6941,12 +6941,12 @@
                 ],
                 "A": [
                     {
-                        "name": "Fund of CV",
+                        "name": "Fund of CV [Cancelled]",
                         "location": "D-401",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Business Research",
+                        "name": "Business Research [Cancelled]",
                         "location": "D-401",
                         "time": "01:00-02:20"
                     }
@@ -7013,6 +7013,23 @@
                 ]
             },
             "2026": {
+                "A": [
+                    {
+                        "name": "Func Eng",
+                        "location": "D-404",
+                        "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "AP",
+                        "location": "D-415",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "PF Lab",
+                        "location": "IT Lab 1 (D-210)",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "AP",
@@ -7045,23 +7062,6 @@
                         "name": "Calculus [Cancelled]",
                         "location": "D-415",
                         "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "AP",
-                        "location": "D-415",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Func Eng",
-                        "location": "D-415",
-                        "time": "02:30-04:15"
-                    },
-                    {
-                        "name": "PF Lab",
-                        "location": "IT Lab 1 (D-210)",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "D": [
