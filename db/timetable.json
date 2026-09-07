@@ -1717,6 +1717,23 @@
                         "time": "01:00-02:20"
                     }
                 ],
+                "B": [
+                    {
+                        "name": "TBW [ReSch]",
+                        "location": "C-402",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
+                    }
+                ],
                 "E": [
                     {
                         "name": "App HCI",
@@ -1795,18 +1812,6 @@
                         "name": "TBW",
                         "location": "C-405",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "TBW",
-                        "location": "C-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "C-406",
-                        "time": "10:00-11:20"
                     }
                 ]
             }
@@ -2154,11 +2159,6 @@
             "2025": {
                 "B": [
                     {
-                        "name": "UHQ-II [ReSch]",
-                        "location": "C-601",
-                        "time": "03:00-04:50"
-                    },
-                    {
                         "name": "LA",
                         "location": "C-602",
                         "time": "08:30-09:50"
@@ -2419,6 +2419,18 @@
                 ]
             },
             "2023": {
+                "A": [
+                    {
+                        "name": "Blockchain [ReSch]",
+                        "location": "D-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Blockchain [ReSch]",
+                        "location": "D-401",
+                        "time": "02:30-03:50"
+                    }
+                ],
                 "Electives": [
                     {
                         "name": "Project [(AI/DS)]",
@@ -2481,6 +2493,11 @@
                         "name": "Ideology of Pak",
                         "location": "D-311",
                         "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "Islamic [ReSch]",
+                        "location": "D-311",
+                        "time": "03:00-04:45"
                     }
                 ],
                 "B": [
@@ -3150,55 +3167,29 @@
             }
         },
         "BS SE": {
-            "2024": {
-                "C": [
-                    {
-                        "name": "TBW",
-                        "location": "C-408",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "S/w Quality Engg",
-                        "location": "C-408",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "S/w Const",
-                        "location": "C-408",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "C-409",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "AI",
-                        "location": "C-607",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "AI",
-                        "location": "C-605",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "C-605",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "S/w Const",
-                        "location": "C-609",
-                        "time": "08:30-09:50"
-                    }
-                ]
-            },
             "2026": {
+                "D": [
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Calculus",
+                        "location": "C-602",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Arts & Humanities",
+                        "location": "C-602",
+                        "time": "03:00-04:45"
+                    },
+                    {
+                        "name": "PF Lab",
+                        "location": "IT Lab 3 (D-213)",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "PF",
@@ -3272,27 +3263,58 @@
                         "time": "02:30-05:15"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "Calculus",
-                        "location": "C-602",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Arts & Humanities",
-                        "location": "C-602",
-                        "time": "03:00-04:45"
-                    },
-                    {
-                        "name": "PF Lab",
-                        "location": "IT Lab 3 (D-213)",
-                        "time": "08:30-11:20"
-                    }
-                ],
                 "F": [
                     {
                         "name": "PF",
                         "location": "D-301",
+                        "time": "08:30-09:50"
+                    }
+                ]
+            },
+            "2024": {
+                "C": [
+                    {
+                        "name": "TBW",
+                        "location": "C-408",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "S/w Quality Engg",
+                        "location": "C-408",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "S/w Const",
+                        "location": "C-408",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "AI",
+                        "location": "C-607",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "AI",
+                        "location": "C-605",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-605",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "S/w Const",
+                        "location": "C-609",
                         "time": "08:30-09:50"
                     }
                 ]
