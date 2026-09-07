@@ -45,7 +45,7 @@
                     {
                         "name": "PF",
                         "location": "C-303",
-                        "time": "10:00-11:20"
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Ideology of Pak",
@@ -438,6 +438,23 @@
                 ]
             },
             "2024": {
+                "G": [
+                    {
+                        "name": "App HCI [ReSch]",
+                        "location": "C-307",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-407",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "Comp Arch",
@@ -521,18 +538,6 @@
                         "name": "Comp Net Lab",
                         "location": "Rawal 1 (C-509)",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "TBW",
-                        "location": "C-405",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "C-407",
-                        "time": "01:00-02:20"
                     }
                 ],
                 "E": [
@@ -2148,6 +2153,11 @@
             },
             "2025": {
                 "B": [
+                    {
+                        "name": "UHQ-II [ReSch]",
+                        "location": "C-601",
+                        "time": "03:00-04:50"
+                    },
                     {
                         "name": "LA",
                         "location": "C-602",
