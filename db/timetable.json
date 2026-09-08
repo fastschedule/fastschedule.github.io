@@ -3755,8 +3755,8 @@
                     },
                     {
                         "name": "TBW [ReSch]",
-                        "location": "D-316",
-                        "time": "08:30-09:50"
+                        "location": "D-403",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "Data Ware & BI Lab",
@@ -5654,6 +5654,15 @@
                         "name": "Islamic",
                         "location": "C-309",
                         "time": "02:30-04:15"
+                    }
+                ]
+            },
+            "2025": {
+                "B": [
+                    {
+                        "name": "Data St Lab [ReSch]",
+                        "location": "IT Lab 4-GPU (D-203)",
+                        "time": "10:00-12:45"
                     }
                 ]
             },
