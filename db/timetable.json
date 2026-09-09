@@ -4485,6 +4485,33 @@
                 ]
             },
             "2024": {
+                "E": [
+                    {
+                        "name": "Algo [ReSch]",
+                        "location": "C-401",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "App HCI [for 10 Sep only]",
+                        "location": "C-404",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo [ReSch]",
+                        "location": "C-404",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Comp Net [Cancelled]",
+                        "location": "C-404",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Arch [for 10 Sep only]",
+                        "location": "C-404",
+                        "time": "01:00-02:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "TBW",
@@ -4541,40 +4568,6 @@
                         "time": "08:30-11:20"
                     }
                 ],
-                "E": [
-                    {
-                        "name": "App HCI [for 10 Sep only]",
-                        "location": "C-404",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Comp Net [Cancelled]",
-                        "location": "C-404",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Comp Arch [for 10 Sep only]",
-                        "location": "C-404",
-                        "time": "01:00-02:20"
-                    }
-                ],
-                "G": [
-                    {
-                        "name": "Comp Net [Cancelled]",
-                        "location": "C-404",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "App HCI",
-                        "location": "C-405",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Comp Arch",
-                        "location": "C-405",
-                        "time": "01:00-02:20"
-                    }
-                ],
                 "A": [
                     {
                         "name": "Algo",
@@ -4585,6 +4578,18 @@
                         "name": "TBW",
                         "location": "C-405",
                         "time": "10:00-11:20"
+                    }
+                ],
+                "G": [
+                    {
+                        "name": "App HCI",
+                        "location": "C-405",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Arch",
+                        "location": "C-405",
+                        "time": "01:00-02:20"
                     }
                 ],
                 "D": [
@@ -5725,13 +5730,6 @@
         },
         "BS CS": {
             "2024": {
-                "E": [
-                    {
-                        "name": "Algo [ReSch]",
-                        "location": "C-310",
-                        "time": "08:30-09:50"
-                    }
-                ],
                 "G": [
                     {
                         "name": "Algo [ReSch]",
