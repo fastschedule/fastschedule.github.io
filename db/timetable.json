@@ -1899,6 +1899,18 @@
                 ]
             },
             "2026": {
+                "D": [
+                    {
+                        "name": "Func Eng Lab D1 [ReSch]",
+                        "location": "D-402",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "D-416",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "PF",
@@ -1931,13 +1943,6 @@
                         "name": "Arts & Humanities",
                         "location": "D-415",
                         "time": "02:00-03:45"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "IICT Lab [ReSch]",
-                        "location": "D-416",
-                        "time": "08:30-11:20"
                     }
                 ],
                 "C": [
@@ -2327,6 +2332,13 @@
                         "name": "IICT Lab",
                         "location": "IT Lab 3 (D-213)",
                         "time": "08:30-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Func Eng Lab B2 [ReSch]",
+                        "location": "D-402",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -4077,7 +4089,7 @@
                         "time": "11:30-12:25"
                     },
                     {
-                        "name": "Func Eng [Cancelled]",
+                        "name": "Func Eng",
                         "location": "C-305",
                         "time": "01:00-02:45"
                     },
@@ -4153,11 +4165,6 @@
                         "name": "PF",
                         "location": "C-304",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Func Eng [ReSch]",
-                        "location": "C-304",
-                        "time": "02:30-04:15"
                     }
                 ],
                 "C": [
@@ -4277,14 +4284,14 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Info Sec [Cancelled]",
+                        "name": "Info Sec",
                         "location": "D-406",
                         "time": "10:00-11:20"
                     }
                 ],
                 "D": [
                     {
-                        "name": "Info Sec [Cancelled]",
+                        "name": "Info Sec",
                         "location": "D-411",
                         "time": "08:30-09:50"
                     },
@@ -4343,16 +4350,6 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "UHQ-I&II [ReSch]",
-                        "location": "D-306",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Data St [ReSch]",
-                        "location": "D-401",
-                        "time": "08:30-09:50"
-                    },
-                    {
                         "name": "Data St Lab",
                         "location": "IT Lab 2 (D-211)",
                         "time": "02:30-05:15"
@@ -4409,28 +4406,6 @@
                         "time": "01:00-02:20"
                     }
                 ],
-                "D": [
-                    {
-                        "name": "Data St [ReSch]",
-                        "location": "C-309",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "UHQ-I&II",
-                        "location": "C-311",
-                        "time": "09:30-11:20"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "C-402",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "02:30-05:15"
-                    }
-                ],
                 "H": [
                     {
                         "name": "SDA",
@@ -4446,11 +4421,6 @@
                         "name": "LA",
                         "location": "C-310",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "DLD [ReSch]",
-                        "location": "Margala 1 (C-209)",
-                        "time": "10:00-11:20"
                     }
                 ],
                 "C": [
@@ -4485,6 +4455,23 @@
                         "name": "DLD Lab",
                         "location": "B-Digital",
                         "time": "08:30-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "UHQ-I&II",
+                        "location": "C-311",
+                        "time": "09:30-11:20"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-402",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "A": [
@@ -4552,11 +4539,6 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Algo [ReSch]",
-                        "location": "C-403",
-                        "time": "02:30-03:50"
-                    },
-                    {
                         "name": "Comp Net Lab",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "08:30-11:20"
@@ -4569,7 +4551,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Comp Net [Cancelled]",
+                        "name": "Comp Net",
                         "location": "C-404",
                         "time": "11:30-12:50"
                     },
@@ -4719,11 +4701,6 @@
                         "name": "Func Eng",
                         "location": "D-415",
                         "time": "02:00-03:45"
-                    },
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "D-415",
-                        "time": "03:55-05:15"
                     }
                 ],
                 "D": [
@@ -4816,11 +4793,6 @@
                         "name": "COAL",
                         "location": "D-502",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "UHQ-II [ReSch]",
-                        "location": "D-502",
-                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -5217,11 +5189,6 @@
                 ],
                 "B": [
                     {
-                        "name": "UHQ-II [ReSch]",
-                        "location": "D-305",
-                        "time": "01:00-02:20"
-                    },
-                    {
                         "name": "LA",
                         "location": "D-311",
                         "time": "11:30-12:50"
@@ -5359,11 +5326,6 @@
                         "name": "Seerah",
                         "location": "D-403",
                         "time": "10:30-11:25"
-                    },
-                    {
-                        "name": "IICT Lab [ReSch]",
-                        "location": "IT Lab 4-GPU (D-203)",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "A": [
@@ -5412,16 +5374,6 @@
                         "name": "COAL",
                         "location": "D-315",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-315",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "UHQ-I&II [ReSch]",
-                        "location": "D-315",
-                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Data St",
@@ -5584,7 +5536,7 @@
                     },
                     {
                         "name": "Calculus",
-                        "location": "C-303",
+                        "location": "C-302",
                         "time": "10:00-11:20"
                     },
                     {
@@ -5883,7 +5835,7 @@
                 "C": [
                     {
                         "name": "LA [ReSch]",
-                        "location": "D-302",
+                        "location": "D-501",
                         "time": "11:30-12:50"
                     },
                     {
