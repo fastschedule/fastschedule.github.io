@@ -648,7 +648,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PF",
+                        "name": "PF [Cancelled]",
                         "location": "C-602",
                         "time": "10:00-11:20"
                     },
@@ -699,7 +699,7 @@
                 ],
                 "F": [
                     {
-                        "name": "PF",
+                        "name": "PF [Cancelled]",
                         "location": "C-605",
                         "time": "08:30-09:50"
                     }
@@ -3222,6 +3222,28 @@
                         "time": "08:30-11:20"
                     }
                 ],
+                "E": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-408",
+                        "time": "03:55-05:15"
+                    },
+                    {
+                        "name": "Calculus",
+                        "location": "C-601",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Ideology of Pak",
+                        "location": "C-603",
+                        "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "AP",
+                        "location": "C-604",
+                        "time": "08:30-09:50"
+                    }
+                ],
                 "A": [
                     {
                         "name": "PF",
@@ -3254,23 +3276,6 @@
                         "name": "Func Eng",
                         "location": "C-601",
                         "time": "01:00-02:45"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "Calculus",
-                        "location": "C-601",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Ideology of Pak",
-                        "location": "C-603",
-                        "time": "01:00-02:45"
-                    },
-                    {
-                        "name": "AP",
-                        "location": "C-604",
-                        "time": "08:30-09:50"
                     }
                 ],
                 "C": [
@@ -3523,6 +3528,11 @@
                         "name": "Prog for AI",
                         "location": "D-306",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St Lab [ReSch]",
+                        "location": "IT Lab 4-GPU (D-203)",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
@@ -3593,11 +3603,6 @@
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "IT Lab 4-GPU (D-203)",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -3651,11 +3656,6 @@
                         "name": "Knowl Rep",
                         "location": "D-315",
                         "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Knowl Rep",
-                        "location": "D-404",
-                        "time": "02:30-03:50"
                     }
                 ]
             }
@@ -3833,11 +3833,6 @@
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Project [(AI/DS)]",
-                        "location": "IT Lab 4-GPU (D-203)",
-                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -5657,15 +5652,6 @@
                         "time": "02:30-05:15"
                     }
                 ]
-            },
-            "2025": {
-                "B": [
-                    {
-                        "name": "COAL Lab [ReSch]",
-                        "location": "Rawal 1 (C-509)",
-                        "time": "02:30-05:15"
-                    }
-                ]
             }
         },
         "BS AI": {
@@ -5689,16 +5675,18 @@
                 ]
             },
             "2024": {
-                "A": [
+                "C": [
                     {
                         "name": "TBW [ReSch]",
-                        "location": "D-316",
+                        "location": "D-306",
+                        "time": "08:30-09:50"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "TBW [ReSch]",
+                        "location": "D-306",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "TBW [ReSch]",
-                        "location": "D-316",
-                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -5822,22 +5810,12 @@
             "2025": {
                 "A": [
                     {
-                        "name": "LA [ReSch]",
-                        "location": "D-301",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "DLD Lab [ReSch]",
                         "location": "B-Digital",
                         "time": "08:30-11:20"
                     }
                 ],
                 "C": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-501",
-                        "time": "11:30-12:50"
-                    },
                     {
                         "name": "DLD Lab [ReSch]",
                         "location": "B-Digital",
