@@ -1027,13 +1027,6 @@
                         "location": "D-504",
                         "time": "10:00-11:20"
                     }
-                ],
-                "Electives": [
-                    {
-                        "name": "Project",
-                        "location": "Cyber (D-514)",
-                        "time": "02:30-05:15"
-                    }
                 ]
             },
             "2025": {
@@ -1110,6 +1103,11 @@
                         "name": "OS",
                         "location": "D-501",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "OS Lab [ReSch]",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
