@@ -1156,6 +1156,13 @@
                         "location": "Margala 3 (C-211)",
                         "time": "08:30-11:20"
                     }
+                ],
+                "C": [
+                    {
+                        "name": "Func Eng Lab C2 [ReSch]",
+                        "location": "D-416",
+                        "time": "11:30-02:20"
+                    }
                 ]
             },
             "2025": {
@@ -1399,7 +1406,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Func Eng Lab C1",
+                        "name": "Func Eng Lab C1 [Cancelled]",
                         "location": "CALL-3 (A-308)",
                         "time": "11:30-02:20"
                     },
@@ -3466,6 +3473,11 @@
                     }
                 ],
                 "B": [
+                    {
+                        "name": "Func Eng Lab B1 [ReSch]",
+                        "location": "D-305",
+                        "time": "02:30-05:15"
+                    },
                     {
                         "name": "Ideology of Pak",
                         "location": "D-311",
