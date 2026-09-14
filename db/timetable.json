@@ -5004,12 +5004,24 @@
                 ]
             },
             "2024": {
-                "C": [
+                "B": [
                     {
                         "name": "AI [ReSch]",
                         "location": "C-407",
                         "time": "11:30-12:50"
                     },
+                    {
+                        "name": "S/w Quality Engg",
+                        "location": "C-609",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-609",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "C": [
                     {
                         "name": "Algo",
                         "location": "C-408",
@@ -5041,18 +5053,6 @@
                         "name": "AI Lab",
                         "location": "Margala 3 (C-211)",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "S/w Quality Engg",
-                        "location": "C-609",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "TBW",
-                        "location": "C-609",
-                        "time": "10:00-11:20"
                     }
                 ]
             },
