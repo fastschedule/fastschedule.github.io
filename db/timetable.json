@@ -2038,6 +2038,11 @@
                         "name": "COAL",
                         "location": "D-502",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "UHQ-II [ReSch]",
+                        "location": "D-502",
+                        "time": "02:30-03:50"
                     }
                 ]
             },
@@ -3449,6 +3454,11 @@
                         "name": "LA",
                         "location": "C-605",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "UHQ-II [ReSch]",
+                        "location": "D-403",
+                        "time": "01:00-01:55"
                     },
                     {
                         "name": "Data St Lab",
@@ -4996,6 +5006,11 @@
             "2024": {
                 "C": [
                     {
+                        "name": "AI [ReSch]",
+                        "location": "C-407",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Algo",
                         "location": "C-408",
                         "time": "08:30-09:50"
@@ -5320,6 +5335,11 @@
                         "name": "Comp Net",
                         "location": "D-305",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "IT Lab 4-GPU (D-203)",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "C": [
