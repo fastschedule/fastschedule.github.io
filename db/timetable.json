@@ -1357,7 +1357,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Func Eng Lab C1 [Cancelled]",
+                        "name": "Func Eng Lab C1",
                         "location": "CALL-3 (A-308)",
                         "time": "11:30-02:20"
                     },
@@ -1884,7 +1884,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Ideology of Pak [Cancelled]",
+                        "name": "Ideology of Pak",
                         "location": "D-414",
                         "time": "01:00-02:45"
                     }
@@ -2584,7 +2584,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Seerah [Cancelled]",
+                        "name": "Seerah",
                         "location": "D-313",
                         "time": "03:00-03:55"
                     },
@@ -2675,6 +2675,11 @@
                         "name": "Islamic",
                         "location": "C-301",
                         "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-406",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -2714,6 +2719,11 @@
                         "name": "Islamic",
                         "location": "C-303",
                         "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-407",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "D": [
@@ -2731,6 +2741,11 @@
                         "name": "Ideology of Pak",
                         "location": "C-304",
                         "time": "12:30-02:15"
+                    },
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-408",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "H": [
@@ -2743,6 +2758,11 @@
                         "name": "Func Eng",
                         "location": "C-305",
                         "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "C-404",
+                        "time": "02:30-03:50"
                     },
                     {
                         "name": "PF Lab",
@@ -3304,7 +3324,7 @@
                     },
                     {
                         "name": "Calculus",
-                        "location": "C-602",
+                        "location": "D-316",
                         "time": "01:00-02:20"
                     },
                     {
@@ -3392,7 +3412,7 @@
                     },
                     {
                         "name": "Calculus",
-                        "location": "C-602",
+                        "location": "D-404",
                         "time": "11:30-12:50"
                     },
                     {
@@ -3634,7 +3654,7 @@
                         "time": "03:55-05:15"
                     },
                     {
-                        "name": "Edge Comp [23]",
+                        "name": "Edge Comp [23) Cancelled]",
                         "location": "D-402",
                         "time": "01:00-02:20"
                     },
@@ -3649,7 +3669,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Blockchain",
+                        "name": "Blockchain [Cancelled]",
                         "location": "D-403",
                         "time": "11:30-12:50"
                     },
@@ -4168,6 +4188,11 @@
                         "name": "Islamic",
                         "location": "C-301",
                         "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "D-403",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "A": [
@@ -4219,6 +4244,11 @@
                         "name": "Ideology of Pak",
                         "location": "C-302",
                         "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "D-404",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "H": [
@@ -4253,6 +4283,11 @@
                         "name": "PF",
                         "location": "C-304",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "PF [Tutorial]",
+                        "location": "D-402",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "C": [
@@ -4706,7 +4741,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "UHQ-II",
+                        "name": "UHQ-II [Cancelled]",
                         "location": "D-304",
                         "time": "12:00-12:55"
                     },
@@ -4776,7 +4811,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Calculus [Cancelled]",
+                        "name": "Calculus",
                         "location": "D-301",
                         "time": "08:30-09:50"
                     },
@@ -4839,6 +4874,11 @@
                 ],
                 "C": [
                     {
+                        "name": "Algo [ReSch]",
+                        "location": "D-305",
+                        "time": "01:00-02:20"
+                    },
+                    {
                         "name": "Knowl Rep",
                         "location": "D-306",
                         "time": "10:00-11:20"
@@ -4855,6 +4895,11 @@
                     }
                 ],
                 "A": [
+                    {
+                        "name": "Comp Net [ReSch]",
+                        "location": "D-305",
+                        "time": "02:30-03:50"
+                    },
                     {
                         "name": "TBW",
                         "location": "D-311",
@@ -5945,6 +5990,11 @@
                         "name": "Data St Lab [ReSch]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "10:00-12:50"
+                    },
+                    {
+                        "name": "COAL Lab [ReSch]",
+                        "location": "Rawal 1 (C-509)",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
