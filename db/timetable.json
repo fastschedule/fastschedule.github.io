@@ -4789,7 +4789,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "OS Lab",
+                        "name": "OS Lab [Cancelled]",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "02:30-05:15"
                     }
@@ -4925,11 +4925,6 @@
                         "name": "COAL",
                         "location": "D-502",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "UHQ-II [ReSch]",
-                        "location": "D-502",
-                        "time": "03:55-05:15"
                     }
                 ]
             },
@@ -5161,9 +5156,14 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Func Eng Lab A2",
+                        "name": "Func Eng Lab A2 [Mehran Lab-1]",
                         "location": "Mehran-2 (A-306)",
-                        "time": "02:30-05:15"
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab A2 [Mehran Lab-2]",
+                        "location": "Mehran-2 (A-306)",
+                        "time": "02:30-03:50"
                     }
                 ],
                 "B": [
@@ -5635,44 +5635,15 @@
                 ]
             }
         },
-        "BS CS": {
-            "2023": {
-                "G": [
+        "BS AI": {
+            "2026": {
+                "C": [
                     {
-                        "name": "App HCI [ReSch]",
-                        "location": "C-307",
+                        "name": "Calculus [ReSch]",
+                        "location": "C-305",
                         "time": "10:00-11:20"
                     }
                 ],
-                "F": [
-                    {
-                        "name": "App HCI [ReSch]",
-                        "location": "D-302",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2025": {
-                "B": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "C-307",
-                        "time": "11:30-12:50"
-                    }
-                ]
-            },
-            "2024": {
-                "B": [
-                    {
-                        "name": "Comp Net Lab [ReSch]",
-                        "location": "IT Lab 2 (D-211)",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            }
-        },
-        "BS AI": {
-            "2026": {
                 "B": [
                     {
                         "name": "PF",
@@ -5731,6 +5702,11 @@
                         "name": "TBW [ReSch]",
                         "location": "D-302",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "ML [ReSch]",
+                        "location": "D-303",
+                        "time": "11:30-12:50"
                     }
                 ]
             },
@@ -5740,6 +5716,33 @@
                         "name": "Project [(AI/DS)]",
                         "location": "IT Lab 4-GPU (D-203)",
                         "time": "02:30-05:15"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2023": {
+                "G": [
+                    {
+                        "name": "App HCI [ReSch]",
+                        "location": "C-307",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "App HCI [ReSch]",
+                        "location": "D-302",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
+            "2025": {
+                "B": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
