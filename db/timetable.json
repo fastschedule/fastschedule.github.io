@@ -4471,6 +4471,11 @@
                         "name": "App HCI",
                         "location": "C-404",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "D-405",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "G": [
