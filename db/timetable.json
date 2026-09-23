@@ -4933,13 +4933,6 @@
                         "location": "C-603",
                         "time": "01:00-02:20"
                     }
-                ],
-                "F": [
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "D-306",
-                        "time": "08:30-09:50"
-                    }
                 ]
             },
             "2024": {
@@ -5046,7 +5039,7 @@
                         "time": "08:30-10:15"
                     },
                     {
-                        "name": "IICT Lab",
+                        "name": "IICT Lab [Cancelled]",
                         "location": "IT Lab 3 (D-213)",
                         "time": "11:30-02:20"
                     }
