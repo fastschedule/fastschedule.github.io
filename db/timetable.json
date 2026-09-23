@@ -4471,11 +4471,6 @@
                         "name": "App HCI",
                         "location": "C-404",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Comp Net Lab [ReSch]",
-                        "location": "D-405",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "G": [
@@ -4885,6 +4880,11 @@
                 ],
                 "B": [
                     {
+                        "name": "PF [ReSch]",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Calculus",
                         "location": "C-409",
                         "time": "01:00-02:20"
@@ -4932,6 +4932,13 @@
                         "name": "PF",
                         "location": "C-603",
                         "time": "01:00-02:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "D-306",
+                        "time": "08:30-09:50"
                     }
                 ]
             },
@@ -5122,11 +5129,6 @@
                         "name": "Prog for AI",
                         "location": "D-304",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Prog for AI Lab [ReSch]",
-                        "location": "IT Lab 4-GPU (D-203)",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
@@ -5585,22 +5587,6 @@
                         "name": "Islamic",
                         "location": "C-309",
                         "time": "02:30-04:15"
-                    }
-                ]
-            },
-            "2025": {
-                "A": [
-                    {
-                        "name": "Prog for AI Lab [ReSch]",
-                        "location": "IT Lab 3 (D-213)",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Prog for AI Lab [ReSch]",
-                        "location": "IT Lab 4-GPU (D-203)",
-                        "time": "08:30-11:20"
                     }
                 ]
             },
