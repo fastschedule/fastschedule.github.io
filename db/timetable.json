@@ -4535,7 +4535,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "D-503",
                         "time": "02:30-03:50"
                     }
@@ -4557,7 +4557,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "AI",
+                        "name": "AI [Cancelled]",
                         "location": "D-504",
                         "time": "03:55-05:15"
                     }
@@ -4697,7 +4697,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Cy Sec",
+                        "name": "Cy Sec [Cancelled]",
                         "location": "D-502",
                         "time": "10:00-11:20"
                     },
@@ -4761,7 +4761,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "COAL Lab",
+                        "name": "COAL Lab [Cancelled]",
                         "location": "Margala 4 (C-212",
                         "time": "11:30-02:20"
                     }
@@ -4863,7 +4863,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Func Eng Lab A1",
+                        "name": "Func Eng Lab A1 [Cancelled]",
                         "location": "CALL-1 (A-213)",
                         "time": "02:30-05:15"
                     },
@@ -4938,7 +4938,7 @@
             "2024": {
                 "C": [
                     {
-                        "name": "Algo",
+                        "name": "Algo [Cancelled]",
                         "location": "C-408",
                         "time": "08:30-09:50"
                     },
@@ -5073,7 +5073,7 @@
                         "time": "01:00-02:45"
                     },
                     {
-                        "name": "Func Eng Lab A1",
+                        "name": "Func Eng Lab A1 [Cancelled]",
                         "location": "CALL-3 (A-308)",
                         "time": "08:30-11:20"
                     },
@@ -5189,7 +5189,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Comp Net Lab",
+                        "name": "Comp Net Lab [Cancelled]",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "11:30-02:20"
                     }
@@ -5308,7 +5308,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "COAL",
+                        "name": "COAL [Cancelled]",
                         "location": "D-315",
                         "time": "01:00-02:20"
                     },
@@ -5446,7 +5446,7 @@
                         "time": "02:00-03:45"
                     },
                     {
-                        "name": "PF",
+                        "name": "PF [Cancelled]",
                         "location": "C-303",
                         "time": "08:30-09:50"
                     },
