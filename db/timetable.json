@@ -90,8 +90,8 @@
                 "G": [
                     {
                         "name": "Func Eng",
-                        "location": "C-305",
-                        "time": "08:30-10:15"
+                        "location": "C-401",
+                        "time": "09:00-10:45"
                     },
                     {
                         "name": "PF Lab",
@@ -629,6 +629,11 @@
                     }
                 ],
                 "F": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-602",
+                        "time": "11:30-12:50"
+                    },
                     {
                         "name": "PF",
                         "location": "C-605",
@@ -5629,13 +5634,6 @@
                         "location": "Rawal 1 (C-509)",
                         "time": "02:30-05:15"
                     }
-                ],
-                "A": [
-                    {
-                        "name": "Func Eng Lab A1 [ReSch]",
-                        "location": "C-303",
-                        "time": "11:30-02:20"
-                    }
                 ]
             }
         },
@@ -5663,50 +5661,6 @@
                         "time": "08:30-11:20"
                     }
                 ]
-            },
-            "2025": {
-                "B": [
-                    {
-                        "name": "COAL Lab [ReSch]",
-                        "location": "IT Lab 1 (D-210)",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "COAL Lab [ReSch]",
-                        "location": "IT Lab 3 (D-213)",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            }
-        },
-        "BS AI": {
-            "2026": {
-                "A": [
-                    {
-                        "name": "Func Eng Lab A1 [ReSch]",
-                        "location": "C-303",
-                        "time": "08:30-11:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "PF Lab",
-                        "location": "IT Lab 2 (D-211)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab B2",
-                        "location": "Margala 1 (C-209)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab B1",
-                        "location": "C-Rawal 4 (C-512)",
-                        "time": "11:30-02:20"
-                    }
-                ]
             }
         },
         "BS DS": {
@@ -5726,6 +5680,27 @@
                         "name": "Func Eng Lab C2",
                         "location": "Margala 4 (C-212",
                         "time": "02:30-05:15"
+                    }
+                ]
+            }
+        },
+        "BS AI": {
+            "2026": {
+                "B": [
+                    {
+                        "name": "PF Lab",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B2",
+                        "location": "Margala 1 (C-209)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B1",
+                        "location": "C-Rawal 4 (C-512)",
+                        "time": "11:30-02:20"
                     }
                 ]
             }
