@@ -135,6 +135,28 @@
                 ]
             },
             "2025": {
+                "G": [
+                    {
+                        "name": "UHQ-I&II [ReSch]",
+                        "location": "C-302",
+                        "time": "12:30-12:55"
+                    },
+                    {
+                        "name": "LA [Cancelled Reserved]",
+                        "location": "C-311",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "UHQ-I&II",
+                        "location": "C-311",
+                        "time": "02:30-04:20"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "J": [
                     {
                         "name": "Seerah",
@@ -254,23 +276,6 @@
                         "time": "02:30-05:15"
                     }
                 ],
-                "G": [
-                    {
-                        "name": "LA",
-                        "location": "C-311",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "UHQ-I&II",
-                        "location": "C-311",
-                        "time": "02:30-04:20"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "08:30-11:20"
-                    }
-                ],
                 "H": [
                     {
                         "name": "DLD",
@@ -292,7 +297,7 @@
             "2023": {
                 "Electives": [
                     {
-                        "name": "App Comp Vision",
+                        "name": "App Comp Vision [(AI) Cancelled]",
                         "location": "C-305",
                         "time": "05:20-06:40"
                     },
@@ -307,7 +312,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "SMD",
+                        "name": "SMD [(CS)  Cancelled]",
                         "location": "C-110",
                         "time": "11:30-12:50"
                     },
@@ -317,7 +322,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "SMD",
+                        "name": "SMD [(CS)  Cancelled]",
                         "location": "C-110",
                         "time": "11:30-12:50"
                     }
@@ -765,7 +770,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "PDC",
+                        "name": "PDC [Cancelled]",
                         "location": "C-609",
                         "time": "11:30-12:50"
                     }
@@ -803,7 +808,7 @@
                         "time": "08:30-11:20"
                     },
                     {
-                        "name": "Func Eng Lab C1",
+                        "name": "Func Eng Lab C1 [Cancelled]",
                         "location": "CALL-3 (A-308)",
                         "time": "02:30-05:15"
                     },
@@ -880,7 +885,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Comp Net",
+                        "name": "Comp Net [Cancelled]",
                         "location": "D-305",
                         "time": "01:00-02:20"
                     }
@@ -1840,6 +1845,18 @@
                 ]
             },
             "2026": {
+                "D": [
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "D-403",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab D2 [ReSch]",
+                        "location": "D-403",
+                        "time": "02:30-05:15"
+                    }
+                ],
                 "A": [
                     {
                         "name": "PF",
@@ -2098,6 +2115,13 @@
                         "name": "Ideology of Pak",
                         "location": "C-604",
                         "time": "01:00-02:45"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "Func Eng Lab E1 [ReSch]",
+                        "location": "D-402",
+                        "time": "11:30-02:20"
                     }
                 ],
                 "F": [
@@ -4540,7 +4564,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "D-503",
                         "time": "02:30-03:50"
                     }
@@ -4562,7 +4586,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "AI [Cancelled]",
+                        "name": "AI",
                         "location": "D-504",
                         "time": "03:55-05:15"
                     }
@@ -4702,7 +4726,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Cy Sec [Cancelled]",
+                        "name": "Cy Sec",
                         "location": "D-502",
                         "time": "10:00-11:20"
                     },
@@ -4766,7 +4790,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "COAL Lab [Cancelled]",
+                        "name": "COAL Lab",
                         "location": "Margala 4 (C-212",
                         "time": "11:30-02:20"
                     }
@@ -4868,7 +4892,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Func Eng Lab A1 [Cancelled]",
+                        "name": "Func Eng Lab A1",
                         "location": "CALL-1 (A-213)",
                         "time": "02:30-05:15"
                     },
@@ -4884,11 +4908,6 @@
                     }
                 ],
                 "B": [
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "C-409",
-                        "time": "11:30-12:50"
-                    },
                     {
                         "name": "Calculus",
                         "location": "C-409",
@@ -4943,7 +4962,7 @@
             "2024": {
                 "C": [
                     {
-                        "name": "Algo [Cancelled]",
+                        "name": "Algo",
                         "location": "C-408",
                         "time": "08:30-09:50"
                     },
@@ -5044,7 +5063,7 @@
                         "time": "08:30-10:15"
                     },
                     {
-                        "name": "IICT Lab [Cancelled]",
+                        "name": "IICT Lab",
                         "location": "IT Lab 3 (D-213)",
                         "time": "11:30-02:20"
                     }
@@ -5078,7 +5097,7 @@
                         "time": "01:00-02:45"
                     },
                     {
-                        "name": "Func Eng Lab A1 [Cancelled]",
+                        "name": "Func Eng Lab A1",
                         "location": "CALL-3 (A-308)",
                         "time": "08:30-11:20"
                     },
@@ -5194,7 +5213,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Comp Net Lab [Cancelled]",
+                        "name": "Comp Net Lab",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "11:30-02:20"
                     }
@@ -5313,7 +5332,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "COAL [Cancelled]",
+                        "name": "COAL",
                         "location": "D-315",
                         "time": "01:00-02:20"
                     },
