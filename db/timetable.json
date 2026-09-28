@@ -1577,6 +1577,28 @@
                         "time": "01:00-02:20"
                     }
                 ],
+                "D": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-309",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "C-401",
+                        "time": "11:30-12:25"
+                    },
+                    {
+                        "name": "DLD",
+                        "location": "C-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "C-Rawal 4 (C-512)",
+                        "time": "08:30-11:20"
+                    }
+                ],
                 "J": [
                     {
                         "name": "Data St",
@@ -1599,6 +1621,11 @@
                         "name": "DLD",
                         "location": "C-310",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-311",
+                        "time": "08:30-09:50"
                     },
                     {
                         "name": "UHQ-I&II [start at 02:30]",
@@ -1644,23 +1671,6 @@
                         "location": "B-Digital",
                         "time": "08:30-11:20"
                     }
-                ],
-                "D": [
-                    {
-                        "name": "Seerah",
-                        "location": "C-401",
-                        "time": "11:30-12:25"
-                    },
-                    {
-                        "name": "DLD",
-                        "location": "C-401",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "C-Rawal 4 (C-512)",
-                        "time": "08:30-11:20"
-                    }
                 ]
             },
             "2024": {
@@ -1679,6 +1689,23 @@
                         "name": "App HCI",
                         "location": "C-403",
                         "time": "01:00-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "Comp Arch [ReSch]",
+                        "location": "C-402",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "TBW",
+                        "location": "C-406",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Algo",
+                        "location": "C-406",
+                        "time": "10:00-11:20"
                     }
                 ],
                 "E": [
@@ -1759,18 +1786,6 @@
                         "name": "TBW",
                         "location": "C-405",
                         "time": "01:00-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "TBW",
-                        "location": "C-406",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Algo",
-                        "location": "C-406",
-                        "time": "10:00-11:20"
                     }
                 ]
             }
@@ -2169,7 +2184,7 @@
                 ],
                 "D": [
                     {
-                        "name": "Data St",
+                        "name": "Data St [Cancelled]",
                         "location": "C-602",
                         "time": "02:30-03:50"
                     },
@@ -2196,7 +2211,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Data St",
+                        "name": "Data St [Cancelled]",
                         "location": "C-605",
                         "time": "01:00-02:20"
                     }
