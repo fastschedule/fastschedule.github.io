@@ -844,7 +844,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "Data St Lab",
+                        "name": "Data St Lab [Cancelled]",
                         "location": "Cyber (D-514)",
                         "time": "08:30-11:20"
                     }
@@ -2258,7 +2258,7 @@
                         "time": "02:30-05:15"
                     },
                     {
-                        "name": "IICT Lab",
+                        "name": "IICT Lab [Cancelled]",
                         "location": "IT Lab 3 (D-213)",
                         "time": "08:30-11:20"
                     }
