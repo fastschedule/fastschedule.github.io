@@ -2787,22 +2787,22 @@
                 "C": [
                     {
                         "name": "SDA",
-                        "location": "N/A",
+                        "location": "C-309",
                         "time": "08:30-09:50"
                     },
                     {
                         "name": "Data St [ReSch]",
-                        "location": "N/A",
+                        "location": "C-309",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "Data St",
-                        "location": "N/A",
+                        "location": "C-309",
                         "time": "11:30-12:50"
                     },
                     {
                         "name": "LA",
-                        "location": "N/A",
+                        "location": "C-309",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -2873,7 +2873,7 @@
             "2023": {
                 "Electives": [
                     {
-                        "name": "App Comp Vision",
+                        "name": "App Comp Vision [(AI) Cancelled]",
                         "location": "C-305",
                         "time": "05:20-06:40"
                     },
@@ -4791,7 +4791,7 @@
                     },
                     {
                         "name": "LA",
-                        "location": "C-604",
+                        "location": "C-605",
                         "time": "08:30-09:50"
                     },
                     {
@@ -4824,14 +4824,14 @@
                 ],
                 "C": [
                     {
+                        "name": "COAL",
+                        "location": "C-604",
+                        "time": "08:30-09:50"
+                    },
+                    {
                         "name": "Data St",
                         "location": "C-604",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "C-605",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Intro to SE",
@@ -5627,6 +5627,15 @@
                         "time": "02:30-05:15"
                     }
                 ]
+            },
+            "2023": {
+                "A": [
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "C-310",
+                        "time": "08:30-11:20"
+                    }
+                ]
             }
         },
         "BS AI": {
@@ -5682,6 +5691,13 @@
                 ]
             },
             "2025": {
+                "H": [
+                    {
+                        "name": "UHQ-I&II [ReSch]",
+                        "location": "D-301",
+                        "time": "10:30-12:20"
+                    }
+                ],
                 "F": [
                     {
                         "name": "Data St Lab [ReSch]",
@@ -5729,8 +5745,15 @@
                 "F": [
                     {
                         "name": "PF Lab [ReSch]",
-                        "location": "IT Lab 3 (D-213)",
+                        "location": "C-303",
                         "time": "11:30-02:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Func Eng Lab D2 [ReSch]",
+                        "location": "Margala 1 (C-209)",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
@@ -5758,6 +5781,88 @@
                         "location": "Margala 4 (C-212",
                         "time": "08:30-11:20"
                     }
+                ],
+                "A": [
+                    {
+                        "name": "IICT Lab Sessional Exam [B,C,D]",
+                        "location": "IT Lab 1 (D-210)",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "IICT Lab Sessional Exam [B,C,D]",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "IICT Lab Sessional Exam [B,C,D]",
+                        "location": "IT Lab 3 (D-213)",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "IICT Lab Sessional Exam [B,C,D]",
+                        "location": "Rawal 1 (C-509)",
+                        "time": "01:00-02:20"
+                    }
+                ]
+            }
+        },
+        "BS AI": {
+            "2024": {
+                "A": [
+                    {
+                        "name": "TBW [ReSch]",
+                        "location": "C-302",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "ML Lab [ReSch]",
+                        "location": "C-302",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "ML Lab [ReSch]",
+                        "location": "IT Lab 3 (D-213)",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2026": {
+                "B": [
+                    {
+                        "name": "PF Lab",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B2",
+                        "location": "Margala 1 (C-209)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B1",
+                        "location": "C-Rawal 4 (C-512)",
+                        "time": "11:30-02:20"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2026": {
+                "H": [
+                    {
+                        "name": "Func Eng Lab H2 [ReSch]",
+                        "location": "C-304",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "Func Eng Lab F1 [ReSch]",
+                        "location": "IT Lab 3 (D-213)",
+                        "time": "02:30-05:15"
+                    }
                 ]
             }
         },
@@ -5777,54 +5882,6 @@
                     {
                         "name": "Func Eng Lab C2",
                         "location": "Margala 4 (C-212",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            }
-        },
-        "BS AI": {
-            "2026": {
-                "B": [
-                    {
-                        "name": "PF Lab",
-                        "location": "IT Lab 2 (D-211)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab B2",
-                        "location": "Margala 1 (C-209)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab B1",
-                        "location": "C-Rawal 4 (C-512)",
-                        "time": "11:30-02:20"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "ML Lab [ReSch]",
-                        "location": "IT Lab 2 (D-211)",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "ML Lab [ReSch]",
-                        "location": "IT Lab 3 (D-213)",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            }
-        },
-        "BS CS": {
-            "2026": {
-                "F": [
-                    {
-                        "name": "Func Eng Lab F1 [ReSch]",
-                        "location": "IT Lab 3 (D-213)",
                         "time": "02:30-05:15"
                     }
                 ]
