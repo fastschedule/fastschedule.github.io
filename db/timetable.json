@@ -5484,28 +5484,9 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "AP [ReSch]",
-                        "location": "C-302",
-                        "time": "03:55-05:15"
-                    },
-                    {
                         "name": "IICT Lab",
                         "location": "IT Lab 2 (D-211)",
                         "time": "10:00-12:45"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-307",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "D": [
-                    {
-                        "name": "Calculus [ReSch]",
-                        "location": "C-307",
-                        "time": "11:30-12:50"
                     }
                 ]
             }
@@ -5641,54 +5622,6 @@
                         "location": "IT Lab 1 (D-210)",
                         "time": "02:30-05:15"
                     }
-                ],
-                "A": [
-                    {
-                        "name": "Func Eng Lab A1 [ReSch]",
-                        "location": "D-305",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2023": {
-                "A": [
-                    {
-                        "name": "Comp Net Lab [ReSch]",
-                        "location": "C-310",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2024": {
-                "A": [
-                    {
-                        "name": "Data Ware & BI Lab [ReSch]",
-                        "location": "D-301",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "B": [
-                    {
-                        "name": "Data Ware & BI Lab [ReSch]",
-                        "location": "D-311",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            },
-            "2025": {
-                "B": [
-                    {
-                        "name": "Intro to DS [ReSch]",
-                        "location": "D-304",
-                        "time": "08:30-09:50"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "Intro to DS [ReSch]",
-                        "location": "D-304",
-                        "time": "11:30-12:50"
-                    }
                 ]
             }
         },
@@ -5712,13 +5645,24 @@
                     }
                 ]
             },
-            "2024": {
+            "2025": {
                 "A": [
                     {
-                        "name": "Comp Net [ReSch]",
-                        "location": "D-306",
-                        "time": "08:30-09:50"
-                    },
+                        "name": "COAL Lab [ReSch]",
+                        "location": "C-310",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "COAL Lab [ReSch]",
+                        "location": "IT Lab 3 (D-213)",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
                     {
                         "name": "ML Lab [ReSch]",
                         "location": "IT Lab 4-GPU (D-203)",
@@ -5727,63 +5671,8 @@
                 ],
                 "B": [
                     {
-                        "name": "Algo [ReSch]",
-                        "location": "D-306",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Algo [ReSch]",
-                        "location": "D-306",
-                        "time": "11:30-12:50"
-                    },
-                    {
                         "name": "ML Lab [ReSch]",
-                        "location": "D-312",
-                        "time": "08:30-11:20"
-                    }
-                ]
-            }
-        },
-        "BS CS": {
-            "2025": {
-                "E": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-302",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-302",
-                        "time": "11:30-12:50"
-                    }
-                ],
-                "F": [
-                    {
-                        "name": "Data St Lab [ReSch Cancelled]",
-                        "location": "IT Lab 3 (D-213)",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2026": {
-                "F": [
-                    {
-                        "name": "Func Eng Lab F1 [ReSch]",
-                        "location": "D-305",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            },
-            "2024": {
-                "E": [
-                    {
-                        "name": "Comp Net Lab [ReSch]",
-                        "location": "IT Lab 2 (D-211)",
+                        "location": "IT Lab 4-GPU (D-203)",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -5813,6 +5702,13 @@
                         "name": "PF Lab",
                         "location": "Rawal 1 (C-509)",
                         "time": "02:30-05:15"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "PF Lab [ReSch October 10, 2026]",
+                        "location": "IT Lab 3 (D-213)",
+                        "time": "08:30-11:20"
                     }
                 ],
                 "D": [
