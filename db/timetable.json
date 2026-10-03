@@ -2295,6 +2295,11 @@
                         "name": "Func Eng Lab B2 [ReSch]",
                         "location": "D-401",
                         "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B1 [ReSch]",
+                        "location": "D-403",
+                        "time": "08:30-11:20"
                     }
                 ]
             },
@@ -5798,7 +5803,7 @@
                         "time": "11:30-02:20"
                     },
                     {
-                        "name": "Func Eng Lab B1",
+                        "name": "Func Eng Lab B1 [Pre-Schedule]",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "11:30-02:20"
                     }
