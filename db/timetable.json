@@ -2684,8 +2684,8 @@
                     },
                     {
                         "name": "Func Eng",
-                        "location": "C-305",
-                        "time": "08:30-10:15"
+                        "location": "C-402",
+                        "time": "09:00-10:45"
                     },
                     {
                         "name": "PF Lab",
@@ -3367,6 +3367,11 @@
                         "name": "COAL",
                         "location": "C-605",
                         "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "C-605",
+                        "time": "03:55-05:15"
                     },
                     {
                         "name": "Intro to SE",
@@ -5496,6 +5501,13 @@
                         "location": "IT Lab 2 (D-211)",
                         "time": "10:00-12:45"
                     }
+                ],
+                "A": [
+                    {
+                        "name": "Func Eng Lab A1 [ReSch]",
+                        "location": "D-303",
+                        "time": "02:30-05:15"
+                    }
                 ]
             },
             "2024": {
@@ -5692,6 +5704,13 @@
                         "location": "C-309",
                         "time": "02:30-04:15"
                     }
+                ],
+                "C": [
+                    {
+                        "name": "Func Eng Lab C1 [ReSch]",
+                        "location": "D-303",
+                        "time": "10:00-12:50"
+                    }
                 ]
             },
             "2025": {
@@ -5742,6 +5761,13 @@
                         "location": "D-301",
                         "time": "08:30-11:20"
                     }
+                ],
+                "G": [
+                    {
+                        "name": "Func Eng Lab G1 [ReSch]",
+                        "location": "D-302",
+                        "time": "08:30-11:20"
+                    }
                 ]
             },
             "2025": {
@@ -5765,13 +5791,13 @@
                         "time": "09:30-10:50"
                     },
                     {
-                        "name": "Func Eng Lab E1 [/Reserved]",
-                        "location": "Margala 3 (C-211)",
+                        "name": "Func Eng Lab E2",
+                        "location": "C-303",
                         "time": "11:30-02:20"
                     },
                     {
-                        "name": "Func Eng Lab E2",
-                        "location": "Margala 4 (C-212",
+                        "name": "Func Eng Lab E1 [/Reserved]",
+                        "location": "Margala 3 (C-211)",
                         "time": "11:30-02:20"
                     },
                     {
@@ -5798,6 +5824,11 @@
                         "time": "11:30-12:50"
                     },
                     {
+                        "name": "Func Eng Lab D2",
+                        "location": "C-303",
+                        "time": "08:30-11:20"
+                    },
+                    {
                         "name": "IICT Lab",
                         "location": "IT Lab 2 (D-211)",
                         "time": "02:30-05:15"
@@ -5806,27 +5837,39 @@
                         "name": "Func Eng Lab D1 [Cancelled/ Reserved]",
                         "location": "Margala 3 (C-211)",
                         "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab D2",
-                        "location": "Margala 4 (C-212",
-                        "time": "08:30-11:20"
                     }
                 ]
             }
         },
         "BS DS": {
             "2026": {
-                "C": [
+                "Electives": [
                     {
-                        "name": "IICT Lab [Margala Lab 3]",
+                        "name": "Atom Bootcamp",
                         "location": "IT Lab 1 (D-210)",
                         "time": "08:30-11:20"
                     },
                     {
+                        "name": "Atom Bootcamp",
+                        "location": "IT Lab 1 (D-210)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Atom Bootcamp",
+                        "location": "IT Lab 1 (D-210)",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "C": [
+                    {
                         "name": "Func Eng Lab C1",
                         "location": "Margala 3 (C-211)",
                         "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "IICT Lab [Margala Lab 3]",
+                        "location": "Margala 4 (C-212",
+                        "time": "08:30-11:20"
                     },
                     {
                         "name": "Func Eng Lab C2",
@@ -5836,14 +5879,30 @@
                 ]
             }
         },
+        "BS AI": {
+            "2026": {
+                "B": [
+                    {
+                        "name": "PF Lab",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B2 [Cancelled/ Reserved]",
+                        "location": "Margala 1 (C-209)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B1",
+                        "location": "C-Rawal 4 (C-512)",
+                        "time": "11:30-02:20"
+                    }
+                ]
+            }
+        },
         "BS CS": {
             "2024": {
                 "Electives": [
-                    {
-                        "name": "Comp Net Lab [(CS) Sessional Exam Margala Lab 1]",
-                        "location": "IT Lab 1 (D-210)",
-                        "time": "11:30-02:20"
-                    },
                     {
                         "name": "Comp Net Lab [(CS) Sessional Exam]",
                         "location": "IT Lab 2 (D-211)",
@@ -5857,6 +5916,11 @@
                     {
                         "name": "Comp Net Lab [(CS) Sessional Exam]",
                         "location": "IT Lab 4-GPU (D-203)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Comp Net Lab [(CS) Sessional Exam]",
+                        "location": "Margala 4 (C-212",
                         "time": "11:30-02:20"
                     },
                     {
@@ -5902,27 +5966,6 @@
                         "name": "Data St Lab [(CS) Sessional Exam]",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "08:30-11:20"
-                    }
-                ]
-            }
-        },
-        "BS AI": {
-            "2026": {
-                "B": [
-                    {
-                        "name": "PF Lab",
-                        "location": "IT Lab 2 (D-211)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab B2 [Cancelled/ Reserved]",
-                        "location": "Margala 1 (C-209)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab B1",
-                        "location": "C-Rawal 4 (C-512)",
-                        "time": "11:30-02:20"
                     }
                 ]
             }
