@@ -58,6 +58,28 @@
                         "time": "01:00-02:45"
                     }
                 ],
+                "E": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "IICT Lab",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab E1",
+                        "location": "CALL-1 (A-213)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Func Eng Lab E2",
+                        "location": "CALL-2 (A-214)",
+                        "time": "02:30-05:15"
+                    }
+                ],
                 "D": [
                     {
                         "name": "PF",
@@ -92,19 +114,12 @@
                         "time": "08:30-11:20"
                     }
                 ],
-                "G": [
-                    {
-                        "name": "Func Eng",
-                        "location": "C-401",
-                        "time": "09:00-10:45"
-                    },
-                    {
-                        "name": "PF Lab",
-                        "location": "IT Lab 1 (D-210)",
-                        "time": "11:30-02:20"
-                    }
-                ],
                 "H": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-307",
+                        "time": "02:30-03:50"
+                    },
                     {
                         "name": "IICT Lab",
                         "location": "IT Lab 2 (D-211)",
@@ -121,21 +136,16 @@
                         "time": "11:30-02:20"
                     }
                 ],
-                "E": [
+                "G": [
                     {
-                        "name": "IICT Lab",
-                        "location": "IT Lab 2 (D-211)",
+                        "name": "Func Eng",
+                        "location": "C-401",
+                        "time": "09:00-10:45"
+                    },
+                    {
+                        "name": "PF Lab",
+                        "location": "IT Lab 1 (D-210)",
                         "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab E1",
-                        "location": "CALL-1 (A-213)",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Func Eng Lab E2",
-                        "location": "CALL-2 (A-214)",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -3437,11 +3447,6 @@
                         "name": "UHQ-II",
                         "location": "D-304",
                         "time": "01:30-02:25"
-                    },
-                    {
-                        "name": "COAL Lab [ReSch]",
-                        "location": "D-304",
-                        "time": "02:30-05:15"
                     }
                 ],
                 "B": [
@@ -5515,6 +5520,22 @@
                         "time": "11:30-12:50"
                     }
                 ]
+            },
+            "2025": {
+                "C": [
+                    {
+                        "name": "Data St [ReSch]",
+                        "location": "D-304",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "D": [
+                    {
+                        "name": "Data St [ReSch]",
+                        "location": "D-304",
+                        "time": "11:30-12:50"
+                    }
+                ]
             }
         },
         "BS CY": {
@@ -5551,11 +5572,6 @@
                         "name": "Calculus",
                         "location": "C-303",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "C-307",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "B": [
@@ -5653,6 +5669,22 @@
                         "time": "02:30-05:15"
                     }
                 ]
+            },
+            "2025": {
+                "B": [
+                    {
+                        "name": "LA",
+                        "location": "D-305",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "LA",
+                        "location": "D-305",
+                        "time": "11:30-12:50"
+                    }
+                ]
             }
         },
         "BS DS": {
@@ -5669,7 +5701,7 @@
                         "time": "10:00-11:45"
                     },
                     {
-                        "name": "PF Lab",
+                        "name": "PF Lab [Cancelled]",
                         "location": "IT Lab 1 (D-210)",
                         "time": "02:30-05:15"
                     }
@@ -5825,6 +5857,15 @@
                         "name": "Func Eng Lab B1",
                         "location": "C-Rawal 4 (C-512)",
                         "time": "11:30-02:20"
+                    }
+                ]
+            },
+            "2025": {
+                "A": [
+                    {
+                        "name": "COAL Lab [ReSch]",
+                        "location": "Margala 1 (C-209)",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
