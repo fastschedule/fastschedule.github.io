@@ -2002,6 +2002,11 @@
                         "name": "Project",
                         "location": "Cyber (D-514)",
                         "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Project",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
@@ -2120,6 +2125,11 @@
                         "name": "Ideology of Pak",
                         "location": "C-604",
                         "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "PF Lab [ReSch]",
+                        "location": "C-604",
+                        "time": "N/A"
                     }
                 ],
                 "F": [
@@ -4003,7 +4013,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "Calculus [Cancelled Reserved]",
+                        "name": "Calculus",
                         "location": "C-301",
                         "time": "10:00-11:20"
                     },
@@ -4020,7 +4030,7 @@
                 ],
                 "A": [
                     {
-                        "name": "Seerah [Cancelled]",
+                        "name": "Seerah",
                         "location": "C-301",
                         "time": "11:30-12:25"
                     },
@@ -4054,7 +4064,7 @@
                 ],
                 "G": [
                     {
-                        "name": "Calculus [Cancelled]",
+                        "name": "Calculus",
                         "location": "C-302",
                         "time": "08:30-09:50"
                     },
@@ -4086,7 +4096,7 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Calculus [Cancelled]",
+                        "name": "Calculus",
                         "location": "C-303",
                         "time": "01:00-02:20"
                     }
@@ -4098,7 +4108,7 @@
                         "time": "08:30-10:15"
                     },
                     {
-                        "name": "Calculus [Cancelled]",
+                        "name": "Calculus",
                         "location": "C-304",
                         "time": "11:30-12:50"
                     },
@@ -4115,7 +4125,7 @@
                 ],
                 "C": [
                     {
-                        "name": "Func Eng [Cancelled Reserved]",
+                        "name": "Func Eng",
                         "location": "C-308",
                         "time": "10:00-11:45"
                     },
@@ -4284,28 +4294,6 @@
                 ]
             },
             "2025": {
-                "A": [
-                    {
-                        "name": "Data St [ReSch]",
-                        "location": "C-302",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "C-401",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "C-401",
-                        "time": "02:30-03:25"
-                    },
-                    {
-                        "name": "Data St Lab",
-                        "location": "Margala 3 (C-211)",
-                        "time": "08:30-11:20"
-                    }
-                ],
                 "E": [
                     {
                         "name": "Seerah",
@@ -4316,11 +4304,6 @@
                         "name": "LA",
                         "location": "C-305",
                         "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "Data St [ReSch]",
-                        "location": "D-401",
-                        "time": "08:30-09:50"
                     },
                     {
                         "name": "Data St Lab",
@@ -4370,19 +4353,19 @@
                     },
                     {
                         "name": "Data St",
-                        "location": "C-301",
+                        "location": "C-309",
                         "time": "10:00-11:20"
                     },
                     {
                         "name": "SDA",
-                        "location": "D-305",
+                        "location": "C-309",
                         "time": "01:00-02:20"
                     }
                 ],
                 "D": [
                     {
-                        "name": "Data St [ReSch]",
-                        "location": "C-401",
+                        "name": "Data St",
+                        "location": "C-309",
                         "time": "11:30-12:50"
                     },
                     {
@@ -4449,6 +4432,23 @@
                     {
                         "name": "DLD Lab",
                         "location": "B-Digital",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "LA",
+                        "location": "C-401",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "C-401",
+                        "time": "02:30-03:25"
+                    },
+                    {
+                        "name": "Data St Lab",
+                        "location": "Margala 3 (C-211)",
                         "time": "08:30-11:20"
                     }
                 ]
@@ -4649,7 +4649,7 @@
                 ],
                 "B": [
                     {
-                        "name": "PF [Cancelled]",
+                        "name": "PF",
                         "location": "D-415",
                         "time": "10:00-11:20"
                     },
@@ -4671,7 +4671,7 @@
                         "time": "08:30-10:15"
                     },
                     {
-                        "name": "PF [Cancelled]",
+                        "name": "PF",
                         "location": "D-416",
                         "time": "11:30-12:50"
                     },
@@ -4712,7 +4712,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "UHQ-II [Cancelled]",
+                        "name": "UHQ-II",
                         "location": "D-501",
                         "time": "10:30-11:25"
                     },
@@ -4729,7 +4729,7 @@
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "UHQ-II [Cancelled]",
+                        "name": "UHQ-II",
                         "location": "D-501",
                         "time": "09:30-10:25"
                     },
@@ -4896,18 +4896,13 @@
                         "name": "PF",
                         "location": "C-603",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "PF Lab [ReSch]",
-                        "location": "D-506",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
             "2025": {
                 "A": [
                     {
-                        "name": "UHQ-II [Cancelled]",
+                        "name": "UHQ-II",
                         "location": "C-407",
                         "time": "08:30-09:25"
                     },
@@ -4923,11 +4918,6 @@
                     }
                 ],
                 "B": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-415",
-                        "time": "N/A"
-                    },
                     {
                         "name": "Pak Studies",
                         "location": "D-402",
@@ -5103,11 +5093,6 @@
                         "name": "Islamic",
                         "location": "D-301",
                         "time": "01:00-02:45"
-                    },
-                    {
-                        "name": "PF Lab [ReSch]",
-                        "location": "D-301",
-                        "time": "N/A"
                     }
                 ],
                 "A": [
@@ -5122,7 +5107,7 @@
                         "time": "01:00-02:45"
                     },
                     {
-                        "name": "Func Eng Lab A1 [Cancelled]",
+                        "name": "Func Eng Lab A1",
                         "location": "CALL-3 (A-308)",
                         "time": "08:30-11:20"
                     },
@@ -5136,7 +5121,7 @@
             "2025": {
                 "A": [
                     {
-                        "name": "Pak Studies [Cancelled Reserved]",
+                        "name": "Pak Studies",
                         "location": "D-303",
                         "time": "02:30-04:15"
                     },
@@ -5278,7 +5263,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "DAV [Cancelled]",
+                        "name": "DAV",
                         "location": "D-401",
                         "time": "11:30-12:50"
                     }
@@ -5295,7 +5280,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "DAV [Cancelled]",
+                        "name": "DAV",
                         "location": "D-316",
                         "time": "02:30-03:50"
                     }
