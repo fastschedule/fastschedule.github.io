@@ -5771,25 +5771,18 @@
                     },
                     {
                         "name": "Func Eng Lab E1",
-                        "location": "C-302",
+                        "location": "Margala 3 (C-211)",
                         "time": "11:30-02:20"
                     },
                     {
                         "name": "Func Eng Lab E2",
-                        "location": "C-303",
+                        "location": "Margala 4 (C-212",
                         "time": "11:30-02:20"
                     },
                     {
                         "name": "PF Lab",
                         "location": "Rawal 1 (C-509)",
                         "time": "02:30-05:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "PF Lab [ReSch]",
-                        "location": "C-302",
-                        "time": "08:30-11:20"
                     }
                 ]
             }
@@ -5798,23 +5791,51 @@
             "2026": {
                 "D": [
                     {
-                        "name": "PF [Cancelled]",
+                        "name": "PF",
                         "location": "C-301",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "Func Eng Lab D2",
-                        "location": "C-303",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab D1 [Cancelled]",
-                        "location": "C-304",
-                        "time": "08:30-11:20"
-                    },
-                    {
                         "name": "IICT Lab",
                         "location": "IT Lab 2 (D-211)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Func Eng Lab D1",
+                        "location": "Margala 3 (C-211)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab D2",
+                        "location": "Margala 4 (C-212",
+                        "time": "08:30-11:20"
+                    }
+                ]
+            }
+        },
+        "BS DS": {
+            "2026": {
+                "C": [
+                    {
+                        "name": "IICT Lab",
+                        "location": "IT Lab 1 (D-210)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab C1",
+                        "location": "Margala 3 (C-211)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Func Eng Lab C2",
+                        "location": "Margala 4 (C-212",
+                        "time": "02:30-05:15"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "PF Lab [ReSch]",
+                        "location": "IT Lab 3 (D-213)",
                         "time": "02:30-05:15"
                     }
                 ]
@@ -5824,19 +5845,19 @@
             "2026": {
                 "B": [
                     {
-                        "name": "Func Eng Lab B1 [Cancelled]",
-                        "location": "C-304",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab B2 [Cancelled]",
-                        "location": "C-305",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "PF Lab [Margala Lab 1]",
-                        "location": "Margala 1 (C-209)",
+                        "name": "PF Lab",
+                        "location": "IT Lab 2 (D-211)",
                         "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B2",
+                        "location": "Margala 1 (C-209)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab B1",
+                        "location": "Rawal 1 (C-509)",
+                        "time": "11:30-02:20"
                     }
                 ]
             },
@@ -5846,114 +5867,6 @@
                         "name": "COAL Lab [ReSch]",
                         "location": "Margala 1 (C-209)",
                         "time": "02:30-05:15"
-                    }
-                ]
-            }
-        },
-        "BS DS": {
-            "2026": {
-                "A": [
-                    {
-                        "name": "PF Lab [ReSch]",
-                        "location": "IT Lab 3 (D-213)",
-                        "time": "02:30-05:15"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Func Eng Lab C1",
-                        "location": "Margala 3 (C-211)",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "IICT Lab [Potohar Lab (Ground Floor, Block -B)]",
-                        "location": "Margala 4 (C-212",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab C2",
-                        "location": "Margala 4 (C-212",
-                        "time": "02:30-05:15"
-                    }
-                ]
-            }
-        },
-        "BS CS": {
-            "2024": {
-                "Electives": [
-                    {
-                        "name": "Comp Net Lab [(CS) Sessional Exam]",
-                        "location": "Margala 1 (C-209)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Comp Net Lab [(CS) Sessional Exam]",
-                        "location": "Margala 4 (C-212",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Comp Net Lab [(CS) Sessional Exam]",
-                        "location": "Rawal 1 (C-509)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Comp Net Lab [(CS) Sessional Exam]",
-                        "location": "C-Rawal 4 (C-512)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Comp Net Lab [(CS) Sessional Exam]",
-                        "location": "Karakarm-I",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Comp Net Lab [(CS) Sessional Exam]",
-                        "location": "Karakarm-II",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Comp Net Lab [(CS) Sessional Exam]",
-                        "location": "Karakarm-III",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Comp Net Lab [(CS) Sessional Exam]",
-                        "location": "Mehran-I",
-                        "time": "11:30-02:20"
-                    }
-                ]
-            },
-            "2025": {
-                "Electives": [
-                    {
-                        "name": "Data St Lab [(CS) Sessional Exam]",
-                        "location": "Rawal 1 (C-509)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Data St Lab [(CS) Sessional Exam]",
-                        "location": "C-Rawal 4 (C-512)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Data St Lab [(CS) Sessional Exam]",
-                        "location": "Karakarm-I",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Data St Lab [(CS) Sessional Exam]",
-                        "location": "Karakarm-II",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Data St Lab [(CS) Sessional Exam]",
-                        "location": "Karakarm-III",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Data St Lab [(CS) Sessional Exam]",
-                        "location": "Mehran-I",
-                        "time": "08:30-11:20"
                     }
                 ]
             }
