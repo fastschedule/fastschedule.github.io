@@ -58,28 +58,6 @@
                         "time": "01:00-02:45"
                     }
                 ],
-                "E": [
-                    {
-                        "name": "PF [ReSch]",
-                        "location": "C-303",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "IICT Lab",
-                        "location": "IT Lab 2 (D-211)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab E1",
-                        "location": "CALL-1 (A-213)",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Func Eng Lab E2",
-                        "location": "CALL-2 (A-214)",
-                        "time": "02:30-05:15"
-                    }
-                ],
                 "D": [
                     {
                         "name": "PF",
@@ -114,12 +92,19 @@
                         "time": "08:30-11:20"
                     }
                 ],
-                "H": [
+                "G": [
                     {
-                        "name": "PF [ReSch]",
-                        "location": "C-307",
-                        "time": "02:30-03:50"
+                        "name": "Func Eng",
+                        "location": "C-401",
+                        "time": "09:00-10:45"
                     },
+                    {
+                        "name": "PF Lab",
+                        "location": "IT Lab 1 (D-210)",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "H": [
                     {
                         "name": "IICT Lab",
                         "location": "IT Lab 2 (D-211)",
@@ -136,16 +121,21 @@
                         "time": "11:30-02:20"
                     }
                 ],
-                "G": [
+                "E": [
                     {
-                        "name": "Func Eng",
-                        "location": "C-401",
-                        "time": "09:00-10:45"
+                        "name": "IICT Lab",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "11:30-02:20"
                     },
                     {
-                        "name": "PF Lab",
-                        "location": "IT Lab 1 (D-210)",
-                        "time": "11:30-02:20"
+                        "name": "Func Eng Lab E1",
+                        "location": "CALL-1 (A-213)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Func Eng Lab E2",
+                        "location": "CALL-2 (A-214)",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -1017,13 +1007,6 @@
                         "location": "D-504",
                         "time": "10:00-11:20"
                     }
-                ],
-                "Electives": [
-                    {
-                        "name": "Project",
-                        "location": "Cyber (D-514)",
-                        "time": "02:30-05:15"
-                    }
                 ]
             },
             "2025": {
@@ -1107,6 +1090,13 @@
                         "name": "OS",
                         "location": "D-501",
                         "time": "02:30-03:50"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "AI Lab [ReSch]",
+                        "location": "Cyber (D-514)",
+                        "time": "02:30-05:15"
                     }
                 ]
             }
