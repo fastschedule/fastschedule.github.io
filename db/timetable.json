@@ -34,11 +34,6 @@
                         "name": "Islamic",
                         "location": "C-302",
                         "time": "01:00-02:45"
-                    },
-                    {
-                        "name": "Func Eng [ReSch]",
-                        "location": "C-302",
-                        "time": "03:00-04:45"
                     }
                 ],
                 "C": [
@@ -191,28 +186,6 @@
                         "time": "01:00-02:20"
                     }
                 ],
-                "F": [
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "C-308",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "C-310",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "UHQ-I&II",
-                        "location": "C-311",
-                        "time": "09:30-11:20"
-                    },
-                    {
-                        "name": "DLD Lab",
-                        "location": "B-Digital",
-                        "time": "02:30-05:15"
-                    }
-                ],
                 "B": [
                     {
                         "name": "Data St",
@@ -262,6 +235,23 @@
                         "name": "DLD",
                         "location": "C-310",
                         "time": "02:30-03:50"
+                    }
+                ],
+                "F": [
+                    {
+                        "name": "LA",
+                        "location": "C-310",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "UHQ-I&II",
+                        "location": "C-311",
+                        "time": "09:30-11:20"
+                    },
+                    {
+                        "name": "DLD Lab",
+                        "location": "B-Digital",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "G": [
@@ -869,11 +859,6 @@
                         "name": "Prog for AI",
                         "location": "D-304",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "COAL Lab [ReSch]",
-                        "location": "D-305",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -1061,6 +1046,11 @@
                         "time": "10:00-11:20"
                     },
                     {
+                        "name": "LA [ReSch]",
+                        "location": "D-503",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "COAL Lab",
                         "location": "Cyber (D-514)",
                         "time": "11:30-02:20"
@@ -1068,13 +1058,6 @@
                 ]
             },
             "2024": {
-                "B": [
-                    {
-                        "name": "DB Lab [ReSch]",
-                        "location": "D-415",
-                        "time": "02:30-05:15"
-                    }
-                ],
                 "C": [
                     {
                         "name": "AI",
@@ -1280,7 +1263,7 @@
                         "time": "10:00-11:20"
                     },
                     {
-                        "name": "Islamic",
+                        "name": "Islamic [Cancelled]",
                         "location": "C-302",
                         "time": "01:00-02:45"
                     }
@@ -1314,8 +1297,8 @@
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "PF",
-                        "location": "C-304",
+                        "name": "PF [02:30 ()]",
+                        "location": "C-305",
                         "time": "01:00-02:20"
                     }
                 ],
@@ -1450,7 +1433,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PPIT [LRC, Block-D]",
+                        "name": "PPIT [Audi, Block-D]",
                         "location": "D-405",
                         "time": "10:00-11:20"
                     },
@@ -1489,7 +1472,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PPIT [LRC, Block-D]",
+                        "name": "PPIT [Audi, Block-D]",
                         "location": "D-411",
                         "time": "10:00-11:20"
                     }
@@ -2135,7 +2118,7 @@
                         "time": "08:30-09:50"
                     },
                     {
-                        "name": "PF",
+                        "name": "PF [Cancelled]",
                         "location": "C-409",
                         "time": "11:30-12:50"
                     },
@@ -2553,7 +2536,7 @@
                         "time": "01:00-02:20"
                     },
                     {
-                        "name": "Seerah",
+                        "name": "Seerah [Cancelled]",
                         "location": "D-313",
                         "time": "03:00-03:55"
                     },
@@ -5364,6 +5347,57 @@
                     }
                 ]
             },
+            "2025": {
+                "B": [
+                    {
+                        "name": "COAL [ReSch]",
+                        "location": "D-306",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Intro to DS",
+                        "location": "D-312",
+                        "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "COAL",
+                        "location": "D-315",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-503",
+                        "time": "10:00-11:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "COAL",
+                        "location": "D-314",
+                        "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "Intro to DS",
+                        "location": "D-314",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Data St",
+                        "location": "D-314",
+                        "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Seerah",
+                        "location": "D-314",
+                        "time": "03:45-04:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-315",
+                        "time": "11:30-12:50"
+                    }
+                ]
+            },
             "2026": {
                 "C": [
                     {
@@ -5419,47 +5453,6 @@
                         "name": "Ideology of Pak",
                         "location": "D-313",
                         "time": "02:00-03:45"
-                    }
-                ]
-            },
-            "2025": {
-                "B": [
-                    {
-                        "name": "Intro to DS",
-                        "location": "D-312",
-                        "time": "11:30-12:50"
-                    },
-                    {
-                        "name": "COAL",
-                        "location": "D-315",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-503",
-                        "time": "10:00-11:20"
-                    }
-                ],
-                "A": [
-                    {
-                        "name": "COAL",
-                        "location": "D-314",
-                        "time": "08:30-09:50"
-                    },
-                    {
-                        "name": "Intro to DS",
-                        "location": "D-314",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Data St",
-                        "location": "D-314",
-                        "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Seerah",
-                        "location": "D-314",
-                        "time": "03:45-04:50"
                     }
                 ]
             },
@@ -5698,6 +5691,17 @@
                         "name": "Islamic",
                         "location": "C-309",
                         "time": "02:30-04:15"
+                    }
+                ]
+            }
+        },
+        "BS CS": {
+            "2025": {
+                "B": [
+                    {
+                        "name": "DLD Lab [ReSch]",
+                        "location": "B-Digital",
+                        "time": "08:30-11:20"
                     }
                 ]
             }
