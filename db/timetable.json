@@ -4031,9 +4031,19 @@
                         "time": "11:30-12:25"
                     },
                     {
+                        "name": "Func Eng Lab A1 [ReSch]",
+                        "location": "C-304",
+                        "time": "02:30-05:15"
+                    },
+                    {
                         "name": "Func Eng",
                         "location": "C-305",
                         "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "Func Eng Lab A2 [ReSch]",
+                        "location": "C-305",
+                        "time": "N/A"
                     },
                     {
                         "name": "IICT Lab",
@@ -4068,6 +4078,11 @@
                         "name": "PF",
                         "location": "C-302",
                         "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-302",
+                        "time": "11:30-12:50"
                     },
                     {
                         "name": "Ideology of Pak",
@@ -4434,6 +4449,11 @@
                         "name": "DLD",
                         "location": "C-402",
                         "time": "11:30-12:50"
+                    },
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-303",
+                        "time": "01:00-02:20"
                     },
                     {
                         "name": "DLD Lab",
@@ -4917,6 +4937,11 @@
                         "name": "PF",
                         "location": "C-603",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab E1 [ReSch]",
+                        "location": "C-605",
+                        "time": "02:30-05:15"
                     }
                 ]
             },
@@ -5391,6 +5416,11 @@
                         "name": "Islamic",
                         "location": "D-312",
                         "time": "01:00-02:45"
+                    },
+                    {
+                        "name": "IICT Lab [ReSch]",
+                        "location": "D-312",
+                        "time": "N/A"
                     }
                 ],
                 "B": [
@@ -5408,6 +5438,11 @@
                         "name": "Ideology of Pak",
                         "location": "D-313",
                         "time": "02:00-03:45"
+                    },
+                    {
+                        "name": "Func Eng [ReSch]",
+                        "location": "D-413",
+                        "time": "08:30-09:50"
                     }
                 ]
             },
@@ -5630,6 +5665,22 @@
             }
         },
         "BS AI": {
+            "2024": {
+                "A": [
+                    {
+                        "name": "TBW [ReSch]",
+                        "location": "C-307",
+                        "time": "11:30-12:50"
+                    }
+                ],
+                "C": [
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "D-301",
+                        "time": "10:00-12:50"
+                    }
+                ]
+            },
             "2026": {
                 "B": [
                     {
