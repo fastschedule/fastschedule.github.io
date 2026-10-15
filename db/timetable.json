@@ -532,6 +532,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "TBW [ReSch]",
+                        "location": "C-407",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Comp Net Lab",
                         "location": "Rawal 1 (C-509)",
                         "time": "08:30-11:20"
@@ -5660,13 +5665,6 @@
                         "name": "TBW [ReSch]",
                         "location": "C-310",
                         "time": "08:30-09:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "Comp Net Lab [ReSch]",
-                        "location": "D-301",
-                        "time": "10:00-12:50"
                     }
                 ]
             }
