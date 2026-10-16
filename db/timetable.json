@@ -1005,6 +1005,28 @@
                 ]
             },
             "2025": {
+                "C": [
+                    {
+                        "name": "LA [ReSch]",
+                        "location": "D-413",
+                        "time": "02:30-03:50"
+                    },
+                    {
+                        "name": "UHQ-II",
+                        "location": "D-416",
+                        "time": "09:00-09:55"
+                    },
+                    {
+                        "name": "LA",
+                        "location": "D-416",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "COAL Lab",
+                        "location": "Cyber (D-514)",
+                        "time": "11:30-02:20"
+                    }
+                ],
                 "A": [
                     {
                         "name": "COAL",
@@ -1037,28 +1059,6 @@
                         "name": "Cy Sec",
                         "location": "D-502",
                         "time": "02:30-03:50"
-                    }
-                ],
-                "C": [
-                    {
-                        "name": "UHQ-II",
-                        "location": "D-416",
-                        "time": "09:00-09:55"
-                    },
-                    {
-                        "name": "LA",
-                        "location": "D-416",
-                        "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "LA [ReSch]",
-                        "location": "D-503",
-                        "time": "02:30-03:50"
-                    },
-                    {
-                        "name": "COAL Lab",
-                        "location": "Cyber (D-514)",
-                        "time": "11:30-02:20"
                     }
                 ]
             },
@@ -5553,7 +5553,7 @@
                         "time": "10:00-12:45"
                     },
                     {
-                        "name": "Func Eng Lab B1",
+                        "name": "Func Eng Lab B1 [Cancelled]",
                         "location": "CALL-3 (A-308)",
                         "time": "02:30-05:15"
                     },
