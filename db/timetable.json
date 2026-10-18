@@ -19,6 +19,28 @@
                         "time": "01:00-02:45"
                     }
                 ],
+                "H": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-301",
+                        "time": "05:20-06:40"
+                    },
+                    {
+                        "name": "IICT Lab",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "08:30-11:20"
+                    },
+                    {
+                        "name": "Func Eng Lab H1",
+                        "location": "CALL-3 (A-308)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab H2",
+                        "location": "Mehran-2 (A-306)",
+                        "time": "11:30-02:20"
+                    }
+                ],
                 "B": [
                     {
                         "name": "Calculus",
@@ -51,6 +73,28 @@
                         "name": "Ideology of Pak",
                         "location": "C-303",
                         "time": "01:00-02:45"
+                    }
+                ],
+                "E": [
+                    {
+                        "name": "PF [ReSch]",
+                        "location": "C-303",
+                        "time": "10:00-11:20"
+                    },
+                    {
+                        "name": "IICT Lab",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "11:30-02:20"
+                    },
+                    {
+                        "name": "Func Eng Lab E1",
+                        "location": "CALL-1 (A-213)",
+                        "time": "02:30-05:15"
+                    },
+                    {
+                        "name": "Func Eng Lab E2",
+                        "location": "CALL-2 (A-214)",
+                        "time": "02:30-05:15"
                     }
                 ],
                 "D": [
@@ -97,40 +141,6 @@
                         "name": "PF Lab",
                         "location": "IT Lab 1 (D-210)",
                         "time": "11:30-02:20"
-                    }
-                ],
-                "H": [
-                    {
-                        "name": "IICT Lab",
-                        "location": "IT Lab 2 (D-211)",
-                        "time": "08:30-11:20"
-                    },
-                    {
-                        "name": "Func Eng Lab H1",
-                        "location": "CALL-3 (A-308)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab H2",
-                        "location": "Mehran-2 (A-306)",
-                        "time": "11:30-02:20"
-                    }
-                ],
-                "E": [
-                    {
-                        "name": "IICT Lab",
-                        "location": "IT Lab 2 (D-211)",
-                        "time": "11:30-02:20"
-                    },
-                    {
-                        "name": "Func Eng Lab E1",
-                        "location": "CALL-1 (A-213)",
-                        "time": "02:30-05:15"
-                    },
-                    {
-                        "name": "Func Eng Lab E2",
-                        "location": "CALL-2 (A-214)",
-                        "time": "02:30-05:15"
                     }
                 ]
             },
