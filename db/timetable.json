@@ -2928,6 +2928,11 @@
                         "time": "01:00-02:20"
                     },
                     {
+                        "name": "Fund of SPM Resch",
+                        "location": "D-405",
+                        "time": "02:30-03:50"
+                    },
+                    {
                         "name": "Fund of SPM ReSch",
                         "location": "D-411",
                         "time": "03:55-05:15"
@@ -4091,6 +4096,11 @@
                         "time": "01:00-02:45"
                     },
                     {
+                        "name": "Func Eng Lab F2 [ReSch]",
+                        "location": "C-309",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "PF [Tutorial]",
                         "location": "D-403",
                         "time": "02:30-03:50"
@@ -4569,6 +4579,11 @@
                         "name": "App HCI",
                         "location": "C-407",
                         "time": "01:00-02:20"
+                    },
+                    {
+                        "name": "Algo [ReSch]",
+                        "location": "C-409",
+                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -5948,6 +5963,29 @@
             }
         },
         "BS AI": {
+            "2024": {
+                "C": [
+                    {
+                        "name": "ML Lab [ReSch]",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "08:30-11:20"
+                    }
+                ],
+                "B": [
+                    {
+                        "name": "ML Lab [ReSch]",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "11:30-02:20"
+                    }
+                ],
+                "A": [
+                    {
+                        "name": "ML Lab [ReSch]",
+                        "location": "IT Lab 2 (D-211)",
+                        "time": "02:30-05:15"
+                    }
+                ]
+            },
             "2026": {
                 "B": [
                     {
