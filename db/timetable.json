@@ -21,6 +21,11 @@
                 ],
                 "B": [
                     {
+                        "name": "Calculus [ReSch]",
+                        "location": "C-301",
+                        "time": "11:30-12:50"
+                    },
+                    {
                         "name": "Calculus",
                         "location": "C-302",
                         "time": "08:30-09:50"
@@ -5630,6 +5635,13 @@
                         "location": "C-308",
                         "time": "03:55-05:15"
                     }
+                ],
+                "A": [
+                    {
+                        "name": "S/w Const [ReSch]",
+                        "location": "D-304",
+                        "time": "02:30-03:50"
+                    }
                 ]
             },
             "2025": {
@@ -5638,6 +5650,11 @@
                         "name": "Intro to SE [ReSch]",
                         "location": "C-310",
                         "time": "08:30-09:50"
+                    },
+                    {
+                        "name": "COAL Lab [ReSch]",
+                        "location": "D-302",
+                        "time": "02:30-05:15"
                     },
                     {
                         "name": "LA [ReSch]",
@@ -5872,6 +5889,15 @@
                         "time": "08:30-11:20"
                     }
                 ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Comp Net Lab [ReSch]",
+                        "location": "D-316",
+                        "time": "08:30-11:20"
+                    }
+                ]
             }
         },
         "BS CS": {
@@ -5887,17 +5913,17 @@
             "2023": {
                 "Electives": [
                     {
-                        "name": "SMD Nov 27 ReSch",
+                        "name": "SMD Dec 04 ReSch",
                         "location": "C-110",
                         "time": "11:30-12:50"
                     },
                     {
-                        "name": "SMD Nov 27 ReSch",
+                        "name": "SMD Dec 04 ReSch",
                         "location": "C-110",
                         "time": "02:30-03:50"
                     },
                     {
-                        "name": "SMD Nov 27 ReSch",
+                        "name": "SMD Dec 04 ReSch",
                         "location": "C-110",
                         "time": "03:55-05:15"
                     }
@@ -5930,6 +5956,15 @@
                         "time": "02:30-05:15"
                     }
                 ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "S/w Const [ReSch]",
+                        "location": "C-305",
+                        "time": "10:00-11:20"
+                    }
+                ]
             }
         },
         "BS CY": {
@@ -5954,6 +5989,15 @@
                         "name": "Func Eng Lab D2",
                         "location": "Margala 4 (C-212",
                         "time": "08:30-11:20"
+                    }
+                ]
+            },
+            "2024": {
+                "A": [
+                    {
+                        "name": "Web Prog [&B) ReSch]",
+                        "location": "C-305",
+                        "time": "11:30-12:50"
                     }
                 ]
             }
