@@ -1243,6 +1243,15 @@
                         "time": "02:30-03:50"
                     }
                 ]
+            },
+            "2026": {
+                "D": [
+                    {
+                        "name": "Func Eng Lab D2 [ReSch]",
+                        "location": "D-502",
+                        "time": "10:00-12:50"
+                    }
+                ]
             }
         }
     },
@@ -4582,11 +4591,6 @@
                         "name": "App HCI",
                         "location": "C-407",
                         "time": "01:00-02:20"
-                    },
-                    {
-                        "name": "Algo [ReSch]",
-                        "location": "C-409",
-                        "time": "11:30-12:50"
                     }
                 ],
                 "C": [
@@ -4667,11 +4671,6 @@
                         "name": "Algo",
                         "location": "C-406",
                         "time": "10:00-11:20"
-                    },
-                    {
-                        "name": "Comp Net [ReSch / Cancelled]",
-                        "location": "C-408",
-                        "time": "11:30-12:50"
                     }
                 ]
             }
@@ -5291,7 +5290,7 @@
                         "time": "12:00-12:55"
                     },
                     {
-                        "name": "Prog for AI [Cancelled]",
+                        "name": "Prog for AI",
                         "location": "D-304",
                         "time": "01:00-02:20"
                     },
